@@ -1,0 +1,31 @@
+# CODEOWNERS file
+# This file defines ownership of files and directories in the repository.
+# When a pull request is opened, the owners will be automatically requested for review.
+#
+# Format: <pattern> <@username or @team>
+# Patterns follow gitignore rules: https://git-scm.com/docs/gitignore#_pattern_format
+
+# Default owner for the entire repository
+# Replace @your-username with your actual GitHub username
+* @Dr0na
+
+# Law study materials - SPPU
+/Academics/Law/SPPU/ @Dr0na
+
+# Family Law I materials
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Family\ Law\ -\ I/ @Dr0na
+
+# Contract Law materials
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Law\ of\ Contract\ -\ I/ @Dr0na
+
+# Common/shared materials
+/Academics/Law/SPPU/common/ @Dr0na
+
+# Reference materials (read-only, changes need review)
+/Academics/Law/SPPU/**/References/ @Dr0na
+
+# Old question papers and solutions
+/Academics/Law/SPPU/**/old\ question\ papers/ @Dr0na
+
+# GitHub configuration
+/.github/ @Dr0na
