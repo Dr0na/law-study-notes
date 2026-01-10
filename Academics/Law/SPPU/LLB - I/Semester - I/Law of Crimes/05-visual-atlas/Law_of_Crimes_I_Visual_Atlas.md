@@ -112,7 +112,7 @@ Not punishable  Not punishable    Punishable       Punishable
   ACT BY  WITHOUT      DOING       BY        IN       WITH
 ACCIDENT CRIMINAL     LAWFUL     LAWFUL     LAWFUL   PROPER
    OR    INTENT/        ACT       MEANS     MANNER    CARE
-MISFORT  KNOWLEDGE                                      &
+MISFORT  KNOWLEDGE                                     &
   -UNE                                               CAUTION
     │        │          │          │         │         │
     └────────┴──────────┴──────────┴─────────┴─────────┘
@@ -428,8 +428,8 @@ OF RISK     WON'T HAPPEN    OF CONSEQUENCE OF DUTY
 ├──────────────────────────────────────────────────────────┤
 │ • 8 specific types only                                  │
 │ • Usually permanent                                      │
-│ • Examples: Fracture, loss of sight, disfigurement      │
-│ • Punishment: 7 years + fine (Section 325)              │
+│ • Examples: Fracture, loss of sight, disfigurement       │
+│ • Punishment: 7 years + fine (Section 325)               │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -582,7 +582,7 @@ Death/PVS:     years               Soon before:
  (Without       DISPOSAL          (Fraudulent
   consent)     (Dishonest)        Inducement)
     │                │                │
-    ├─ THEFT         ├─ MISAPPROP.   └─ CHEATING
+    ├─ THEFT         ├─ MISAPPROP.    └─ CHEATING
     │  (378)         │  (403)             (415)
     │  Take w/o      │  Found prop.       Deception
     │  consent       │  dishonest use     + inducement
@@ -613,25 +613,25 @@ Death/PVS:     years               Soon before:
 │              DISHONEST OFFENSES                        │
 └────────────────────────────────────────────────────────┘
          │              │              │
-    ┌────┴────┐    ┌────┴────┐    ┌───┴────┐
-    │         │    │         │    │        │
-  THEFT      │  MISAPPROP.  │  BREACH OF  │
-  (378)      │   (403)      │  TRUST(405) │
-    │        │      │        │      │      │
- Property   │  Property    │  Property   │
- in         │  comes into  │  entrusted  │
-possession │  possession  │  to accused │
-of another │  lawfully    │  by victim  │
-    │       │      │       │      │      │
- TAKES      │  CONVERTS    │  MISAPPROP. │
- without    │  dishonestly │  OR CONVERTS│
- consent    │  to own use  │  dishonestly│
-    │       │      │       │      │      │
- Example:   │  Example:    │  Example:   │
- Stealing   │  Found phone │  Bank emp.  │
- wallet     │  & keeping   │  embezzles  │
-    │       │      │       │      │      │
- 3 years    │  2 years     │  3-10 years │
+    ┌────┴────┐    ┌────┴────┐     ┌───┴────┐
+    │         │    │         │     │        │
+  THEFT       │  MISAPPROP.  │   BREACH OF  │
+  (378)       │   (403)      │   TRUST(405) │
+    │         │      │       │       │      │
+ Property     │  Property    │   Property   │
+   in         │  comes into  │   entrusted  │
+possession    │  possession  │   to accused │
+of another    │  lawfully    │   by victim  │
+    │         │      │       │       │      │
+ TAKES        │  CONVERTS    │   MISAPPROP. │
+ without      │  dishonestly │   OR CONVERTS│
+ consent      │  to own use  │   dishonestly│
+    │         │      │       │       │      │
+ Example:     │  Example:    │   Example:   │
+ Stealing     │  Found phone │   Bank emp.  │
+ wallet       │  & keeping   │   embezzles  │
+    │         │      │       │       │      │
+ 3 years      │  2 years     │   3-10 years │
 ```
 
 ---
