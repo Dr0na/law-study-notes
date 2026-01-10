@@ -1,31 +1,42 @@
-# CODEOWNERS file
-# This file defines ownership of files and directories in the repository.
-# When a pull request is opened, the owners will be automatically requested for review.
+# CODEOWNERS for Law Study Notes Repository
+# 
+# This file defines code ownership for the law study notes repository.
+# Owners are automatically requested for review when someone opens a PR modifying files they own.
 #
-# Format: <pattern> <@username or @team>
-# Patterns follow gitignore rules: https://git-scm.com/docs/gitignore#_pattern_format
+# More info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
-# Default owner for the entire repository
-# Replace @your-username with your actual GitHub username
+# Default owner for everything in the repo
 * @Dr0na
 
-# Law study materials - SPPU
-/Academics/Law/SPPU/ @Dr0na
+# Academic materials - primary owner
+/Academics/ @Dr0na
 
-# Family Law I materials
-/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Family\ Law\ -\ I/ @Dr0na
+# Constitutional Law materials
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/ @Dr0na
 
-# Contract Law materials
-/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Law\ of\ Contract\ -\ I/ @Dr0na
+# Full textbook materials - requires careful review
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/00-full-textbook/ @Dr0na
 
-# Common/shared materials
-/Academics/Law/SPPU/common/ @Dr0na
+# 7-day preparation materials
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/01-7-day-prep/ @Dr0na
 
-# Reference materials (read-only, changes need review)
-/Academics/Law/SPPU/**/References/ @Dr0na
+# Quick revision materials (2-day, 1-day, last-minute)
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/02-2-day-crash/ @Dr0na
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/03-1-day-ultra/ @Dr0na
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/04-last-minute/ @Dr0na
 
-# Old question papers and solutions
-/Academics/Law/SPPU/**/old\ question\ papers/ @Dr0na
+# Visual and practice materials
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/05-visual-atlas/ @Dr0na
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/06-question-bank/ @Dr0na
 
-# GitHub configuration
-/.github/ @Dr0na
+# Reference materials - original sources
+/Academics/Law/SPPU/LLB\ -\ I/Semester\ -\ I/Constitutional\ Law\ -\ I/References/ @Dr0na
+
+# Key navigation files - require careful review
+README.md @Dr0na
+QUICK_START_GUIDE.md @Dr0na
+📖_START_HERE.md @Dr0na
+
+# Documentation and configuration
+*.md @Dr0na
+.github/ @Dr0na
