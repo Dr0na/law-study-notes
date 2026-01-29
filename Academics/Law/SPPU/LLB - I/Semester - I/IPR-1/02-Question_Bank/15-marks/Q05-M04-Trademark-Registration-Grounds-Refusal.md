@@ -2,264 +2,333 @@
 
 ---
 
-## ✍️ Answer:
+# ✍️ Answer:
 
-### 🎯 Introduction
+## 📌 Synopsis
 
-A trademark is a distinctive sign that identifies and distinguishes goods or services of one enterprise from those of others. The Trade Marks Act, 1999, modernized India's trademark law and aligned it with international standards. Registration provides legal protection and exclusive rights. However, not all marks can be registered - the Act specifies absolute and relative grounds for refusal.
+<div style="margin-left: 20px;">
 
----
+1. **Introduction**
 
-### 📊 Visual Framework: Trademark Registration Process
+2. **9-Step Procedure for Trademark Registration**
 
-```
-Trademark Registration Journey
-         |
-         ├── Phase 1: Pre-Filing
-         │    ├── Search
-         │    └── Classification (Nice)
-         │
-         ├── Phase 2: Filing & Examination
-         │    ├── File Application (TM-A)
-         │    ├── Examination
-         │    └── Response to Objections
-         │
-         ├── Phase 3: Publication & Opposition
-         │    ├── Publication (Journal)
-         │    ├── 3-month opposition period
-         │    └── Counter-statement (if opposed)
-         │
-         └── Phase 4: Registration & Maintenance
-              ├── Certificate issued
-              ├── 10-year term
-              └── Renewal (indefinite)
-```
+3. **Absolute Grounds of Refusal (Section 9)** - 8 types
+
+4. **Relative Grounds of Refusal (Section 11)** - 2 scenarios
+
+5. **6-Factor Test for Likelihood of Confusion**
+
+6. **5 Ways to Overcome Grounds of Refusal**
+
+7. **Conclusion**
+
+</div>
 
 ---
 
-### 📋 9-Step Procedure for Trademark Registration
+## 🎯 Introduction
 
-**🎯 Mnemonic: "SCPEAR-PRM"**
-- **S** - Search
-- **C** - Classification
-- **P** - Prepare application
-- **E** - Examination
-- **A** - Acceptance
-- **R** - Response
-- **P** - Publication
-- **R** - Registration
-- **M** - Maintenance
+<div style="margin-left: 20px;">
+
+A trademark is a distinctive sign that identifies and distinguishes goods or services of one enterprise from those of others. The Trade Marks Act, 1999, replaced the earlier Trade and Merchandise Marks Act, 1958, modernizing India's trademark law and aligning it with international standards. Registration of a trademark provides legal protection and exclusive rights to use the mark. However, not all marks can be registered - the Act specifies certain absolute and relative grounds on which registration may be refused.
+
+</div>
 
 ---
 
-#### ✅ Step 1: Trademark Search (Recommended)
-
-**3 Objectives of Search:**
-
-**1. Check Availability:**
-Whether identical or similar marks already registered.
-
-**2. Identify Conflicts:**
-Potential conflicts with existing rights.
-
-**3. Assess Registrability:**
-Whether mark is likely to be accepted.
-
-**🌐 Where to Search:**
-- Official Trademark Registry (ipindia.gov.in)
-- Public Trademark Search System
-- Google and common law searches
-
-**💡 Purpose:** Avoid wasting time and money on applications likely to be refused.
-
----
-
-#### ✅ Step 2: Determine Classification
-
-**📚 Nice Classification** - 45 classes total:
-- **📦 Classes 1-34:** Goods (34 classes)
-- **🏪 Classes 35-45:** Services (11 classes)
-
-**✅ Example:** Clothing → Class 25
-
-**📋 Note:** One application can cover multiple classes (since 2017).
+> ## 📊 Visual Aide: Trademark Registration Journey
+>
+> ```
+> Trademark Registration Process
+>          |
+>          ├── Pre-Filing (Search + Classification)
+>          ├── Filing & Examination
+>          ├── Publication & Opposition (3 months)
+>          └── Registration & Maintenance (10 years, renewable)
+>
+> Grounds of Refusal
+>          |
+>          ├── Absolute Grounds (Section 9) - 8 types
+>          │    ├── Lack of distinctiveness
+>          │    ├── Descriptive marks
+>          │    ├── Generic/customary
+>          │    └── Others
+>          │
+>          └── Relative Grounds (Section 11) - 2 scenarios
+>               ├── Identical/similar earlier marks
+>               └── Well-known marks
+> ```
 
 ---
 
-#### ✅ Step 3: Prepare and File Application
-
-**📄 Form TM-A** - Application for registration
-
-##### 5 Categories of Required Information
-
-**1. 👤 Applicant Details:**
-- Name, address
-- Nationality
-- Legal status
-
-**2. ™️ Trademark Details:**
-- Representation of mark
-- Type (word/device/combined)
-- Colors (if claimed)
-
-**3. 📦 Goods/Services:**
-- Specification
-- Class number(s)
-
-**4. 🌍 Priority Claim:**
-- If claiming from convention country
-
-**5. 📅 Use Date:**
-- Proposed use OR
-- Date of first use in India
-
-##### 2 Filing Options
-
-**1. 💻 Online e-filing** (recommended - faster, cheaper)
-**2. 📄 Physical filing** at Registry offices
-
-##### 5 Registry Offices
-
-Mumbai | Delhi | Kolkata | Chennai | Ahmedabad
-
-##### 💰 2 Fee Categories
-
-- 👤 Individuals/startups/small enterprises
-- 🏢 Others (large companies)
+> ## 🧠 Mnemonics for Trademarks
+>
+> **9 Registration Steps: "SCPEAR-PRM"**
+> - **S** - Search | **C** - Classification | **P** - Prepare | **E** - Examination | **A** - Acceptance | **R** - Response | **P** - Publication | **R** - Registration | **M** - Maintenance
+>
+> **7 Descriptive Categories: "KQPVGTO"**
+> - **K** - Kind | **Q** - Quality | **P** - Purpose | **V** - Values | **G** - Geographical origin | **T** - Time | **O** - Other characteristics
+>
+> **6 Confusion Factors: "VPC-NCM"**
+> - **V** - Visual | **P** - Phonetic | **C** - Conceptual | **N** - Nature of goods | **C** - Consumers | **M** - Manner of use
 
 ---
 
-#### ✅ Step 4: Examination
+## 📋 9-Step Procedure for Trademark Registration
 
-**🔍 Examiner Checks:**
+---
 
-##### 4 Examination Areas
+### Step 1: Trademark Search (Recommended)
 
-**1. Absolute Grounds (Section 9):**
-Intrinsic defects in mark.
+<div style="margin-left: 20px;">
 
-**2. Relative Grounds (Section 11):**
-Conflicts with earlier marks.
+Before filing application, conduct comprehensive search to check:
 
-**3. Formalities:**
-Application completeness.
+- Whether identical or similar marks already registered
+- Availability of proposed mark
+- Potential conflicts with existing rights
 
-**4. Conflicting Marks:**
-Search database for conflicts.
+**Where to Search:** Official Trademark Registry (ipindia.gov.in), Public Search System, Google for common law marks
 
-##### 📋 If Objections Found
+**Purpose:** Avoid wasting time and money on applications likely to be refused.
+
+</div>
+
+---
+
+### Step 2: Determine Classification
+
+<div style="margin-left: 20px;">
+
+Classify goods/services according to **Nice Classification** (45 classes):
+- **Classes 1-34:** Goods (34 classes)
+- **Classes 35-45:** Services (11 classes)
+
+**Example:** Company manufacturing clothing files under Class 25.
+
+**Note:** One application can cover multiple classes (since 2017).
+
+</div>
+
+---
+
+### Step 3: Prepare and File Application
+
+<div style="margin-left: 20px;">
+
+**Form TM-A:** Application for registration of trademark
+
+#### 5 Categories of Required Information:
+
+<div style="margin-left: 20px;">
+
+**1. Applicant Details:** Name, address, nationality, legal status
+
+**2. Trademark Details:** Representation of mark, type, colors claimed
+
+**3. Goods/Services:** Specification and class numbers
+
+**4. Priority Claim (if applicable):** From earlier convention country application
+
+**5. Date of First Use:** Proposed to be used OR date of first use in India
+
+</div>
+
+#### Filing Options:
+
+<div style="margin-left: 20px;">
+
+- **Online e-filing** (recommended - faster and cheaper)
+- **Physical filing** at Registry offices (Mumbai, Delhi, Kolkata, Chennai, Ahmedabad)
+
+</div>
+
+#### Fees:
+
+<div style="margin-left: 20px;">
+
+Different fee scales for:
+- Individuals/startups/small enterprises
+- Others (large companies)
+
+</div>
+
+</div>
+
+---
+
+### Step 4: Examination
+
+<div style="margin-left: 20px;">
+
+After filing, application assigned to examiner who:
+
+- Checks for **absolute grounds of refusal** (Section 9)
+- Checks for **relative grounds of refusal** (Section 11)
+- Searches for conflicting earlier marks
+- Examines compliance with formalities
+
+#### If Objections Found:
+
+<div style="margin-left: 20px;">
 
 Examiner issues **examination report** stating:
-- ⚠️ Objections raised
-- 📜 Grounds
-- 🔗 Citations (if any)
+- Objections raised
+- Grounds for objection
+- Citations of conflicting marks (if any)
 
-**⏱️ Timeline:** 3-6 months typically.
+**Timeline:** Typically 3-6 months after filing
+
+</div>
+
+</div>
 
 ---
 
-#### ✅ Step 5: Response to Examination Report
+### Step 5: Response to Examination Report
 
-**⏱️ Timeline:** 30 days (extendable to 3 months with fee)
+<div style="margin-left: 20px;">
 
-##### 4 Response Options
+Applicant has **30 days** (extendable to **3 months** on payment of fees) to respond.
 
-**1. 📝 Written Submissions:**
-Argue why objections invalid.
+#### 4 Response Options:
 
-**2. ✏️ Amendments:**
-Modify mark or specification.
+<div style="margin-left: 20px;">
 
-**3. 🎤 Request Hearing:**
-Oral arguments before examiner.
+**1. File Written Submissions:** Argue why objections not valid
 
-**4. 🔄 Combination:**
-All of the above.
+**2. Amend Application:** Modify mark or specification to overcome objections
+
+**3. Request Hearing:** Oral arguments before examiner
+
+**4. Combination:** Written submissions + amendments + hearing
+
+</div>
 
 **⚠️ If No Response:** Application **abandoned**.
 
----
-
-#### ✅ Step 6: Acceptance
-
-If objections overcome:
-- ✅ Mark **accepted**
-- 📰 Published in **Trade Marks Journal**
+</div>
 
 ---
 
-#### ✅ Step 7: Publication and Opposition Period
+### Step 6: Acceptance and Publication
 
-**📰 Publication:** In weekly Trade Marks Journal
+<div style="margin-left: 20px;">
 
-**⏱️ Opposition Period:** 3 months (extendable by 1 month)
+If objections overcome or no objections:
 
-**👥 Who Can Oppose:** Any person
+- Mark **accepted** for registration
+- Published in **Trade Marks Journal** (weekly publication)
+- **3-month opposition period** begins
 
-##### If Opposition Filed
+**Purpose:** Gives public notice and opportunity to oppose.
 
-**📄 Opposition (Form TM-O)** → Applicant files **Counter-statement (Form TM-6)** → Evidence → Hearing → Registrar decides
-
-**✅ If No Opposition:** Proceed to registration.
+</div>
 
 ---
 
-#### ✅ Step 8: Registration
+### Step 7: Opposition (if any)
+
+<div style="margin-left: 20px;">
+
+During 3-month period (extendable by 1 month), any person may **oppose** registration by filing:
+
+- **Form TM-O:** Notice of opposition
+- Grounds of opposition
+- Evidence (if any)
+
+#### If Opposition Filed:
+
+<div style="margin-left: 20px;">
+
+- Applicant must file **counter-statement** (Form TM-6)
+- Both parties submit evidence
+- Hearing may be conducted
+- Registrar decides whether to register or refuse
+
+</div>
+
+**If No Opposition:** Proceed to registration.
+
+</div>
+
+---
+
+### Step 8: Registration
+
+<div style="margin-left: 20px;">
 
 If no opposition or opposition rejected:
-- ✅ Mark **registered**
-- 📜 **Certificate of Registration** issued
-- 📰 Published in Journal
 
-**📅 Effective Date:** From **application filing date**
+- Mark **registered**
+- **Certificate of Registration** issued
+- Details published in Trade Marks Journal
 
----
+**Effective Date:** Registration effective from **application filing date**.
 
-#### ✅ Step 9: Post-Registration Maintenance
-
-**⏱️ Initial Term:** 10 years from filing
-
-**🔄 Renewal:** Indefinitely for 10-year periods
-
-**📋 Renewal Process:**
-- File **Form TM-R**
-- 💰 Pay fees
-- ⏱️ File 6 months before/after expiry
-
-**⚠️ Non-Renewal:** Mark removed after 6-month grace period.
-
-**🔍 Use Requirement:** Non-use for 5 years = grounds for removal.
+</div>
 
 ---
 
-### 🚫 Absolute Grounds of Refusal (Section 9)
+### Step 9: Post-Registration Maintenance
 
-**💡 Absolute grounds = intrinsic defects - cannot be registered regardless of objections.**
+<div style="margin-left: 20px;">
+
+**Term:** Initial registration for **10 years** from filing date
+
+**Renewal:** Renewable indefinitely for successive 10-year periods
+
+#### Renewal Procedure:
+
+<div style="margin-left: 20px;">
+
+- File **Form TM-R** (renewal application)
+- Pay renewal fees
+- Can be filed up to **6 months before expiry** or **6 months after** (with additional fees)
+
+</div>
+
+**If Not Renewed:** Mark removed from register after 6-month grace period.
+
+**Use Requirement:** Non-use for 5 years can be grounds for removal.
+
+</div>
 
 ---
 
-#### 📌 Ground 1: Marks Devoid of Distinctiveness [Section 9(1)]
+## 🚫 Absolute Grounds of Refusal (Section 9)
+
+<div style="margin-left: 20px;">
+
+Absolute grounds are intrinsic defects in the mark itself. These marks cannot be registered regardless of whether anyone objects.
+
+### 8 Types of Absolute Grounds:
+
+<div style="margin-left: 20px;">
+
+**Ground 1: Marks Devoid of Distinctiveness [Section 9(1)]**
+
+<div style="margin-left: 20px;">
 
 Trademarks **devoid of any distinctive character** cannot be registered.
 
-**❌ 3 Examples:**
-- Common words in ordinary sense
-- Simple geometric shapes
-- Basic colors alone
+**Examples:** Common words in ordinary sense, Simple geometric shapes, Basic colors alone
 
-**✅ Exception:** Can register if **acquired distinctiveness through use** (secondary meaning).
+**Exception:** Can register if **acquired distinctiveness through use** (secondary meaning).
 
-**✅ Example:** "INDIA TODAY" - descriptive but acquired distinctiveness.
+**Example:** "INDIA TODAY" - originally descriptive, but acquired distinctiveness to become registrable.
 
----
+</div>
 
-#### 📌 Ground 2: Descriptive Marks [Section 9(1)(a)]
+<br>
+
+**Ground 2: Descriptive Marks [Section 9(1)(a)]**
+
+<div style="margin-left: 20px;">
 
 Marks consisting exclusively of indications which designate:
 
-##### 7 Descriptive Categories
-
-**🎯 Mnemonic: "KQPVGTO"**
+**7 Descriptive Categories (Mnemonic: "KQPVGTO"):**
 - **K** - Kind
 - **Q** - Quality
 - **P** - Purpose (intended)
@@ -268,211 +337,300 @@ Marks consisting exclusively of indications which designate:
 - **T** - Time of production
 - **O** - Other characteristics
 
-**❌ Examples:**
-- "FRESH" for fruits
-- "SUPER" for products
-- "DELHI" for goods from Delhi
-- "FAST" for courier services
+**Examples:** "FRESH" for fruits, "SUPER" for products, "DELHI" for goods from Delhi, "FAST" for courier services
 
-**💡 Why Not Registrable:**
-- Descriptive terms should remain available for all traders
-- Granting exclusive rights restricts competition unfairly
+**Why Not Registrable:** Descriptive terms should remain available for all traders. Granting exclusive rights restricts competition unfairly.
 
-**✅ Exception:** Can register if acquired distinctiveness.
+**Exception:** Can register if acquired distinctiveness through extensive use.
 
----
+</div>
 
-#### 📌 Ground 3: Generic/Customary Marks [Section 9(1)(b)]
+<br>
+
+**Ground 3: Generic/Customary Marks [Section 9(1)(b)]**
+
+<div style="margin-left: 20px;">
 
 Marks that have become **customary** in current language or bona fide trade practices.
 
-**❌ Examples:**
-- "LITE" for light beer (if customary)
-- Generic industry terms
+**Examples:** "LITE" for light beer (if customary in industry), Generic terms common in trade
 
----
+</div>
 
-#### 📌 Ground 4: Shape Marks [Section 9(1)(c)]
+<br>
+
+**Ground 4: Shape Marks [Section 9(1)(c)]**
+
+<div style="margin-left: 20px;">
 
 **3 Prohibited Shape Types:**
 
-**Type 1: Shape from Nature of Goods**
-- ⚽ Football shape
+**Type 1: Shape from Nature of Goods** - Football shape
 
-**Type 2: Shape for Technical Result**
-- 🔩 Phillips screw head
+**Type 2: Shape for Technical Result** - Phillips screw head
 
-**Type 3: Shape Giving Substantial Value**
-- 💎 Diamond shape
+**Type 3: Shape Giving Substantial Value** - Diamond shape
 
-**💡 Rationale:** These shapes shouldn't be monopolized.
+**Rationale:** These shapes shouldn't be monopolized through trademark.
 
-**✅ Note:** Distinctive shapes CAN be registered (e.g., Coca-Cola bottle).
+**Note:** Distinctive shapes CAN be registered (e.g., Coca-Cola bottle).
 
----
+</div>
 
-#### 📌 Ground 5: Deceptive/Fraudulent Marks [Section 9(2)(a)]
+<br>
+
+**Ground 5: Deceptive/Fraudulent Marks [Section 9(2)(a)]**
+
+<div style="margin-left: 20px;">
 
 Marks that deceive the public or cause confusion.
 
-**❌ Example:** "ROLEK" for watches (deceptively similar to "ROLEX").
+**Example:** "ROLEK" for watches (deceptively similar to "ROLEX").
 
----
+</div>
 
-#### 📌 Ground 6: Religiously Offensive Marks [Section 9(2)(b)]
+<br>
+
+**Ground 6: Religiously Offensive Marks [Section 9(2)(b)]**
+
+<div style="margin-left: 20px;">
 
 Marks likely to offend religious susceptibilities of any class/section of citizens.
 
----
+</div>
 
-#### 📌 Ground 7: Scandalous/Prohibited Marks [Section 9(2)(c)]
+<br>
+
+**Ground 7: Scandalous/Prohibited Marks [Section 9(2)(c)]**
+
+<div style="margin-left: 20px;">
 
 **2 Categories:**
 - Scandalous/obscene matter
 - Prohibited under Emblems and Names Act, 1950
 
-**❌ Examples:**
-- 🇮🇳 National flag/emblem (without permission)
-- 🌐 "UN" or similar (prohibited)
-- 🏛️ State emblems
+**Examples:** National flag/emblem (without permission), "UN" or similar (prohibited), State emblems
 
----
+</div>
 
-#### 📌 Ground 8: Chemical Names [Section 9(3)]
+<br>
+
+**Ground 8: Chemical Names [Section 9(3)]**
+
+<div style="margin-left: 20px;">
 
 Chemical names of elements or compounds for chemical substances.
 
-**💡 Rationale:** Chemical names must remain in public domain.
+**Rationale:** Chemical names must remain in public domain for scientific use.
+
+</div>
+
+</div>
+
+</div>
 
 ---
 
-### ⚔️ Relative Grounds of Refusal (Section 11)
+## ⚔️ Relative Grounds of Refusal (Section 11)
 
-**💡 Relative grounds = conflicts with earlier rights of others.**
+<div style="margin-left: 20px;">
 
----
+Relative grounds arise from conflicts with **earlier rights** of others.
 
-#### 📜 2 Categories of Relative Grounds
+### 2 Categories of Relative Grounds:
 
-##### Category 1: Identical/Similar Earlier Marks [Section 11(1)]
+<div style="margin-left: 20px;">
 
-**🎯 2 Scenarios for Refusal:**
+**Category 1: Identical/Similar Earlier Marks [Section 11(1)]**
 
-**Scenario 1️⃣: Identity + Identity**
-- ™️ Mark **identical** with earlier trademark
-- **AND** 📦 Goods/services **identical**
-- **Result:** 🚫 **Automatic refusal** (confusion presumed)
+<div style="margin-left: 20px;">
 
-**Scenario 2️⃣: Similar + Similar + Confusion**
-- ™️ Mark **similar** to earlier trademark
-- **AND** 📦 Goods/services **identical or similar**
-- **AND** 🤔 **Likelihood of confusion** exists
-- **Result:** 🚫 **Refusal**
+**Scenario 1 - Identity + Identity:**
 
----
+<div style="margin-left: 20px;">
 
-##### 🔍 6-Factor Test for Similarity and Likelihood of Confusion
+- Mark **identical** with earlier trademark
+- **AND** Goods/services **identical**
+- **Result:** **Automatic refusal** (likelihood of confusion presumed)
 
-**🎯 Mnemonic: "VPC-NCM"**
-- **V** - Visual similarity
-- **P** - Phonetic similarity
-- **C** - Conceptual similarity
-- **N** - Nature of goods/services
-- **C** - Consumers (type)
-- **M** - Manner of use
+</div>
 
-**1. 👁️ Visual Similarity:** Do marks look alike?
-**2. 🔊 Phonetic Similarity:** Do they sound alike?
-**3. 💡 Conceptual Similarity:** Similar ideas conveyed?
-**4. 📦 Nature of Goods:** How similar are products?
-**5. 👥 Type of Consumers:** General public or specialized?
-**6. 🎯 Manner of Use:** How are marks used?
+**Scenario 2 - Similar + Similar + Confusion:**
 
-**✅ Example:** "PARKE" refused due to existing "PARKE-DAVIS" for similar goods.
+<div style="margin-left: 20px;">
 
----
+- Mark **similar** to earlier trademark
+- **AND** Goods/services **identical or similar**
+- **AND** **Likelihood of confusion** exists
+- **Result:** **Refusal**
 
-##### Category 2: Earlier Well-Known Marks [Section 11(2)]
+</div>
+
+**"Earlier Trademark" means:** Registered trademarks with earlier filing/priority dates OR Well-known trademarks (even if not registered in India)
+
+</div>
+
+<br>
+
+**Category 2: Earlier Well-Known Marks [Section 11(2)]**
+
+<div style="margin-left: 20px;">
 
 Cannot register if:
-- ™️ **Identical/similar** to earlier **well-known trademark**
-- **AND** ⚠️ Use would **take unfair advantage** OR be **detrimental** to distinctive character/repute
+- **Identical/similar** to earlier **well-known trademark**
+- **AND** Use would **take unfair advantage** OR be **detrimental** to distinctive character/repute
 
-**⚡ Applies EVEN IF goods/services NOT similar.**
+**Applies EVEN IF goods/services NOT similar.**
 
-**✅ Example:** Cannot register "Ferrari" for perfumes even though Ferrari is for cars - unfair advantage of reputation.
+**Example:** Cannot register "Ferrari" for perfumes even though Ferrari is for cars - unfair advantage of reputation.
+
+</div>
+
+</div>
+
+</div>
 
 ---
 
-### 🛠️ 5 Ways to Overcome Grounds of Refusal
+## 🔍 6-Factor Test for Similarity and Likelihood of Confusion
 
-##### For Absolute Grounds (3 Methods)
+<div style="margin-left: 20px;">
 
-**1. 📊 Prove Acquired Distinctiveness:**
-Show extensive use made mark distinctive.
+Courts consider these factors to determine if marks are confusingly similar:
 
-**2. ✏️ Amend the Mark:**
-Modify to increase distinctiveness.
+**1. Visual Similarity:** Do the marks look alike?
 
-**3. 📋 Add Disclaimer:**
+**2. Phonetic Similarity:** Do they sound alike?
+
+**3. Conceptual Similarity:** Do they convey similar ideas?
+
+**4. Nature of Goods/Services:** How similar are the products?
+
+**5. Nature of Consumers:** General public or specialized?
+
+**6. Manner of Use:** How are the marks used?
+
+**Example:** "PARKE" for pharmaceutical goods was refused due to existing "PARKE-DAVIS" mark for similar goods.
+
+</div>
+
+---
+
+## 🛠️ 5 Ways to Overcome Grounds of Refusal
+
+<div style="margin-left: 20px;">
+
+### For Absolute Grounds (3 Methods):
+
+<div style="margin-left: 20px;">
+
+**1. Prove Acquired Distinctiveness:**
+
+<div style="margin-left: 20px;">
+Show extensive use has made mark distinctive (secondary meaning).
+</div>
+
+<br>
+
+**2. Amend the Mark:**
+
+<div style="margin-left: 20px;">
+Modify mark to make it more distinctive.
+</div>
+
+<br>
+
+**3. Add Disclaimer:**
+
+<div style="margin-left: 20px;">
 Disclaim exclusive rights to descriptive elements.
+</div>
 
-##### For Relative Grounds (5 Methods)
+</div>
 
-**1. 🤝 Consent:**
-Obtain consent from conflicting mark owner.
+### For Relative Grounds (5 Methods):
 
-**2. 🔀 Distinguish:**
-Show marks sufficiently different.
+<div style="margin-left: 20px;">
 
-**3. 📦 Different Goods:**
-Argue no confusion likelihood.
+**1. Consent:**
 
-**4. 🤝 Co-existence Evidence:**
-Show marks coexisted without confusion.
+<div style="margin-left: 20px;">
+Obtain consent from owner of conflicting mark.
+</div>
 
-**5. ⚔️ Challenge Earlier Mark:**
+<br>
+
+**2. Distinguish:**
+
+<div style="margin-left: 20px;">
+Show marks are sufficiently different.
+</div>
+
+<br>
+
+**3. Different Goods/Services:**
+
+<div style="margin-left: 20px;">
+Argue no likelihood of confusion.
+</div>
+
+<br>
+
+**4. Co-existence:**
+
+<div style="margin-left: 20px;">
+Show marks have coexisted without confusion.
+</div>
+
+<br>
+
+**5. Challenge Earlier Mark:**
+
+<div style="margin-left: 20px;">
 Oppose or seek removal of conflicting mark.
+</div>
+
+</div>
+
+</div>
 
 ---
 
-### 🎯 Conclusion
+## 🎯 Conclusion
 
-The registration procedure under the Trade Marks Act, 1999, ensures only distinctive, non-deceptive marks without conflicts are registered. The 9-step process provides multiple safeguards. Absolute grounds (Section 9) protect public interest by preventing monopolization of descriptive/generic terms. Relative grounds (Section 11) protect prior rights holders from confusion.
+<div style="margin-left: 20px;">
 
-**💡 Key Points:**
-- **9 steps** from search to maintenance
-- **8 absolute grounds** (Section 9)
-- **2 relative grounds** (Section 11)
-- **6-factor test** for confusion
-- **5 ways** to overcome refusals
+The registration procedure under the Trade Marks Act, 1999, is designed to ensure that only distinctive, non-deceptive marks that don't conflict with earlier rights are registered. The 9-step process provides multiple safeguards. The absolute grounds of refusal (Section 9) protect public interest by preventing monopolization of descriptive terms, generic words, and deceptive marks. The relative grounds (Section 11) protect prior rights holders from confusion and unfair competition.
 
-Understanding these is crucial for choosing registrable marks, preparing strong applications, and developing effective branding strategies. The balance between protecting trademark owners and keeping terms available for public use reflects trademark law's purpose - identify source, prevent confusion, promote fair competition.
+**Key Points:**
+
+Understanding these grounds is crucial for:
+- **Applicants:** To choose registrable marks and prepare strong applications
+- **Businesses:** To develop effective branding strategies
+- **Trademark attorneys:** To advise clients and draft applications
+- **Examiners:** To evaluate applications fairly and consistently
+
+The balance between protecting trademark owners and keeping certain terms available for public use reflects the fundamental purpose of trademark law - to identify source and prevent consumer confusion while promoting fair competition. The 6-factor test for likelihood of confusion ensures that protection is granted only when there is genuine risk of consumer confusion, while the various methods to overcome refusals provide flexibility for applicants to address objections.
+
+</div>
 
 ---
 
-**📚 Key Statutory Provisions:**
-
-**Section 9 - Absolute Grounds (8 types):**
-- 9(1): Lack of distinctiveness
-- 9(1)(a): Descriptive (KQPVGTO)
-- 9(1)(b): Generic/customary
-- 9(1)(c): Shape marks (3 types)
-- 9(2)(a): Deceptive
-- 9(2)(b): Religiously offensive
-- 9(2)(c): Scandalous/prohibited
-- 9(3): Chemical names
-
-**Section 11 - Relative Grounds (2 scenarios):**
-- 11(1): Identical/similar earlier marks
-- 11(2): Well-known marks
-
-**⏱️ Key Timeline:**
-- Opposition: 3 months after publication
-- Initial term: 10 years
-- Renewal: Every 10 years (indefinite)
-
-**💡 Mnemonics:**
-- "SCPEAR-PRM" for 9 steps
-- "KQPVGTO" for 7 descriptive categories
-- "VPC-NCM" for 6-factor confusion test
+> ## 📚 Summary Table: Trademark Registration Framework
+>
+> | **Aspect** | **Details** | **Mnemonic** |
+> |-----------|------------|-------------|
+> | Registration Steps | 9 steps (Search to Maintenance) | SCPEAR-PRM |
+> | Absolute Grounds | 8 types under Section 9 | - |
+> | Descriptive Categories | 7 types | KQPVGTO |
+> | Relative Grounds | 2 scenarios under Section 11 | - |
+> | Confusion Test | 6 factors | VPC-NCM |
+> | Overcome Refusals | 3 for absolute + 5 for relative = 8 ways | - |
+>
+> **Key Statutory Provisions:**
+> - **Section 9:** Absolute grounds (8 types)
+> - **Section 11:** Relative grounds (2 scenarios)
+>
+> **Timeline:** Publication → 3-month opposition → Registration → 10-year term (renewable indefinitely)
+>
+> **🎯 Remember:** Distinctiveness is key - marks must be capable of distinguishing goods/services!
