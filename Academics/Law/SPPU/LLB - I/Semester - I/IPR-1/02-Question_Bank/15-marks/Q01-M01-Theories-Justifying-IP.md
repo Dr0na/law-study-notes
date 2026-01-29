@@ -49,12 +49,12 @@ Intellectual Property Rights (IPR) protect creations of the human mind such as i
 
 ---
 
-> ## 🧠 Mnemonic: "NURSUP"
+> ## 🧠 Mnemonic: "NURSP"
 > - **N** - Natural Rights Theory
 > - **U** - Utilitarian Theory
 > - **R** - Reward Theory
 > - **S** - Social Contract Theory
-> - **UP** - Universal Personality Theory
+> - **P** - Personality Theory
 
 ---
 
@@ -571,4 +571,4 @@ Understanding these theories is crucial for interpreting IP laws, resolving conf
 > | 🏆 Reward | - | Compensation for contribution | Fairness |
 > | 🎭 Personality | Hegel | Extension of creator's identity | Personal dignity |
 >
-> **🎯 Mnemonic: "NURSUP"** - Remember the 5 theories easily!
+> **🎯 Mnemonic: "NURSP"** - Remember the 5 theories easily!
