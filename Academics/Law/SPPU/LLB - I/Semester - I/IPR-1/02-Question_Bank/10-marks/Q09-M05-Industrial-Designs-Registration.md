@@ -2,256 +2,233 @@
 
 ---
 
-## ✍️ Answer:
+# ✍️ Answer:
 
-### 🎯 Introduction
+## 📌 Synopsis
 
-An industrial design refers to the ornamental or aesthetic aspect of an article - essentially how a product **looks** rather than how it **functions**. The Designs Act, 2000, modernized India's design protection system and aligned it with TRIPS Agreement standards.
+<div style="margin-left: 20px;">
 
----
+1. **Introduction**
 
-### 📊 Visual Framework: Industrial Design Protection
+2. **Concept of Industrial Design** - Definition and 5 key elements
 
-```
-Industrial Design
-         |
-         ├── Definition & Concept
-         │    ├── Form (Protected) ✅
-         │    └── Function (Not Protected) ❌
-         │
-         ├── 4 Eligibility Criteria
-         │    ├── Novelty
-         │    ├── Significantly distinguishable
-         │    ├── Not scandalous
-         │    └── Eye appeal only
-         │
-         ├── Registration (6 Steps)
-         │
-         └── Rights & Remedies
-              ├── Term: 10+5 = 15 years
-              └── Civil remedies only
-```
+3. **4 Eligibility Criteria for Registration**
+
+4. **6-Step Registration Procedure**
+
+5. **3 Rights Conferred by Registration**
+
+6. **Term of Protection** (10+5 years)
+
+7. **Infringement and Remedies**
+
+8. **Conclusion**
+
+</div>
 
 ---
 
-### 🎨 Concept of Industrial Design
+## 🎯 Introduction
 
-#### 📜 Legal Definition (Section 2(d))
+<div style="margin-left: 20px;">
+
+An industrial design refers to the ornamental or aesthetic aspect of an article - essentially how a product **looks** rather than how it **functions**. The Designs Act, 2000, replaced the earlier Designs Act, 1911, modernizing India's design protection system and aligning it with international standards, particularly the TRIPS Agreement.
+
+</div>
+
+---
+
+> ## 📊 Visual Aide: Industrial Design Framework
+>
+> ```
+> Industrial Design Protection
+>          |
+>          ├── Definition (5 elements - SCPOI)
+>          ├── Eligibility (4 criteria - NDSE)
+>          ├── Registration (6 steps - SPHERE)
+>          ├── Rights (3 types - ASP)
+>          └── Term (10+5 = 15 years max)
+> ```
+
+---
+
+> ## 🧠 Mnemonics for Industrial Designs
+>
+> **5 Design Elements: "SCPOI"**
+> - **S** - Shape | **C** - Configuration | **P** - Pattern | **O** - Ornamentation | **I** - Industrial process
+>
+> **4 Eligibility Criteria: "NDSE"**
+> - **N** - Novelty | **D** - Distinguishable | **S** - Not Scandalous | **E** - Eye appeal
+>
+> **6 Registration Steps: "SPHERE"**
+> - **S** - Search | **P** - Prepare | **H** - (File at) Head office | **E** - Examination | **R** - Response | **E** - Entry (Registration)
+>
+> **3 Rights Conferred: "ASP"**
+> - **A** - Apply design | **S** - Sell/import | **P** - Prevent unauthorized use
+
+---
+
+## 🎨 Concept of Industrial Design
+
+<div style="margin-left: 20px;">
+
+### Legal Definition (Section 2(d)):
+
+<div style="margin-left: 20px;">
 
 "Design" means only the features of **shape, configuration, pattern, ornamentation or composition of lines or colours** applied to any article by industrial process, which appeal to and are judged solely by the **eye**.
 
-**❌ Does NOT include:**
-- Mode or principle of construction
-- Mere mechanical devices
+**Does NOT include:** Mode or principle of construction, Mere mechanical devices
+
+</div>
+
+### 5 Key Elements:
+
+<div style="margin-left: 20px;">
+
+**Element 1: Shape** - Three-dimensional form
+
+**Element 2: Configuration** - Arrangement of parts
+
+**Element 3: Pattern** - Repeating motif or decorative design
+
+**Element 4: Ornamentation** - Decorative elements
+
+**Element 5: Industrial Process** - Capable of being applied by industrial means (mass production)
+
+**Critical Requirement:** Must appeal to and be judged by the **eye** (visual aesthetics only).
+
+</div>
+
+### Examples:
+
+<div style="margin-left: 20px;">
+
+**✅ Protectable (Form/Aesthetics):** Ornamental vase shape, Decorative fabric pattern, Aesthetic furniture design, Phone casing shape (aesthetic), Surface ornamentation
+
+**❌ NOT Protectable (Function):** Chair folding mechanism (patent), Aerodynamic car shape (patent), Internal machine mechanism (patent)
+
+</div>
+
+**🔑 Critical Distinction:** Design = LOOK (form) | Patent = FUNCTION
+
+</div>
 
 ---
 
-#### 5 Key Elements of Design
+## 📋 4 Eligibility Criteria for Registration
 
-**🎯 Mnemonic: "SCPOI"**
-- **S** - Shape
-- **C** - Configuration
-- **P** - Pattern
-- **O** - Ornamentation
-- **I** - Industrial process applied
+<div style="margin-left: 20px;">
 
-**Element 1️⃣: 📐 Shape**
-Three-dimensional form of article.
+**Criterion 1: Novelty or Originality (Section 4)**
 
-**Element 2️⃣: 🔧 Configuration**
-Arrangement of parts or components.
-
-**Element 3️⃣: 🎨 Pattern**
-Repeating motif or decorative design.
-
-**Element 4️⃣: ✨ Ornamentation**
-Decorative elements added to article.
-
-**Element 5️⃣: 🏭 Industrial Process**
-Capable of being applied by industrial means (mass production).
-
-**🔑 Critical Requirement:** Must appeal to and be judged by the **👁️ eye** (visual aesthetics only).
-
----
-
-#### ✅ vs. ❌ Examples
-
-**✅ Protectable (Form/Aesthetics):**
-- 🏺 Ornamental vase shape
-- 👗 Decorative fabric pattern
-- 🪑 Aesthetic furniture design
-- 📱 Phone casing shape (aesthetic)
-- 🎨 Surface ornamentation
-
-**❌ NOT Protectable (Function):**
-- ⚙️ Chair folding mechanism (patent)
-- ✈️ Aerodynamic car shape (patent)
-- 🔧 Internal machine mechanism (patent)
-
----
-
-### 📋 4 Eligibility Criteria for Registration
-
-**🎯 Mnemonic: "NDSE"**
-- **N** - Novelty/Originality
-- **D** - Distinguishable (significantly)
-- **S** - Not Scandalous
-- **E** - Eye appeal only
-
----
-
-**Criterion 1️⃣: 🆕 Novelty or Originality (Section 4)**
+<div style="margin-left: 20px;">
 
 Design must be new or original - not published/disclosed anywhere before application.
 
-**❌ What Destroys Novelty:**
-- 📰 Prior publication anywhere
-- 🎪 Public use
-- 📢 Public disclosure
+**Destroys Novelty:** Prior publication anywhere, Public use, Public disclosure
 
-**⏱️ Grace Period:** Limited for certain approved exhibitions.
+**Grace Period:** Limited for certain approved exhibitions.
 
----
+</div>
 
-**Criterion 2️⃣: 🔀 Significantly Distinguishable (Section 4(b))**
+<br>
+
+**Criterion 2: Significantly Distinguishable (Section 4(b))**
+
+<div style="margin-left: 20px;">
 
 Must be significantly different from known designs.
 
-**❌ Cannot be:**
-- Obvious variation
-- Simple modification
+**Cannot be:** Obvious variation, Simple modification
 
----
+</div>
 
-**Criterion 3️⃣: 🚫 Not Scandalous or Obscene**
+<br>
+
+**Criterion 3: Not Scandalous or Obscene**
+
+<div style="margin-left: 20px;">
 
 Must not comprise scandalous/obscene matter.
 
----
+</div>
 
-**Criterion 4️⃣: 👁️ Eye Appeal Only**
+<br>
+
+**Criterion 4: Eye Appeal Only**
+
+<div style="margin-left: 20px;">
 
 Registrable features must be purely aesthetic, not functional.
 
----
+</div>
 
-### 📝 6-Step Registration Procedure
-
-**🎯 Mnemonic: "SPHERE"**
-- **S** - Search
-- **P** - Prepare application
-- **H** - (File at) Head office
-- **E** - Examination
-- **R** - Response (if objections)
-- **E** - (Final) Entry in register
+</div>
 
 ---
 
-#### ✅ Step 1: Design Search
+## 📝 6-Step Registration Procedure
 
-🔍 Search Design Registry database for similar designs.
+<div style="margin-left: 20px;">
 
----
+**Step 1: Design Search** - Search Design Registry database
 
-#### ✅ Step 2: Prepare Application
+**Step 2: Prepare Application (Form 1)** - Representations (drawings/photos), Applicant details, Article details (Locarno Classification - 32 classes), Statement of novelty, Priority claim (if applicable)
 
-**📄 Form 1:** Application for registration
+**Step 3: Filing** - Patent Office (Design Wing) at Mumbai, Delhi, Kolkata, Chennai | Online e-filing or physical
 
-##### 5 Required Components
+**Step 4: Examination** - Examiner checks: Formalities, Novelty/originality, Falls within definition, Not scandalous/obscene
 
-**1. 🖼️ Representations:**
-- Drawings/photographs/specimens
-- Multiple views for 3D designs
-- Clear depiction of features
+**Step 5: Response (if objections)** - Written submissions, Amendments, Request hearing
 
-**2. 👤 Applicant Details:**
-- Name, address, nationality
+**Step 6: Registration** - Design registered, Certificate issued, Published in Patent Office Journal | Effective from filing date
 
-**3. 📦 Article Details:**
-- Class and article
-- Locarno Classification (32 classes)
-
-**4. ✨ Statement of Novelty:**
-- What is new/original
-
-**5. 🌍 Priority Claim:**
-- If claiming from foreign application
+</div>
 
 ---
 
-#### ✅ Step 3: Filing
+## ⚖️ 3 Rights Conferred by Registration (Section 11)
 
-**🏢 Where:** Patent Office (Design Wing) - Mumbai, Delhi, Kolkata, Chennai
+<div style="margin-left: 20px;">
 
-**💻 How:** Online e-filing or physical filing
+**Right 1: Apply Design**
 
-**💰 Fees:** Different for individuals and companies
-
----
-
-#### ✅ Step 4: Examination
-
-**🔍 Examiner Checks:**
-
-##### 5 Examination Points
-
-**1. ✅ Formalities compliance**
-**2. 🆕 Novelty/originality**
-**3. 📐 Falls within definition**
-**4. 🚫 Not scandalous/obscene**
-**5. ⚖️ Not contrary to public order**
-
-**⚠️ If Objections:** Examination report issued.
-
----
-
-#### ✅ Step 5: Response (if objections)
-
-**3 Response Options:**
-- 📝 Written submissions
-- ✏️ Amend application
-- 🎤 Request hearing
-
----
-
-#### ✅ Step 6: Registration
-
-If no objections or overcome:
-- ✅ Design **registered**
-- 📜 **Certificate issued**
-- 📰 Published in **Patent Office Journal**
-
-**📅 Effective:** From filing date
-
----
-
-### ⚖️ 3 Rights Conferred by Registration (Section 11)
-
-**🎯 Mnemonic: "ASP"**
-- **A** - Apply design
-- **S** - Sell/import articles
-- **P** - Prevent unauthorized use
-
----
-
-**Right 1️⃣: Apply Design**
+<div style="margin-left: 20px;">
 Apply design to article by any industrial process.
+</div>
 
-**Right 2️⃣: Sell/Import**
+<br>
+
+**Right 2: Sell/Import**
+
+<div style="margin-left: 20px;">
 Sell, offer for sale, or import articles with design.
+</div>
 
-**Right 3️⃣: Prevent Copying**
+<br>
+
+**Right 3: Prevent Unauthorized Use**
+
+<div style="margin-left: 20px;">
+
 Prevent third parties from:
-- 🏭 Making articles with copy of design
-- 💰 Selling such articles
-- 📥 Importing such articles
-- **When done for commercial purposes**
+- Making articles with copy of design
+- Selling such articles
+- Importing such articles
+- When done for commercial purposes
+
+**What This Means:** Proprietor can stop others from commercially exploiting products that copy the registered design.
+
+</div>
+
+</div>
 
 ---
 
-### ⏱️ Term of Protection (Section 11)
+## ⏱️ Term of Protection (Section 11)
 
-**📊 2-Stage Term:**
+<div style="margin-left: 20px;">
 
 **Initial Term:** **10 years** from registration date
 
@@ -259,88 +236,71 @@ Prevent third parties from:
 
 **Total:** **15 years maximum**
 
-**🔄 Extension Filing:** Before expiry of 10 years (up to 6 months after with additional fees).
+**Renewal:** Extension application before expiry of 10 years (up to 6 months after with additional fees).
+
+</div>
 
 ---
 
-### 🚫 Infringement and Remedies
+## 🚫 Infringement and Remedies
 
-#### Piracy of Registered Designs (Section 22)
+<div style="margin-left: 20px;">
 
-**3 Elements of Piracy:**
-1. Without consent of proprietor
-2. Applies/imitates design OR imports pirated articles
-3. Knowing design is registered and pirated
+### Piracy (Section 22):
 
----
+<div style="margin-left: 20px;">
 
-#### ⚖️ 4 Civil Remedies (Criminal NOT Available)
+Occurs when someone, without consent:
+- Applies/imitates design for sale
+- Imports pirated articles
+- Knowing design is registered and pirated
 
-**1. 🚫 Injunction:** Stop piracy order
-**2. 💰 Damages:** Monetary compensation
-**3. 💵 Account of Profits:** Profits surrender
-**4. 📦 Delivery Up:** Surrender for destruction
+</div>
 
-**⚠️ Note:** Design piracy is NOT a criminal offense - only civil remedies.
+### 4 Civil Remedies:
 
----
+<div style="margin-left: 20px;">
 
-### 🌟 5 Benefits of Design Registration
+**1. Injunction** - Stop piracy order
 
-**🎯 Mnemonic: "PPBAC"**
-- **P** - Protects investment
-- **P** - Prevents copying
-- **B** - Brand identity enhanced
-- **A** - Adds commercial value
-- **C** - Commercialization facilitated
+**2. Damages** - Monetary compensation
 
----
+**3. Account of Profits** - Profits surrender
 
-### 💡 5 Practical Tips
+**4. Delivery Up** - Surrender for destruction
 
-**1. 🏃 Early Filing:**
-File before public disclosure to preserve novelty.
+</div>
 
-**2. 📸 Comprehensive Representations:**
-Clear, detailed drawings/photos showing all aspects.
+**⚠️ Note:** Design piracy is NOT criminal offense - only civil remedies available.
 
-**3. 📚 Proper Classification:**
-Classify correctly per Locarno system.
-
-**4. 🚫 Disclaimer Functional Features:**
-If both aesthetic and functional, disclaim functional.
-
-**5. 👁️ Monitor Market:**
-Watch for infringement and act promptly.
+</div>
 
 ---
 
-### 🎯 Conclusion
+## 🎯 Conclusion
 
-Industrial design protection under the Designs Act, 2000, provides valuable rights to protect aesthetic features of products. The 6-step registration procedure is simpler and faster than patents, with lower costs. The 15-year term (10+5 years) provides reasonable protection for designs.
+<div style="margin-left: 20px;">
 
-**🔑 Critical Distinction:** Design protection is about **LOOK (form)**, not **FUNCTION (patent matter)**.
+Industrial design protection under Designs Act, 2000, provides valuable rights to protect aesthetic features of products. The 6-step registration procedure is simpler and faster than patents, with lower costs. The 15-year term (10+5) provides reasonable protection for designs.
 
-Understanding this distinction is fundamental. Design protection is crucial for industries where aesthetics matter - fashion, furniture, consumer electronics, automobiles. Proper registration and enforcement provide competitive advantages and protect investment in product design.
+**Critical Distinction:** Design = LOOK (form) | Patent = FUNCTION
+
+Understanding this is fundamental. Design protection crucial for industries where aesthetics matter - fashion, furniture, consumer electronics, automobiles. Proper registration and enforcement provide competitive advantages and protect investment in product design.
+
+</div>
 
 ---
 
-**📚 Key Statutory Provisions:**
-- **Section 2(d):** Definition (5 elements: SCPOI)
-- **Section 4:** Eligibility (4 criteria: NDSE)
-- **Section 11:** Rights and term
-- **Section 22:** Piracy
-
-**📊 Numbers to Remember:**
-- **6 steps** in registration
-- **4 eligibility criteria**
-- **15 years** maximum term (10+5)
-- **32 classes** (Locarno Classification)
-- **4 civil remedies** (no criminal)
-
-**💡 Mnemonic Master List:**
-- "SCPOI" - 5 elements
-- "NDSE" - 4 criteria
-- "SPHERE" - 6 steps
-- "ASP" - 3 rights
-- "PPBAC" - 5 benefits
+> ## 📚 Key Information
+>
+> | **Aspect** | **Details** |
+> |-----------|------------|
+> | **Definition** | 5 elements (SCPOI) |
+> | **Eligibility** | 4 criteria (NDSE) |
+> | **Registration** | 6 steps (SPHERE) |
+> | **Rights** | 3 types (ASP) |
+> | **Term** | 10+5 = 15 years max |
+> | **Classification** | Locarno (32 classes) |
+> | **Remedies** | 4 civil (no criminal) |
+>
+> **🎯 Remember:** Form (design) vs. Function (patent) - key distinction!
