@@ -34,7 +34,7 @@ This comprehensive question-answer bank has been specifically created for **SPPU
 
 **Target Exam:** January 2026
 
-**Total Questions:** 12 (5 × 15-marks, 5 × 10-marks, 2 × 5-marks)
+**Total Questions:** 26 (5 × 15-marks, 5 × 10-marks, 16 × 5-marks)
 
 ---
 
@@ -346,7 +346,7 @@ End of each answer includes:
 
 ---
 
-### 📝 5 Marks Questions (2 Questions)
+### 📝 5 Marks Questions (16 Questions)
 
 #### Q11: Module 01 - WIPO and WTO
 **File:** [5-marks/Q11-M01-WIPO-WTO.md](./5-marks/Q11-M01-WIPO-WTO.md)
@@ -386,6 +386,223 @@ End of each answer includes:
 **📊 Includes:** Trade secrets tree, comparison with patents table
 
 **Why Important:** ⭐⭐⭐ - Alternative to patents
+
+---
+
+#### Q13: Module 02 - Idea-Expression Dichotomy
+**File:** [5-marks/Q13-M02-Idea-Expression-Dichotomy.md](./5-marks/Q13-M02-Idea-Expression-Dichotomy.md)
+
+**Question:** Write a short note on the Idea-Expression Dichotomy in copyright law.
+
+**Topics Covered:**
+- Basic principle (expression protected, idea not)
+- 3 reasons distinction exists
+- Practical examples (books, cooking, software)
+- Merger doctrine
+- Facts and copyright
+
+**Why Important:** ⭐⭐⭐ - Fundamental copyright principle
+
+---
+
+#### Q14: Module 02 - Moral Rights of Authors
+**File:** [5-marks/Q14-M02-Moral-Rights-Authors.md](./5-marks/Q14-M02-Moral-Rights-Authors.md)
+
+**Question:** Write a short note on Moral Rights of Authors under the Copyright Act, 1957.
+
+**Topics Covered:**
+- 2 moral rights (Attribution + Integrity)
+- Section 57 provisions
+- Non-transferable nature
+- Duration (life + 60 years)
+- Berne Convention Article 6bis
+
+**Why Important:** ⭐⭐⭐ - Author's personal rights
+
+---
+
+#### Q15: Module 03 - PCT System
+**File:** [5-marks/Q15-M03-PCT-System.md](./5-marks/Q15-M03-PCT-System.md)
+
+**Question:** Write a short note on the Patent Cooperation Treaty (PCT) system.
+
+**Topics Covered:**
+- 5 key features (single application, search, publication, examination, national phase)
+- 2 phases (International 0-30M, National 30M+)
+- 5 benefits of PCT
+- India as receiving office and ISA/IPEA
+
+**Why Important:** ⭐⭐⭐ - International patent filing
+
+---
+
+#### Q16: Module 02 - Fair Dealing
+**File:** [5-marks/Q16-M02-Fair-Dealing-Copyright.md](./5-marks/Q16-M02-Fair-Dealing-Copyright.md)
+
+**Question:** Explain the concept of 'Fair Dealing' under the Copyright Act, 1957.
+
+**Topics Covered:**
+- Section 52(1)(a)
+- 3 permitted purposes (private use, criticism, news reporting)
+- 4-factor fairness test
+- Examples of fair vs. unfair use
+
+**Why Important:** ⭐⭐⭐ - Important copyright exception
+
+---
+
+#### Q17: Module 03 - Patent Grant Procedure
+**File:** [5-marks/Q17-M03-Patent-Grant-Procedure.md](./5-marks/Q17-M03-Patent-Grant-Procedure.md)
+
+**Question:** Briefly explain the procedure for grant of a patent under the Patents Act, 1970.
+
+**Topics Covered:**
+- 7 key steps (filing to maintenance)
+- Critical timelines (48 months, 12 months)
+- Provisional vs. complete specification
+- FER and response
+
+**Why Important:** ⭐⭐⭐⭐ - Practical patent procedure
+
+---
+
+#### Q18: Module 04 - Well-Known Marks
+**File:** [5-marks/Q18-M04-Well-Known-Marks.md](./5-marks/Q18-M04-Well-Known-Marks.md)
+
+**Question:** Write a short note on protection of Well-Known Marks under the Trade Marks Act, 1999.
+
+**Topics Covered:**
+- Enhanced protection (even without registration)
+- Cross-category protection
+- 5 factors determining well-known status
+- Section 11(2), Paris Article 6bis, TRIPS Article 16
+
+**Why Important:** ⭐⭐⭐ - Special trademark protection
+
+---
+
+#### Q19: Module 06 - GI vs. Trademark
+**File:** [5-marks/Q19-M06-GI-vs-Trademark.md](./5-marks/Q19-M06-GI-vs-Trademark.md)
+
+**Question:** Distinguish between Geographical Indications and Trademarks.
+
+**Topics Covered:**
+- 10 key differences
+- Ownership (collective vs. individual)
+- Transferability (no vs. yes)
+- Nature (origin vs. source)
+- Can same sign be both?
+
+**Why Important:** ⭐⭐⭐⭐ - Important distinction
+
+---
+
+#### Q20: Module 07 - Plant Varieties & Farmers' Rights
+**File:** [5-marks/Q20-M07-Plant-Varieties-Farmers-Rights.md](./5-marks/Q20-M07-Plant-Varieties-Farmers-Rights.md)
+
+**Question:** Write a short note on Protection of Plant Varieties and Farmers' Rights Act, 2001.
+
+**Topics Covered:**
+- TRIPS Article 27.3(b) compliance
+- Sui generis system
+- 4 objectives
+- Farmers' rights (unique feature)
+- DUS criteria, Term (18Y/15Y)
+
+**Why Important:** ⭐⭐⭐ - India's unique approach
+
+---
+
+#### Q21: Module 02 - Neighbouring Rights
+**File:** [5-marks/Q21-M02-Neighbouring-Rights.md](./5-marks/Q21-M02-Neighbouring-Rights.md)
+
+**Question:** Explain the concept of Neighbouring Rights under the Copyright Act.
+
+**Topics Covered:**
+- 3 categories (Performers, Producers, Broadcasters)
+- Rights of each category
+- Duration (50Y/25Y)
+- Distinction from copyright
+- Rome Convention, WPPT, TRIPS Article 14
+
+**Why Important:** ⭐⭐⭐ - Related rights in copyright
+
+---
+
+#### Q22: Module 03 - Pre/Post-Grant Opposition
+**File:** [5-marks/Q22-M03-Pre-Post-Grant-Opposition.md](./5-marks/Q22-M03-Pre-Post-Grant-Opposition.md)
+
+**Question:** Distinguish between Pre-Grant and Post-Grant Opposition under the Patents Act.
+
+**Topics Covered:**
+- 6 key differences
+- Timing, who can file, procedure
+- Section 25(1) vs. Section 25(2)
+- Grounds for opposition (same for both)
+
+**Why Important:** ⭐⭐⭐ - Patent opposition mechanisms
+
+---
+
+#### Q23: Module 04 - Trademark Infringement vs. Passing Off
+**File:** [5-marks/Q23-M04-Trademark-Infringement-Passing-Off.md](./5-marks/Q23-M04-Trademark-Infringement-Passing-Off.md)
+
+**Question:** Distinguish between Trademark Infringement and Passing Off.
+
+**Topics Covered:**
+- 8 key differences
+- Legal basis (statutory vs. common law)
+- Registration requirement
+- What must be proved (Classic Trinity for passing off)
+- Can both coexist?
+
+**Why Important:** ⭐⭐⭐⭐ - Two causes of action
+
+---
+
+#### Q24: Module 04 - Madrid System
+**File:** [5-marks/Q24-M04-Madrid-System.md](./5-marks/Q24-M04-Madrid-System.md)
+
+**Question:** Write a short note on the Madrid System for international registration of trademarks.
+
+**Topics Covered:**
+- 5-step process
+- 5 benefits (cost, efficiency, management, language, expansion)
+- Central attack limitation
+- India acceded 2013
+
+**Why Important:** ⭐⭐⭐ - International trademark system
+
+---
+
+#### Q25: Module 02 - Originality in Copyright
+**File:** [5-marks/Q25-M02-Originality-Copyright.md](./5-marks/Q25-M02-Originality-Copyright.md)
+
+**Question:** Explain the concept of 'Originality' in copyright law.
+
+**Topics Covered:**
+- 3 requirements (originates, minimal creativity, not mechanical)
+- What originality does NOT mean (not novelty, quality, uniqueness)
+- Donoghue v. Allied Newspapers case
+- Examples
+
+**Why Important:** ⭐⭐⭐ - Copyright eligibility criterion
+
+---
+
+#### Q26: Module 02 - Copyright Societies
+**File:** [5-marks/Q26-M02-Copyright-Societies.md](./5-marks/Q26-M02-Copyright-Societies.md)
+
+**Question:** Explain the role and functioning of Copyright Societies in India.
+
+**Topics Covered:**
+- Sections 33-35
+- Purpose and 4 main functions
+- Registration requirements (min 7 members)
+- Rights and responsibilities
+- Indian societies (IPRS, PPL, IRRO, ISRA)
+
+**Why Important:** ⭐⭐⭐ - Collective rights management
 
 ---
 
