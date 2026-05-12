@@ -1,0 +1,716 @@
+---
+description: >
+  Ultimate SPPU LLB Topper Generator (syllabus to multi-file structured output)
+alwaysApply: true
+---
+
+# SPPU LLB Topper Generator
+
+## 🎯 Objective
+
+Generate rank-holder level SPPU LLB study material from a syllabus
+document with:
+
+- Module-wise + Topic-wise organization
+- Multi-file structured output under /.temp
+- Memorisation tools
+- PYQ integration
+- Topper-style answers
+- Difficulty tagging
+- Icon-enhanced readability
+- Human-friendly structured explanations
+- Crisp and exam-oriented content
+
+The generated content must:
+
+- Be easy to read and remember
+- Maintain conceptual clarity
+- Use balanced formatting
+- Avoid excessive bullets
+- Feel like topper handwritten notes + coaching material
+
+---
+
+## 📥 0. Input Handling (MANDATORY)
+
+Input = syllabus document (text/markdown)
+
+### 🔍 Step 1: Parse Syllabus
+
+Extract:
+
+- Modules
+- Topics
+- Subtopics
+
+### 🧱 Step 2: Normalize Structure
+
+Convert into hierarchy:
+
+Module → Topic → Subtopic
+
+### ⚙️ Step 3: Processing Rule
+
+- Each Topic must be processed independently
+- No mixing of topics
+- Every topic must become a separate output artifact
+
+---
+
+## 📂 1. Multi-File Output Rule (STRICT)
+
+All outputs MUST be generated under:
+
+/.temp/
+
+### 📁 Folder Structure
+
+.temp/
+ ├── Module-01/
+ │     ├── topic-name-1.md
+ │     ├── topic-name-2.md
+ │
+ ├── Module-02/
+ │     ├── topic-name-1.md
+
+### 📌 Rules
+
+- One file per topic
+- File names must be clean and readable
+- Use kebab-case where appropriate
+- No extra metadata files
+- No temporary summaries
+- No debug artifacts
+
+---
+
+## 🧩 2. Auto Topic Splitting
+
+Each topic must:
+
+- Be fully self-contained
+- Include complete study + exam prep material
+- Include revision tools
+- Include model answers
+
+---
+
+## 🧠 3. Difficulty Tagging
+
+Every topic must contain:
+
+🎚️ Difficulty:
+
+- 🟢 Easy → factual / direct topics
+- 🟡 Medium → conceptual topics
+- 🔴 Hard → analytical / case-law-heavy topics
+
+---
+
+## 📚 4. Subject-Specific Tuning
+
+### ⚖️ Constitutional Law
+
+Focus on:
+
+- Articles
+- Constitutional doctrines
+- Landmark Supreme Court judgments
+- Judicial interpretation
+
+Always include:
+
+- Article references
+- Doctrine explanation
+- Important constitutional principles
+
+---
+
+### ⚖️ Jurisprudence
+
+Focus on:
+
+- Legal theories
+- Thinkers
+- Schools of thought
+- Comparative analysis
+
+Always include:
+
+- Definitions
+- Thinker comparison
+- Philosophical explanation
+
+---
+
+### ⚖️ Family Law
+
+Focus on:
+
+- Statutory provisions
+- Practical application
+- Judicial interpretation
+
+---
+
+### ⚖️ Criminal Law
+
+Focus on:
+
+- Ingredients of offences
+- Essential elements
+- Illustrations
+- Landmark criminal cases
+
+---
+
+### ⚖️ Contract Law
+
+Focus on:
+
+- Essentials of contract
+- Case laws
+- Practical examples
+- Contractual principles
+
+---
+
+## ✍️ 5. Topper Writing Style
+
+Content must reflect topper answer-writing patterns.
+
+### Writing Characteristics
+
+- Definition-first approach
+- Logical conceptual flow
+- Analytical but simple language
+- Crisp explanations
+- Moderate answer depth
+- Examiner-friendly presentation
+
+### Writing Style Rules
+
+- Use short explanatory paragraphs
+- Use bullets selectively
+- Avoid excessive fragmentation
+- Avoid robotic formatting
+- Avoid giant paragraphs
+
+### Ideal Structure
+
+1. Heading
+2. Short explanatory paragraph
+3. Supporting bullets/examples/case laws
+
+### Tone
+
+Content should feel like:
+
+- high-quality topper notes
+- coaching material
+- concise textbook explanation
+
+NOT:
+
+- AI-generated bullet dump
+- skeletal outline
+- excessively fragmented markdown
+
+---
+
+## 🎨 6. Icon Usage Rule (MANDATORY)
+
+### Main Section Icons
+
+- 📘 Topic Name
+- 🧠 Introduction
+- 📖 Main Content
+- 🧩 Elements / Principles
+- ⚖️ Case Laws
+- 🧾 Conclusion
+- 🧠 Memorisation Toolkit
+- 📝 Questions
+- 🧾 Model Answers
+
+### Subsection Icons
+
+- 🔹 Subheading
+- ✅ Important Point
+- ⚡ Quick Revision
+- 🗺️ Mind Map
+- 🧩 Mnemonics
+- 📊 Tables
+- 🔁 PYQ
+- ⭐ Important
+- 🔥 High Probability
+
+---
+
+## 📖 7. Study Content Generation Rules
+
+### 🧠 Introduction
+
+Introduction must include:
+
+- Definition
+- Context
+- Importance
+
+Length:
+
+- 1–2 concise paragraphs
+
+---
+
+### 📖 Main Content (Structured Hybrid Explanation Format)
+
+Use a balanced mix of:
+
+- Short explanatory paragraphs
+- Numbered points
+- Bullet lists
+- Comparison tables
+- Flowcharts
+- Case law references
+
+### 📌 Important Formatting Rules
+
+DO:
+
+- Begin major concepts with short explanation paragraphs
+- Use bullets only where structurally useful
+- Maintain conceptual continuity
+- Keep flow natural and readable
+
+DO NOT:
+
+- Convert every sentence into bullets
+- Write only outline-style notes
+- Over-fragment content
+- Write giant dense paragraphs
+
+---
+
+### 📌 Ideal Point Structure
+
+Each major point should contain:
+
+1. Heading
+2. Short explanation paragraph
+3. Supporting bullets/examples/case laws
+
+Example:
+
+#### 1. Liberalization of Locus Standi
+
+Traditionally, only an aggrieved person could approach the court.
+However, the judiciary relaxed this principle to improve access to
+justice for disadvantaged sections.
+
+Important Features:
+
+- Public-spirited individuals may file petitions
+- Protects weaker sections
+- Strengthens social justice
+
+⚖️ Case Law:
+S.P. Gupta v. Union of India
+
+---
+
+## 🧩 8. Elements / Principles Section
+
+Use:
+
+- Numbered points
+- Brief conceptual explanation
+- Supporting examples where useful
+
+---
+
+## ⚖️ 9. Case Law Optimization Rule
+
+Prioritize:
+
+1. Landmark Supreme Court judgments
+2. Frequently repeated PYQ cases
+3. Supporting relevant cases
+
+### Each Case Must Include
+
+- Case Name
+- Facts (1–3 lines)
+- Judgment
+- Legal principle
+
+### Case Law Limits
+
+- Avoid excessive listing
+- Use only relevant and scoring cases
+- Prefer quality over quantity
+
+---
+
+## 🧠 10. Memorisation Toolkit
+
+Every topic must include:
+
+### 🧩 Mnemonics
+
+- Easy acronyms
+- Recall-friendly memory tricks
+
+---
+
+### 🗺️ Mind Map
+
+Text format:
+
+Topic
+ ├── Concept 1
+ │    ├── Point A
+ │    └── Point B
+ ├── Concept 2
+ └── Concept 3
+
+---
+
+### ⚡ Quick Revision Points
+
+- 5–10 crisp recall bullets
+- One-line memory aids
+- Important keywords
+
+---
+
+## 📊 11. PYQ Integration Rule
+
+For each topic:
+
+### Identify
+
+- Frequently repeated SPPU questions
+- High-weightage concepts
+- Commonly tested case laws
+
+### Tag Questions As
+
+- 🔁 Repeated PYQ
+- ⭐ Important
+- 🔥 High Probability
+
+Use PYQ insights to:
+
+- Prioritize content
+- Select important concepts
+- Generate probable questions
+
+---
+
+## 📝 12. Probable Questions Generator
+
+Generate:
+
+### 🎯 15 Mark Questions
+
+- 2–3 long answers
+
+### 🎯 10 Mark Questions
+
+- 2–3 short notes
+
+### 🎯 Problem-Based Questions
+
+- Where applicable
+
+Questions must:
+
+- Reflect PYQ trends
+- Be exam-relevant
+- Cover scoring concepts
+
+---
+
+## 🧾 13. Model Answer Generator
+
+---
+
+## 📏 Marks-Based Length Optimization
+
+### 15 Mark Answers
+
+Target:
+
+- Approx. 700–1200 words
+
+Must include:
+
+- Detailed explanation
+- 6–10 major points
+- Case laws
+- Diagram/flowchart where useful
+
+---
+
+### 10 Mark Answers
+
+Target:
+
+- Approx. 400–700 words
+
+Must include:
+
+- 4–6 major points
+- Crisp conceptual explanation
+- Limited case laws
+
+---
+
+### Short Notes
+
+Target:
+
+- Approx. 250–400 words
+
+Must include:
+
+- Definition
+- Core explanation
+- Important points
+
+---
+
+## 🟦 Model Answer Structure (MANDATORY)
+
+### 1. 🧾 Answer Synopsis
+
+Include:
+
+- 3–5 bullets covering:
+  - Introduction idea
+  - Core arguments
+  - Conclusion insight
+
+---
+
+### 2. 🧠 Introduction
+
+Must include:
+
+- Definition
+- Context
+- Importance
+
+Length:
+
+- 1–2 concise paragraphs
+
+---
+
+### 3. 📖 Body (Structured Hybrid Format)
+
+Use:
+
+- Short conceptual paragraphs
+- Numbered headings
+- Supporting bullets
+- Examples
+- Case laws
+
+### Body Rules
+
+DO:
+
+- Maintain readability
+- Use conceptual flow
+- Explain before listing
+
+DO NOT:
+
+- Use bullet-only answers
+- Write giant paragraphs
+- Over-fragment explanations
+
+---
+
+### 4. ⚖️ Case Laws Section
+
+Use:
+
+- 2–5 highly relevant cases
+- Landmark + PYQ-focused cases
+
+---
+
+### 5. 📊 Diagram / Flowchart Rule
+
+AUTO INCLUDE when:
+
+- Hierarchy exists
+- Process exists
+- Classification exists
+- Comparative explanation helps memory
+
+### Formats
+
+#### Flowchart
+
+Step 1 → Step 2 → Step 3
+
+#### Hierarchy
+
+Concept
+ ├── Type 1
+ ├── Type 2
+
+#### Comparison Table
+
+| Basis | Concept A | Concept B |
+
+---
+
+### 6. 🧾 Conclusion
+
+Must:
+
+- Summarize concept analytically
+- Provide examiner-friendly closing
+- Be concise and impactful
+
+---
+
+## 📊 14. Smart Enhancements
+
+Use where useful:
+
+### 📊 Comparison Tables
+
+| Basis | Concept A | Concept B |
+
+---
+
+### 🔄 Flowcharts
+
+Use for:
+
+- Processes
+- Procedures
+- Legal tests
+
+---
+
+### 🧠 Mini Summaries
+
+Use:
+
+- after large concepts
+- before conclusion
+- for revision support
+
+---
+
+## 📊 15. Output Rules
+
+Generated content must be:
+
+- Cleanly formatted
+- Human-readable
+- Conceptually flowing
+- Exam-oriented
+- Moderately detailed
+- Easy to revise
+
+DO NOT:
+
+- Add commentary
+- Add metadata
+- Add debug text
+- Produce cluttered markdown
+
+---
+
+## 🚫 16. Constraints
+
+DO NOT:
+
+- Use bullet-only content
+- Over-fragment explanations
+- Write skeletal notes
+- Write excessively long explanations
+- Mix multiple topics in one file
+
+ALWAYS:
+
+- Maintain conceptual continuity
+- Use balanced formatting
+- Keep answers crisp and scoring
+- Optimize for readability + memory retention
+
+---
+
+## 📦 17. Output Template (Per Topic File)
+
+## 📘 Topic Name
+
+🎚️ Difficulty: 🟢 / 🟡 / 🔴
+
+---
+
+### 🧠 Introduction (per generated topic file)
+
+---
+
+### 📖 Main Content (per generated topic file)
+
+---
+
+### 🧩 Elements / Principles (per generated topic file)
+
+---
+
+### ⚖️ Case Laws (per generated topic file)
+
+---
+
+### 🧾 Conclusion (per generated topic file)
+
+---
+
+### 🧠 Memorisation Toolkit (per generated topic file)
+
+#### 🧩 Mnemonics (per generated topic file)
+
+#### 🗺️ Mind Map (per generated topic file)
+
+#### ⚡ Quick Revision Points (per generated topic file)
+
+---
+
+### 📝 Most Probable Questions (with PYQ tags)
+
+---
+
+### 🧾 Model Answers
+
+- Answer Synopsis
+- Introduction
+- Structured Body
+- Case Laws
+- Diagram / Flowchart
+- Conclusion
+
+---
+
+## 🚀 18. Usage
+
+Provide syllabus document:
+
+[PASTE FULL SYLLABUS HERE]
+
+System will:
+
+- Parse syllabus
+- Split into topics
+- Generate module-wise files under /.temp
+- Produce structured exam-ready content
+- Optimize for scoring + readability
