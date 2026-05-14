@@ -1,0 +1,163 @@
+---
+description: SPPU LLB "subject folder pack" — multi-layer notes, question bank, visuals, navigation (Constitutional Law II style). Use with generate-subject-pack commands.
+alwaysApply: false
+---
+
+# SPPU LLB Subject Folder Pack (Multi-Layer Layout)
+
+Use this rule **together with** the existing **SPPU LLB Topper Generator** rule when the user wants output **organized like** `Academics/Law/SPPU/.../<Subject>/` (reference layout: **Constitutional Law - II**): numbered topic folders, dual note depths, mark-sliced question bank, distinguishers, visuals, case compendiums, revision and exam-support files, plus **navigation** docs.
+
+This rule defines **where files go** and **what each artifact type contains**. It does **not** replace topper answer quality rules; it **routes** them into the correct files and naming patterns.
+
+---
+
+## When to Apply
+
+- User runs **`/generate-subject-pack`** or **`/generate-subject-pack-module`**, or explicitly asks for "Constitutional Law II style folder", "full subject pack", "EXAM_READY + complete notes + question bank structure".
+
+---
+
+## 0. Output Root (User-Specified)
+
+- Default pattern: `Academics/Law/SPPU/LLB - I/Semester - <N>/<Subject Name>/`
+- Agent must use the **path the user gives**; if omitted, ask once for **subject folder path** and **syllabus file path**.
+
+Do **not** silently replace an existing non-empty subject tree; prefer writing to `/.temp/<Subject-Slug>-subject-pack/` for a **dry run**, or ask before overwriting.
+
+---
+
+## 1. Standard Folder Layout (00–09)
+
+Create and maintain this **top-level structure** (omit empty optional folders or add a one-line `README.md` placeholder inside):
+
+| Folder | Purpose |
+|--------|---------|
+| `00-syllabus-and-references/` | Official syllabus, reading list, bare Acts |
+| `01-complete-notes/` | **Deep** module-wise notes (long-form, teaching style) |
+| `02-condensed-notes/` | **EXAM_READY** per module: short, scannable, triggers, mnemonics |
+| `03-visual-aids/` | `Mind_Maps/`, `Flowcharts/`, `Comparison_Tables/` (+ optional `Mnemonics_Memory_Aids.md`) |
+| `04-case-laws/` | `Landmark_Cases_Summary.md` + `Module_Wise_Cases/Module_XX_..._Cases.md` |
+| `05-question-bank/` | Mark buckets, distinguishers, weightage maps, compiled model answers |
+| `06-model-answers/` | Optional: generic answer templates; use if long answers are **not** duplicated inside `05-question-bank/` |
+| `07-previous-papers/` | Optional PYQ index / papers |
+| `07-quick-revision/` | Checklists, mnemonics one-pagers, article/topic quick refs |
+| `08-exam-strategy/` | Templates, mistakes, time management |
+| `09-practice-worksheets/` | Module-scoped practice tests |
+
+**Align with the reference subject** the user names (e.g. Constitutional Law - II): if that course omits `06-model-answers/` or `07-previous-papers/`, do not invent empty trees—add a one-line `README.md` in optional roots explaining “reserved / not used”.
+
+---
+
+## 2. Root Documentation (Mandatory)
+
+At subject root, maintain:
+
+1. **`README.md`** — Course metadata (code, credits, SPPU), **folder guide** (table like above), module list, phased study strategy.
+2. **`NAVIGATION_INDEX.md`** — "Quick file finder": per module, links to **complete**, **condensed**, **visuals**, **cases**, and **question IDs** (by mark).
+3. **`📖_START_HERE.md`** (or `START_HERE.md`) — 60-second orientation: read order, exam week path, link to `NAVIGATION_INDEX.md`.
+
+---
+
+## 3. Complete Notes (`01-complete-notes/`)
+
+- **One file per syllabus module** (not one file per tiny subtopic unless syllabus demands it).
+- **Filename:** `Module_<NN>_<Short_Descriptive_Title>.md` (zero-padded module: `01`, `02`, …).
+- **Tone:** Textbook-like clarity; **paragraphs + selective bullets**; heavy concepts get **comparison tables**.
+- **Case law blocks** (when relevant): **Facts (short) → Issue → Holding → Principle → Article / doctrine link**.
+- **Constitutional Law**: Articles, schedules, amendments, doctrines, landmark SC cases inline.
+- **Other subjects**: map to that subject’s rule profile (Contract = sections + cases; Family = statutes + application).
+
+---
+
+## 4. Condensed Notes (`02-condensed-notes/`)
+
+- **One file per module**, paired with `01-complete-notes/`.
+- **Filename:** `Module_<NN>_<Short_Topic_Label>_EXAM_READY.md`.
+- **Required sections / devices:**
+  - **Quick Stats** (topics count, key cases count, key articles/statutes, exam weight H/M/L).
+  - **Per-topic blocks** with **"What This Covers"** one paragraph.
+  - **COUNT lists** (e.g. "7 Essential Characteristics (COUNT = 7)") for memorability.
+  - **Mnemonics** (strings + short decode line).
+  - **Exam Trigger Lines** (copy-ready lines for answers).
+  - **Icon / emoji** sparingly for scanability (match intensity of reference subject).
+
+---
+
+## 5. Visual Aids (`03-visual-aids/`)
+
+- **Mind maps:** `Mind_Maps/<NN>_<Topic>_Visual_Map.md` — hierarchical ASCII or nested bullets; optional mermaid if it stays readable in plain MD.
+- **Flowcharts:** `Flowcharts/<Name>_Decision_Tree.md` or `_Procedure.md` — decision nodes, yes/no paths.
+- **Comparison tables:** `Comparison_Tables/<NN>_<A>_vs_<B>.md` — tight tables + 3–5 exam lines.
+- No giant images required unless user supplies assets; **markdown-first**.
+
+---
+
+## 6. Case Laws (`04-case-laws/`)
+
+- **`Landmark_Cases_Summary.md`**: compact table or list — Case name, citation (if known), one-line **principle**, linked **module**.
+- **`Module_Wise_Cases/Module_<NN>_..._Cases.md`**: only cases taught in that module; **brief facts + ratio + exam use**.
+
+---
+
+## 7. Question Bank (`05-question-bank/`)
+
+### 7.1 Mark folders
+
+- `2_Marks/`, `5_Marks/`, `10_Marks/`, `15_Marks/`
+- Optional: `Problem_Questions/`, `Topic_Wise_Questions/` when syllabus needs scenarios.
+
+### 7.2 File naming and IDs
+
+- **Pattern:** `Q<###>_<Short_Title>.md` inside the mark folder (`Q301_...` in `2_Marks/`).
+- **Top of file:** `## Question ID: <SUBJECT_ABBR>-<2M|5M|10M|15M>-Q<###>` (example: `CON2-2M-Q301`).
+- **Body blocks:** Question text → **Marks**, **Pattern** (conceptual/comparative/case-heavy), **Topic / Module**, **Exam frequency** (icon scale), **Suggested time** → `## MODEL ANSWER` → **Scoring Tips** (checkbox style).
+
+### 7.3 Distinguish Between
+
+- Folder: `Distinguish_Between/`
+- **Filename:** `D<###>_<Term_A>_vs_<Term_B>.md`
+- **ID line:** `<SUBJECT_ABBR>-DIST-D<###>`
+- Answer: short intro + **numbered comparison table** (often **10 rows** for 5-mark style) + mini examples.
+
+### 7.4 Meta files
+
+- `Topic_Weightage_and_Focus_Map.md`
+- `Most_Probable_Questions_Next_Exam.md` (optional seasonal)
+- Optional aggregate: `May_<YYYY>_Most_Likely_Questions_Model_Answers.md` when user wants one compiled PDF-friendly doc.
+
+---
+
+## 8. Quick Revision & Exam Support
+
+- **`07-quick-revision/`**: `Last_Hour_Checklist.md`, `All_Mnemonics_One_Page.md`, topic/article quick refs.
+- **`08-exam-strategy/`**: `Answer_Writing_Template.md`, `Common_Mistakes_to_Avoid.md`, weightage / time plans.
+
+---
+
+## 9. Practice Worksheets (`09-practice-worksheets/`)
+
+- `Practice_Test_<NN>_Modules_<list>.md` — timed sections, answer key stub or linked question IDs.
+
+---
+
+## 10. Consistency & Quality Gates
+
+- **Module numbering** aligns across: `01-complete-notes`, `02-condensed-notes`, `04-case-laws/Module_Wise_Cases`, `NAVIGATION_INDEX.md`.
+- **Cross-links** use **relative paths** from subject root.
+- **Markdownlint**: if the subject already has `.markdownlint-cli2.yaml`, **follow it**; do not remove it.
+- **Do not use** HTML entity escapes for punctuation in markdown body (write `&` not `&amp;` in normal prose).
+
+---
+
+## 11. Relation to Other Rules
+
+- **Topper generator rule** → style, model answer anatomy, difficulty tags, memorisation toolkit content.
+- **This rule** → **file taxonomy**, **naming**, **layering** (deep vs EXAM_READY), **question bank physics**, **navigation**.
+
+When both apply: write **the same intellectual content once** in `01-complete-notes`, then **compress and weaponize** for exams in `02-condensed-notes` and `05-question-bank`, do not paste unedited duplicates everywhere.
+
+---
+
+## 12. Subject Abbreviation
+
+- Derive a short **SUBJECT_ABBR** (e.g. `CON2`, `KNT2`) and use consistently in question IDs; document it at the top of `NAVIGATION_INDEX.md`.

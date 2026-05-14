@@ -1,0 +1,310 @@
+---
+description: Autonomous law study material generation — scan arbitrary inputs, classify, build knowledge base, emit exam-oriented layered outputs under .temp only.
+alwaysApply: false
+---
+
+# Autonomous law study material generator
+
+## Core objective
+
+Generate complete, exam-oriented law study material from **any** arbitrary input directory containing:
+
+- syllabus
+- books
+- PDFs
+- notes
+- previous year papers
+- handwritten scans
+- OCR text
+- bare acts
+- case laws
+- presentations
+- images
+- mixed academic material
+
+The system must autonomously:
+
+- discover files
+- classify content
+- organize knowledge
+- generate structured outputs
+- produce exam-ready material
+
+…without requiring a predefined input layout (use filenames, folder names, headings, and semantics to classify).
+
+---
+
+## Input discovery engine
+
+### Recursive directory scanning
+
+Always **recursively scan** the entire directory the user provides.
+
+Support:
+
+- nested folders
+- mixed file types
+- inconsistent naming
+- duplicate files
+- unstructured academic dumps
+
+Treat as supported when present (extract text where possible; flag unreadable binaries for user OCR):
+
+- pdf
+- md
+- txt
+- docx
+- pptx
+- jpg
+- png
+- scanned PDFs
+- OCR text
+- html
+
+---
+
+## Document classification engine
+
+Before generation, classify discovered files.
+
+### 1. Syllabus files
+
+Identify using:
+
+- syllabus keywords
+- unit or module structure
+- marks distribution
+- course code
+- prescribed readings
+- typical academic layout
+
+Examples: `syllabus.pdf`, `course-outline.docx`, `LCC0601.pdf`.
+
+**Priority:** highest. The syllabus is the **master content blueprint**.
+
+### 2. Previous year question papers (PYQ)
+
+Identify using:
+
+- university or board names
+- exam layout patterns
+- question numbering
+- marks distribution
+- phrases such as “attempt any”
+- semester or year in filename or body
+
+Extract:
+
+- repeated questions
+- trends
+- marks patterns
+- important topics
+- probable questions
+
+### 3. Reference material
+
+Textbooks, notes, guides, presentations, study packs, articles, digests — use to **enrich** explanations and examples.
+
+### 4. Bare acts and statutes
+
+Identify statutory drafting (sections, articles, definitions, provisos, explanations, amendments). Extract accurate **section or article** anchors for notes and answers.
+
+### 5. Case law material
+
+Identify case names, citations, party labels, holdings. Extract principles, ratios, tests, and **exam use** one-liners.
+
+### 6. Classroom notes
+
+Concise explanations, bullets, OCR of handwriting, lecturer emphasis — use for **exam focus** and revision weighting.
+
+---
+
+## Knowledge base construction
+
+After classification, build one unified legal knowledge base:
+
+- merge syllabus topics, references, PYQ signals, statutes, cases, and notes
+- deduplicate aggressively
+- preserve legal terminology, statutory wording, case names, and article or section references where verified
+
+---
+
+## Syllabus-first generation model
+
+The syllabus controls:
+
+- chapter or module order
+- hierarchy and topic boundaries
+- relative depth
+- output module alignment
+
+If several syllabus files exist, prefer the **latest or most complete**; merge only when boundaries stay clear.
+
+If **no** syllabus exists, infer structure from dominant statutes and reference headings, then label uncertainty in a short internal note (not a debug dump).
+
+---
+
+## Subject detection engine
+
+Infer subject from syllabus wording, dominant statutes, and vocabulary (examples: Constitutional Law, IPC, CrPC, CPC, Contract, Tort, Family Law, Jurisprudence, Labour Law, Administrative Law, IPR, Cyber Law, Company Law, International Law). Use the inferred label for folder naming and question IDs only after checking consistency with sources.
+
+---
+
+## Output structure generation
+
+Generate a **topper-style repository** under **`.temp/` only** (see strict location rule below).
+
+Example layout (subject slug as folder name):
+
+```text
+.temp/{subject-slug}/
+  00-syllabus-and-references/
+  01-complete-notes/
+  02-condensed-notes/
+  03-visual-aids/
+    Comparison_Tables/
+    Flowcharts/
+    Mind_Maps/
+  04-case-laws/
+    Module_Wise_Cases/
+  05-question-bank/
+    2_Marks/
+    5_Marks/
+    10_Marks/
+    15_Marks/
+    Distinguish_Between/
+  06-previous-papers/
+  07-quick-revision/
+  08-exam-strategy/
+  09-practice-worksheets/
+  README.md
+  NAVIGATION_INDEX.md
+```
+
+Align naming with **`sppu-llb-subject-folder-pack`** when the user wants SPPU LLB parity (for example `Module_<NN>_...`, `Q###_...`, question ID headers). Optional `06-previous-papers/` may hold PYQ index or extracted papers; if unused, add a one-line `README.md` explaining that.
+
+---
+
+## Content generation layers
+
+### Layer 1 — Complete notes
+
+Deep coverage: definitions, principles, classifications, statutes or articles, examples, cases, criticism and exceptions where exam-relevant. Optimized for first learning and long answers.
+
+### Layer 2 — Condensed notes
+
+Exam-ready: headings, keywords, article or section tags, doctrines, case names. Optimized for rapid revision.
+
+### Layer 3 — Visual aids
+
+Comparison tables, flowcharts, procedural trees, mind maps, article maps. Use markdown-first; simplify procedure and structure.
+
+### Layer 4 — Case law digests
+
+Landmark summary plus module-wise files. Per case: **Facts → Issue → Held → Principle → Exam relevance**; keep concise.
+
+### Layer 5 — Question bank
+
+2, 5, 10, and 15 mark questions; short notes; distinguish between; analytical and problem questions as the syllabus suggests. Each item should carry a **structured answer** (headings, point budget, statutes, cases). Prefer **one question per file** inside mark folders when following subject-folder-pack.
+
+### Layer 6 — Quick revision
+
+Mnemonics, one-line doctrines, article or section quick refs, last-hour checklists.
+
+### Layer 7 — Exam strategy
+
+Answer templates, presentation, common mistakes, scoring discipline.
+
+### Layer 8 — Practice worksheets
+
+Self-tests, module tests, mock papers, probable papers — link to question IDs where useful.
+
+---
+
+## Previous year question analysis
+
+From PYQs produce:
+
+- trend and repetition mapping
+- topic weightage
+- probable questions
+- unit importance ranking
+
+Prioritize repeated doctrines, recurring cases, and high-frequency provisions.
+
+---
+
+## Answer writing format
+
+For major answers use a clear scaffold:
+
+1. Introduction
+2. Meaning or definition
+3. Essential elements (with **explicit counts** where applicable)
+4. Detailed explanation
+5. Case laws
+6. Criticism or exceptions (if asked or brief value-add)
+7. Conclusion
+
+---
+
+## Count-based presentation rule
+
+State explicit counts where it helps the examiner (for example “7 characteristics”, “5 essentials”, “4 exceptions”). Match counts to the syllabus or verified source; do not invent numbers.
+
+---
+
+## Legal accuracy rules
+
+Do **not** invent sections, articles, case names, amendments, or citations. When uncertain, omit or say “verify in bare act or official source” rather than guessing. Prefer exact references only when supported by classified inputs.
+
+---
+
+## Content style
+
+Write like topper notes, academic handbook, and model-answer repository: clear, structured, legally literate. Avoid conversational filler, generic AI tone, motivation-only prose, and padding.
+
+---
+
+## Deduplication rules
+
+Do not paste the same long block unchanged across complete notes, question bank, and revision sheets. **Compress and cross-link**; one deep treatment, then shorter recall elsewhere.
+
+---
+
+## File naming rules
+
+Use consistent academic naming: kebab-case or `Module_<NN>_Title.md`, `Q###_Topic.md`, `D###_A_vs_B.md`, aligned with subject-folder-pack when generating SPPU-style packs.
+
+---
+
+## Output location rule
+
+All generated content for this rule’s runs MUST stay under:
+
+- **`.temp/`** (for example `.temp/{subject-slug}/` as above)
+
+Do not write generated pack content to `Academics/` or other repo paths **unless the user explicitly overrides** this rule for that run (then follow the user’s path and do not silently overwrite large trees).
+
+---
+
+## Strict prohibitions
+
+Never:
+
+- create debug files, raw metadata dumps, or temporary logs as deliverables
+- generate off-syllabus topic trees without flagging inference
+- hallucinate legal material
+- ignore syllabus hierarchy when a syllabus exists
+
+---
+
+## Final quality target
+
+Output should resemble:
+
+- topper-quality notes
+- structured revision handbook
+- exam-ready answer repository
+
+It must stay **printable in markdown**, revision-friendly, academically structured, logically ordered, and as legally accurate as the inputs allow.

@@ -1,0 +1,39 @@
+---
+description: Personal GitHub user Dr0na for remotes, auth, and GitHub links
+alwaysApply: true
+---
+
+# Personal GitHub user (Dr0na)
+
+This repository is a **personal** GitHub project under the **`Dr0na`** account.
+
+## Git remotes and push or pull
+
+- Use **`Dr0na`** as the GitHub identity for **`origin`** and related remotes.
+- Prefer HTTPS with embedded user (avoids accidental rewrite to SSH if global
+  `insteadOf` maps plain `https://github.com/` to SSH):
+
+  `https://Dr0na@github.com/Dr0na/<repository>.git`
+
+- Alternative: SSH form `git@github.com:Dr0na/<repository>.git` when SSH keys
+  for **Dr0na** are configured on the machine.
+
+- Do **not** change `origin` to another user (for example `vnalwar`) unless the
+  user explicitly asks to move, fork, or transfer the repo.
+
+## GitHub CLI and credentials
+
+- For `gh auth login`, `gh pr`, `gh repo`, and similar actions for **this**
+  project, assume the active GitHub account should be **`Dr0na`**.
+- If `gh auth status` shows an invalid token for **Dr0na**, tell the user to run
+  `gh auth logout -h github.com -u Dr0na` then `gh auth login` as **Dr0na**,
+  and use `gh auth switch -u Dr0na` when multiple accounts exist.
+
+## Commits (optional)
+
+- If the user asks to set `user.name` / `user.email` for this repo to match
+  **Dr0na**, use the name and email they provide; do not invent an email.
+
+## Links in docs
+
+- Prefer GitHub URLs under `github.com/Dr0na/` when linking this project.

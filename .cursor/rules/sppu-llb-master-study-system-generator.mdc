@@ -1,0 +1,748 @@
+---
+description: >
+  Master SPPU LLB Knowledge-Driven Study Ecosystem Generator
+  (tiered content, PYQ intelligence, topper answers,
+  recursive knowledge-base construction; outputs MUST follow Subject Folder
+  Pack layout like Constitutional Law - II — not shallow ecosystem stubs)
+alwaysApply: true
+---
+
+# Master SPPU LLB Knowledge-Driven Study Ecosystem Generator
+
+## 🎯 SYSTEM OBJECTIVE
+
+Build a complete exam-oriented SPPU LLB study ecosystem from a single input directory containing:
+
+- syllabus
+- reference books
+- class notes
+- bare acts
+- judgments
+- case law notes
+- PYQs
+- summaries
+- legal materials
+- PDFs converted to markdown/text
+- nested folders/subfolders
+
+The system must:
+
+1. Recursively scan the entire input directory
+2. Discover and classify knowledge sources
+3. Build an internal hierarchical knowledge base
+4. Extract syllabus structure
+5. Prioritize concepts using PYQs
+6. Generate complete study artifacts
+7. Organize all outputs under `/.temp/`
+
+---
+
+## 🧠 PHASE 1 — KNOWLEDGE BASE CONSTRUCTION
+
+### Recursive Input Scanning
+
+Recursively scan ALL nested directories and files.
+
+The directory structure may vary and must NOT be assumed to follow fixed naming conventions.
+
+Use:
+
+- filenames
+- folder names
+- headings
+- keywords
+- document structure
+- semantic meaning
+
+to classify files.
+
+---
+
+### Knowledge Source Classification
+
+#### 📘 Syllabus Files
+
+Possible indicators:
+
+- syllabus
+- curriculum
+- module
+- semester
+- course outline
+- unit
+
+---
+
+#### 📚 Reference Material
+
+Possible indicators:
+
+- notes
+- textbook
+- handbook
+- guide
+- study material
+- reference
+- coaching notes
+
+---
+
+#### ⚖️ Bare Acts / Legal Texts
+
+Possible indicators:
+
+- act
+- constitution
+- legislation
+- sections
+- statute
+- bare act
+
+---
+
+#### ⚖️ Judgments / Case Laws
+
+Possible indicators:
+
+- judgment
+- case law
+- v.
+- vs.
+- supreme court
+- high court
+
+---
+
+#### 📝 PYQs / Question Papers
+
+Possible indicators:
+
+- pyq
+- previous year
+- exam paper
+- question paper
+- sppu paper
+- university paper
+
+---
+
+## 🧠 PHASE 2 — KNOWLEDGE BASE PRIORITIZATION
+
+Create an internal hierarchical knowledge base.
+
+Priority order:
+
+1. Syllabus
+2. PYQs
+3. Bare Acts
+4. Landmark Judgments
+5. Reference Books
+6. Lecturer Notes
+7. Supplementary Notes
+
+---
+
+### Knowledge Base Usage Rules
+
+#### Syllabus Defines
+
+- scope
+- hierarchy
+- topic boundaries
+- module structure
+
+---
+
+#### PYQs Define
+
+- importance
+- scoring probability
+- revision priority
+- likely questions
+
+---
+
+#### Reference Materials Enrich
+
+- conceptual clarity
+- explanations
+- examples
+- doctrines
+- illustrations
+- case laws
+
+---
+
+### DO NOT (knowledge sources)
+
+- blindly copy source material
+- generate textbook verbosity
+- overfit to one source
+- generate topics outside syllabus scope unless essential
+
+---
+
+## 🧠 PHASE 3 — SYLLABUS EXTRACTION
+
+Extract:
+
+Module → Topic → Subtopic
+
+Normalize:
+
+- naming
+- overlap
+- duplication
+
+Each topic becomes an independent generation unit.
+
+---
+
+## 📂 MULTI-FILE OUTPUT RULE
+
+Generated study material MUST match the **SPPU LLB Subject Folder Pack** layout. **In-repo reference:** `Academics/Law/SPPU/LLB - I/Semester - 2/Constitutional Law - II/` (deep `01-complete-notes`, per-module `02-condensed-notes` EXAM_READY files, `03-visual-aids` with Mind_Maps / Flowcharts / Comparison_Tables, `04-case-laws`, mark-sliced `05-question-bank` with **one question per file** and **full model answers in-file**, root `README.md`, `NAVIGATION_INDEX.md`, `📖_START_HERE.md`, `07-quick-revision`, `08-exam-strategy`, `09-practice-worksheets`).
+
+### Mandatory rule stack
+
+- **`sppu-llb-subject-folder-pack`** — folder tree `00–09`, naming (`Module_<NN>_...`, `Q###_...`, `D###_...`), navigation, mark buckets, distinguishers.
+- **`sppu-llb-topper-generator-ultimate`** — definition-first answers, hybrid body, case blocks, mark-based length inside notes and question files.
+
+### Where to write
+
+- Default staging: **`/.temp/<Subject-Slug>-subject-pack/`** (full tree).
+- Write under `Academics/.../<Subject>/` only when the user explicitly allows replacing or extending an existing pack.
+
+### Forbidden (shallow ecosystem)
+
+- Only `knowledge-base/` + one outline, or README-only trees.
+- Single “all modules” stub without **per-module** `01-complete-notes` and **per-module** `02-condensed-notes` EXAM_READY files.
+- Question bank as one markdown per module instead of **mark folders + one file per question + model answer**.
+
+---
+
+## 📁 OUTPUT STRUCTURE (subject folder pack)
+
+Under the output root, implement at least:
+
+- **`00-syllabus-and-references/`** — syllabus; pointers or copies for acts / PYQs used.
+- **`01-complete-notes/`** — **one long-form file per syllabus module:** `Module_<NN>_<Descriptive_Title>.md` (paragraphs, selective bullets, tables, case blocks: short facts → issue → holding → principle → article or section link).
+- **`02-condensed-notes/`** — **one EXAM_READY file per module:** `Module_<NN>_<Short_Label>_EXAM_READY.md` with Quick Stats, “What This Covers”, **COUNT** lists, mnemonics, exam trigger lines.
+- **`03-visual-aids/`** — `Mind_Maps/`, `Flowcharts/`, `Comparison_Tables/`; target **≥1 visual artifact per module** where syllabus supports it.
+- **`04-case-laws/`** — `Landmark_Cases_Summary.md` and `Module_Wise_Cases/Module_<NN>_..._Cases.md` per module as needed.
+- **`05-question-bank/`** — `2_Marks/`, `5_Marks/`, `10_Marks/`, `15_Marks/`; `Q<###>_<Title>.md` each with question metadata + **`## MODEL ANSWER`** section; `Distinguish_Between/`; `Topic_Weightage_and_Focus_Map.md`; probable-questions file (e.g. `Most_Probable_Questions_Next_Exam.md`). Respect `.markdownlint-cli2.yaml` if present under `05-question-bank/`.
+- **`07-quick-revision/`** — e.g. `Last_Hour_Checklist.md`, `All_Mnemonics_One_Page.md`, topic quick refs.
+- **`08-exam-strategy/`** — answer writing template + common mistakes (minimum).
+- **`09-practice-worksheets/`** — **≥2** practice tests spanning modules.
+
+### Root docs (mandatory)
+
+- **`README.md`**, **`NAVIGATION_INDEX.md`**, **`📖_START_HERE.md`** (or `START_HERE.md`).
+
+Optional `06-model-answers/` or `07-previous-papers/` — use only if populated; else one-line `README.md` stating unused.
+
+---
+
+## 🧩 AUTO TOPIC SPLITTING
+
+- **Complete notes:** one file **per syllabus module** (Constitutional Law II style), not one thin spine for the whole course unless the user explicitly asks for outline-only.
+- **Condensed:** one **EXAM_READY** file **per module**, paired with `01-complete-notes/`.
+- **Question bank:** **one file per question** in the correct mark folder; each file includes a **full** model answer for that mark range; no mixing unrelated topics in one question file.
+- **No topic mixing** in single-topic artifacts; cross-topic only in worksheets or stated revision aggregates.
+
+---
+
+## 🧠 DIFFICULTY TAGGING
+
+Every topic must contain:
+
+🎚️ Difficulty:
+
+- 🟢 Easy → factual/direct
+- 🟡 Medium → conceptual
+- 🔴 Hard → analytical/case-law-heavy
+
+---
+
+## 📚 SUBJECT-SPECIFIC TUNING
+
+### ⚖️ Constitutional Law
+
+Focus on:
+
+- Articles
+- Doctrines
+- Judicial interpretation
+- Landmark Supreme Court cases
+
+Always include:
+
+- article references
+- doctrine explanation
+- constitutional principles
+
+---
+
+### ⚖️ Jurisprudence
+
+Focus on:
+
+- thinkers
+- schools of thought
+- definitions
+- philosophical comparison
+
+---
+
+### ⚖️ Criminal Law
+
+Focus on:
+
+- ingredients
+- essential elements
+- illustrations
+- landmark criminal cases
+
+---
+
+### ⚖️ Family Law
+
+Focus on:
+
+- statutory provisions
+- practical application
+- judicial interpretation
+
+---
+
+### ⚖️ Contract Law
+
+Focus on:
+
+- essentials
+- examples
+- practical application
+- case laws
+
+---
+
+## ✍️ TOPPER WRITING STYLE ENGINE
+
+Content must resemble:
+
+- topper handwritten notes
+- coaching material
+- concise textbook explanation
+
+NOT:
+
+- AI bullet dumps
+- skeletal outlines
+- verbose textbook content
+
+---
+
+## 🧠 HUMAN-FRIENDLY READABILITY ENGINE
+
+Use balanced formatting:
+
+- short conceptual paragraphs
+- numbered points
+- selective bullets
+- comparison tables
+- flowcharts
+
+---
+
+### DO
+
+- explain concepts before listing
+- maintain conceptual continuity
+- preserve natural flow
+- keep explanations crisp
+
+---
+
+### DO NOT (readability)
+
+- over-fragment
+- create bullet-only content
+- create giant dense paragraphs
+
+---
+
+## 🎨 ICON USAGE RULE
+
+### Main Section Icons
+
+- 📘 Topic Name
+- 🧠 Introduction
+- 📖 Main Content
+- 🧩 Elements / Principles
+- ⚖️ Case Laws
+- 🧾 Conclusion
+- 🧠 Memorisation Toolkit
+- 📝 Questions
+- 🧾 Model Answers
+
+---
+
+### Subsection Icons
+
+- 🔹 Subheading
+- ✅ Important Point
+- ⚡ Quick Revision
+- 🗺️ Mind Map
+- 🧩 Mnemonics
+- 📊 Tables
+- 🔁 PYQ
+- ⭐ Important
+- 🔥 High Probability
+
+---
+
+## 📘 COMPLETE NOTES GENERATOR
+
+Generate detailed but crisp notes.
+
+---
+
+### 🧠 Introduction (complete notes)
+
+Include:
+
+- definition
+- context
+- importance
+
+Length:
+
+- 1–2 concise paragraphs
+
+---
+
+### 📖 Main Content
+
+Use:
+
+- explanatory paragraphs
+- numbered headings
+- supporting bullets
+- examples
+- case laws
+
+---
+
+### 🧩 Elements / Principles
+
+Use:
+
+- numbered explanation
+- conceptual clarity
+
+---
+
+### ⚖️ Case Laws (complete notes)
+
+Each case:
+
+- case name
+- facts
+- judgment
+- legal principle
+
+Priority:
+
+1. Landmark
+2. PYQ repeated
+3. Supporting
+
+---
+
+### 🧾 Conclusion (complete notes)
+
+Short analytical summary.
+
+---
+
+## 📄 CONDENSED NOTES GENERATOR
+
+Generate rapid revision notes.
+
+Rules:
+
+- concise
+- memory-oriented
+- exam-focused
+
+Include:
+
+- definitions
+- articles
+- sections
+- doctrines
+- case names
+- recall points
+
+Target:
+
+- 1–3 pages per topic
+
+---
+
+## 🧠 VISUAL AIDS GENERATOR
+
+Generate:
+
+### 🗺️ Mind Maps
+
+### 🔄 Flowcharts
+
+### 📊 Comparison Tables
+
+### 🧩 Mnemonics
+
+Use visual aids only where conceptually useful.
+
+---
+
+## ⚖️ CASE LAW COMPENDIUM GENERATOR
+
+Generate:
+
+- module-wise case law files
+- subject-wise summaries where useful
+
+Each entry:
+
+### Case-law entry format
+
+#### ⚖️ Case Name
+
+- Facts
+- Judgment
+- Legal Principle
+- Exam Importance
+
+Use:
+
+- 🔁 Repeated
+- ⭐ Important
+- 🔥 High Probability
+
+---
+
+## 📝 QUESTION BANK GENERATOR
+
+Generate:
+
+### 🎯 15 Mark Questions
+
+### 🎯 10 Mark Questions
+
+### 🎯 Problem-Based Questions
+
+Questions must:
+
+- follow PYQ trends
+- cover scoring concepts
+- maintain topic diversity
+
+---
+
+## 🔁 PYQ INTELLIGENCE ENGINE
+
+Identify:
+
+- repeated questions
+- repeated doctrines
+- repeated case laws
+- scoring areas
+- important themes
+
+Tag:
+
+- 🔁 Repeated
+- ⭐ Important
+- 🔥 High Probability
+
+Use PYQ insights to:
+
+- prioritize concepts
+- prioritize revision
+- prioritize answers
+- prioritize case laws
+
+---
+
+## 🧾 MODEL ANSWER GENERATOR
+
+Generate topper-style SPPU model answers.
+
+---
+
+## 📏 LENGTH ENGINE
+
+### 15 Marks
+
+- 700–1200 words
+- 6–10 major points
+- case laws
+- diagrams if useful
+
+---
+
+### 10 Marks
+
+- 400–700 words
+- 4–6 major points
+- crisp explanation
+
+---
+
+### Short Notes
+
+- 250–400 words
+
+---
+
+## 🟦 MODEL ANSWER STRUCTURE
+
+### 🧾 Answer Synopsis
+
+3–5 bullets:
+
+- intro idea
+- key arguments
+- conclusion insight
+
+---
+
+### 🧠 Introduction (model answer)
+
+Definition + context + importance
+
+---
+
+### 📖 Structured Hybrid Body
+
+Use:
+
+- short explanatory paragraphs
+- numbered headings
+- selective bullets
+- examples
+- case laws
+
+DO NOT:
+
+- generate bullet-only answers
+- over-fragment content
+
+---
+
+### ⚖️ Case Laws (model answers)
+
+Use:
+
+- 2–5 highly relevant cases
+
+---
+
+### 📊 Diagram / Flowchart
+
+AUTO INCLUDE when:
+
+- hierarchy exists
+- process exists
+- comparison helps memory
+- classification exists
+
+---
+
+### 🧾 Conclusion (model answer)
+
+Short analytical closing.
+
+---
+
+## 🧠 MEMORISATION TOOLKIT
+
+Every topic must include:
+
+- 🧩 Mnemonics
+- 🗺️ Mind Maps
+- ⚡ Quick Revision Points
+
+---
+
+## 📊 SMART ENHANCEMENTS
+
+Use:
+
+- mini summaries
+- comparison tables
+- process flowcharts
+- legal test breakdowns
+
+---
+
+## 📊 OUTPUT RULES
+
+Generated content must be:
+
+- **Constitutional Law II density** when the user asks for a full pack: long-form `01-complete-notes`, scannable `02-condensed-notes` EXAM_READY files, real question files with **full model answers**, not summaries of what “could” be written.
+- cleanly formatted
+- revision-friendly
+- crisp
+- moderately detailed to **deep** where marks demand (15-mark answers and module notes)
+- human-readable
+- exam-oriented
+
+---
+
+### DO NOT (output hygiene)
+
+- add commentary
+- add metadata
+- add debug text
+- clutter markdown
+- substitute **indexes, inventories, or “outline only”** packs for the subject-folder-pack deliverables unless the user explicitly requests outline-only
+
+---
+
+## 🚫 CONSTRAINTS
+
+DO NOT:
+
+- create bullet dumps
+- generate skeletal notes
+- over-elaborate
+- mix topics
+- create unnecessary files
+- emit **shallow ecosystem** output (e.g. only `knowledge-base/` + one combined outline; single `Probable_Questions` without mark folders and per-question files)
+
+ALWAYS:
+
+- optimize for revision
+- preserve readability
+- maintain conceptual flow
+- optimize for scoring potential
+- follow **`sppu-llb-subject-folder-pack`** tree and naming for any “full study material” or “subject pack” request
+- pair **`01-complete-notes`** and **`02-condensed-notes`** **per module** and wire them in **`NAVIGATION_INDEX.md`** and **`📖_START_HERE.md`**
+
+---
+
+## 🚀 EXECUTION ENGINE
+
+The system must:
+
+1. Recursively scan the input directory (or subject root the user names).
+2. Discover syllabus and references automatically; classify PYQs, acts, cases, notes.
+3. Build the internal knowledge base (priorities: syllabus → PYQs → statutes → cases → references).
+4. Extract syllabus hierarchy (Module → Topic → Subtopic).
+5. Prioritize concepts using PYQs when present; otherwise use syllabus weighting and statutory density.
+6. **Create the full `00–09` folder tree** per `sppu-llb-subject-folder-pack` under **`/.temp/<Subject-Slug>-subject-pack/`** unless the user authorizes writing into `Academics/.../<Subject>/`.
+7. **Populate** `01-complete-notes` (one file per module), `02-condensed-notes` (one EXAM_READY per module), `03-visual-aids` (subfolders + files), `04-case-laws`, `05-question-bank` (mark buckets + distinguishers + weightage + probable questions), `07-quick-revision`, `08-exam-strategy`, `09-practice-worksheets` (≥2 tests).
+8. Write **`README.md`**, **`NAVIGATION_INDEX.md`**, **`📖_START_HERE.md`** at the pack root with **working relative links** to the files created.
+9. Run **markdownlint** (or respect existing `.markdownlint-cli2.yaml` under `05-question-bank/` or subject root) on new/edited markdown where configured.
+10. Reply with **module count**, **counts of question files by mark folder**, and paths to **START_HERE** and **NAVIGATION_INDEX** — not a generic “ecosystem generated” one-liner.

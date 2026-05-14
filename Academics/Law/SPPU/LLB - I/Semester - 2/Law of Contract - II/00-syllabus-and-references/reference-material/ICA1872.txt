@@ -1,0 +1,1160 @@
+   Indian Contract Act, 1872
+
+
+
+                                                Overview of
+                                                the chapter
+                                                  Section 124 - 238
+
+
+ Contract of              Contract of             Contract of            Contract of            Contract of
+ Indemnity -              Guarantee -             Bailment -              Pledge -               Agency -
+ Section 124 & 125         Section 126-147        Section 148-171        Section 172-181         Section 182-238
+
+
+Contract of Indemnity – Section 124 and 125
+
+  A) Meaning of Contract of Indemnity – Section 124
+         Contract of indemnity can be defined as a legal contract between two persons whereby
+           one party commits to indemnify, i.e. to compensate or reimburse, the loss incurred to
+           the other party, by the conduct of the party, who is making the promise or by the
+           conduct of the third party.
+         Person who promises to save the other party from
+           loss is called as indemnifier
+         Person who is promised to be saved against loss is
+           called as indemnity holder.
+         The contract of indemnity is a form of contingent
+           contract
+         The object of contract of Indemnity should not be
+           unlawful.
+               Examples –
+                    1) Beta Insurance Company entered into a contract with Alpha Ltd., to compensate for
+                       loss caused by accidental fire to the company’s stock of goods up to Rs. 50,00,000 for
+                       a premium of Rs. 1,00,000. This is an express form of a contract of indemnity.
+                    2) Baburao asks Shyam to beat Raju promising to indemnify Shyam against the
+                       consequences. Shyam beats Raju and is fined rupees 1 lakh. Now, Shyam cannot
+                       claim this amount from Baburao because the object of the agreement is illegal
+               Note –Contract of Fire insurance and Contract of Marine Insurance are examples of contract
+               of Indemnity but Contract of Life Insurance is not a contract of indemnity
+
+  B) Rights of Indemnity Holder – Section 125
+      Any kind of damages which the indemnity holder is bound to pay in any suit concerned with
+         any issue to which the contract of indemnity applies.
+      Any expenses which the indemnity holder is bound to pay, so as to bring or defend the suit.
+      All the amount which the indemnity holder has paid, in connection to the settlement of the
+         suit.
+
+Contract of Guarantee – Section 126 - 147
+
+Meaning of Contract of Guarantee – Section 126
+ - A "contract of guarantee" is a contract to perform the promise, or discharge the liability, of a
+     third person in case of his default.
+ - A guarantee may be either oral or written.
+                                                 There are 3 parties to contract of
+                                                           Guarantee –
+
+
+
+
+               Principal Debtor -
+                                                                Surety -                                   Creditor -
+           The person in respect of
+                                                    The person who gives the                    the person to whom the
+              whose default the
+                                                     guarantee is called the                   guarantee is given is called
+          guarantee is given is called
+                                                            "surety"                                 the "creditor"
+            the "principal debtor"
+
+
+
+                                         Principal Contract -
+                                          Between PD and
+                                               creditor                    Example –
+                                                                           Bahubali advances a loan of rupees 10,000 to
+                                                                           Bhallal Dev. Kattappa who is the boss of Bhallal
+   There are 3 Contracts                                                   Dev promises that in case Bhallal Dev fails to
+                                       Secondary Contract -                repay the loan, then he will repay the same. In
+      in contract of
+                                      Between surety and PD
+       Guarantee –                                                         this case of a contract of guarantee, Bahubali is
+                                                                           the Creditor, Bhallal Dev the principal debtor and
+                                                                           Kattappa is the Surety.
+                                              implied -
+                                      Between Surety and PD
+
+
+
+ Consideration under contract of guarantee – Section 127
+Anything done, or any promise made, for the benefit of the principal debtor, may be a sufficient
+consideration to the surety for giving the guarantee.
+
+ Example –
+ Mari requests Salman to sell and deliver to him goods on credit. Salman agrees to do so, provided Sunil
+ will guarantee the payment of the price of the goods. Sunil promises to guarantee the payment in
+ consideration of Salman 's promise to deliver the goods to Mari.
+ This is a sufficient consideration for Sunil 's promise.
+
+ Surety’s liability – Section 128
+   - The liability of the surety is co- extensive with that of the principal debtor, unless it is otherwise
+       provided by the contract.
+   - In simple words, the surety is liable for what the PD is liable.
+   - Liability of surety is secondary
+
+ Types of guarantee –
+
+                                           There are 2 types of guarantee
+
+
+
+
+                                                                                 Continuing guarantee -
+               Specific guarantee -
+                                                                                      Section 129 -
+ Guarantee which is only for a specific transaction
+                                                                              Guarantee which continues for
+                                                                                   series of tansactions
+
+
+                                             Liability of surety –
+     1) In case of specific guarantee – limited only up to the particular transaction
+     2) In case of continuing guarantee – liability continues till the discharge of all the transactions or
+        withdrawal of all the transactions
+ Discharge of surety –
+
+
+
+                                             Modes of discharge
+
+
+
+
+                                                                                   By invalidation of Contract of
+          By revocation                       By conduct of creditor
+                                                                                             guarantee
+
+
+
+
+ Revocation of continuing guarantee –         Revocation of continuing guarantee by
+ Section 130                                  surety’s death – Section 131
+ A continuing guarantee may at any            The death of the surety results into
+ time be revoked by the surety, as to         revocation of a continuing guarantee with
+ future transactions, by notice to the        respect to future transactions. However,
+ creditor.                                    surety’s estate remains liable for past
+                                              transactions which have already taken place
+
+Liability of two persons, primarily liable, not affected by arrangement between them that one shall be
+surety on others default – Section 132
+Where two persons contract with a third person to undertake a certain liability, and also contract with
+each other that one of them shall be liable only on the default of the other, the third person not being a
+party to such contract, the liability of each of such two persons to the third person under the first
+contract is not affected by the existence of the second contract, although such third person may have
+been aware of its existence.
+
+ Example –
+    a) Salman and Shahrukh make a joint and several promissory note to Amir.
+    b) Salman makes it, in fact, as surety for Shahrukh, and Amir knows this at the time when the note is
+       made.
+    c) The fact that Salman, to the knowledge of Amir, made the note as surety for Shahrukh, is no answer
+       to a suit by Amir against Salman upon the note. In simple words, Amir can recover amount from
+       Salman as well as Shahrukh.
+
+    1) Discharge of surety by the conduct of the creditor –
+        Discharge of surety by variance in terms of contract. – Section 133
+           Any changes made in the terms of the contract between the principal debtor and the
+           creditor without the surety’s consent, discharges the surety as to transactions subsequent
+           to the change.
+            Examples –
+                1) Akshay becomes surety to Chunkey for Bilal conduct as a manager in Chunkey's bank.
+                    Afterwards, Bilal and Chunkey contract, without Akshay's consent, that Bilal’s salary shall
+                    be raised, and that he shall become liable for one-fourth of the losses on overdrafts. Bilal
+                    allows a customer to overdraw, and the bank loses a sum of money. Akshay is discharged
+                    from his suretyship by the variance made without his consent and is not liable to make
+                    good this loss.
+                2) Chunkey agrees to appoint Bilal as his clerk to sell goods at a yearly salary, upon Akshay 's
+                    becoming surety to Chunkey for Bilal 's duly accounting for moneys received by him as
+                    such clerk. Afterwards, without Akshay’s knowledge or consent, Chunkey and Bilal agree
+                    that Bilal should be paid by a commission on the goods sold by him and not by a fixed
+                    salary. Akshay is not liable for subsequent misconduct of Bilal.
+            3) Chunkey contracts to lend Bilal 5,000 rupees on the 1st March. Akshay guarantees
+               repayment. Chunkey pays the 5,000 rupees to Bilal on the 1st January. Akshay is
+               discharged from his liability, as the contract has been varied.
+
+
+      Discharge of surety by release or discharge of principal debtor – Section 134
+       The surety is discharged by any contract between the creditor and the principal debtor, by
+       which the principal debtor is released, or by any act or omission of the creditor, the legal
+       consequence of which is the discharge of the principal debtor.
+
+      Discharge of surety when creditor compounds with, gives time to, or agrees not to sue,
+       principal debtor – Section 135
+       A contract between the creditor and the principal debtor, by which the creditor makes a
+       composition (settlement) with principal debtor, or promises to give time to principal
+       debtor for repayment, or promises not to sue the principal debtor, then the surety will be
+       discharged. However, surety will not be discharged if he assents to such terms.
+
+
+                           Cases where surety is not discharged – 136 to 138
+
+  Case 1 = Surety not discharged when agreement made with third person to give time to principal
+   debtor – Section 136
+   Where a contract to give time to the principal debtor is made by the creditor with a third person, and
+   not with the principal debtor, the surety is not discharged.
+
+
+  Case 2 = Creditor's forbearance (delay) to sue does not discharge surety – Section 137
+   Mere forbearance on the part of the creditor to sue the principal debtor or to enforce any other remedy
+   against him does not, in the absence of any provision in the guarantee to the contrary, discharge the
+   surety.
+
+  Case 3 = Release of one co-surety does not discharge others – Section 138
+   Where there are co-sureties, a release by the creditor of one of them does not discharge the others;
+   neither does it free the surety so released from his responsibility to the other sureties.
+
+
+      Discharge of surety of creditor's act or omission impairing surety's eventual remedy –
+       Section 139 –
+       If the creditor does any act which is inconsistent with the rights of the surety, or omits to do
+       any act which his duty to the surety requires him to do, and the eventual remedy of the
+       surety himself against the principal debtor is thereby impaired, the surety is discharged.
+
+      Loss of security – Section 141
+       If the creditor parts with or loses any security given to him at the time of the guarantee,
+       without the consent of the surety, the surety is discharged from liability to the extent of the
+       value of the security.
+
+
+2) Discharge of surety by invalidation of Contract of guarantee
+    Guarantee obtained by misrepresentation – Section 142
+       When a misrepresentation is made by the creditor or with his knowledge or consent,
+       relating to a material fact in the contract of guarantee, the contract is invalid
+
+      Guarantee obtained by concealment – Section 143
+       When a guarantee is obtained by the creditor by means of keeping silence regarding some
+       material part of circumstances relating to the contracts, the contract is invalid
+
+      Failure of co-surety to join as a surety – Section 144
+          When a contract of guarantee provides that a creditor shall not act on it until another
+          person has joined in it as a co-surety, the guarantee is not valid if that other person does not
+          join.
+
+Rights of surety –
+
+
+                                                      Rights of surety
+
+
+
+                                                                                               Against the co-
+                                                              Against the
+              Against the PD                                                                   sureties - Right
+                                                               creditor
+                                                                                               to contribution
+
+
+
+
+      Right of                Right of                                                         Right to share
+                                                Right to security        Right to set-off
+    subrogation             indemnity                                                            reduction
+
+
+
+  A) Rights against Principal Debtor –
+     1) Rights of subrogation – Section 140
+         If surety has made the payment to creditor on behalf of PD then surety will have all the
+         rights that creditor had against the PD
+     2) Right of indemnity – Section 145
+         In every contract of guarantee there is an implied promise by the principal debtor to
+         indemnify the surety, and the surety is entitled to recover from the principal debtor
+         whatever sum he has rightfully paid under the guarantee, but no sums which he has paid
+         wrongfully.
+
+  B) Rights Against the creditor –
+     1) Surety's right to benefit of creditor's securities – Section 141
+         a) A surety is entitled to the benefit of every security which the creditor has against the
+              principal debtor at the time when the contract of suretyship is entered into, whether
+              the surety knows of the existence of such security or not;
+         b) And if the creditor loses, or, without the consent of the surety, parts with such security,
+              the surety is discharged to the extent of the value of the security.
+     2) Right to set off –
+         if the creditor sues the surety, for the payment of principal debtor’s liability then the surety
+         may have the benefit of the set off, if any, that the PD had against the creditor.
+     3) Right to share reduction –
+         The surety has to claim the proportionate reduction in his liability if the PD becomes
+         insolvent
+
+  C) Rights Against Co-sureties –
+     1) Co-sureties liable to contribute equally – Section 146
+         Where two or more persons are co-sureties for the same debt or duty, either jointly or
+         severally, and whether under the same or different contracts, and whether with or without
+         the knowledge of each other, the co-sureties, in the absence of any contract to the contrary,
+         are liable, as between themselves, to pay each an equal share of the whole debt, or of that
+         part of it which remains unpaid by the principal debtor
+     Examples –
+         1) Anil, Bilal and Chunkey are sureties to Dinesh for the sum of 3,000 rupees lent to Mukesh.
+              Mukesh makes default in payment. Anil, Bilal and Chunkey are liable, as between themselves, to
+              pay 1,000 rupees each.
+         2) Anil, Bilal and Chunkey are sureties to Dinesh for the sum of 1,000 rupees lent to Mukesh, and
+              there is a contract between Anil, Bilal and Chunkey that Anil is to be responsible to the extent of
+              one-quarter, Bilal to the extent of one- quarter, and Chunkey to the extent of one-half. Mukesh
+                 makes default in payment. As between the sureties, Anil is liable to pay 250 rupees, Bilal 250
+                 rupees, and Chunkey 500 rupees.
+
+
+    D) Liability of co-sureties bound in different sums – Section 147
+       Co-sureties who are bound in different sums are liable to pay equally as far as the limits of their
+       respective obligations permit.
+
+          Examples –
+              A, B and C, as sureties for D, enter into three several bonds, each in a different penalty, namely,
+                 A in the penalty of each 10,000 rupees, B in that of 20,000 rupees, C in that of 40,000 rupees,
+                 conditioned for D's duly accounting to E. D makes default to the extent of 30,000 rupees. A, B and
+                 C are each liable to pay 10,000 rupees.
+              A, B and C, as sureties for D, enter into three several bonds, each in a different penalty, namely,
+                 A in the penalty of 10,000 rupees, B in that of 20,000 rupees, C in that of 40,000 rupees,
+                 conditioned for D's duly accounting to E. D makes default to the extent of 40,000 rupees. A is
+                 liable to pay 10,000 rupees, and B and C 15,000 rupees each.
+              A, B and C, as sureties for D, enter into three several bonds, each in a different penalty, namely,
+                 A in the penalty of 10,000 rupees, B in that of 20,000 rupees, C in that of 40,000 rupees,
+                 conditioned for D's duly accounting to E. D makes default to the extent of 70,000 rupees. A, B and
+                 C have to pay each the full penalty of his bond.
+
+
+                                 Contract of Bailment – Section 148-171
+
+  Meaning of Bailment – Section 148
+   1) A bailment is a transaction whereby one person delivers goods to another person for some
+       purpose, upon a contract that they are, when the purpose is accomplished to be returned or
+       otherwise disposed of according to the directions of the person delivering them
+   2) Bailment is an act of delivering goods to a bailee for a particular purpose, without transfer of
+       ownership.
+   3) Bailment is derived from French word ‘ballier’ which means ‘to deliver’
+   4) The person who delivers the goods is called the bailor and the person to whom they are
+       delivered is called the bailee.
+   5) The ownership of the goods remains with the bailor, the bailee getting only the possession
+
+  Essential elements of contract of bailment –
+1. Contract
+2. Delivery of goods and delivery can be –
+          a) Actual delivery
+          b) Symbolic delivery
+          c) Constructive delivery
+3. There should be purpose
+4. Possession
+5. Return of goods
+
+  Forms of bailment –
+                                                   (1)Delivery of goods
+                                                     by one person to
+                                                  another to be held for
+                                                   the bailor's purpose.
+                            Finder of
+                             Goods.                                                  Gratuitous
+                                                                                      bailment
+
+
+
+
+                                                        Forms of
+                    Delivering                          bailment
+                                                                                             Hiring of
+                    goods for                                                                 goods
+                     carriage
+
+
+
+                                   Delivering goods
+                                                                    (1)Delivering goods
+                                   for repair with or
+                                                                   to a creditor to serve
+                                        without
+                                                                   as security for a loan.
+                                     remuneration
+
+
+
+
+                                        There are two types of contract of bailment –
+
+
+
+
+                   Gratuitous bailment -                                          Non- gratuitous bailment -
+      Free of charge either for the benefit of bailor or              both the parties get some benefit
+      for the benefit of the bailee
+
+
+
+Duties of bailor –
+  A) To disclose faults in the goods – Section 150
+         It is the duty of the bailor to disclose to the bailee faults in the goods bailed, of which the
+            bailor is aware
+         The bailor is bound to disclose to the bailee faults which materially interfere with the use
+            of them, or expose the bailee to extraordinary risks
+         And if he does not make such disclosure, he is responsible for damage arising to the bailee
+            directly from such faults
+         If such goods are bailed for hire, the bailor is responsible for such damage, whether he was
+            or was not aware of the existence of such faults in the goods bailed
+
+  B) To bear extra-ordinary expenses – Section 158
+       It is the duty of the bailor to pay extra ordinary expenses to bailee if the bailement is non-
+         gratuitous
+       It is the duty of the bailor to pay all the expenses to the bailee in case of gratuitous
+         bailment
+
+  C) Duty to indemnify bailee for premature termination – Section 159
+     The bailor should compensate the bailee for the loss or damage suffered by the bailee that is in
+     excess of the benefit received in case where bailor has lent the goods gratuitously and decides
+     to terminate the bailment before the expiry of period of bailment.
+
+  D) The bailor is responsible to the bailee for any loss which the bailee may sustain - Section 164
+  E) Duty to take the goods back –
+       It is the duty of the bailor to receive the goods back.
+       If he does not receive the goods back, bailor is liable to compensate bailee for all the
+         necessary expenses incurred.
+
+Duties of bailee –
+  A) To take proper care of goods – Section 151
+        According to section 151, it is the duty of a bailee to take care of goods bailed to him
+        Bailee should take care of these goods as an ordinary man will take care of his goods of the
+            same value, quality, and quantity
+        Thus, if the bailee takes due care of goods then he will not be liable for any loss, deterioration
+            of such goods.
+        Also, the bailee needs to take the same degree of care of goods whether the bailment is for
+            reward or gratuitous.
+        However, the bailee is not liable for any loss due to the happening of any act by God or public
+            enemies though he agrees to take special care of the goods.
+
+  B) Not to make unauthorize use of goods bailed –
+       As per section 153, the Bailee shall not make any unauthorized use of goods bailed.
+       In case he makes any unauthorized use, then bailor can terminate the bailment.
+       Bailor can also claim for damages caused to goods bailed due to unauthorized use as per
+          Section 154.
+
+  C) Keeps goods separate from his own goods –
+     1) The bailee needs to keep the goods separately from his own goods.
+     2) He should not mix the goods under bailment with his own goods.
+     3) In case bailee mixes the goods with his own goods without the consent of the bailor, then:
+        a) Bailor also has an interest in the mixture
+        b) If the goods can be separated or divided, the property in the goods remains with both
+             the parties.
+        c) But, the bailee bears the expenses of separation or any damages arising from the
+             mixture.
+        d) If it is not possible to separate the goods, the bailee shall compensate the bailor for the
+             loss of goods.
+
+  D) Not to set adverse title –
+     A bailee must not set an adverse title to the goods bailed.
+
+
+  E) Return Goods – Section 160 and 161
+     a) The duty of the bailee is to return the goods without demand on the accomplishment of the
+        purpose or the expiration of the time period.
+     b) In case of his failure to do so, he shall be liable for the loss, destruction, deterioration, damages
+        or destruction of goods even without negligence
+
+  F) Return increase or profits – Section 163
+     A bailee shall return the goods along with any increase or profit accruing to the goods to the bailor,
+     in the absence of any contract to the contrary. For example, A leaves a hen in the custody of B. The
+     hen gets a chick. B shall deliver the hen along with the chick to A.
+
+Rights of bailor –
+   1) Right to terminate bailment – Section 153
+       A contract of bailment is voidable at the option of the bailor, if the bailee does any act with
+       regard to the goods bailed, inconsistent with the conditions of the bailment
+   2) Return of goods – Section 159
+       When the goods are bailed for consideration, the bailor has the right to demand their returns as
+       and when he wants even if he lent them for a specific period of time or purpose.
+   3) Right to sue bailee –
+       The bailor has thee right to sue bailee for enforcing all the liabilities and duties of him and it
+       includes –
+       a) Right to claim compensation for loss caused to the goods because of negligence of bailee.
+     b) Right to claim damages for unauthorized use of goods.
+     c) Right to demand back the goods.
+     d) Right to any accretion to the goods bailed.
+     e) Right to claim compensation for unauthorized mixing of goods.
+  4) Right to file suit against wrong doer – Section 180 & 181
+
+
+        Suit by a bailor and bailee against wrong doers –          Apportionment of relief or compensation
+        Section 180                                                obtained by such suits – Section 181
+            a) If a third person wrongfully deprives the           Whatever is obtained by way of relief or
+                 bailee of the use or possession of the            compensation in any such suit shall be distributed
+                 goods bailed, or does them any injury             between bailor and bailee as per their respective
+                 then the bailee is entitled to use such           interest.
+                 remedies as the owner might have used
+                 in the situation if no bailment was made.
+            b) Bailee or bailor can file suit against a third
+                 person for any damages suffered or injury
+                 caused.
+
+Rights of bailee –
+   1) Right to deliver the goods to any one of the joint bailors – Section 165
+       If several joint owners bailed the goods, the bailee has a right to deliver them to any one of the
+       joint owners unless there was a contract to the contrary.
+       Example: A, B and C are the joint owners of a harvesting combine. They delivered it on hire to
+       D for one month. After the expiry of one month, D may return the “combine” to any one of
+       the joint owners namely, A, B or C.
+
+  2) Right to deliver the goods to bailor without title –
+     If the bailor has no title to the goods, and the bailee in good faith delivers them back to or
+     according to directions of the bailor, the bailee is not responsible to the owner in respect of
+     such delivery.
+
+  3) Right to apply to court to decide the title to the goods – section 167
+     If the goods bailed are claimed by the person other than the bailor, the bailee may apply to the
+     court to stop its delivery and to decide the title to the goods.
+     Example: Deepika, a dealer in T.V. delivered a T.V. to Rhea for using in summer vacation.
+     Subsequently, Shraddha claimed that the T.V. belonged to her as it was delivered only for
+     repairs, to Deepika and thus, Rhea should deliver it to her. In this case, Rhea may apply to the
+     Court to decide the question of ownership of the T.V. so that she may deliver it to the right
+     owner.
+
+  4) Right of Lien –
+     The bailee has a right to exercise lien i.e., to refuse to return the goods to the bailor until his
+     lawful charges are paid to him.
+     a) Particular lien - Where the bailee has, in accordance with the purpose of the bailment,
+         rendered any service involving the exercise of labour or skill in respect of the goods bailed,
+         he has, in the absence of a contract to the contrary, a right to retain such goods until he
+         receives due remuneration for the services he has rendered in respect of them.
+     b) General lien - A general lien is a type of lien used by the lien-holder to retain any of the
+         debtor’s goods in the possession of the lien-holder until any debt due from the debtor has
+         been paid. Insurance brokers, packers, stockbrokers and bankers have a general lien over
+         the property of their clients or customers
+
+  5) Right to indemnity – Section 166
+     a) Bailee should be indemnified by the bailor for any loss incurred to him by reasons that the
+         bailor was not entitled to make the bailment or to receive back the goods or to give
+         directions in respect to them.
+     b) If the bailor has no title to the goods, and the bailee, in good faith, delivers them back to, or
+         according to the directions of, the bailor, the bailee is not responsible to the owner in
+         respect of such delivery
+
+  6) Right to claim compensation in case of faulty goods – Section 150
+     Bailee is entitled to claim compensation from the bailor or any loss caused to him due to failure
+     of the bailor to disclose any faults in the goods known to him
+      Note –
+      If the bailment is for hire, the bailor will be liable to compensate even if he had not knowledge
+      of faults in the goods.
+
+  7) Right to Claim extraordinary damages –
+     If bailee is required to incur any extraordinary expenses then he can hold the bailor liable for
+     such expenses.
+
+        BASIS FOR                         GENERAL LIEN                               PARTICULAR LIEN
+       COMPARISON
+     Meaning                 General lien alludes to the right to keep   Particular lien implies a right of the
+                             possession of goods belonging to other      bailee to retain specific goods bailed for
+                             against general balance of account.         non-payment of amount.
+     Availability            Any goods, in respect of which the          Only against the goods, in which skill
+                             amount is due to another person.            and labor is exercised.
+     Automatic               No                                          Yes
+     Right to sale goods     No right to sale the goods.                 In general, there is no right to sell goods,
+                                                                         however, the right can be conferred to
+                                                                         bailee in special circumstances.
+     Exercised by            Bankers, Wharfngers, factors, policy        Bailee, pledgee, finder of goods, agent,
+                             brokers, attorneys etc.                     partner, unpaid seller etc.
+
+
+Termination of bailment –
+  1. When the period or purpose is over:
+      In case the bailment is for a specific period or purpose, it is terminated on the expiry of that
+      period or on the completion of the purpose.
+  2. When the bailee makes unauthorized use of the goods:
+      In case the bailee makes unauthorized use of the goods bailed, the bailment is voidable at the
+      option of the bailor.
+  3. When the subject-matter is destroyed or becomes illegal:
+      In case the subject-matter is destroyed or becomes illegal, the bailment is terminated.
+  4. At the will of the bailor:
+      Where the bailment is gratuitous, it can be terminated merely at the sweet will of the bailor.
+      However, the termination should not cause loss to the bailee in excess of the benefit derived by
+      him. In case the loss exceeds the benefit derived by the bailee, the bailor must compensate the
+      bailee for such a loss.
+  5. When the bailor or bailee dies:
+      A gratuitous bailment is terminated by the death of the bailor or bailee.
+
+                                                Finder of goods –
+    A) The term 'finder of goods' means a person who has found some goods belonging to another. When a
+       person comes across some article he is under no duty to pick them up, but if he picks them up, he
+       becomes a finder of goods and is subject to the same responsibility as a bailee.
+    B) The obligations of a finder of goods:
+       1) He must take reasonable care of the goods:
+       2) He must not use the goods for his own purpose.
+       3) He must not mix them with his own goods.
+       4) He must make appropriate efforts to find the true owner of the goods.
+    C) Rights of finder of goods
+       1) Right to retain goods: The finder can retain the goods against the true owner until he receives
+           compensation for trouble and expenses incurred by him in preserving the goods and finding out the
+           owner. This right is known as the finder's lien on the goods
+       2) Right to sue for reward (Section 168)
+       3) Right to claim expenses incurred
+       4) Right of sale:
+           Section 169 permits the finder to sell the goods in the following cases:
+           a. If the owner cannot be found after reasonable search; or
+           b. If found, the owner refuses to pay the lawful charges to the finder; or
+           c. If the thing is in danger of perishing or losing the greater part of their value; or
+          d. If the lawful charges of the finder amount to two - thirds of their value.
+       5) A finder of goods has a right to keep the goods with him against the whole world except the true
+          owner.
+
+                                Contract of Pledge – Section 172-182
+
+Meaning of pledge – Section 172
+ 1) Pledge is defined under Section 172 as the bailment of goods as security for a payment of a debt
+     or performance of a promise is called pledge/pawn.
+ 2) The person who makes such a bailment is called a pledger or pawnor and the bailee is known as
+     pawnee
+
+Essentials elements of pledge –
+   1) Delivery of goods: Delivery of the goods may be actual or constructive or symbolic.
+   2) Goods must be the subject matter of the contract of pledge. The goods pledged must be in
+      existence
+   3) Purpose of pledge is security for payment of debt.
+   4) Pledge is specie of bailment
+
+Pawnee’s rights –
+  A) Right of retain the goods pledged - Section 173 -
+     pawnee has the right to retain the goods pledged till the debt is repaid along with the interest.
+     Example –
+     Sunny pledges his gold jewelry for some loan from a bank. In such a case bank has all the rights
+     to retain the gold jewelry not only for adjustment of loan amount but also for payment of
+     interest accrued on such loan amount.
+  B) Right to retention of pledged goods for subsequent debts - Section 174 –
+     The pawnee shall not, in the absence of a contract to that effect, retain the goods pledged for
+     any debt or promise other than the debt or promise for which they are pledged; but such
+     contract, in the absence of anything to the contrary, shall be presumed in regard to subsequent
+     advances made by the pawnee.
+     Analysis –
+     in simple words, pawnee will have the right to retain only those goods for which debt is
+     outstanding and not to retain the goods which are not subject matter of pledge
+  C) Pawnee's right as to extraordinary expenses Incurred - Section 175 –
+     Pawnee has the right to claim any extraordinary expenses incurred for the preservation of the
+     goods pledged.
+     However, pledgee has no right to retain the goods for such expenses.
+  D) Pawnee's right where pawnor makes default - Section 176 –
+     a) If the pawnor makes default in payment of the debt, or performance, pawnee may retain
+          the goods or sell the goods.
+     b) If the proceeds of such sale are less than the amount due in respect of the debt or promise,
+          the pawnor is still liable to pay the balance.
+     c) If the proceeds of the sale are greater than the amount so due, the pawnee shall pay over
+          the surplus to the pawnor.
+
+Pawnor’s Rights –
+  1. Right to redeem - Section 177
+     a) If the pawnor makes the repayment of principal as well as interest without any default then
+          in that case, pawnor has the right to redeem the goods which he has pledged.
+     b) Even if the pawnor makes default in repayment of principal or interest then also pawnor has
+          the right to redeem the goods pledged before actual sale but in this case pawnor will have
+          to pay additional expenses, if any.
+
+  2. Pledge where pawnor has only a limited interest - Section 179
+     Where a person pledges goods in which he has only a limited interest, the pledge is valid to the
+     extent of that interest
+
+Pledge by non-owner of goods –
+   A) Pledge by mercantile agents - Section 178
+        a) Where a mercantile agent is in possession of goods or the documents of title to goods with
+           the consent of the owner then any pledge made by him, when acting in the ordinary course
+           of business of a mercantile agent, shall be as valid provided that the pawnee acts in good
+           faith and has not at the time of the pledge notice that the Pawnor has no authority to
+           pledge.
+        b) Pledge in this case can be effected through pledge of documents like a bill of lading or a
+           railway receipt etc.
+
+    B) Pledge by person in possession under voidable contract Section 178A –
+       When the pawnor has obtained possession of the goods pledged by him under a contract
+       voidable under section 19 or section 19A, but the contract has not been rescinded (Cancelled) at
+       the time of the pledge, the pawnee acquires a good title to the goods, provided he acts in good
+       faith and without notice of the pawnor's defect of title.
+
+    C) Pledge by a co-owner in possession –
+       Where the goods are owned by many persons then any of the co-owner can pledge the goods
+       with the consent of others.
+
+    D) Pledge by seller or buyer in possession –
+       A seller who has the possession of goods after goods have been sold or a buyer who has the
+       possession of goods with the consent of seller before sale can make a valid pledge.
+       Provided, pawnee acts in a good faith and have no knowledge of defect in the title of pawnor.
+
+
+ BASIS FOR COMPARISON                        BAILMENT                                       PLEDGE
+
+ Meaning                     When the goods are temporarily handed       When the goods are delivered to act as
+                             over from one person to another person      security against the debt owed by one
+                             for a specific purpose, it is known as      person to another person, it is known as
+                             bailment.                                   the pledge.
+
+ Defined in                  Section 148 of the Indian Contract Act,     Section 172 of the Indian Contract Act,
+                             1872.                                       1872.
+
+ Parties                     The person who delivers the goods is        The person who delivers the goods is
+                             known as the Bailor while the person to     known as Pawnor while the person to
+                             whom the goods are delivered is known       whom the goods are delivered is known as
+                             as Bailee.                                  Pawnee.
+
+ Consideration               May or may not be present.                  Always present.
+
+ Right to sell the goods     The party whom goods are being              The party whom goods are being delivered
+                             delivered has no right to sell the goods.   as security has the right to sell the goods if
+                                                                         the party who delivers the goods fails to
+                                                                         pay the debt.
+
+ Use of Goods                The party whom goods are being              The party whom goods are being delivered
+                             delivered can use the goods only, for the   has no right to use the goods.
+                             specified purpose.
+
+ Purpose                     Safe keeping or repairs, etc.               As security against payment of debt.
+
+
+ Contract of Agency – Section 182-238
+
+ Meaning of Principal and agent – Section 182
+Agent - An "agent" is a person employed to do any act for another, or to represent another in dealings
+with third persons.
+Principal - The person for whom such act is done, or who is so represented, is called the "principal".
+The Rule of Agency is based on the maxim "Quit facitper alium, facitper se" i.e., he who acts through an
+agent is himself acting.
+ Who can employ agent? – Section 183
+Any person who is of the age of majority according to the law, and who is of sound mind, may employ
+an agent. In simple words, a person who is capable to contract can appoint agent.
+
+  Who may be an agent? – Section 184
+Agent may be of sound mind and may be major.
+Note – A minor or a person who is of unsound mind may be appointed as an agent but he will not be
+liable to any parties in the contract of agency because agent is never a party to the contract.
+
+
+                                             Express
+                                           Agreement
+                                            - Section
+                                               186
+
+
+                                                                   Implied
+                     Agency by                                   Agreement
+                     necessity                                    - Section
+                                            Modes of              187
+                                            creation
+                                               of
+                                             Agency
+
+
+
+                              Agency by                 Agency by
+                              estoppel -                Ratification
+                               Section                   - Section
+                                 237                     196-200
+
+
+
+
+   1) Express Authority – Section 186
+      An authority is said to be express when it is given by words, spoken or written.
+
+   2) Implied Authority – Section 187
+      An authority is said to be implied when it is to be inferred from the circumstances of the case;
+      and things spoken or written, or the ordinary course of dealing, may be accounted
+      circumstances of the case
+
+   3) Agency by estoppel – Section 237
+      a) Agency by estoppel arises when say Mr. A makes a representation to a third party, whether
+         by words or conduct, that B is his agent, and subsequently that third party deals with B as
+         A's agent in reliance on such representation. A will not be permitted (is estopped) to deny
+         the existence of the agency if to do so would cause damage (usually financial loss) to that
+         third party.
+      b) When an agent has, without authority, done acts or incurred obligations to third persons on
+         behalf of his principal, the principal is bound by such acts or obligations, if he has by his
+         words or conduct induced such third persons to believe that such acts and obligations were
+         within the scope of the agent's authority.
+
+   4) Agency by Ratification – Section 196-200
+      Agency by ratification arises when the principal ratifies (that is, approves and adopts) an act
+      which has already been done in his name and on his behalf by the agent who in fact, had no
+      actual authority (whether express or implied) to act on the principal's behalf when the act was
+      done.
+
+         Rights of person as to acts done for him without his authority, Effect of ratification – Section 196
+         Where acts are done by one person on behalf of another, but without his knowledge or authority, he
+         may elect to ratify or to disown such acts. If he ratifies them, the same effects will follow as if they
+         had been performed by his authority.
+
+                                Essentials of a valid Ratification –
+    Ratification may be expressed or Implied [Section 197]
+    Knowledge requisite for valid ratification [Section 198]
+   The principal cannot ratify a part of the transaction which is beneficial to him and reject the rest.
+    [Section 199]
+   Ratification of unauthorized act cannot injure third person [Section 200] –
+    E.g. - A holds a lease from B, terminable on three months' notice. C, an unauthorized person,
+    gives notice of termination to A. The notice cannot be ratified by B, so as to be binding on A.
+   Ratification should be done within reasonable time.
+   Ratification must be communicated to the other party.
+   Act to be ratified should not be void or illegal, for e.g. payment of dividend out of capital is void
+    and cannot be ratified
+   Ratification should be done of those act for which principal has authority.
+
+  5) Agency by necessity –
+     In certain circumstances, a person who has been entrusted with another’s property may have to
+     incur unauthorized expenses to protect or preserve it. This is called an agency of necessity.
+     Example – A sent a horse by railway. On its arrival at the destination, there was no one to receive
+     it. The railway company, is bound to take reasonable steps to keep the horse alive, was an agent
+     of the necessity of A.
+
+                                                     Wife as Agent –
+     Where a husband and wife are living together, we presume that the wife has her husband’s authority to
+     pledge his credit for the purchase of necessaries of life suitable to their standard of living.
+
+     But the husband will not be liable if he shows that:
+         - he had expressly warned the tradesman not to supply goods on credit to his wife; or
+         - he had expressly forbidden the wife to use his credit; or
+         - he already sufficiently supplies his wife with the articles in question; or
+         - he supplies his wife with a sufficient allowance
+
+
+                                            Extent of Agent’s authority
+
+
+
+
+         Normal circumstances: Section 188                                In case of emergency : Section 189
+
+
+
+
+An agent having an authority to do an act, has       He has an authority in an emergency to do all such acts for
+all the authority to do every lawful thing which     the purpose of protecting his principal from loss as would
+is necessary in order to do such act. Thus an        be done by a prudent person, in his own case under similar
+agent having an authority to carry on a              circumstances.
+business has authority to do every lawful thing      To constitute a valid agency in an emergency, following
+necessary and which is usually done in the           conditions must be satisfied.
+course of conducting such business.                      (a) Agent should not be a in a position or have any
+                                                             opportunity to communicate with his principal
+                                                             within the time available.
+                                                         (b) There should have been actual and definite
+                                                             commercial necessity for the agent to act promptly.
+                                                         (c) The agent should have acted bonafide and for the
+                                                             benefit of the principal.
+                                                         (d) The agent should have adopted the most
+                                                             reasonable and practicable course under the
+                                                             circumstances, and
+                                                         (e) The agent must have been in possession of the
+                                                             goods belonging to his principal and which are the
+                                                             subject of contract
+
+
+Duties of Agent –
+  A) Duty in conducting principal's business - Section 211
+      1. An agent is bound to conduct the business of his principal according to the directions given
+           by the principal.
+      2. In the absence of any such directions according to the custom which prevails in doing
+         business of the same kind at the place where the agent conducts such business.
+      3. When the agent acts otherwise, if any loss be sustained, he must make it good to his
+         principal, and if any profit accrues, he must account for it.
+
+  B) Skill and diligence required from agent – Section 212
+     Agent must act always as a person with diligence and skill normally exercised in the trade. He
+     would otherwise be responsible to compensate the principal for any loss suffered by the
+     principal for want of his skill’
+     Example - A, an agent for the sale of goods, having authority to sell on credit, sells to B on
+     credit, without making the proper and usual enquiries as to the solvency of B. B at the time of
+     such sale is insolvent. A must make compensation to his principal in respect of any loss thereby
+     sustained.
+
+  C) Agent’s accounts – Section 213
+     An agent is bound to render proper accounts to his principal on demand.
+
+  D) Agent’s duty to communicate with principal – Section 214
+     It is the duty of an agent, in cases of difficulty, to use all reasonable diligence in communicating
+     with his principal, and in seeking to obtain his instructions.
+
+  E) If an agent deals on his own account in the business of the agency, without first obtaining the
+     consent of his principal and informing him with all material circumstances, the principal may
+     repudiate the transaction – Section 215
+
+  F) Not to deal on his own account - Section 216
+     If an agent, without the knowledge of his principal, deals in the business of the agency on his
+     own account instead of on account of his principal, the principal is entitled to claim from the
+     agent any benefit which may have resulted to him from the transaction. In simple words agent
+     cannot make secret profits.
+
+  G) Agent’s duty to pay sums received for principal – Section 218
+     Subject to such deductions, the agent is bound to pay to his principal all sums received on his
+     account.
+
+Rights of Agent –
+   A) Right of retain out of sums received on principal's account - Section 217:
+        The agent can retain, out of any sums received on account of the principal in the business of
+           the agency for the following payments:
+        All moneys due to him in respect of advances made
+        In respect of expenses properly incurred by him in conducting such business
+        Such remuneration as may be payable to him for acting as agent.
+
+  B) Right to remuneration - Section 219
+     a) An agent has a right to receive the agreed remuneration or in absence of agreement, a
+         reasonable remuneration for rendering the services to the principal that are not voluntary or
+         gratuitous.
+     b) He becomes eligible to receive the remuneration as soon as he completes the work that he
+         undertook.
+
+
+  C) Agent not entitled to remuneration for business misconducted – Section 220
+     An agent who is guilty of misconduct in the business of the agency, is not entitled to any
+     remuneration in respect of that part of the business which he has misconducted.
+
+
+  D) Lien on Goods – Section 221
+       a) Some agents who have the possession of goods, securities or properties of their principal also
+          have a lien on these goods, securities or properties regarding their remuneration and also for
+          any expenses or liabilities that they incur.
+       b) When he is an unpaid seller, he has a right to stop the goods in transit
+
+
+  E) Right to be Indemnified – Section 222 and 223
+     An agent represents his principal to the third parties. As per sections 222 and 223, an agent has a
+     right to be indemnified by his principal for all charges, expenses, and liabilities that he incurs during
+     the course of the agency.
+
+
+    A) Non-liability of employer of agent to do a criminal act – Section 224
+       Where one person employs another to do an act which is criminal, the employer is not liable to the
+       agent, either upon an express or an implied promise, to indemnify him against the consequences of that
+       Act.
+       Example –
+             A employs B to beat C, and agrees to indemnify him against all consequences of the act. B
+               thereupon beats C, and has to pay damages to C for so doing. A is not liable to indemnify B for
+               those damages.
+             B, the proprietor of a newspaper, publishes, at As request, a libel upon C in the paper, and A
+               agrees to indemnify B against the consequences of the publication, and all costs and damages
+               of any action in respect thereof. B is sued by C and has to pay damages, and also incurs
+               expenses. A is not liable to B upon the indemnity.
+
+    B) Compensation to agent for injury caused by principal's neglect – Section 225
+       The principal must make compensation to his agent in respect of injury1 caused to such agent by the
+       principal's neglect or want of skill.
+
+
+Liability of Principal and Agents to third parties –
+
+
+                                          Liability of Principal and Agents to third
+                                                            parties
+
+
+
+
+           Principal is liable ( principal is liable for                    Agent is personally liable (agent is
+                           agent’s act )                                       personally liable for his act)
+
+
+
+Cases where principal is liable for agent’s act –
+  1) When agent exceeds his authority and principal ratifies it – Section 227
+      When an agent does more than he is authorized to do, and when the part of what he does,
+      which is within his authority, can be separated from the part which is beyond his authority, so
+      much only of what he does as is within his authority is binding as between him and his principal.
+      In simple words, principal will only be liable for those acts which are authorized by him.
+
+
+  2) Principal is bound by the notice given to agent – Section 229
+     Any notice given to or information obtained by the agent, provided it be given or obtained in the
+     course of the business transacted by him for the principal, shall, as between the principal and
+     third parties, have the same legal consequences as if it had been given to or obtained by the
+     principal.
+
+  3) Liability of pretended agent - Section 235
+     A pretended agent is a person who represents himself to be an agent of another, when in fact
+     he has no authority from him, whatsoever if the principal ratifies his acts as agent, he has no
+     liability.
+       But if the principal refuses to ratify his acts, he becomes personally liable to third party
+
+  4) Liability for Misrepresentation or fraud by an agent when agent is acting within his authority –
+     Section 238
+     Misrepresentation made, or frauds committed, by agents acting in the course of their business
+     for their principals, have the same effect on agreements made by such agents as if such
+     misrepresentations or frauds had been made or committed by the principals; but
+     misrepresentations made, or frauds committed, by agents, in matters which do not fall within
+     their authority, do not affect their principals.
+
+
+  5) Liability of principal inducing belief that agent's unauthorized acts were authorized Section
+     237 –
+     When an agent has, without authority, done acts or incurred obligations to third persons on
+     behalf of his principal, the principal is bound by such acts or obligations, if he has by his words or
+     conduct induced such third persons to believe that such acts and obligations were within the
+     scope of the agent's authority.
+     Illustration –
+     A consigns goods to B for sale, and gives him instructions not to sell under a fixed price. C,
+     being ignorant of Bs instructions, enters into a contract with B to buy the goods at a price
+     lower than the reserved price. A is bound by the contract.
+
+  6) Where the Principal is unnamed –
+     When the agent discloses the existence of principal but does not disclose, the name of principal,
+     in such a case the principal is liable for the acts of the agent.
+
+  7) When agent acts in emergency and good faith
+
+  8) When agent is incompetent to contract.
+
+Cases where agent is personally liable for his act –
+  1) When he represents that he has authority to act an behalf of a principal, but who does not
+      actually possess such authority or who has exceeded the authority and the alleged employer
+      does not ratify his acts - Section 235.
+
+  2) Undisclosed agent - Section 236
+     Where a contract is entered into by a person apparently in the character of agent, but in reality
+     in his own account.
+
+  3)    When he signs a negotiable instrument in his own name without making it clear that he is
+       signing as an agent.
+
+  4) When he is working for a foreign principal.
+
+  5) Where he is acting for a principal who cannot be sued on account of his being a foreign
+     sovereign, ambassador etc.
+
+  6) Where trade, usage or custom holds him liable in certain kinds of business.
+
+  7)   Where the agency is coupled with interest in the subject matter of the agency.
+
+  8)    Principal not bound when excess of agent's authority is not separable [Section 228] : Where
+       an agent does more than he is authorised to do, and what he does beyond the scope of his
+       authority cannot be separated from what is within it, the principal is not bound to recognise the
+       transaction
+       Example - A authorizes B to buy 500 sheep for him. B buys 500 sheep and 200 lambs for one
+       sum of 6,000 rupees. A may repudiate the whole transaction
+                                                   Miscellaneous
+           A) Consequence of inducing agent or principal to act on belief that principal or agent will be
+               held exclusively liable – Section 234
+               When a person who has made a contract with an agent induces the agent to act upon the
+               belief that the principal only will be held liable, or induces the principal to act upon the belief
+               that the agent only will be held liable, he cannot afterwards hold liable the agent or principal
+               respectively.
+
+           B) Right of person dealing with agent personally liable – Section 233
+              In cases where the agent is personally liable, a person dealing with him may hold either him
+              or his principal, or both of them, liable.
+
+
+Termination of contract of agency –
+                                Termination of contract of agency
+
+
+
+By the act of the parties –                                     By the operation of law –
+    a) Mutual agreement                                         a)   Performance of contract:
+    b) Revocation by Principal (Section 203 to 207)             b)   Expiry of time
+    c) Renunciation by Agent                                    c)   Death / Insanity (Section 209)
+                                                                d)   Insolvency
+                                                                e)   Destruction of subject matter
+                                                                f)   Parties becoming alien enemies.
+
+  A) Mutual agreement –
+     An agency may be revoked at any time by the principal and agent through mutual agreement.
+
+  B) Revocation by principal – Section 203-207
+     1) Revocation where authority has not been exercised – Section 203
+        The principal may revoke agent’s authority any time before agent has exercised the
+        authority given by the principal –
+     2) Revocation where authority has been partly exercised – Section 204
+        The principal cannot revoke the authority given to his agent after the authority has been
+        partly exercised
+        Example - A authorizes B to buy 1,000 bales of cotton on account of A, and to pay for it out
+        of A's moneys remaining in B‟s hands. B buys 1,000 bales of cotton in his own name, so as to
+        make himself personally liable for the price. A cannot revoke B's authority so far as regards
+        payment for the cotton.
+     3) Compensation for revocation by principal, or renunciation by agent – Section 205
+        Where there is an express or implied contract that the agency should be continued for any
+        period of time, the principal must make compensation to the agent, or the agent to the
+        principal, as the case may be, for any previous revocation or renunciation of the agency
+        without sufficient cause.
+      4)    Notice of revocation or renunciation – Section 206
+           Reasonable notice must be given of such revocation or renunciation, otherwise the damage
+           thereby resulting to the principal or the agent, as the case may be, must be made good to
+           the one by the other.
+
+      5) Revocation and renunciation may be expressed or implied – Section 207
+         Revocation and renunciation may be expressed or may be implied in the conduct of the
+         principal or agent respectively.
+
+
+       When termination of agent's authority takes effect as to agent, and as to third persons – Section 208
+    The termination of the authority of an agent does not, so far as regards the agent, take effect before it becomes
+    known to him, or, so far as regards third persons, before it becomes known to them.
+    Examples –
+         A directs B to sell goods for him, and agrees to give B five per cent. commission on the price fetched
+          by the goods. A afterwards, by letter, revoke B's authority. B, after the letter is sent, but before he
+          receives it, sells the goods for 100 rupees. The sale is binding on A, and B is entitled to five rupees as
+          his commission.
+         A, at Madras, by letter, directs B to sell for him some cotton lying in a warehouse in Bombay, and
+          afterwards, by letter, revokes his authority to sell, and directs B to send the cotton to Madras. B, after
+          receiving the second letter, enters into a contract with C, who knows of the first letter, but not of the
+          second, for the sale to him of the cotton. C pays B the money, with which B absconds. C's payment is
+          good as against A.
+
+
+   In the following 2 cases, agency is irrevocable –
+        1) Where the agent has incurred personal liability
+        2) Where the agency is couple with interest.
+
+
+Sub-Agent and Substituted Agent
+  A) Sub-Agent –
+      a) The term sub-agent is defined in Section 191 as, "a sub-agent is a person employed by and
+         acting under the control of the original agent in the business of agency."
+      b) Thus a sub-agent is an agent appointed by the agent.
+      c) The relation of the sub-agent to the original agent is that of the agent and the principal.
+      d) The general rule of law is that an agent cannot delegate his powers to another without the
+         consent of the principal.
+      e) This general principal is based upon the Latin Maxim "delegatus non Protest delegate"
+         which means a delegatee cannot further delegate.
+      f) In the following cases, however, the agent may appoint a sub-agent:
+          Where the principal has expressly allowed the appointment of a sub-agent.
+          Where the principal knows that the agent intends to appoint a sub-agent but he does
+             not object to it.
+          Where the custom of trade permits the appointment of a sub-agent.
+          Where the act to be done is purely ministerial and does not involve exercise of
+             discretion or any skill.
+          Where unforeseen emergencies arise which makes the appointment of subagent
+             necessary.
+      g) Where a sub-agent is properly appointed (as mentioned in above cases), the principal is
+         bound and is liable to third parties for his act, as if he were an agent originally appointed by
+         the principal. The agent is responsible to the principal for the acts of the sub-agents. The
+         sub-agent is responsible for his acts to the agent and not the principal.
+
+
+  B) Substituted Agent –
+     a) Substituted agents are not sub agents.
+     b) They are agents of the principal.
+     c) Where the principal appoints an agent and if that agent identifies another person to carry
+         out the acts ordered by principal, then the second person is not to be treated as a sub agent
+         but only as an agent of the original principal.
+     Example –
+     A' directs 'B' his solicitor to sell his property by auction and 'B' appoints 'C an auctioneer. In
+     this regard, 'C is an agent of 'A' and not a sub agent. While, selecting a "substituted agent" the
+     agent is bound to exercise same amount of diligence as a man of ordinary prudence and if he
+     does so he will not be responsible for acts or negligence of the substituted agent
+
+
+
+
+                   Sub agent                                            Substituted agent
+According to Section 191 of the Indian Contract Act,       A Substituted agent is a person who is named by the
+1872 - A “sub-agent” is a person employed by, and          Agent for performing such part of the business of the
+acting undue the control of, the original agent in the     agency as is entrusted to him                         .
+business of the agency                                 .
+A sub-agent works under, the control and directions        A substituted agent works under the control and
+of the agent                                               directions of the principal.
+The agent delegates to the sub-agent a part of his         The agent does not delegate any part of his duties to
+own duties.                                                the substituted agent
+The sub-agent is responsible to the agent alone.           The substituted agent is responsible to the principal
+The agent is responsible to the principal for the acts     The agent is not responsible to the principal for the acts
+of the sub-agent                                           of the substituted agent.
+The sub-agent has no right of action against the           The substituted agent can sue the principal for
+principal for remuneration due to him.                     remuneration due to him
+.
+The agent remains liable for the acts of the sub-          The agent's duty ends once he has named the
+agent as long as the sub agency continues.                 substituted agent
+There is no privity of contract between the principal      There is privity of contract between principal and
+and the sub-agent.                                         substituted agent.
+

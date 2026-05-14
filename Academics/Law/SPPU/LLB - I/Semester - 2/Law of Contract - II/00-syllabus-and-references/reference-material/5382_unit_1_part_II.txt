@@ -1,0 +1,384 @@
+BBA –V SEM                                                            Notes by Madhu Chandalia
+
+
+                                     INDEMNITY AND GUARANTEE CONTRACT
+   •   The contract of indemnity and guarantee are special kinds of contracts.
+   •   These contracts fulfil all the essential of a valid contract.
+   •   Indemnity Contract: Indemnity contract is a type of contingent contract. The term ‘Indemnity`
+       Simply means ‘Making Somebody Safe` or ‘Paying Somebody back`.
+   •    Section 124 of contract Act defines that ‘‘A contract by which one party promises to save the other
+       from loss caused to him by the conduct of the promise himself by the conduct of any other person,
+       is called a conduct of indemnity”.
+       The party who gives indemnity or who promises to compensate for or to make good the loss, is
+       called Indemnifier and the party for whose protection or safety the indemnity is given or the party
+       whose loss is made good is called ‘Indemnified’ or ‘indemnity holder’.
+       Important features of an indemnity contract –
+         1. Two party.
+         2. Promises for pay compensation of loss/damage.
+         3. Loss/damage may be the own or other person.
+         4. Creation of liabilities.
+         5. It must be faith.
+         6. All essential features of valid contract.
+         7. Compensation for actual loss/damage.
+         8. It may be express or implied.
+         9. Loss/damage may be caused by some event, or accident, or some natural phenomenon or
+         disaster.
+
+Rights of Indemnified (Indemnity-Holder) –
+         1. Rights to claim for all damages/losses.
+         2. Rights to claim for all costs which is related to contract.
+         3. Rights to claim for all sums which his may have paid for contract.
+
+Liabilities/Duties of Indemnified –
+          1. Liabilities to pay all damages/losses.
+          2. Liabilities to pay all costs related to contract.
+          3. Liabilities to pay all sums which are received by sell for contract from indemnified.
+BBA –V SEM                                                          Notes by Madhu Chandalia
+
+Guarantee Contract The object of the contract of guarantee is to enable. A person to obtain a loan, or
+some goods or service on credit. According to section 126 of the contract Act ‘‘A contract of guarantee is a
+contract to perform the promise, or discharge the liability, of a third person in case of his default.”
+The person who gives the guarantee is called the ‘Surety’ or ‘guarantor’ & the person in respect of whose
+default the guarantee is given is called the principal debtor or he is the party on whose behalf. Guarantee
+is given and the person to whom the guarantee is given is called the ‘Creditor’.
+BBA –V SEM                                                              Notes by Madhu Chandalia
+
+Essential features of a Guarantee Contract –
+1. Three parties
+2. Three agreement
+3. Concurrence of the three parties
+4. Contract may be expressed or implied
+5. It may be oral or written
+6. Liability of surety/guarantor is secondary is dependent on principal debtor’s default.
+7. Guarantee must be in the knowledge of debtor.
+8. All essential of a valid contract.
+9. Guarantee must not be obtained by means of misrepresentation.
+10. Existence of a primary liability (principal debtor)
+
+
+        Different Basis        Indemnity Contract                       Guarantee Contract
+S.No.
+1.    Nature of Contract       Promises to save the other from          One party promises to discharge the
+                               loss.                                    liability of the third party in case of
+                                                                        his default.
+2.      No. of Parties         Only two parties are there               There are three parties.
+3.      No. of contracts       There is only one contract               There are three contract between
+                                                                        debtors, creditors and surety.
+4.      Nature of Liability    The liability of the indemnifier is      The liability of the surety is
+                               primary and independent.                 secondary and dependent.
+5.      Arising of Liability   Indemnifier’s liability arises only on   Arises only after the default of
+                               the happening of a contingency.          debtor in payment.
+6.      Existence of debt or   There is no existence debt or duty       There is always some existing debt
+        duty                   in this contract.                        or duty in this contract.
+7.      Request by the         It is not necessary for the              The surely generally gives guarantee
+        debtor                 indemnifier to act at the request        to the request of the debtor.
+                               indemnified.
+8.      Right to sue           The indemnifier cannot sue the           It surety has discharged. The debt
+                               third party for loss in his own          after the default of the principal
+                               name.                                    debtor, he becomes entitled to sue
+                                                                        the debtor in his own name.
+
+Kinds of Guarantee –
+1. Specific or Simple Guarantee: When a guarantee is given in respect to a single debt or specific
+transaction is to come to an end when the guarantee debt is paid or the promise is duly performed. It is
+called a specific or simple guarantee.
+2. Continuing guarantee: Section 129, of the contract Act defines a guarantee which towards to a series of
+transaction, is called a continuing guarantee, thus, a continuing guarantee is not confined to a single
+transaction but keeps on moving to several transaction continuously.
+
+Revocation of Guarantee – Revocation of guarantee means cancellation of guarantee already accrued, it
+may be noted that the specific guarantee cannot be revoked if the liability has already accured. However a
+continuing guarantee can be revoked and on the revocation of such a guarantee the liability of the surely
+or guarantor comes to an end for the future transaction. The surety continues to be liable for the
+transactions which have taken place up to the time of revocation. A continuing guarantee may be revoked
+in any of the following ways- A Guarantee may be revoked in any of the following ways-
+1. By notice of revocation.
+2. By death of surely.
+BBA –V SEM                                                          Notes by Madhu Chandalia
+
+3. By discharge of surely in various circumstances
+A. By Novation (Sec.62)
+B. By variance in terms (Sec. 133)
+C. By release/discharge of principal Debtor (Sec.-134)
+D. When the creditor events in to an agreement with the principal debtors (Sec.13..)
+E. By creditor act or omission impairing surety’s eventual remedy (Sec. 139)
+F. By invalidation of contract (Sec.142,143,144)
+
+Nature and Extent of Surety’s Liability –
+1. The liability of surety is co- extensive.
+2. The liability of surety arises the same moment when default is made by the principal debtor.
+3. The surety is free to restrict/ limit his liability.
+4. Sometimes the suriey is liable though the principal debtors is not liable.
+5. If there is a condition precedent for the surety’s liability; the surety will be liable, only when that
+condition is fulfilled first.
+6. In a continuing guarantee liability of surety extends to a series of transaction over a period of time.
+7. The surety will not be liable if the creditor has obtained guarantee either by misrepresenting a material
+fact regarding the transaction or by keeping silence to material circumstances.
+8. A discharge of principal debtor by operation of law does not discharge the surely from liability.
+
+Discharge of surety from liability – The following is the modes or circumstances under which a surety is
+discharge from his liability –
+1. By revocation
+a) Notice by surety
+b) Death of surety
+c) Notation.
+2. By conduct of the creditor
+a) Variance (change) in terms of the contract
+b) Release or discharge or the principal debtor.
+c) Certain arrangements made by the creditors with the principal debtors without the consent of surety,
+d) Creditors act or omission impairing surety’s eventual (ultimate) remedy.
+e) Loss of security.
+3. By invalidation of conduct of guarantee
+a) Guarantee obtained by misrepresentations
+b) Guarantee obtained by concealment
+c) Failure of co-surety to join a surety
+
+RIGHT THE SURETY
+ I.Right against the Principal debtor
+ 1. Right of subrogation
+ 2. Right of indemnity
+II. Right against the Creditor
+ 1.Right to security
+2. Right to claim set off
+III. Right against the Co-Sureties
+1. Equal contribution
+2. Liability of co-securities bond in different sums
+3. Right to share benefits of securities.
+BBA –V SEM                                                            Notes by Madhu Chandalia
+
+                                                     BAILMENT
+Bailment the word ‘bailment’ is derived from the French word ‘baillier’ which means ‘to deliver
+Etymologically, it means any kind of handling over’. In legal sense, it involves change of possession of
+goods from one person to another for some specific purpose.
+Definition of Bailment Sec. 184 defines Bailment as the delivery of goods by one person to another for
+some purpose, upon a contract, that they shall, when the purpose is accomplished, be returned or
+otherwise disposed of according to the directions of the person delivering them. The person delivering the
+goods is called the ‘bailor’ and the person the person to whom they are delivered is called the ‘bailee’.
+Examples
+(a) A delivers a piece of cloth to B, a bailor, to be stitched into a suit. There is a contract or bailment
+between A and B.
+(b) A sells certain goods to B who leaves them in the possession of A . The relationship between B and A is
+that of bailor and bailee.
+
+Consideration in a contract of bailment In a contract of bailment, the consideration is generally in the
+form money payment either by the bailor or the bailee, as for example, when A gives his bicycle to B for
+repair, or when A gives his car to B on hire. Such consideration in money form, however, is not necessary
+to support the promise on the part of the bailee to return to goods. The detrainment suffered by the
+bailor, in parting with possession of the goods, is a sufficient consideration to support the contract of
+bailment.
+
+Distinction between Bailment and Contract of sale
+
+S.      Basics of distinction           Bailment                        Contract of sale
+No.
+1       Transfers of                    There is only a transfer of     There is a transfer of ownership
+        ownership/possession            possession of goods from        of goods from the seller to the
+                                        the bailor to the bailee.       buyer.
+2       Consideration not to be         The consideration need          The consideration in terms of
+        passed                          not be passed between           price must be passed between
+                                        bailor and bailee.              seller and buyer.
+3       Return of goods                 The bailee must return the      There is no question of such
+                                        goods to the bailor on the      return of goods in contract of
+                                        fulfillment of the purpose      sale.
+                                        for which the bailment is
+                                        made.
+BBA –V SEM                                                            Notes by Madhu Chandalia
+
+DUTIES OF A BAILOR
+  • Duty to disclose defects [Section 151]
+  • Duty to bear expenses [Section 158]
+  • Duty to indemnity the bailee in case of premature termination of gratuitous bailment [Section 159]
+  • Duty to indemnity the bailee against the defective title of bailor [Section 164]
+  • Duty to receive back the goods [Section 164
+  • Duty to bear the risk of loss [Section 152]
+
+DUTIES OF A BAILEE
+  • Duty to take care of the goods bailed [Section 151&152]
+  • Duty not to make any unauthorised use of goods [Section 154]
+  • Duty not to mix bailor‘s goods with his own goods [Section 155 to 157]
+  • Duty to return the goods [Section 160 & 161]
+  • Duty to return accretion to the goods [Section 163]
+
+Rights of a Bailor
+   • Right to claim damage in case of negligence [Section152]
+   • Right to terminate the contract in case of unauthorized use [Section 153]
+   • Right to claim compensation in case of unauthorized use [Section 154]
+   • Right to claim the separation of goods in case of unauthorized mixture of goods which cannot be
+       separated [Section 157]
+   • Right to demand return of goods [Section 160]
+   • Right to claim compensation in case of unauthorized retention of goods [Section 161]
+   • Right to demand accretions to goods[Section 163]
+
+RIGHTS OF A BAILEE
+   • Right to claim damage [Section 150]
+   • Right to claim reimbursement of expenses [Section 158]
+   • Right to be indemnified in case of premature termination of gratuitous bailment [Section 159]
+   • Right to recover loss in case of bailor‘s defective title [Section 164]
+   • Right to recover loss in case of bailor‘s refusal to take the goods back [Section 164]
+   • Right to deliver goods to any one of the joint bailors [Section 165]
+   • Right to deliver goods to bailor in case of bailor‘s defective title [Section 166]
+   • Right to particulars lien [Section 170]
+
+    Meaning of Lien Lien means the right of a person having possession of goods belonging to another to
+    retain those goods until the satisfaction of sum claimed by the person in possession of the goods. If
+    may be noted thet the possession of goods must be lawful and continuous.
+
+    For example, X took Y’s godown on rent of Rs.5,000 p.m on an agreement that X cat at any time
+    deposit or take out his goods from the godown. After six months, X stopped paying the rent. Y
+    auctioned X’s goods and claimed lien. Y cannot claim lien because it was agreed that X can take out his
+    goods whenever he wanted.
+
+Type of Lien
+(a) Particular Lien [Section 170] A particular lien is right to retain only those goods in respect of which
+some charges are due.
+BBA –V SEM                                                                Notes by Madhu Chandalia
+
+Example:- X gives a piece of cloth to Y, a tailor, to make a coat. Y promises X to deliver the coat as soon as
+it is finished. Y is entitled to retain the coat till he is paid for (if he has not allowed any credit period) but is
+not entitled to retain the coat (if he has allow one month’s credit for the payment.)
+(b) General Lien [Section 171] A general lien is a right to retain all the goods as a security for the general
+balance of account until the full satisfaction of the claims due whether in respect of those goods or other
+goods. The general lien is available to other person only when there is an express contract to that effect.
+
+
+FINDER OF GOODS Finder of goods is the person whom finds some goods which do not belong to him.
+Example if X finds a purse or a diamond ring or a watch, which does not belong to him, he will be called as
+a finder of goods.
+Rights of a Finder of Goods
+     • Right to lien [Section 168]
+     • Right to sue for reward [Section 168]
+     • Right to sell [Section 169]
+
+Duties of a Finder of Goods [Section 171] Finder of goods is subject to the same responsibility as a bailee.
+The duties of a finder of goods are as follows:-
+   • Duty to take reasonable care
+   • Duty not use for personal purpose
+   • Duty not to mix with his own goods
+   • Duty to find the owner
+
+                                                 PLEDGE
+Meaning of pledge (or pawn) [Section 172] The bailment of goods as security for payment of a debt or
+performance of a premise is called pledge (or pawn).
+Example X borrows of Rs. 1,00,000 from Citi Bank and keeps his shares as security for payment of a debt. It
+is a contract of pledge.
+
+Meaning of pawner (or pledgor) [Section 172) The person who delivers the goods as security for payment
+of a debt or performance of promise is called the pawnor or pledgor. In aforesaid example X is pawnor
+
+Meaning of Pawnee (or pledge) [Section 172) The person to whom the goods are delivered as security for
+payment of a debt or performance of promise is called the Pawnee or Pledgee. In the aforesaid example.
+Citi Bank is the Pawnee.
+
+Rights of Pawnee
+   • Right of retainer [Section 173]
+   • Right to claim reimbursement of extraordinary expenses [Section 173]
+   • Right to sue pawnor [Section 176]
+   • Right to sell [Section 176]
+   • Right against true owner [Section
+
+duties of a Pawnee
+   • Duty to take reasonable care of the goods pledged
+   • Duty not to make unauthorized use of goods
+   • Duty not to mix pawnor’s goods with his own goods
+   • Duty to return goods
+   • Duty to return accretion to the goods
+BBA –V SEM                                                          Notes by Madhu Chandalia
+
+
+Rights of Pawnor
+   • Right to get pawnee’s duties duly enforced
+   • Right to redeem [Section 177]
+
+Duties of Pawnor
+   • Duty to comply with the terms of pledge
+   • Duty to compensate the Pawnee for extraordinary expenses [Section 185]
+
+S.NO.                Pledge                                 Bailment
+                     Pledge is bailment of goods for a      Bailment is for a purpose of any kind
+1. Purpose           specific purpose i.e. repayment of
+                     a debt or performance of a duty.
+                     Pawnee cannot use the goods            Bailee can use the goods as per terms
+2. Right to use      pledged                                of bailment
+
+                     Pawnee can sell the goods pledge       Bailment can either retain the goods
+3. Right to sell     after giving notice to the pawnor in   or sue the bailor for his dues.
+                     case of default by the pawnor.
+
+
+AGENCY
+Meaning of Agency: Agency is relation between an agent and his principal created by an agreement.
+Section 182 of the Contract Act defines an Agent as ‘‘A person employed to do any act for another, or to
+represent another in dealings with third persons. The person for whom such act is done, or whom is so
+represented is called the principal”.
+
+Essential Features of Agency
+1. The principal
+2. The agent
+3. An agreement
+4. Consideration not necessary
+5. Representative capacity
+6. Good faith
+
+Modes or Methods or Creation of Agency
+1. Agency by express agreement: A contract of agency may be made by express words, whether written or
+oral.
+2. Agency by implied agreement: ‘‘An authority is said to be implied when it is to be inferred from the
+circumstances of the case.
+(a) Agency by estoppels : When a principal by his conduct or act cause a third person to believe that a
+certain person is his authorized agent the agency is aid to be an agency by estoppels.
+(b) Agency by necessity : It mean the agency which comes into existence when certain circumstances
+compel a person to act as an agent for an other without his express authority.
+(c) Agency by holding out : When a principal by his active conduct or act and without any objection
+permits another to act as his agent, the agency is the result of principal’s conduct as to the agent.
+3. Agency by ratification : Ratification means confirmation of an act which has already been done.
+Sometimes, an act is done by a person on behalf of another person but without another person’s
+knowledge and authority. If he accepts and confirm the act, he is said to have ratified it.
+BBA –V SEM                                                          Notes by Madhu Chandalia
+
+4. Agency by operation of law : In certain circumstances the law treats a person as an agent of another
+person. For example, (a) when a partnership is formed, every partner automatically becomes agent o
+another partner. (b) when a company is formed its promoters are treated as its agents by operation of law.
+
+RIGHTS AND DUTIES OF AGENT Rights of an Agent
+1. Right to retain money received on principal’s account.
+2. Right to receive remuneration.
+3. Right of lien on principal’s property.
+4. Right to be indemnified.
+5. Right to compensation for injury caused by principal’s neglet.
+
+Duties of an Agent
+1. To follow the direction of the principal.
+2. To conduct the business of agency with reasonable skill and diligence.
+3. To render accounts on demand
+4. To communicate with the principal.
+5. Not to deal on his own account
+6. To pay the amounts received for the principal
+7. Not to delegate his authority
+8. Not to act in excess of authority
+9. Duty on termination of agency by principal’s death or insanity.
+
+TERMINATION OF AGENCY
+Termination of agency means revocation (cancellation) of authority of the agent the modes of termination
+of agency may be classified are as :
+(a) Termination of Agency by the act of the Parties.
+1. By revocation o authority by the principal
+2. By renunciation (giving up) of business of agency by the agency
+3. By mutual agreement
+
+(b) Termination of agency by Operation of Law
+1. Completion of business of agency
+2. Death or insanity of principal or agent
+3. Insolvency of the principal
+4. Destruction of subject matter
+5. Expiry of time
+6. Agency subsequently becoming unlawful.
+7. Termination of sub agent’s authority
+
+Revocable agency
+When the authority of agent cannot be revoked by the principal it is said to be an irrevocable agency. An
+agency is irrevocable in the following cases:
+1. If the agency is coupled with interest : when an agent himself has a special interest in the property which
+forms the subject matter of the agency, such agency is said to be coupled with interest.
+2. Where the agent has partly exercised his authority
+3. When the agent has incurred a personal liability.
+
