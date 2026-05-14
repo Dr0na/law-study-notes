@@ -1,0 +1,2311 @@
+                 THE TAMIL NADU
+     Dr. AMBEDKAR LAW UNIVERSITY
+           (State University Established by Act No. 43 of 1997)
+
+     M.G.R. Main Road, Perungudi, Chennai - 600 096.
+
+
+
+
+ FAMILY LAW- II
+FIRST YEAR - SECOND SEMESTER
+
+
+ STUDY MATERIAL
+
+
+                                By
+                 Ms. Sophia Raju
+                       Guest Faculty
+
+           School of Excellence in Law
+
+   The Tamil Nadu Dr. Ambedkar Law University
+
+                            Chennai
+                                       MESSAGE
+
+
+      Knowledge is power. Legal Knowledge is a potential power. It can be exercised
+
+effectively everywhere. Of all the domains of reality, it is Legal Knowledge, which deals
+
+with rights and liabilities, commissions and omissions, etc., empower the holder of such
+
+knowledge to have prominence over the rest. Law Schools and Law Colleges that offer
+
+Legal Education vary in their stature on the basis of their ability in imparting the quality
+
+Legal Education to the students. Of all the Law Schools and Colleges, only those that
+
+educate their students to understand the nuances of law effectively and to facilitate
+them to think originally, excel. School of Excellence in Law aims to be in top of such
+
+institutions.
+
+
+
+      The revolution in Information and Communication Technology dump lot of
+
+information in the virtual world. Some of the information are mischievous and dangerous.
+
+Some others are spoiling the young minds and eating away. their time. Students are in
+
+puzzle and in dilemma to find out the right information and data. They do not know
+
+how to select the right from the wrong, so as to understand, internalise and assimilate
+into knowledge. Hence in the present scenario, the role of teachers gains much more
+
+importance in guiding the students to select the reliable, valid, relevant and suitable
+information from the most complicated, perplexed and unreliable data.
+
+
+      The teachers of the School of Excellence in Law have made a maiden attempt select,
+compile and present a comprehensive course material to guide the students in various
+subjects of law. The students can use such materials as guidance and travel further in
+their pursuit of legal knowledge. Guidance cannot be a complete source of information.
+
+It is a source that facilitates the students to search further source of information and
+
+enrich their knowledge. Read the materials. refer relevant text books and case laws and
+
+widen the knowledge.
+
+
+
+                                                                    Dr. P. Vanangamudi
+                                                                      Vice-Chancellor
+                                              PREFACE
+
+
+
+In Family Law I,   the students would have learnt the various personal laws relating to marriage and
+divorce, adoption , maintenance and guardianship. The multiplicity of diverse Family Laws, some of
+which are codified while others are un codified, makes it a vast area of study. The students should
+first know the basic concepts of family system, specially the un codified concepts of Hindu Law so
+as to understand and appreciate the codified laws.
+
+
+From the students point of view this study material contains the basic concepts underlying Family Law
+II. It deals with laws relating to the Hindu joint family, devolution of ancestral property , intestate
+succession to the separate property of a Hindu, Muslim and Christian and testamentary succession.
+The rules relating to devolution of property in the family is important due to the sensitive bond of
+kindred. An equitable and fair balance of rights and duties are displayed in the laws and its practical
+implementation through judicial decisions are made.
+
+
+Students would definitely show interest in learning this fascinating subject particularly in our country,
+where Family Laws differ from community to community. A study of the Family Laws of all the
+communities helps us to know the laws relating to each one of them, their diversities , similarities and
+paradoxes .An attempt is made in this work to enlighten students about presenting relevant answers
+effectively. I could not fathom the depth of the subject in this work, so I appeal to the students not to
+restrict themselves with this material but to use it a guiding light and endeavour to read more so as to
+get a clear and in depth knowledge of the subject. Wishing them all the very best.
+
+
+I am deeply grateful to our Tamil Nadu Dr. Ambedkar Law University for its encouragement and
+guidance in completing this course material.
+
+
+
+
+                                                              Ms. Sophia Raju
+
+                                                                 Guest Faculty
+
+                                                        School of Excellence in Law
+
+                                            The Tamil Nadu Dr. Ambedkar Law University
+
+                                                                    Chennai
+                               FAMILY LAW- I
+
+
+
+S.No.                   CONTENTS               PAGE
+
+
+ 1.     Unit I
+
+        Hindu Joint Family                      1
+
+
+2.      Unit II
+
+        Intestate Succession                    11
+
+
+3.      Unit     III
+
+        Testamentary Succession                 26
+
+
+4.      Unit IV
+
+        Gift Under Islamic Law                  31
+
+
+5.      Unit V
+
+        Religious Endowments & Wakf             35
+
+
+6.      Model Question Paper                    38
+
+
+7.      Scheme of Valuation                     39
+                                                   UNIT I
+
+                                     HINDU JOINT FAMILY
+
+Joint family is a unique institution under the Hindu law. It has been the fundamental aspect of the
+life of Hindus. For a Hindu, there is no escape from a joint family. Its origin can be traced to the
+patriarchal system where the patriarch or the head of the family was the unquestioned ruler, laying
+down norms for the members of the family to follow. The ancient system generally treated the
+property acquired by the members of the family as family property or joint property and the family
+members had a right over it.
+
+It consists of acommon male ancestor, his mother, wife, unmarried daughters, all male lineal descendant
+and their wives or widows. A daughter ceases to be a member of her father's joint family on her
+marriage and may regains her status if she becomes a widow or on being deserted by her husband
+and she comes to stay in her father’s house permanently. A child male or female born in the family
+can cease to be a member of the family if he or she is given in adoption to another family. Since
+adoption is an irrevocable act the child can never become a member of this family again in future .
+
+The head or the manager of such joint family is called Karta.       A common male ancestor is necessary
+to bring the joint family into existence, but is not necessary for its continuation. Joint family is purely
+a creature of law and cannot be made by agreement. A single member cannot make a joint family.
+Members are added either by birth, marriage or by adoption. The death of the common ancestor
+does not mean that the joint family comes to an end. Upper links are removed and lower are added and
+so long as the line does not become extinct, the joint family continues and can continue indefinitely.
+Incidents of Hindu Joint family:
+
+  -      A Hindu family is purely a creature of law. This means it cannot be created by the act of the
+         members or an agreement between the parties
+
+  *      The Hindu family has no legal entity distinct or separate from its members. It cannot sue or
+         being sued in its own name. It is neither a juristic person nor a corporation and therefore cannot
+         convey property in its joint character.
+
+  >      All members in the family do not have equal rights in the family property. (coparceners have an
+         interest in the coparcenary property while other members only havea right of residence and
+         maintenance .
+
+  *      Plurality of members is necessary for the continuation of the joint family but plurality of male
+         members is not necessary for its continuation.
+
+  *      Every Hindu family is presumed ti be a joiat family. The presumption is that the members are
+         living in a state of oneness, unless contrary is proved.
+
+  *      There is no presumption that the joint family possess joint property. Existences of property is
+         not acondition precedent to the existence of joint family.
+
+
+Karta:
+
+         The senior most male member in the joint family is called Karta. The father and in his absence
+the senior most male member is presumed to be the karta. This position is regulated by seniority and
+does not depend on the consent of the members of the family .So long as he is alive, he may be aged,
+infirm yet he is entittled to kartaship. The courts have clarified that though the settles principles of
+classical Hindu law remains that karta would be the senior most male member of the family. In the
+following circumstances a younger brother of the family can deal with the family property as karta;
+                                                      1
+  a.   Ifthe senior member is not available;
+
+  b.   Where the karta relinquishes his right expressly or by implication;
+
+  c.   In absences of the manager in exceptional circumstances such as disaster or calamity affecting
+       the whole family and for supporting the family;
+
+  d.   Inthe absence of the father ;
+
+He is the head and the manager of the joint family. He stands in a fiduciary relationship with the
+members of the family, but unlikely the trustee he is not accountable to the family generally. Where
+he misappropriates the joint family funds, he is accountable and will be called upon to refund the
+amount to the joint family corpus. The Karta’s position is sui generis. It comes to him by being born in
+the family .The relationship between him and other members is not that of principal and agent or of
+patners. He is the master of the grand show of the joint family and all its affairs. He obtains no reward
+for his services . It is terminable by resignation and relinquishment but it is not indefeasible. The
+following are his powers and duties.
+
+Powers:
+
+       Power to manage the family property and business.
+       Power to alienate joint family property.
+       Power to enter into contract.
+
+       Power to contract debts and to repay debts.
+       Power to make gift.
+       Power to settle disputes.
+
+Power of management- He has absolute power of management .He may manage the family affairs the
+way he likes, has power to take possession of the total property and receive the joint family income. If
+a coparceners presence in the family proves a nuisance due to his disorderly behaviour or bad habits
+. the karta has powers to throw him out of the house. While taking decisions with respect to family
+members , the karta need not be equitable or even impartial.
+
+Power of alienation of the joint family property- With respect to the joint family property the karta
+is entrusted with its management. However he does not own the property as a whole and if all
+the copaceners give their consent he can alienate the property and the alienation will be binding on
+interest of all the members of the family and the purpose of the transfer would be immaterial.
+
+Vigneshwara specifies in Mitakshara, that the joint family property can be transferred in three cases:
+  a.   Aptakale (emergency)
+  b.   Kutumbathre (benefit of the family)
+  c.   Dhramarthe (pious purpose)
+
+The present categories authorising alienations as recognised by the courts are as follows:
+  a.   Legal necessity.
+  b.   Benefit of estate.
+  c.   Performance of religious or an indispensable duty
+
+
+Legal necessity- means any necessity that can be sustained in law or justified by law. For alienation to
+be valid under legal necessity ,the course of action taken by the karta should is such as an ordinary
+prudent man. Following are instances of legal necessity .
+                                                     2
+   i.     For providing food, clothing and shelter to the family members;
+   ii.    For education of the family members;
+   iii.   Performance of religious or an indispensable duty
+   iv.    For general maintenance;
+   v.     For defraying marriage expenses of children;
+   vi.    Providing for medical treatment;
+   vii. For payments of debts due to the family
+   viii. Payment of government revenue.
+
+Benefit of the estate: ‘Benefit’ means an advantage , betterment or profit. ‘este’ refers to the joint
+family landed property. So a transaction which brings an advantage to the property of the family
+would be covered under the expression ‘ benefit of the estate’. what amounts to benefit would be
+depend on the facts and circumstances of each case.
+
+Performance of religious or an indispensable duty: The Dharmashastras provid«: for elaborate rituals
+to be performed on various occasions in a man’s life . Joint family property can be alienated by the
+karta for the performance of indispensable religious and charitable duties, for example shraddha of an
+ancestor.
+
+
+Power to contract debt: The karta has power to contract debt for any lawful }.1rpose and such debt
+binds the share of all the coparceners. A coparcener even after seeking partition cannot escape the
+liability of the debt from his share of the property.
+
+Power of representation: Karta has power to represent the family in all social ,legal, religious and
+revenue matters. The joint family acts through the karta. A suit will filed in the « ourt by the family in
+‘the name of the karta and a suit be filed against the family will be defended by him.
+
+Antecedent debt: A debt , the payment of which permits the father to sell the joint family property
+must be an antecedent debt. antecedent’ means prior in time and an antecedent debt means a debt
+that is prior in time to the present alienation of the property by the father. ‘'wo conditions           are
+necessary to bind the entire joint family properties viz;
+
+   1.     The debt should be an antecedent      one
+   2.     It should not have been incurred for an immoral or illegal purpose.
+
+Thus a loan taken to repay the loss incurred in gambling cannot be further repaid by the alienation of
+the joint family property, so as to bind the shares of all the joint family members.
+
+Duties:
+
+          Maintain all the members of the family.
+          He must represent his family.
+  WN
+          It his duty to perform marriage of all unmarried members.
+          Liable to give accounts (only at the time of partition).
+  Vk      Pay taxes and other dues on behalf of the family.
+
+Pious Obligation of the Son: Under the Hindu law there is a special emphasis on the payment of one’s
+debt, as necessary for the salvation of the soul. Due to the belief of rebirth, it is said that even though a
+man dies, the soul carries the deeds and the burden of the debt into the next life. It was the duty of the
+putras (son, son’s son and son’s son’s son) to liberate him from the burden of debts. Therefore, the
+obligation of the sons to pay the debts of the father is religious and important for according spiritual
+
+                                                       3
+benefit to the departed father. Since the payment of debt was a spiritual duty, the purpose of which it
+was contracted becomes important.
+
+Avyavaharika Debts - Debts contracted for purposes that could not be justified in accordance with
+religious tenets or a person's dharma could not extend on the obligation on the son for its repayment.
+Debt incurred for immoral and illegal purpose (Avyavaharika debts) were not binding on the son.
+According to Virhaspathi son shall not be made to pay a debt incurred by father for liquor, for idle
+gifts, for promise made under the influence of love or wrath etc. Instances of Avyavaharika debts;
+
+  (a)     Money borrowed for payment of fine inflicted for criminal offences;
+  (b)     Loan taken by the father to meet his vices;
+  (c)     Gambling debts.
+
+After the passing of The Hindu Succession (Amendment) Act 2005, doctrine of pious obligation of the
+son stands amended. Pious obligation has been limited to debts contracted before the commencement
+of The Hindu Succession (Amendment) Act 2005.
+
+Coparcenary
+          :
+
+Inside the joint family isa smaller unit called as coparcenary. It consists of a common male ancestor
+and his male descendants upto fourth generation (including the ancestor). They are called coparceners
+and they are owners of the joint family property. This group of persons unlike the joint family are
+related to each other only by blood or through a valid adoption. ,and it is a creation of law. Under
+the classical law, no female could be a member of a coparcenary. No person can by marriage and
+no stranger can by agreement become a member of the coparcenary. A single person cannot form a
+coparcenary ,there should be at least two male members to constitute it, On the death of one of the
+coparceners his property passes by survivorship to other coparceners. Coparcenary is illustrated in the
+following figures:
+
+Fig.]
+                                 FO
+
+                                 |
+                                 ;                 COPARCENERS
+                                 Ss                (four generations)
+                                  |
+                                 SSS
+
+                                               F
+Fig.1.1
+
+                             ;                                |
+                            $1            §2                  53
+
+                             |            |              4
+                            ‘1            »              s rf
+
+                            38            s9            $10.       SI
+
+Coparcenary within a coparcenary: There is no limit to the number of member a coparcenary may
+have. there can be a big coparenary consist of the father , his sons , grandsons and great grandsons .
+There can be a coparcenary within a coparcenary comprising sons and their descendants also.
+
+Coparcenary property: Property inherited by a Hindu male from his male ancestor i.e. his father,
+father’s father, and father’s father's father is called coparcenary property. In this property the sons
+acquire a right by birth. Coparcenary property can be acquired by the following ways:
+
+                                                          4
+               Property inherited     from paternal ances:or.
+   *           Property inherited from divided father.
+               Property acquired by utilising coparcenary property.
+               Blended property.
+
+The property is called Daya (heritage). Daya arises out of the relationship with the last owner of the
+property. Mitakshara school classifies property mainly under two heads:
+
+
+                                                        Daya
+
+
+
+                                     Unobstructed                    Obstructed
+
+Unobstructed Heritage ( Aprathibandha Daya): ‘A’ in aprathibandha daya refers to ‘minus or without’,
+meaning without restriction on the heritage that comes to a person. All property inherited by a male
+Hindu from a direct male ancestor , not exceeding three degrees higher to him is called aprathibantha
+daya The ancestral property of the father is an unobstructed heritage for his putras ( three lineal male
+descendants).Unostructed heritage devolves by survivourship.
+
+Obstructed Heritage (Saprathibandha Daya): ‘Sa’ means ‘with’ and prathibandha reters to an obstruction.
+All other relatives other than the putras only have an obstructed heritage in the ancestral property
+in the presence of the putras. In the self acquired property of the father, the putras                have only an
+obstructed heritage and it devolves by inheritance.
+
+Difference between Mitakshara and Dayabhaga with regard to daya: According to mitakshara school of
+thought, in the daya the putras acquire a right by birth and their shares fluctuate with birth and death
+in the family, and there can be partition during the lifetime of the father.
+
+According to dayabhaga school, the putras have right only after the death of the father. There can be
+no partition during the life time of the owner and the shares of the coparcener: was definite.
+
+Gains or learning : Any property or income acquired with the aid of joint family funds would in
+itself become joint family property. But if it is applied without any exceptions it can lead to strange
+consequences. The children in a joint family may receive education out of the joint family funds. On
+the question whether the gains of learning should be separate property of the acquirer or coparcenary
+property ,prior to 1930 there was a distinction between primary education and special learning. After
+the passing of The Hindu Gains of Learning Act 1930 (Jayakar Act). This Act was the outcome of the
+decision in Gokul Chand ‘s case.            This     Act   gains of learning are self acquired   property, whether
+the education imparted was ordinary or special education. Gains of learning are thus always self
+acquired property as the              result of     the Act.
+
+Rights of coparceners:
+        1. Right      by birth in the property.
+                 Right to common ownership and enjoyment.
+               Right of survivorship.
+       PWN
+               Right to challenge alienation.
+               Right to make acquisitions
+               Right to partition.
+               Right to accounts.
+       SNAYM   Right to renounce his interest.
+Right by birth in the family: The moment a coparcener is born he acquires an interest in
+the coparcenary property which is equal to the interest of the father. For a coparcener who is
+introduced into the family by a valid adoption, from the date of adoption he is deemed to be
+born in the adoptive family and acquires an interest in the coparcenary from that date.
+
+Right to common ownership and enjoyment: The coparceners together posses the title to the
+coparcenary property,, The ownership of the coparcenary property vests with the members
+.All coparceners together have a joint title or ownership of this property. Common or joint
+ownership signifies joint liabilities to pay off debts of the family.
+
+Right of survivorship: When a coparcener dies as a member of an undivided coparcenary, his
+interest in the property is immediately taken by the surviving coparceners and he leaves nothing
+behind that can be called his own share in the joint property. This is the right of the surviving
+coparceners to enlarge their shares in the property is due to the application of the doctrine of
+survivorship. The right of survivorship is one of the basic right of a coparcener.
+
+Right to challenge alienation: The power of alienation.of the joint family property is with
+the karta. When karta makes alienation for unauthorised purposes, the coparcener have the
+following remedies;
+
+a.   Where the karta is contemplating alienation, he can ask for partition and separate from the
+     family. Ones he separates karta cannot sell his share;
+
+b.   Where alienation or the property is already affected, it can be challenged by the coparceners
+     as invalid and not binding on them .
+
+Right to make acquisitions: A coparcener can hold an interest in the coparcenary property
+and posses separate property of his own at the same time. He has full power of disposal over
+his separate properties . NO coparcener can claim a right of survivorship in it and on the
+death of the owner, this property will pass to heirs under the relevant laws of inheritance or
+testamentary succession if leaves behind a valid will.
+
+Right to partition: A coparcener is competent to demand partition. He can do so by manifesting
+an unequivocal intention to separate himself from the joint family and communicate it to other
+coparceners. No coparcener including even the karta can refuse the demand of partition by
+a coparcener. Minority is no bar for seeking partition , but the minor cannot seek partition
+directly. HE can institute a suit for partition through a next friend in a court of law.
+
+Right to accounts: The karta has the authority to manage the joint family affairs and he is not
+liable to accountable to the other members except in the following situations;
+
+a)   He is conducting family business and the nature of the business is such as necessitates
+     maintenance of proper accounting;
+
+b)   There are charges of fraud or misappropriation of income;
+
+c)   When the coparcener asks for partition.
+
+Right to renounce his interest: A coparcener is empowered to renounce his undivided share in
+the joint family property, in favour of all the remaining coparceners. Two things are important
+here. Firstly renunciation should be of the entire undivided interest of the coparcener. Secondly,
+such renunciation must be favour of all the remaining coparceners. The coparcrner who
+renounces his interest is now not entitled to get a share in the property when partition takes
+place .
+Difference between joint family and coparcenary:
+
+A joint family is a bigger institution and includes a coparcenary within it. There « an be a joint family
+without a coparcenary. But the reverse is not possible. Both male and female cai be members of the
+joint family but in a coparcenary only male can become a member. Joint family ne d not have property,
+but coparcenary is understood as a right over property. In the joint family, there 1s no limitation with
+regards to generation. But coparcenary is limited only to four generations. Every joint family is not a
+coparcenary but every coparcenary is a joint family.
+
+Changes made by legislation to the joint family and coparcenary system:
+
+The first change was brought about by the Woman’s Right to Property Act 1937 which posted
+survivorship after the death of the coparcener’s widow. Sec. 3 of the Act providec that when a Hindu
+dies having an interest in a Hindu joint family property, his widow or in case more than one widows
+shall have in the property the same interest as he himself had. The interest whic h she takes is only a
+limited interest known as women’s estate.
+
+The second change was made by Hindu Succession Act, section 30 which permits a« oparcener to dispose
+of by will his undivided interest in the coparcenary property , in such case the rule of survivorship
+does not operate. Further under section 6 the act, even in the absence of a will, if the coparcener
+dies leaving a class I female heir, then a notional partition will take place with regard to his undivided
+interest and this share is to be given to his class I heir and not according to survivorship rule.
+
+The third change was made by The Hindu Succession ( Ammendment ) Act 2005 section 6(1), which
+included female as coparcener and they have the same rights and liabilities as that of the son and under
+sec.30 women are given power to testamentary disposition of their interest in suc h property.
+
+
+PARTITION:
+
+To. bring the joint status of the family to an end by division is called partition (vibhaga).It refers to
+both property and status. In Hindu law it generally means a division or splitting up of joint Hindu family
+into smaller or separate units with the conferment of separate status on the divided coparcener. For
+example, a Hindu family comprises of the father F, his wife W, a son S, son’s wife SW and a daughter
+S as illustrated in the figure below
+
+                         F             WwW                 F—-—       W    +8- SW
+                                                                D
+                     S-SW               D
+
+This joint family has two coparceners, father and son, so a partition is possible, and when it is effected
+, this family will break and give way to two families, the first comprising the tather, his wife and
+daughter and the second, that of the son and his wife. The undivided status of both the father and the
+son comes to an end.
+
+The subject matter: The subject matter of partition is coparcenary property. The separate property of
+the coparcener cannot be subject to partition as no one except the owner has right over it. No partition
+is possible unless there at least two coparceners in the joint family. Under mitakshara partition can take
+place by two means i.e., by severance of status aid by metes and bounds. In dayabaga, partition can
+take place only by metes and bounds.
+
+Person entitled to partition:
+a.   Coparcener
+b. Widow
+c.   Alienee of the coparcener property.
+   a. Coparcener : A coparcener by birth has a right in the ancestral property and so entitled to
+      ask for a partition. A coparcener who is a major and of sound mind can at anytime demand a
+      partition. It is one of his inherent rights and does not have to give any reason or justification for
+       seeking partition.
+
+   b. Widow: Under The Women’s Right to Property Act 1937, when an undivided coparcener
+      having an interest in a mitakshara coparcenary dies leaving his widow, she was entitled to ask
+      for partition and entitled to the share of her husband. However she only took a life interest in
+      the estate which she gets and after her death the estate would devolve upon the next heir of the
+       last full holder.
+
+   c. Alienee of the coparcenary property : Where an undivided coparcener alienates his share where
+      he is permitted to do so, the alienee can demand a partition. This partition will not have any
+      adverse effect on the ststus or the rest of the coparceners who would continue to be members
+       of the joint family as before.
+
+Modes of affecting partition: severance of joint family status can be brought about by:
+   *   Unequivocal expression of intention to partition;
+
+   +   By institution of suits;
+
+   *   By agreement;
+
+   *   Conversion;
+
+   +   Marriage to non Hindu under the Special Marriage Act;
+
+   *   Automatic severance of status;
+
+       1.   Conversion
+
+       2. Marriage to a non Hindu under The Special Marriage Act
+
+       3, Partition by father
+
+Unequivocal expression of intention to partition: When a coparcener expresses his intention
+to partition it results in partition , and share of each coparcener becomes clear and they hold the
+property as tenants - in- common and not as joint tenants. Expression of intention should be
+unequivocal. Expression can be by word or conduct. It is necessary to communicate intention
+to all coparceners, an un communicated intention does not amount to severance. Once intention to
+partition is expressed it results in partition , share of each coparcener becomes clear and they hold the
+property as tenants in common and not as joint tenants.
+
+By Suit: When a coparcener files a suit for partition it amounts to a unequivocal intention to partition.
+Severance of status relates back to the date of institution of the suit. If a coparcener dies during the
+pendency of the suit, he dies as a divided member and his legal representatives may continue the suit.
+In Puttrangamma v. Rangama AIR 1968, karta filed a suit for partition and died on that day itself. The
+court held that he died as a divided member.
+
+Partition by agreement: If all coparcener decide to destroy their joint family status , it is called
+partition by agreement .The severance of status takes place from the date of signing of the agreement.
+The moment there isa bona fide agreement the joint tenancy is converted into tenants- in -
+common . Minor coparcener should be represented by guardians.
+
+Conversion: A coparcener who renounces his religion and converts from Hinduism, he ceases to be a
+coparcener and an automatic severance of status takes place, his share is determined and handed over
+
+                                                    8
+to him. Prior to the Caste Disability Removal Act 1850, the converted member torfeited his right in
+the coparcenary property.
+
+Marriage to a non Hindu under The Special Marriage Act: Under The Special Marriage Act 1954 ifa
+coparcener marries under The Special Marriage Act he was faced with severance from the joint family.
+This Act was replaced by The Special Marriage act 1976.When a Hindu marries under this Act, and if
+the spouse is a Hindu, he continues to be a member of the joint family as before. But a marriage to a
+non Hindu under the Act would operate as an automatic severance of status.
+
+Partition by father: Father under Hindu law has superior powers comparison tu other coparceners.
+He has powers not only to separate himself frora the family but also power to separate the sons. He
+can       exercise this right even if the sons dissent. In the absence of the father the grand father has no
+such right.
+
+Division of property by metes and bounds: It means physical division of property. Before such partition
+an enquiry into the joint family assets is to be made and an inventory taken with regard to the
+property.
+
+
+Adjustments or claims before partition: Before the coparceners actually effect a division of the property
+among themselves, provision should be made for the following;
+
+      :    For the payment of the debts of the father.
+
+      *    The maintenance and residence of unmarried daughters, female members, and disqualified
+           coparceners.
+
+
+      +    Funeral expenses.
+
+      +    Marriage expenses of unmarried daughters.
+
+Rules for allotment of shares:
+
+      1. Division between father and son- each son takes a share equal as that of the father.
+
+   2. Division between brothers- They take equal share.
+
+   3. Division among branches- When a coparcenary                   consist of several branches, the rule is that
+           each branch takes per stripes. The   next s-ep will be to effect partition between members of
+           each branch and they take per capita or per head each.
+
+Doctrine of representation: Where a deceased coparcener dies leaving a male issu, he represents his
+male ancestor in partition and takes his share .For example, as illustrated below were the share of
+deceased son S2 is taken by his two sons SS1 and SS2_ by applying the doctrine of representation.
+
+
+                                                          F (1/4)
+
+
+
+                                  $1 (1/4)            $2 (1/4)                  S3 (1/4)
+                                                          _I
+
+                                              SS1 (1/8)             SS2 (1/8)
+
+
+Reunion: A partition once effected is usually final and binding on the parties. Reunion means to unite
+again. Reunion under Hindu law is the restoration              of the status of coparceners. Two conditions are
+applicable for reunion, i.e., reunion can take place only between father and son, bet ween brothers and
+paternal uncle. Only parties to partition can reunite for example , when partition takes place between
+                                                          9
+father ‘F’ and his two sons ‘A’ and ‘B’, Subsequently a son‘C’ is born to ‘F’, reunion can take place only
+between ‘F’, ‘A’ and ‘B’ and not between ‘A’, ‘B. and ‘C’.
+
+Modes of effecting reunion: There must be an intention of the parties to reunite in estate and interest.
+The Supreme Court in Bhagwan Dayal v.Mst.Reoit Devi, AIR 1962, has pointed that for a reunion
+there should be an express or implied agreement between the parties to become reunited in estate.
+The consequence of reunion is that it restores the joint family status. They regain the status of
+undivided coparceners and are subjected to the incidents of coparcenary. The descendants of the
+reunited coparceners born after reunion are members of the reunited joint family.
+
+Revocation of partition: Once partition is effected, it cannot be revoked by unilateral withdrawal of
+interest to separate. It is only possible by a mutual agreement by the members of the family.
+
+Re-opening of partition: a partition once effected is final and binding on the parties and cannot be
+opened at the will of the parties . Manu says ;
+
+           “Once _ is the partition of inheritance made.
+           Once is a damsel given in marriage and
+           Once aman says‘     I give ’- These are acts of a good man and are done once and are irrevocable”.
+
+A partition can be re-opened in the following cases;
+   a.       Properties concealed by fraud
+   b. Lost property
+
+Persons capable of re-opening of partition:
+   a.       Adopted son;
+            Son in the womb at the time of partition ;
+            Son conceived and born after partition;
+   on co
+            Absent member;
+   i        Minor coparcener.
+
+Partial partition: While effecting partition ,it is not necessary that the whole of the joint family property
+should be divided or that all members should separate at the same time and it is permissible in law, to
+effect a partial partition , both with respect to property and as well as its members.
+
+                                                 Partial partition
+
+
+                                                                              |
+                            Partial as to property                Partial as to Members
+Partial with respect to property: Under certain situation when for example where the property is under
+usufructuary mortgage or with a tenant under a perpetual lease. Under such circumstances a complete
+partition of the entire property is not possible. All coparceners may with consent partition a portion of
+property, dividing among themselves and at the same time maintaining the joint status with respect to the
+rest of the property.
+
+Partial with respect to person: When partition is brought about at the instance of only one coparcener, it
+is he only who separates while the other coparceners may continue with the joint family status. He cannot
+be a separated member with respect to some of the member’ while being joint with others, unless the latter
+one is from his own branch.
+
+Consequences of partition: Upon partition , a Hindu gets the status of a an individual. The share that he receives
+is now a fixed and specific share . It his separate property with respect to all those from whom he has separated.
+On the birth of a male issue he will have a right by birth and a coparcenary again comes into existence.
+
+                                                           10
+                                                 UNIT-II
+
+                                      INTESTATE SUCCESSION
+
+The Law of Succession is classified into two categories. Intestate Succession and Testamentary. The Law
+dealing with succession in India is not uniform, depending on multiple factors like religion, domicile,
+and type of marriage parties have undergone.
+
+Laws relating to Intestate Succession:
+The term intestate succession is used to denote the law relating to inheritance. The property of a person
+on his/her death, in the absence of instruction Jeft by the deceased with respect to its devolution,
+devolves in accordance with the law of intestate success to which the deceased was subjected to at the
+time of his/her death. The law relating to intestate succession as applicable to all the Hindus, Christians
+and Muslims are to be discussed.
+
+HINDU LAW:
+Under the Hindu Law, the property that a person may have an interest in, can be categorised into two,
+separate properties and joint family property. The general scheme of succession is laid down under
+Hindu Succession Act 1956. The act lays down two separate scheme of succession tor male and female
+intestates.
+
+Basic Features of The Hindu Succession Act 1956:
+
+     i.      It amends and modifies classical Hindu Law related to joint family and coparcenary.
+
+     ii.     The provides for a detailed scheme of devolution by intestate succession applicable to Hindus
+             irrespective of the school to which the intestate belonged.
+
+     iii.    Abolished limited estate for women and replaced it with absolute estate.
+
+     iv.     Two separate scheme of succession for male and female intestate, In case of female further
+             divergence linked with the source of acquisition of property.
+
+     v.      The disqualification from inheritance based on physical and mental dise.ses and conversion
+             were removed.
+
+The subject is discussed under the following heads
+     *       Succession to Hindu male.
+     *       Succession to Hindu female.
+     *       General principles of succession.
+     *       Disqualification of heirs.
+     >       Changes made by the Act.
+
+Technical terms under the act:
+
+   1. Ascendants: ancestors of a person are called his/her ‘ascendants’. Father and mother are the
+           immediate ascendants. The father and mother of parents, their parents and so on. Eg. F, FF, FFF,
+           M, MM, MMM, F.M., M.F., M.F.F., ete.
+
+   2.      Descendants: the offspring of a person. The immediate descendants of a person are his/her sons
+           and daughters. Similarly, their sons, daughters and so on. EgS, SS, SSS; D, DD, DDD; $, SD, SSD,
+           SDS etc.
+
+   3. Collaterals: descendants in parallel lines from        a common ancestor/ancestors are called the
+
+
+                                                      “1
+       ‘collaterals’. Eg Brother, Sister, Paternal Uncle and Aunt, material uncle and aunt and their
+       children.
+
+   4, Heir: persons entitled to inherit property of the deceased are called ‘heirs’. According to sec.3(f)
+      of the act, “Heir means any person, male or female, who is entitled to succeed to the property of
+       intestate under the act.
+
+   5. Agnates: it refers to relationship by male link. When a person traces his relationship with
+      another wholly through males, he or she is called an ‘agnate’, if she is related to the deceased
+      (propositus) wholly through male links, either by blood or by adoption.According to sec.3(1)
+      (a) of the act, “one person is said to be an ‘agnate’ of another if the two are related by blood or
+      adoption, wholly through males”. Eg Son’s son’s son; brother's son’s son; father’s brother's son's
+       son.
+
+                                                    (A)
+                                                     |
+                                                     S
+                                                     |
+                                                    ss
+                                                     |
+Illustration:- A died leaving behind, his son’s son’s son(SSS).
+
+       In this illustration, SSS is an agnate as he is related through the male links like SS and S.
+
+   6. Cognate -It refers to relationship through female link. Tyhe relations in whose chain of
+      relationship to the propositus, there should be at least one female link. E.g. Daughter's son,
+       sister’s son, sister's daughter.
+
+       Illustration: a died leaving behind, his daughter’s daughter's daughter (DDD).
+
+                                                    (A)
+                                                    \
+                                                     D
+                                                     {
+                                                    DD
+
+
+                                                   DDD
+
+   DDD in this illustration is a cognate to A, as she is related to A through female links DD and D.
+   Full blood or Full blood relations:- When the father and mother of the two (or more) persons are
+   the same , such persons are said to be ‘full blood relations’.
+
+   According to sec.3(1) (e) (i) of the act, “two persons are said to be related to each other by full blood,
+   when they are descended from a common ancestor by the same wife”.
+
+   Eg: own or real Brothers, Sisters and Brother and Sister.
+
+   Half blood or half blood relations:- When two persons have the same father but different mothers,
+   they are related to each other by half blood or they are called half blood relations.
+
+   According to sec. 3(1)(e)(i) of the act “two persons are said to be related to each other by half blood,
+   when they are descended from a common ancestor but by different wives”. ( same father, but
+   different mothers).
+
+   Illustration: A marries B and a son P, and daughter Qare born to him from B. B dies and A marries C
+   and ason R is born o him from C. Later A divorces C and marries D and a son S and a daughter T are
+                                                    12
+born to him through D. P,Q, R, S, and T are related to other as brothers and sisters by half blood.
+
+In this clause i.e.,. Clause (e) ancestor includes father.
+
+Uterine blood or Uterine blood relationship: children born to the same mother but different fathers
+are said to be related to each other by uterine blood. According to sec. 3(1) (e} ‘ii) of the act, “two
+persons are said to be related to each other by uterine blood, when they are descended from a
+common ancestress but by different husbands”.
+
+In the above clause i.e. Clause(e), ancestress includes ‘the mother’s.
+
+Illustration: A, (a woman/mother) marries B and a son P and daughter Qare born to her from B. B
+dies and a marries C and son R     is born to her from C. Later , A divorces C and marries D and son $
+and daughter T are born to her through d. P,Q,R,S and T are related to each other as brothers and
+sisters by uterine blood.
+
+Legitimate and Illegitimate relationship: a child born to a lawful wedded couple is called ‘legitimate
+child’. The child (boy or girl) is related to his/her parents by legitimate relationship. Where as a
+child born outside the lawful wedlock is illegitimate and the child is related t«: his/her parents by
+illegitimate relationship.
+
+According to sec.3(1) (j) of the act, ‘related’ means related to legitimate kinship. Provided that
+illegitimate children shall be deemed to be related to their mother and to one and another, and their
+legitimate descendants shall be deemed to be related to them and to one another; and any word
+expressing relationship or denoting a relative shall be construed accordingly.
+
+Reversioner:- In Hindu law, a ‘reversioner’ is the heir of the last male holder, who will take the
+property on the death of an intermediate femaie holder of a limited estate. For :nstance, A dies and
+his widow takes limited estate. On the death of the widow, the property goes to the nearest heir of
+the A and such heir is called he ‘reversioner’. With the passing of the Hindu Succession Act, 1956,
+the limited estate has been abolished and hence, the reversionership has ceased to exist.
+1.    Intestate state succession to property of a male: Sections 8 to 13 deals with Hindu male
+      intestate succession. The heirs of the male Hindu are divided into four categories;
+      >      Class I heirs
+      *      Class II heirs
+             Class III heirs( agnates and cognates)
+
+Class I heirs
+      i.       Mother (M);
+      ii.      Widow (W);
+      iii.     Daughter (D);
+      iv.      Daughter of predeceased son (SD);
+      v.      | Widow ofa predeceased son ((SW):
+      vi.      Daughter of predeceased daughter (DD);
+      vii.     Daughter of a predeceased son of a predeceased son (SSD);
+      viii.    Widow of a predeceased son of a predeceased son (SSW):
+      ix.      Son (S);
+      x.       Son of a predeceased son (SS);
+               Son of a predeceased son of a predeceased son (SSSO; and
+
+
+                                                      13
+          xii.     Son of a predeceased daughter (DS);
+          xiii.    Daughter of a predeceased daughter of a predeceased daughter (DDD);
+          xiv.     Son of a predeceased daughter of a predeceased daughter (DDS);
+          xv.      Daughter of a predeceased daughter of a predeceased son (SDD):
+          xvi.     Daughter of a predeceased son of a predeceased daughter (DSD);
+                                    \
+
+   Class II heirs
+             1.       Father
+
+             II.      (1) Son’s daughter son
+                      (2) Son’s daughter’s daughter (now also placed in class-I category)
+                      (3) Brother
+                     (4) Sister
+
+             IH.     (1) Daughter's son’s son
+                     (2) Daughter's son’s daughter (now also placed in class-] category)
+                     (3) Daughter’s daughter’s son ((now also placed in class-I category)
+                     (4) Daughter's      daughter's daughter ((now also placed in class-I category)
+
+             IV.      (1) Brother’s son
+                      (2) Sister’s son
+                      (3) Brother's daughter
+                      (4) Sister's daughter
+
+            V.     — Father's father; father’s mother
+
+            VI.      Father's widow; Brother's widow
+
+            VII.     Father's brother; Father's sister
+
+            VIII.    Mother's father; Mother's mother
+
+            IX.      Mother's brother; Mother’s sister.
+
+   Class III Heirs
+
+        7. Agnates
+
+        8. Cognates
+
+        The intestate succession as applicable to a Hindu male are laid down in sections 8 to 13 of the act.
+
+General rules of succession in case of a male section 8: The property of a male Hindu dying intestate
+shall devolve as below.
+   a.   Firstly, upon the heirs specified class I of the schedule.
+   b. Secondly, if there is no heir of class I, then upon the heirs in class II of the schedule.
+   c. Thirdly, if there is no heir of any of the two classes, then upon the agnates of the deceased and
+      lastly, if there are no agnates, then upon the cognates of the deceased.
+
+Order of succession among heirs in the schedule are given in section 9: Those in Class I shall take
+simultaneously and to the exclusion of all other heirs. Those in the first entry in class II shall be
+preferred to those in the second entry and those who are in the second entry shall be preferred to those
+in the third entry and so on in succession.
+                                                         14
+ Rules of distribution of property among class I heir are given in section 10: The property of an intestate
+ shall be divided among the heirs in Class I in accordance to the following rules;
+
+     1.   The intestate widow shall take one share.
+
+    2.    The surviving sons and daughters and the mother of the intestate shall take one share.
+
+    3. The heirs in the branch of each predeceased son or each predeceased daughter of the intestate
+          shall take between them one share.
+
+          Distribution among the heirs in the branch of the predeceased son shall le so made that his
+          widow and the surviving sons and daughters get equal portion, and the branc | of his predeceased
+          sons gets the same portion.. The heirs in the branch of the predeceased daughter shall be so
+          made that the surviving sons and daughters get equal portion.
+
+ Rules of distribution of property among class II heir are given in section 11: The property of an intestate
+ shall be divided equally between the heirs specified in any one entry in Class II.
+
+  Order of succession among agnates and cognates are given in sections 12 and 13. Rules of preference
+ is laid down here under;
+
+     1.   Descendants are preferred to all others Among descendants the heir who has fewer degree of
+          descent is preferred .
+
+          Ascendants are preferred to collaterals. Among ascendants the one with fewer degrees of ascent
+          is preferred.
+
+          Among collaterals , when the number of degree of ascent is the same, the heirs with a fewer
+          degree of decent is preferred.
+
+    4.    When these rules do not settle priority, the claimants will take simultaneously.
+
+ Doctrine of representation: normally inheritance is taken by the nearest heir. An he r who is remoter in
+ degree is excluded. But some_ time the remoter heirs are allowed to claim the rig it of their deceased
+ parent who was of the same degree as the rival claimant. Under The Act of           1956 the principle of
+ representation is stated in Rule 3 and 4 of sec.10. Each son and daughter and each predeceased son and
+ predeceased daughter is taken as a distinct branch, to each of which one share is allotted. The share of
+ the predeceased son or daughter is        among   his surviving heirs.
+
+ General Rules of succession (sections 18 to23) - The general principles of inheritanc: that are applicable
+ to both male and female intestate are specified in sections 18 to 23 of the Act. The se     principles gave
+ statutory form to certain well established Hindu norms.
+    1.    Full blood preferred to half blood (sec.18).
+    2. Mode of succession of two or more heirs           (sec.19).
+    w
+          Right of child in the womb (sec.20).
+          Presumption in case of simultaneous death (sec.21).
+    Vik   Preferential right or right of pre-emption (sec.22).
+    6.    Partition of dwelling house (sec.23)
+
+. Intestate succession for the property of a Hindu female:
+  Section 15 is the first statutory enactment dealing with succession to the property of Hindu female.
+ Earlier her limited estate terminated on her death and there was no question of succession. (This
+ section applies only to the absolute property of a female).
+
+
+                                                          15
+Scheme of succession: The Act proves for three sets of heirs depending upon the source of acquisition
+of property. Her property is divided into three depending upon the source of acquisition
+
+    1.       General property
+
+   2.       Property inherited from parent
+
+   3.        Property in the form of husband or father in law
+
+
+General property: Succession to this property is given by section 15(1). The heirs are divided to five
+categories called entries;
+   a.       Firstly upon sons and daughters (including the children of any pre deceased son or daughter)
+            and husband.
+            Secondly, upon the heirs of the husband.
+            Thirdly upon the mother and father.
+            Fourthly upon the heirs of the father
+   eo aos
+            Lastly upon the heirs of the heirs of the mother.
+
+Property inherited from father: succession to this property is governed by section 15 (2). Any property
+inherited by a female Hindu from her father or mother shall devolve the absence of any son or daughter
+(including children of a pre deceased son or daughter) not upon the other heirs referred to in section
+15(1) in the order specified therein, but upon the heirs of her father. So the property inherited by a
+female from her parents, the absence of her issues or their children, will revert to her father’s heirs.
+
+Property inherited from her husband or father in law section 15(2) (b): in the absence of any son or
+daughter of the deceased, this property shall not devolve upon the heirs of the husband ( Dhanistha
+Kalita vs Ramakanta Kalita AIR 2003 Gau 92). The object of section 15(2) is to ensure that the property
+does not lose the real source from when the deceased female had inherited it.
+
+Marumakkathayam law: They are customary laws prevalent in The States of Kerala before 1956.
+Marumakkathayam system of inheritance means the inheritance by descendants from a common
+ancestress- a matrilineal system of inheritance. Under this system a female is head of the joint family
+called Tarward. The senior most male member is known as karnava , and the senior most male member
+is known as karnavathi. Just like a coparcenary with a coparcenary in a Hindu joint family, there is
+Tawazhi in the tarwad. Tarward means ‘a branch’ in the tarward. They were provincial legislations in
+the former state of Travancore and Cochin with regard to succession, marriage, divorce ets.. and these
+laws governed the Nairs and Ezhavas.
+
+The Hindu Succession Act 1956 defines marumakkathayam law in section 3(h) and modified this law
+of succession in certain respects in sections 7, 17 and 30.
+
+Women’s Property: Before 1956, the property of a women was divided into two namely;
+            Stridhana;
+   -        Women’s estate.
+
+Stridhana : The word ‘stridhana’ literally means ‘women’s property’. It generally refers to property
+received by a women before the nuptial , or property obtained by self exertion. Generally the following
+types of properties come within the preview of stridhana;
+
+    1. Gifts and legacies from relatives;
+
+   2. Gift and legacies from strangers;
+
+   3.       Property obtained by self exertion;
+
+                                                       16
+   S    Property with stridhana;
+
+        Property acquired by compromise;
+   nM   Property obtained by adverse possession; and
+
+   7. Property obtained in lieu of maintenance.
+
+Characteristic feature of stridhana : Stridhana has all the characteristics of absolu1e ownership and she
+had full right of alienation and on her death it would devolve on her heirs and not on the heirs of the
+last male holder of property.
+
+Women’s estate: It comprised of property obtained by inheritance and shares obtained on partition.
+The characteristic feature of women’s estate is that she takes it as a limited owner she cannot alienate
+it (an alienation made by her is voidable at the option of the reversioners) , and on her death it devolves
+upon on the next heir of the last full owner. Women had power of management over this property.
+
+The Hindu Succession Act under sec 14 has abolished women’s estate and has conferred women with
+absolute ownership over her property. Any property which the Hindu female acquires after coming
+into force of the act will be her absolute property until given to her with limitation.
+
+Devolution of interest in a Mitakshara coparcenary property : The Hindu success:on Act 1956,besides
+containing rules of succession to the separate property of an intestate, also contain provision for the
+devolution of coparcenary property by survivorship and testamentary succession
+
+Section 6 of the Act provides for special provision called as notional partition for the devolution of
+interest in a mitakshara coparcenary. When a male dies leaving an undivided interest in a coparcenary
+property and left him surviving class 1 female heirs or male relatives claiming through such female
+heirs his interest in the property shall devolve by testamentary or intestate succession and not by
+survivorship.
+
+Disqualification under the Hindu succession act: the act provides for three types of disqualification;
+   1. Remarriage of certain widows (section24)
+   2. Murderer (section 25)
+   3. Converts descendants (section 26).
+
+1. Remarriage of certain widows : According to section 24,the disqualification is applicable to the
+   following widows :(1) son’s widow. (2) grandson’s widow. (3) brother’s widow. In Kasturi Devi v.
+   Dy. Director of consolidation, AIR1976, the Supreme Court held that the mother of the intestate is
+   not disqualified to inherit on remarriage on the ground that she is related to tim by blood and so
+   even if she remarries she does not cease to be his mother.
+
+2. Murderer: A person who commits murder of the deceased or the person who abcts the murder of the
+   deceased ,or a person who accelerates the commission of murder, is disqualified from inheriting the
+   property. If a person charged with murder is acquitted , the acquittal removes the disqualification.
+   It was so held in Chammanlal v. Mohanlal (AIR1977 Delhi 97).
+
+3. Conversion : The Hindu Succession Act 1956, applies only to Hindus .Under ancient Hindu law
+   if a son had converted to another religion, he Joses his right to inherit to his father’s property. The
+   Caste Disability Removal Act 1850, removed this disability on conversion. It enabled a non Hindu
+   to inherit from a Hindu but it did not extend the protection any further to his descendants. A
+   converts descendants born to him after conversion , if not a Hindu is disqualified from inheriting
+   the property of the intestate.
+
+
+
+                                                    17
+Dwelling House : Where the inherited property comprised a dewelling house that was in the occupation
+of the male members of the family of the intestate, special rules where laid provided prior to 2005 for
+its devolution.
+
+The law prior to passing of The Hindu Succession (Amendment) Act, 2005; sec.23 states that where
+a dewelling house is wholly occupied by the members of the intestate family, the female heirs shall
+not have the to ask for partition of the dewelling house until the male heirs choose to divide their
+respective share therein .The female heirs were entitled to a right of residence therein only if she is
+unmarried or has been deserted by or separated from her husband or is a widow. This section does not
+apply in case of testamentary succession where the property goes under awill.
+
+The Hindu Succession (Amendment)Act 2005 has deleted the provision from the act and female heirs
+have rights equal to male heirs in respect of dewelling house.
+
+Escheatment : According to sec.9 of the act, if there are no heirs i.e. in the absence of classls to the
+deceased, the government will take the property. This is known as escheatment.
+
+The Hindu succession (Amendment) Act 2005- primary changes introduced by the act:
+     *    Abolition of doctrine of survivorship.
+          Introduction of daughters as coparceners.
+          Devolution of coparcenary interest held by a female.
+          Abolition of pious obligation of son to pay the debts of the father.
+          Abolition of special rules relating to dwelling house.
+          Deletion of section 24 relating to widows remarriage.
+          Eligibility of female coparceners to make a testamentary disposition.
+          Introduction of four new heirs in class I category.
+
+
+MUSLIM LAW OF INHERITANCE:
+
+The Muslim law of inheritance is based on the rules relating thereto laid in the Koran and the customs
+and usage prevailing amongst the Arabs. Muslims may be broadly divided into two sects,            namely
+Sunnis and Shias. The Sunnis are further divided to four sub-sect -the Hanafis, the Malkikes, the
+Shafies and Hanabalies. Majority of the sunnis are Hanafis hence the Sunni law is known as Hanafi law.
+
+The Muslim law of inheritance does not recognise joint family property, the distinction between family
+property and separate property does not exist. In Mohammedan law, the property of the deceased
+devolves by succession.
+
+Pre Islamic Rules Of Succession:
+
+     1. The nearest male agnate succeeded to the entire estate of the deceased.
+
+     2.   Females and cognates were excluded.
+
+     3. Where the agnates were equally distant to the deceased, they together shared the estate per capita
+
+Improvements Made By Islam:
+
+1.        The husband and wife were made heirs.
+
+2         Females and heirs were made competent to inherit.
+
+3.        Parents and ascendants were given the right to inherit even when there were male descendants.
+
+4         As a general rule, a female was given one half the share of a male.
+
+
+                                                      18
+General principles of inheritance :
+   *    Property movable and immovable not distinguished.
+   *    No distinction between ancestral and self acquired property.
+   -    No limited interest.
+   *    Birthright not recognised.
+
+Rules of total and partial exclusion: Both sunni and shia law recognises two types of exclusions;
+   1, Partial or imperfect exclusion ;and
+   2. Total or perfect exclusion.
+
+1. Partial or imperfect exclusion- it may come in two ways;
+
+   a. Exclusion from one share and admission to another. For example daughter in the presence of a
+        son is excluded as a sharer and becomes a residuary.
+
+   b. Partial reduction of specific share because of the presence of certain heiss. For example, the
+      share of the wife is either Yath or 1/8th according to the presence of a child
+   c. Total or imperfect exclusion- this type of exclusion is based on three       principles;
+
+   Principle 1- Nearer in degree excludes more remote.(e.g. son exclude son’s son; father excludes
+   grand farter).
+
+   Principle 11- A person who is related to the deceased through another is excluded by the presence
+   of the later. (e.g. father excludes brother).exception mother does not exclude brother or sister.
+
+   Principle 111- Full blood excludes half blood.(e.g. full sister excludes consanguine sister).
+
+Explanation of important terms:
+
+Lineal descendants or ascendants- The person who has descended or ascended *11 a direct line from
+another, For example, a man his father , grandfather and so on upwards, are the man’s lineal ascendants.
+
+Collaterals- A person having a common ancestor with the deceased , but who is neither an ascendant
+or descendant of the decease, for example the brother or sister of the deceased.
+
+Paternal and maternal relationships- Claimants related through the father are call d paternal relations
+and claimants related through the mother are called maternal relations.
+
+Agnates- A person whose relationship to the cleceased can be traced without the intervention of
+female link .For example, son’s son’s, son.
+
+Cognates- A person related to the deceased through one or more female links. For « xample , daughter's
+daughter, son.
+
+True Grandfather- The agnatic grandfather between whom and the deceased no female link intervenes.
+
+False    grandfather-   The grandfather between whom and the deceased one or more female link
+intervenes.
+
+Consanguine (half) sister and brother- The children of the same father but different mother.
+Uterine (half) brother and sister- The of the same mother but different father.
+
+Hanafi Law of Inheritance: The Hannafis (Sunni) did not disturb the pre- Islamic rules , except to the
+minimum necessaries to accommodate the new heirs. Under Hanafi law the heirs ofa deceased Muslim
+falls under the following heads
+   1. The sharers;
+   2. The residuaries;
+                                                   19
+     3. The distant kindred;
+
+     4,    The state by escheatment.
+
+The course adopted is as follows:
+
+     a.    First, shares were allotted to the nearest heirs as required by the Koran and were called Sharers.
+
+     b. Next, the body of the agnates who were heirs under the pre-Islamic law were maintained and
+           called Residuaries.
+
+     c.    Finally, all the heirs who were newly introduced (1.e., other female cognates) were relegated to
+           the last and were described as distant kindred.
+
+
+
+                                           TABLE OF SHARERS:
+
+                                                (HANAFI LAW)
+
+
+ S.no | Shares                    Normal | Two Or More | Condition Under                       Share as varied by
+                                 Share Of | Collectively | Which The Share is                  special
+                                   One                       inherited                         circumstances
+
+ 1        | Husband              01-Apr           -          When there is                     1/2 when there
+                                                             child or child                    is no child or
+                                                             of son h.Ls.                      child of son h./s.
+
+ 2        _-| Widow              01-Aug        01-Aug        When there is                     1/4 when there is
+                                                             child or child of                 no child or
+                                                             son h.ls.                         child of son h./'s.
+
+ 3          Father               0l-Jun           -          When there is                     When there is
+                                                             child or child of                 no child or
+                                                             son hls                           child of son.
+                                                                                               Father inherits as
+                                                                                               residuary
+
+ 4        | Mother               01-Jun           -          a. When there is a                1/3 in other
+                                                               child or child son h.ls.        cases a,b,c.
+                                                             b. When there are brother
+                                                               brother or sister or sisters.
+                                                             c. Brothers or sisters
+                                                               including full brother
+                                                               or sister.
+
+ 5          True Grandfather | 01-Jun                        When there is a child or          When there is
+                                                             child of son h./.s, father.       no son and
+                                                                                               daughter his
+                                                                                               father, the
+                                                                                               Grandfather
+                                                                                               inherits as
+                                                                                               residuary.
+
+ 6        | True Grandmother}    01-Jun                      When no mother.
+
+ 7        | Daughter             01-Feb        02-Mar        When no son.                      When son, she
+                                                                                               becomes a
+                                                                                               residuary.
+
+                                                        20
+     8          Son's daughter           1/2           02-Mar        When no son,                Only one daughter,
+                                                                     daughter son’s son.         son’s daughter will
+                                                                                                 take 1/6
+
+     9          Uterine brother        01-Jun          01-Mar        When no child, child
+                                                                     of a son, father or true
+                                                                     grandfather.
+
+     10         Uterine sister         01-Jun          01-Mar        When no child, child
+                                                                     of a son, father or true
+                                                                     grand father.
+
+     11 _— ‘| Full sister              01-Feb          02-Mar        When no child, child of     With full brother
+                                                                     a son, father or true       she becomes
+                                                                     grandfather.                residuary.
+
+     12   | Consanguine sister | 01-Feb                02-Mar        When no child, child of a   But if there is only
+                                                                     son, father or true         one sister,
+                                                                     grandfather, full           consanguine sister
+                                                                     brother full sister.        will take will take as
+                                                                                                  (residuary) 1/6.
+
+               h.l.s — how low so ever
+               h.h.s- how high so ever.                 ;
+
+2.        Residuaries: The term ‘residue’ means ‘ the remainder or the remaining after taking away a part
+          of it’. Residuaries are those relations of the deceased who share the residue from the estate if the
+          deceased after allotting specific share to the sharers. If there are no sharers, the whole property is
+          distributed among the residuaries. The residuaries may be classified as follows:
+
+          a)       Descendants
+                   Eg:- son, son’s son h.1.s
+
+          b)       Ascendants
+                   Eg:- Father, true grandfather
+
+          c)       Collaterals or descendant of the father
+                   Eg:- Full brother ,full sister, full brother’s son.
+
+3.        Distant kindred:- The following are the list of distant kindred , which ar grouped into four
+          classes:
+
+          I.       Descendant of the deceased.-
+                    1.      Daughter’s children and their descendants.
+                   2.       Children of son’s daughter h.l.s. and their descendants.
+
+          II.      Ascendants of the deceased.-
+                    1.      False grandfather h.h.s.
+                   2.       False grandmother h.h.s
+
+          Ill.     Descendants of parents.-
+                   1. Full brothers daughter and their descendants.
+                   2. Consanquine brother’s daughters and their descendant.
+                   3. Uterine brother’s children and their descendants.
+                   4. Daughters of full brother’s sons h.].s. and their descendants etc.
+                                                                21
+                                                                -
+      IV.    Descendants of immediate grandparents(true or false).-
+            1. Full paternal uncles daughter and their descendants.
+            2. Consanquine paternal uncles daughters and their descendants .
+            3. Uterine paternal uncle and their children and their descendants etc.
+
+The Doctrine of Aul (increase): In the Muslim law of inheritance which allots a number or fractional
+parts of unity to heirs ; it may happen that the fractions when added together may sometimes be
+(i) equal to unity, (ii )more than unity, or (iii)less than unity. When the sum of fraction is equal to
+unity there is no problem . But if it is more or less than unity, the shares of the respective heirs are
+reduced or increased respectively. The shares of the sharersare to be adjusted against the denominator
+by increasing the denominator , this known as Doctrine of Aul .
+
+The increase or aul is effected in the following manner:
+If the total of fractional share allotted to sharers exceeds unity, the share of each sharer is proportionately
+diminished by ‘reducing the fractional share to a common denominator; and increasing the denominator
+as to make it equal to the sum of the denominators”.
+
+Doctrine of Radd or return : If the sum total of fraction allotted to shares is less than unity i.e. property
+is left back after satisfying the claims of the sharers and there is no residuary to take the residue
+ithe residue reverts back to the sharers in proportion of their share. Such return is called ‘Radd’
+or the doctrine of Radd. Under the doctrine of Radd, the share of the sharers are to be increased
+proportionately, for this purpose, the denominators of the respective shares of the shares are to be
+reduced to equalise the total denominator with the total numerator.
+
+Illustration:- P dies leaving behind his mother and daughter. According to the Quranic tables mother
+gets 1/6 and daughter gets 2. The total comes to 1/6+1/2= 1+3/6=4/6. In this illustration , numerator
+4 indicates the unit of the property to be distributed, while the denominator ,6 indicates the unit of
+property available. To equalise this as 4/4, applying the doctrine of Radd the shares of the mother and
+daughter are to be adjusted by increasing their share proportionately by increasing the respective
+denominators. The shares of the mother and daughter are 1/6 and % respectively. To make the
+denominator common, the shares are converted into 1/6 and 3/6 . The total is 1/6 +3/6 =4/6. Now the
+numerator is 4 and denominator is 6. In order to equalise the denominator, they are reduced by 2 i.e.
+1/6 is converted to % and 3/6 is converted to % so as to arrive at 4/4 (1/4+3/4=4/4). Thus by applying
+the doctrine property can be readjusted among sharers when there are no residuaries. The exception to
+it is that in the presence of any heir , neither the wife or the husband is entitled to any return.
+
+Shia Law Of Inheritance: The Shias changed the pre-Islamic law by altogether abolishing the difference
+between the agnates and cognates as also males and females. The Shia system (unlike the Hanafi)
+shuffled all the heirs, cognates and agnates. According to Sunni, the daughter’s son (being cognate) was
+relegated to the last class of heirs distant kindred , the daughter's son’s were entitled to a much higher
+position.
+
+According to Shia law, there is only two groups of heirs.
+
+1.    By marriage (husband and wife).
+
+2.    Heirs by consanquinity (blood relations) -are subdivided as follows
+      a)    (1) Parents
+            (2) Children and other lineal descendants
+
+      b)    (1) Grand parents
+            (2) Brother sister and their descendants
+
+
+                                                      22
+      c)       (1) Paternal uncle and aunts of the deceased and of his parent and gr::ndparents and their
+               descendants.
+
+               (2) Maternal uncles and aunts of the deceased and of his parents and g grand parents and
+               their descendants.
+The heirs in the earlier group exclude the heirs in the later group.
+
+Sharers and Residuaries in shia law- Shias divide heirs into two classes, namely sh.irers and resudiaries
+.The division of heirs into the above two classes is for the purpose of determining the share of individual
+heirs. There are nine shares who take specific shares as shown in the table below. The descendants of
+sharers are also sharers. Those heirs who are not included in the class of sharers are all residuaries. The
+descendants of the residuaries are also residuaries.
+
+
+                                      TABLE OF SHARERS (SHIA LAW)
+
+ Sharers              Normal share        Conditions under               Share as varied by
+                    Ofone | twoor         which the share is             special circumstances
+                            more          inherited
+
+ Husband             1/4                  When there is a                % when there is no
+                                          lineal descendant              such descendant
+
+ Wife                1/8        1/8       When there is a                % when no such descendant.
+                                          lineal descendant
+
+ Father              1/6                  When there is a                (If there be -o lineal
+                                          lineal descendant              descendant the father inherits
+                                                                         as residuary)
+
+ Mother              1/6                  a. When there is a lineal      1/3 in other : ases.
+                                            descendant or
+                                          b. When there are two or
+                                             more full consanguine
+                                             brothers or one such
+                                             brother and two such
+                                             sisters, or four such
+                                             sisters, with the father.
+
+ Daughter            1/2      2/3         When no son                    (with son shi takes as
+                                                                         residuary)
+
+ Uterine             1/6      1/3         When no parent or
+ brother or                               lineal descendant
+ sister.
+
+ Full sister         1/2      2/3         When no parent,                The full sister takes as a
+                                          or lineal descendant,          residuary with the full
+                                          or full brother,               brother and also with the
+                                          or father’s father             father’s father
+
+ Consanguine | 1/2            2/3         When no parent, or             ( the consanguine sister takes
+ sister                                   lineal descendant, or          as a residuary with the
+                                          full brother, or sister,       consanguine brother and alo
+                                          or consanguine brother         with the father’s father.
+                                          or father’s father.
+
+
+                                                        23
+Principle of distribution of property:
+   i. Ifthe deceased leaves only one heir, the whole property goes to him
+   ii. Ifthe deceased leaves more than one heir, the first step is to assign shares to the heirs belonging
+       sharer class.
+
+Pre-Emption: (Shufaa) (sec 4 of Partition Act)
+It is the right which the owner of an immoveable property possess to acquire by purchase another
+immovable property, which has been sold to another. It is a right which the owner of certain property
+possess, for the quiet enjoyment of that immovable property, to obtain certain other immovable
+property not his own. There are three requisites.
+
+   1. The pre-emptor must be owner of immovable property.
+   2. There must be a sale of immovable property not his own.
+   3. Pre-emptor stands in certain relationship to the vendor.
+
+Persons entitled to claim pre-emption:
+       A co-sharer in the property (Shafi-i-Shareek)
+       A participator in immunities and appendages (Shafi-i-khalit)
+       Owner of adjoining immovable property(Shafi-i-jar)
+
+Loss of right of pre-emption:
+       Omission to claim or waiver
+       Death of the pre-emptor before enforcement
+   *   Forfeiture of right.
+
+CHRISTIAN LAW OF INHEREITANCE
+
+The Indian succession Act in part 1V and V contains provisions applicable to a Christian dying intestate.
+Succession is based on consanguinity.
+
+Kindred or Consanguinity (sec 24): It is the connection or relationship of a person descended from the
+same stock or common stock. The relationship contemplated should flow from a valid wedlock.
+                                            Consanguinity
+                                                    |
+                                                                       |
+                               Lineal                             Collateral
+                              (sec. 25)                            (sec. 26)
+
+Lineal consanguinity:
+
+   1. Lineal consanguinity is that relationship which subsists between two persons, one often whom
+      is descendant in a direct line from the other, as between a man and his father, grandfather and
+      great grandfather, and so upward in the direct ascending line, or between a man and his son,
+      grandson and great grandson, and so downward in the direct descending line.
+   2. Every generation constitute a degree, either ascending or descending.
+   3. A person’s father is related to him in the first degree and so his son; his great grandfather and
+      grandson in the second degree; his great grandfather and great grandson in the third degree
+       and so on.
+
+Collateral consanguinity: Is that relationship which subsists between two person, who are descended
+from a common stock or ancestor, but neither of them whom is descendant in a direct line from the other.
+                                                    24
+In case of collateral consanguinity, the rule is to count upwards from the deceased person deceased to
+the common and the downwards to the collateral relative- reckoning a degree for each person both
+ascending and descending.                  ‘
+
+Devolution of the property of an intestate (sec.32): The property of an intestate des olves upon the wife
+or husband or upon those who are kindred to the deceased in the order contained in chapter 11 to part V.
+
+Succession to male intestate (sec.33): when the intestate has died;
+   (a) Leaving a widow and lineal descendants, then one third of the property shall belong to the
+        widow and the remaining two third shall go to the lineal descendants.
+   (b) If he has left no lineal descendants, but has left widow and kindred to him, then one half shall
+       devolve to his widow and the other half shall go to the kindred.
+   (c) If he has left none who are kindred to him ,the whole of the property shall belong to the widow. —
+
+Succession to a female intestate (sec 35): A husband surviving the wife has the same right in respect of
+her property as the widow has in respect of her husband's property if he dies intestate.
+   a) If she dies leaving lineal descendants ,then the husband gets one third and the remaining two
+        third goes to the lineal descendants.
+
+   b) If no lineal descendants but only kindred, the husband gets one half and the remaining half will
+        go to the kindred.
+
+   c) If no kindred, the husband takes the entire property.
+
+The rules of distribution where there are linea] descendants are given in sections 30 to 40.
+The rules of distribution where there are no lineal descendants are given in sections 41 to 48.
+Distribution of property when there are lineal descendant :
+
+   1. To deduct first the share of the spouse.
+
+   2. Ifthere are lineal descendants to distribute the residue among them              ( whole property
+        if there is no spouse).
+
+   3. Where the intestate has left child or children only and no more remote heirs the property
+      shall belong to the surviving child or if more than one child then to all the children equally.
+   4. Where the intestate has left no child but only grandchild or grand children, the property shall
+      belong to the grandchild or if more than one grandchild, it shall equally be divided among all
+        the surviving grandchildren.
+
+   5.    Where intestate leaves lineal descendants of different degree of kindred to him, then they
+        take equally per-stripes , i.e. children and grand children and great-grandchildren equally take
+        between them their deceased parents share.
+
+
+
+
+                                                   25
+                                                   UNIT-HI
+                                    TESTEMENTARY SUCCESSION
+Testamentary succession:
+
+The general law of the land for regulating testamentary succession to the separate property of an
+Indian is the Indian Succession Act 1925. Muslims are governed by the Quranic law. The procedural
+rules of Indian Succession Act with some reservations also apply to Indian Muslims.
+
+ A will is a legal declaration of the testator with respect to his property which he desires to take effect
+after his death. It is a devise with the help of which an owner of property make a disposition that is to
+take effect after his death. Under the act a person has power to make a will or a testament of the totality
+of his separate property. A copacener can bequeath his undivided share in the coparcenary property
+under The Hindu Succession Act(sec.30).
+
+                                               Classification of Will
+                                                         |
+                                    [
+                             Privileged Will                       Unprivileged Will
+Privileged will (sec. 66):
+
+Any solider , airman or mariner being employed in an expedition or engaged in actual warfare, if he
+has completed the age of eighteen years can dispose of his property by a will in the manner provided
+in sec.66.Such wills are called privileged will.
+
+It may be made orally by declaring the testamentary intention before two witnesses. If it is in the
+handwriting of the testator, it need not be signed or attested. Even verbal instructions, if given in the
+presence of two witness is deemed to constitute a will. Even if it is not written and signed but written
+by his instruction and recognised by him as his will then it is deemed to be a valid will. Instructions in
+writing of the testator for preparing the will can also constitute a valid will. A will made by word of
+mouth shall be null at the expiry of one month after the testator, being still alive and he is ceased to be
+entitled to make a privileged will.
+
+Revocation or will (sec 70): A will by its very nature is revocable. A testatoris not bound by the
+testamentary disposition that he makes and he can always cancel or chance it. Under the Act a will
+can be revoked in the following cases:
+
+   *   Subsequent will.
+       Written declaration of intention to revoke.
+       Destruction of will.
+
+Lapse of legacy (secl105): When a bequest fails to take affect for some reason in favour of the legatee for
+whom it was intended it is called lapse of legacy. The legatee has to survive the testator, if he does not
+the legacy lapses and forms a part of the residue of the testator’s property.
+
+Ademption of legacy (sec152): Ademption may be defined as the failure of a specific bequest through
+its subject matter not being in existence at the testator’s death. If anything which has been specifically
+bequeathed does belong to the testator or has been converted into another property of a different
+kind, the legacy is said to have adeemed .
+
+Different kinds of legacies:
+    : Specific legacy(sec. 142)
+       Demonstrative legacy(sec.150)
+    +  General legacy(sec.171)
+
+                                                         26
+Specific legacy- When the testator bequeaths to any person a specified part of his property , which is
+distinguished from all other part of his property, the legacy is said to be specific. It must be identifiable
+by special description and separated in favour of a particular legatee. A bequeath to a legatee a bungalow
+out of the testators asset is a specific legacy.
+
+Demonstrative legacy- Where the legacy is directed to be paid out of specified property, the legacy is
+said to be demonstrative. It is not liable to ademption, and it becomes payable from the general assets
+of the testator.If a specifis sum is directed to be paid out of the income from speci'ied property , the
+legacy is demonstrative.
+
+General legacy-May or may not be a part of the testators property. If there is a bequest of something in
+general term the executors must purchase for the legatee what may reasonably ansv er the description.
+It is liable to be abated but not adeemed. If the bequest be in general terms, e.g., “ci a horse” and if no
+horse be found in the testator’s possession at the time of his death, the executor is bi und, provided the
+state of asset will allow him ,to procure a horse for the legatee.
+
+Abatement of Legacy: Abatement means rateable or proportional . Generally legaci: s are payable after
+satisfying the debts and necessary expenses. If after payment of debts the assets z1e not sufficient to
+pay all Jegacies the proportional reduction of the legacy is done.
+
+Executor and Administrator:
+
+ Executor - Is a person to whom the execution of the last will of a person deceased is by the testator
+appointed(sec2(c)). He derives his authority from the will. A will must contain expressly or by
+implication the name of the executor otherwise, no probate can be granted.
+
+Administrator- Is a person appointed by a compe:ent court to administer the est.te of the deceased
+when there is no executor(sec2(a)). He derives his title from the letters of adminisrration. Letters of
+administration are granted by a court having probate jurisdiction. It shows that the wuthority incident
+to the office and the duty of an administer has been devolved upon the person thercin named.
+
+Duties of executor or administrator are set forth in sections 305 to 331. They fall under the following
+heads-
+   *     Duties to the court.
+   +     Preferential payments.
+   +     Duties to the creditors
+   +     Duties to legatees.
+
+Succession certificate: Chapter X containing sections 370 to390 of The Indian Suc :ession Act, 1925
+contains provisions dealing with succession certificate.A succession certificate is granted by the court
+with respect to any debts or security to which a person has become entitled to as the rcsult of succession
+to another .It is intended to facilitate the collection of debts on succession. The debtor of the deceased
+creditor can making payments to the holder of the succession certificate . The debtor is protected even
+against misrepresentation by the holder of the certificate. Succession certificate can be granted in the
+following cases:
+   +     Whena grant of probate or letters of Administration is not compulsory under sec. 212 or sec. 213.
+   +     When the deceased is an Indian Christian (sec. 370 proviso.)
+   *     When the deceased is a Mohammedan.
+   *     When the deceased is a Hindu and has left a will and probate, such a will is not compulsory
+         under sec. 57.
+   >     In the case of joint family property, which passes by survivorship under Hindu law.
+                                                     27
+Contents of the succession certificate- Succession certificate contains the following particulars:
+
+   (a) Debts and Securities as specified by the court of competent jurisdiction.
+
+   (b) Persons to whom the certificate is granted to.
+
+   (c) The powers empowered, namely to receive interest and dividends or to transfer the securities or
+        any of them.
+
+Codicil: This word is derived from the roman          word ‘codillcillus’ meaning an informal will. An
+instrument made in relation to a will and explaining adding or altering to its disposition, and shall be
+deemed to be a part of the will (sec 2 (b)).A codicil cannot be oral and must be an instrument. The
+purpose of the codicil is to make slight changes in the will which has already been executed.
+
+Probate: It is a copy of the will certified under the seal of the court with the grant of administration
+to the estate of the deceased person (sec2 (f)). Though the executor derives his title from the will and
+not the probate , still the probate is the only proper evidence of the executors appointment. Probate of
+will when granted, establishes the will from the death of the testator and renders valid all intermediate
+acts of the executor. Sections 217 to 236 of The Indian Succession Act, 1925 deals with probate and
+letters of administration. Letters of administration are granted by the court having probate jurisdiction
+to show that the authority incident to the office and duty of an administrator has been devolved upon
+the person therein named. A probate is only conclusive as to the appointment of executor and the valid
+execution of the will. It does not decide any question of title. A grant of probate does no more than
+establish the factum of will and the legal character of the executor.
+
+Domicile: The word ‘Domcile’ is not defined in the act. Chatty. J defines domicile as “That place is
+properly the domicile of a person in which his habitation is fixed without any present intention of
+removing therefore”.
+
+Sec 5-(2):- succession to the immovable of a deceased is regulated by the law of the country in which
+the person had his domicile at the time of his death. Succession to the immovable property in India
+shall be regulated by the law of India - i.e., les loci rei sitate by the law of the land and not by domicile
+of owner. If a person dies leaving a will, the validity of the will is determined by les loci.
+Eg: “A” having his domicile in India dies in France, leaving moveable property in France England and
+both moveable and immovable in India.
+
+Ans: succession to the whole is regulated by Law of India.
+
+Classification of domicile:
+   1. By birth- domicile of origin.
+   2.   By choice.
+   3. By operation of law.
+
+Domicile of origin:
+Domicile of origin (sec.7) of person of legitimate birth is the country in which at the time of his
+birth, his father was domiciled, if he is posthumous child , then the country in which his father was
+domiciled at the time of his father’s death.
+
+Domicile of origin of illegitimate child (sec.8) is the country in which at the time of his birth, his
+mother was domiciled.
+
+                                                     28
+Domicile of choice:
+Acquisition of new Domicile (sec.10) :
+A man acquires a new domicile by taking up his fixed habitations in a country which is not that of
+his domicile of origin. The presumption of law is always against the change of domicile. A domicile by
+choice is obtained by a combination of fact and intention. In the absence of intention the length of the
+residence is very strong ground for inferring an intention to make a residence a fixed habitation. No
+new domicile is obtained without a clear intention of abandoning the old domicile
+
+By operation of law:
+
+Minor’s Domicile (sec.14) - Follows that of the parent from whom he has derived his domicile of origin.
+Exception- the domicile of a minor does not change with that of his parent under the following
+situations;
+
+   *   Ifthe minor is married.
+
+   ‘   Holds any office in the service of the government.
+
+   +   Set up distinct business with parents consent.
+
+Domicile Obtained By A Women On Marriage(sec.15) -
+
+By marriage , a women acquires the domicile of her husband, if she had not the same domicile before.
+ Wife’s domicile during marriage (sec.16) - follows the domicile of her husband, except if they
+are separated by the sentence of a competent court, or if the husband is undergoing a sentence of
+transportation.
+
+Doctrine of Cy pres : the expression cy pres literally maens “ as early as possible” . ‘he doctrine vof cy
+pres is applicable when a bequest is made upon a condition precedent. When the testator has expressed
+a general intention and also a particular way in which he wishes it to be carried out, vuy ifthe intention
+cannot be carried out in that particular way then the court will direct the intentic n to be carried out
+, as nearly as possible in the way desired. Eg:- where a bequest is given to ‘A’ on th. condition that he
+should marry with the consent of X Y and Z. X died later. If A marries with the consent of Y and Z,
+then the condition is said to have been substantially complied with.
+
+
+
+
+                                                   29
+Wasiyat:
+The word ‘Wasiyat’ (will) means, a moral declaration in compliance with moral duty of ever Mussallman
+to make arrangement for the distribution of his property. A pre- Islamic Arab’s capacity to dispose of
+his property by will was as full as his power to deal with it by acts inter vivos, and there was nothing
+to prevent him from giving away his entire property to some stranger leaving his own heirs. It was
+after the advent of Islam that Quran laid down specific rules for the distribution of inheritance Islam
+placed a restriction on the testators power, so that he was not allowed to bequeath more than one
+third of his estate. The will of a Muslim is governed in India subject to the provision of the Indian
+Succession Act 1925and by the Mohammedan Law (Tyabjii).
+
+Form of will: It may be made orally or in writing, convenience however demands that it should be in
+writing. The intention of the testator should be clearly expressed.
+
+Who can make a will: A Muslim who is of sound mind and a major can make a will. A purdahnasheen
+lady is also competent to make a will. A will made by a person after he had taken poison, or done any
+act towards commission of suicide is not valid. The Shia law however says that if the person made the
+will and then committed suicide, the bequest would be valid. A person condemned to death may also
+make a will.
+
+Subject of a will: The corpus of a property should be in existence at the time of the testator’s death and
+could be non-existent at the time of making the will. The usufruct of a property can be bequest.
+
+For whom a will can be made: Any person capable of holding property; whether male or female,
+Muslim or non-Muslim may validly avail the benefit of a bequest. Unborn persons cannot be a legatee
+under a will, however if the legatee is in the womb and birth takes place within six months from
+the date of the will, he can be a lawful legatee. Heirs cannot be legatees, unless other heirs give their
+consent to it.
+
+Testamentary limitations: There are two limitations on a Muslim's power to bequeath;
+
+(1) He cannot bequeath to his heirs (Without the consent of other heirs) and
+
+(2) He cannot bequeath more than one third of his estate.
+
+In Sayeeda Shakur vs Sajid Phani (2006)4 CLT192 The Bombay High Court held that a Muslim married
+under The Special Marriage Act, was entitled to bequeath his entire property and the provisions of the
+Indian Succession would apply to him.
+
+Reasons for limitation on the testamentary powers: It is the policy of the Mohammadan law to
+prevent a testator from interfering by will with the course of devolution of property among his heirs
+according to law. The object also includes the concern to see that no heir is left destitute. This has been
+repeatedly confirmed by judicial verdicts in Asma Beevi v. M. Ameer Ali. (2008) 6 ML] 92, where it
+was held that a Mohammedan cannot by will dispose of more than 1/3 of his estate after payment of
+funeral expenses and debt, unless consent is obtained from legal heirs, after the death of the testator.
+This consent of the legal heirs need not be expressed and it may be signified by conduct showing
+unequivocal intention. In Sayeeda Shakur vs Sajid Phani(2006)4 CLT192 the Bombay High Court held
+that a Muslim married under The Special Marriage Act, was entitled to bequeath his entire property
+and the provisions of the Indian Succession would apply.
+
+                                                    30
+                                              UNIT-IV
+                                     GIFT UNDER ISLAMIC LAW
+Gift under Muslim Law is called Hiba. It is a transfer of property, made imme.l|tately by one person
+called the donor the other person called as the donee and accepted by or as be ialf of the latter and
+followed by delivery of possession. Thus, whereas Muslim law allows testamentury disposition in the
+limit of one-third, a gift inter-vivos (from one ‘iving person to another living person) may be made
+without any restriction. Muslim Law allows a man to give away the whole of ht- property during his
+life time.
+
+Essentials of Hiba:
+    1.   Declaration by donor.
+   2. Acceptance , expressed or implied by or on behalf of the done.
+   3. Delivery of possession of the subject matter of gift by donor to done.
+
+Exception to delivery of possession:    there are certain cases in which delivery of possession is not
+necessary.
+
+    1. When the donor and done reside under the same house.
+   2. When the donor and done are husband and wife.
+   3. Gift to minor by father, mother or guardian.
+   4. Gift to done in possession (e.g. bailee).
+
+Who can make a gift (donor): Every Muslim male or female who is a major and .»ane may make a gift
+provided he or she is subject to any force or fraud. An insolvent may also make hiba with bonafide
+intention or else it would be revocable at the option of the creditors. Thus rushd (sanity), bulugh
+(majority) maliki (ownersly) and no undue influence are the ingredients of capac ity to make hiba.
+
+In whose favour (donee): Hiba can be made in favour of any living person capable of holding property,
+thus a gift to an unborn person is invalid. A gift to a child in the womb may be mace provided the child
+is born within 6 months from the date of the gift. Gifts may be validly made to ar y juristic person and
+to non Muslims.
+
+Subject matter of Hiba: All forms of property over which control may be exercised are proper subjects
+of gift. This includes moveable, immovable, corporeal and incorporeal. The subject matter of Hiba must
+be in existence on the date of making the gift or else void. A gift may be validly ‘nade of an undivided
+share (mushaa) in a property which is incapable of being divided. A gift of mush.a capable of division
+irregular but not void. Subsequent divisions and delivery of possession renders th. gift valid.
+
+Revocation of gift: According to Muslim law all voluntary transaction are revocalle, hence a gift may
+also be revoked. There is, however a difference between complete and incomplete gifts i.e., after or
+before the delivery of possession.
+
+    1. Before delivery: A gift may be revoked any time by the donor before delivery of possession, the
+       reason is that a gift is no gift before delivery of possession as stated in Bibi Riajan Khatoon vs
+         Sadrul A lam AIR 1996 Patna 156.
+
+   2. After delivery: Revocation is only possible by the intervention of court of law or by consent of
+         the done. The following gift cannot be revoked even with the consent of the done.
+
+         a. Where it is made by husband to his wife or vice versa.
+
+         b. Where the donor and done are related to one another within the prohibited degrees by
+             consanguinity.
+
+                                                   31
+       c.   When the donor or done dies.
+
+       d. Where the thing given is destroyed or lost.
+
+       e.   Where the motive of the gift is religious or spiritual.
+
+Gift involving return (ewaz) = Hiba-bil-ewaz:- After the gift has been made, the done may offer to
+make a reciprocal, then it is called iwaz. If this return gift is accepted, then it is called Hiba-bil-ewaz.
+Payment of consideration is important. Hiba-bil-iwaz has all the elements of sale and therefore the
+basic formalities for affecting a sale under the transfer of property act, are applicable here.
+
+Illustration:
+
+   (a) X makes a gift to Y ofa horse. Y in then makes a gift of a camel to X and states that the gift of
+      the camel is a return for the primary gift of the horse, X accepts it. Here , the gift of the camel is
+       the return or ewaz for the primary gift of the horse, and it is a Hiba- bil- iwaz.
+
+   ( b) X makes a gift to his cousin Y, saying , “ it is in consideration of your being my cousin”. It is
+                                                   4
+
+
+
+
+       not Hiba - bil ~ iwaz.
+
+    The courts in India have held that a transaction of this character is nothing but a sale, therefore
+   where property is immovable and worth rupees 100 and above, it must effected by a registered
+   instrument
+
+Sadaqah: these are gifts with religious motive. Sadaqah is irrevocable. It can be made to two or more
+person with the incidence of joint tenancy, provided they are poor.
+
+Ariyat: It is a gift of the right to enjoy the usufruct in a specific property specific property and for a
+specific time and is revocable at the pleasure of the donor.
+
+Hiba-ba-shart-ul-ewaz: Whena gift is made with stipulation (shart) for return (ewaz) it is called Hiba-
+ba-shart-ul-ewaz. The distinction between hiba-bit-ewaz and hiba-ba-shart-ul-ewaz are that in the
+former, the intention to make an ewaz is an after thought. While in the latter, the two go hand in hand
+ie., the return is contemplated by both parties. The return gift must be made with all the formalities
+necessary for Hiba, i.e., offer acceptance and delivery of possession.
+
+Marz-ul-maut: A gift made in death-illness and it takes effect as a will. ‘marz means illness and ‘maut’
+means death. Thus Marz-ul-maut means illness that result in death. A gift made during marz- ul maut
+is subject to all the conditions and formalities prescribed under Muslim law for gift inter vivos. This gift
+is treated as a combination of gift as well as a will (Wasiyat). All three ingredients of the gift must be
+complied. In addition to it, as it also treated as a will, it cannot be made of more than one-third of the
+total property of the donor, unless heirs consent. When the donor recovers from illness, the gift
+would become an ordinary gift. So testamentary restriction would not apply.
+
+Essential conditions of Marz-ul-maut- The first condition is that the person must suffering from
+illness; second , that there must be an apprehension of death in the mind of the patient; and third, that
+he actually dies.
+
+
+
+
+                                                       32
+                               Gift and Will Compared
+
+Gift                                              Will
+
+ Existence of property                            Not essential at the tim« of making the
+ must; at the time of gift                        will, but must at the tire of death of
+ the testator.
+
+Transfer of possession of property                Not done; property devolves on the
+_Mmust, at the time of gift                       legatee after death.
+
+Transfer of property becomes effective            Becomes effective after the testators
+ instantly                                        death.
+
+ Doctrine of mushaa applies                       No
+
+ No limit as to quantum or beneficiary            Two limits__ not more than 1/3rd and
+                                                  not ot heir(subject to the exemption of
+                                                  consent byheirs).
+
+ No revocation of a completed gift                May be revoked before death.
+
+
+
+                           Sunni law and Shia law compared
+
+ Sunni                                            Shia
+
+ Suicide—bequest by one who commits the           Bequest is valid only if *1e act for
+ act before suicide before or after making        committing suicide was lone after
+ the will is valid (the act means..               making the will. not if the act was done
+ e.g. taking poison).                             first and then the will made.
+
+ Child in the womb__ bequest for unborn           Valid if the child is born within 10
+ person valid if the child is born within         months of making of the will.
+ 6 months of making of the will.
+
+ Consent of heirs                                 Consent of heirs
+
+ For bequest in favour of stranger up to          same
+
+ 1/3rd property—not required.
+
+ For bequest in favour of heir (even 1/3rd)       For bequest in favour of heir (1/3rd)
+ consent of other heirs necessary                 consent. Not necessary.
+                                                  For more than (1/3rd) necessary.
+
+ Consent of the legatee presumed if he            No presumption; but the consent of his
+ dies before consenting.                          heirs must be obtained.
+
+ Time of consent—after death the testator.        Before or after death, both sufficient.
+ Consent before death is not sufficient.
+
+ Bequest for one who has caused the               If the legatee intentionaliy caused the
+ death of the testator is not valid in any case   death of the testator—the bequest is
+                                                  not valid. But if the death was caused
+                                                  unintentionally, it is valid.
+
+
+                                            33
+Pious bequests-priorities in this order:        Priorities-(i) Farz;
+first---Farz, second Wajibaat,                  (ii) for others-proportionate abatement.
+third—nawafil.
+
+Secular bequests—rule of proportionate          Rule of proportionate abatement not
+abatement.                                      recognised.
+
+Lapsing of bequest - the legacy lapses          No, the legacy devolved on the heirs of
+if the legate predeceases the legator.          the legatee. But if no heirs, it does lapse
+                                                back to the legator.
+
+
+
+
+                                           34
+                                                UNIT-V
+                           RELIGIOUS ENDOWMENTS AND WAKF
+Article 26 of the Constitution gives freedom to every religious denomination to cstablish and maintain
+its religious and charitable institutions subject to public order, morality and health. They also allowed
+the right to administer the properties of these institutions in accordance with law. The state can
+regulate the administration of trusts and wakf by means of validly enacted laws. Article 26(c) confers
+on religious denominations a fundamental right to own and acquire property.
+
+HINDU ENDOWNMENTS
+From early times, Hindus have been dedicating property for religious and char:table purposes. People
+having immense wealth donated their property for the welfare of the temples and religion as a gift. This
+has mainly been under two heads; Istha and Purta. The former indicates the Vedic sacrifices , rituals
+and gifts associated with such sacrifices. The later etasnds for all other religious and charitable acts and
+purposes connected with the Vedic sacrifices. The Istha- Purta have been considerd as means for going
+to heaven. At present such property of the temple are under the control of the Government. They are
+called as Hindu Endowments.
+
+Essentials of a valid endownment :
+   *   The dedication must be complete.
+   *   The subject matter must be specific.
+   *   The object must be definite.
+   *   The settler must have the capacity to ma<e the endownment.
+
+Math: Math are the place where ascetics are residing. It is a monastic institution presided over by its
+head., known as Mahant. The ascetics residing in the math have to lead a discipined life. Ascetics are
+people who renounced the world. They indulge in the professing of the religion «nd its principles. The
+basic principle of math is to encourage and foster spiritual learning and knowledye by maintenance of
+competent line of teachers who impart religious instruction to the disciples and tollowers of math and
+to strengthen the doctrines of the sect or school to which math subscribes.
+
+Classification of Math:- there are three types of math
+   1. Mourushi math
+   2. Panchayat math
+
+   3. Hakimi math
+
+Mahant: Mahant is a person who is presiding over the math. Mahant acts as a leader of the math
+and manages the property of math. Mahant remains as a presiding person, even when the temple
+is attached with math. Without mahant, a math cannot exist .He occupies a {fiduciary position, he
+maintain proper accounts failing which ,he may be removed. He has the power to borrow money for
+the purpose connected with the Math and bind the endowment property for debts taken for legal
+necessity. Succession to the office of the Math will be in accordance with the rules or devolution as
+laid down by the founder of the endowment,
+
+Properties under the math: Even though the mahant is the head of the math, the properties which
+were acquired by the math and the properties dedicated to it vests in the math. The mahant can only
+manage the property. The endowed property of a math rests in the math itself as a juristic person and
+not in the mahant. A math is a juristic person cable of acquiring and holding property.
+
+
+                                                    35
+Management of Math: Unless the founder has directed otherwise, the management of math and it’s
+possession belongs to the mahant with it’s properties. The mahant holds properties of math for certain
+specific purpose or purposes as laid down by the founder or by wage. The mahant should ensure the
+duties of the math, the performance and festivals of the math. The ceremonies and religious rites and
+rituals of the math. Management also includes     supporting the disciples and other members of the
+math. The mahant should take care of providing food, stay and like things for the visiting ascetics. All
+the expenses should be met out from the endowed property only.
+
+
+WAKF:
+
+Wakf means detention of the property in the ownership of God. The Mussulman Wakf Validating Act
+1913 defines wakf in sec 2. Thus wakf means the permanent dedication by a mussulman of any property
+for any purpose recognised by the Mussulman Law as religious, pious or charitable.
+                                                                               The institution of
+wakf has developed with Islam. There is no wakf or any such parallel institution in Arab         before
+the advent of Islam. Credit must be given to the Muslim jurist for having developed the theory of
+wakf. The doctrine of wakf which is interwoven with the entire religious life and social economy of
+Muslims has laid down the foundation of one of the most important institutions of the community. In
+India alone there are more than one lakh wakfs valued at more than a hundred cores of rupees.
+
+Legal incidents in wakf: there are three legal incidents of wakf namely irrevocability, perpetuity and
+inalienability.
+
+    1. The wakif should be the owner of the property dedicated.
+
+    2. The dedication must be for an object recognised by Muslim law as religious, pious or charitable.
+
+    3, The property must be of permanent character.
+
+   4, Contingent wakf are not valid.
+
+Who can create Wakf: A major person of sound mind can validly create a wakf. The wakif (who creates
+a wakf) can be a muslim or non-muslim. A person suffering from death-illness can create a wakf
+(maraz-ul-maut wakf) such wakf takes effect as a bequest and only one third of the property is treated
+as given in wakf.
+
+What can be made a wakf: The property may be of permanent character under the Wakf Validating
+Act 1913, both movable and immovable properties may be subjected to wakf. An undivided property
+(Mushaa) can be subjected to wakf except for two cases namely, wakf for the purpose of mosque and
+wakf for the purpose of burial ground.
+
+Creation of a wakf: It is not necessary that a wakf should be made in writing. All that is necessary
+in constituting a wakf is that some sort of declaration either oral or in writing must be made. If the
+writing is non testamentary and relates to immovable property of value more than Rs.100, registration
+is essential.
+
+Administration of wakf Mutawalli: The manager of wakf property is called the Mutawalli and he is
+generally appointed by the wakif or the court. Anyone, of any faith, female and male, who is competent
+to administer     property may become Mutawalli. But where religious duties are involved, a person
+of another religion or a woman may be disqualified. The office of the mutawalli is not hereditary.
+However, if there is a custom hereditary succession would be allowed, mutawalli can be removed by
+the court, by the Wakf Board or by the walk.
+
+                                                  36
+Powers: A mutawalli can do everything that is reasonable and necessary fo: the protection and
+administration of the wakf. But his powers are subject to certain limitations i.e.,
+   a. He cannot alienate wakf property without the permission of the court or “’akf Board.
+   b. He cannot grant a lease or wakf property for more than a year in case of non-agricultural land,
+      and for more than three years is ease of agricultural land, unless the court sanctions.
+   c. He cannot transfer his duties, functions ar.d powers to anybody else, unless authorised by wakf
+        deed or custom.
+
+   d. He cannot borrow money for spending it on beneficiaries, but can do so only for necessities,
+        such as repairs etc.
+
+Kinds of wakf:
+
+   a.   Public wakf
+
+   b. Private wakf
+
+   c.   Quasi public wakf.
+
+Quasi public wakf (Wakf Alal_Aulad): a muslim can make a settlement on his cescendants with an
+ultimate dedication for pious purpose to take effect of the line of the founder becomes extinct. Sec 3
+of the Wakf Validating Act 1913, validates such family settlement provided the ultimate benefit is
+reversed for religion, pious and charitable purpose.
+
+Legal incidents of wakf: There are three legal incidents of wakf ;
+     a) Irrevocability- According to Abu Yusuf the declaration of a wakf is in it. nature irrevocable.
+       A wakf cannot be revoked after declaration has been made, nor the power to revoke be validly
+        reserved.
+
+   b) Perpetuity- Wakf must be perpetual . If it is for a limited period , or for a temporary purpose, it
+       is void. Wherever the term wakf is used , permanence will be presumed as matter of law. The
+       rule against perpetuity does apply over wakf.
+   c) Inalienability- As the wakf property belongs to God, no human beings can alienate it for his own
+       purpose. Wakf property may be exchanged for an equivalent property, or sold, subject to the
+       compulsory reinvestment of the price in another property. The mutawalli cannot alienate the
+       wakf property without express authorisation by either the settler or the court.
+
+The Wakf Act 1995: The act provides for the establishment of a board of wakf for each state and
+union territory of Delhi. The members of the board appointment by the State Government. The act
+places numerous checks on mutawallis. Sec 65 stipulates that , where no suitable person is available
+for appointment as mutawalli, the board may assume direct management of the wakf for a maximum
+period of 5 years.
+                                           FAMILY LAW II
+
+                                        MODEL QUESTION PAPER
+
+Time: 2% hours                                                                  Maximum: 70 marks
+
+Part-A- (2x12=24 marks)
+
+Answer any two of the following in about 500 words each
+
+     1. Explain partition. When and by whom can partition be reopened.
+
+     2. Define Hiba and explain the requirements of a valid hiba .When hiba may be revoked.
+
+     3. State the rules of succession to the property of a Hindu male dying intestate.
+
+Part-B (2x7=14 marks)
+
+Answer two of the following in about 300 words each.
+
+     4. What is survivorship. How far it is affected by the Hindu Succession Act,1956.
+
+     5. Explain the different types of Legacies.
+
+     6. Enumerate the testamentary powers of a Muslim.
+
+Part-C (5x4=20 marks)
+
+     7. Write short notes on Five of the following.
+
+           a. Aprati banda daya.
+
+           b. Women’s estate
+
+           c. Disqualification under The Hindu Succession Act 1956.
+
+           d. Muttawali
+
+           e. Privileged will.
+
+           f. Doctrine of Aul
+
+           g. Succession certificate.
+
+Part-D (2x6=12 marks)
+
+Answer two of the following by referring to relevant provisions of law and decided cases. Give cogent
+reasons.
+
+
+     8. A Hindu female dies intestate leaving her mother, husband, son and daughter of predeceased
+           daughter. Distribute her property among her heirs.
+
+     9. A Shia Muslim dies leaving husband,father, mother and two daughters.Divide the estate
+           among them.
+
+     10.A Christian women dies leaving her husband, two sons and two daughters and father. Divide
+           his estate among them.
+
+
+
+
+                                                   38
+                                     SCHEME OF VALUATION
+
+Part A
+
+Q.No. 1—Partiion meaning- to bring the joint family to status to an end. Two rypes- division in
+status and division by metes and bounds. Division in status effected by an ~unequivocal expression of
+intention to partition, by institution of suit, by agreement , conversion, marriage to Hindu under The
+Special marriage Act. Division by metes and bounds-physical division., formalites - taking of account
+and inventories . Reopening of partition-means to unite again. Only possible between father and son,
+between brothers and paternal uncle. When-property concealed by fraud, left out property. Who can
+reopen- son in the womb at the time of partition, adopted son, minor coparcener, ..bsent coparcener ,
+son conceived and born after partition.
+
+Q.No.2—hiba- meaning transfer of certain existing moveable or immoveable property made voluntarily
+without consideration by donor to done followed by delivery of possession. Essentivls of hiba- capacity
+of the parties, subject matter of hiba. Formalities of Hiba- Declaration by the dune, acceptance by
+the donee and delivery of possession(when delivery not required).Revocation —pos<ible-complete and
+incomplete gift i. e. before and after delivery. Before delivery can be revoked anytime. After delivery
+—by the consent of the done (exceptions), by court.
+
+Q.No.3—lInestate meaning dying without leaving a valid will -Hindu Succession Act 1956- Heirs of
+Hindu male -classification of heirs-sec.8; Enumerate class 1, class11, class111 ,agr ates and cognates.
+Rules of distribution   sections 10 to 14.
+
+Part B
+
+Q.No.4—survivorship- mitakshara joint family -coparcenary- coparceners-clussic law-when a
+coparcener in an undivided joint family dies leaving female heirs ,his interest shall devolve by
+survivorship to the remaning male members-changes made by Women’s Right To l’roperty Act 1937-
+widow given limited estate. Changes made Hindu Succession Act 1956-sec.6; notional partion-sec.30;
+testamentary powers given to coparceners-introduction of females as coparceners survivorship rule
+abolished.
+
+Q.No.—5 Legacy -property received from a person who has died —either by will or ;sift. Classification-
+specific legacy, general legacy, demonstrative legacy. Specific legacy (sec.142)-testator bequeaths
+specific part of his property as distinguished from all other property; “ The diamond ring given A”,
+must be identifiable, liable to be adeemed. general legacy(171)- raised out of the g¢ neral assets of the
+testator, “a diamond ring”. Liable to be abated. Demonstrative legacy(sec.150)-where the legacy is
+directed to be paid out of specified property; "Rs 1000 out of the estate at Ramniagar”. Liable to be
+adeemed.
+
+Q.No.6- wasiyat- meaning will. Persons capable to make will-major, sound mind ,free will. For whom
+bequest can be made. subject matter-must be in existence. Testamemtary limitations -cannot bequeath
+to heirs except with consent of heirs and cannot will more than one third of the total asset. Difference
+between Sunni and Shia law.
+
+Part C
+
+Q.No.-7(a)   Apritibanthadaya    meaning-unobstructed heritage. Coparcenary property-explain.
+Mitakshara coparcenary- right by birth of putras in the ancestral property. other relatives, in presence
+of the putras have only an obstructed heritage.
+
+Q.No.7(b)-Women’s estate-Before 1956 property of women divided into stridhana and women’s estate.
+Women’s Right To Property Act 1937.Women’s estate-includes property obtained by inheritance and
+                                                   39
+share obtained on partition. Features of women’s estate- limited ownership, no power of alienation, on
+her death devolves to the heirs of the last full owner. women’s estate abolished by sec.14 of the Hindu
+Succession Act 1956- women given absolute ownership over her property.
+
+Q.No.7(c)-Disqualifications under the Hindu Succession Act1956- meaning disentitled to inherit as
+heir to the property of the intestate. Three type: 1.difference of religion(sec.26)- this disqualification
+was removed by The Caste Disability Act 1850 but does not extend to the converts descendants born
+after conversion. 2.Remarriage of certain widows though sec.24 is omitted still brother’s wife on
+remarriage is disqualified.3. Murder (sec.25)- person who commits or abets commission of murder of
+the deceased intestate.
+
+Q.No.7(d)-Mutawalli-manager of the wakf- appointed by the wakif or court. Who may be appointed-
+major Muslim or non Muslim . Powers- can all things reasonable for the protection of wakf, grant
+lease for specified period, cannot alienate wakf property without the permission of the court, borrow
+money for necessity. Removal-by court, by wakf board, by wakif.
+
+Q.No.7(e)- privileged Will-sections 65-persons capable- soldiers of the armed forces who are employed
+in an expedition and completed 18 years. Mode of making-sec. 66 -orally, if written by testator signature
+not required, no attestation required, his instructions constitute valid will. Expiry- after one month if
+the testator survives.
+
+Q.No.7(f)-Doctrine of Aul- Increase .Muslim law of inheritance allots fractional parts of unity, fractions
+added may equal to unity or more than unity or less. Shares of the respective heirs are or increased
+respectively is called as Aul. Give illustration.
+
+Q.No.7 (g)-Succession certificate(sec.370)-granted by court with respect to debts Or security to which
+a person has become entitled-when to be granted- restrictions-application procedure- effect of the
+certificate.
+
+Part D
+
+Q.No.8- sec 15(1) Hindu Succession Act 1956.Husband gets 1/3,son gets 1/3 (per-capita division).the
+1/3 share of the predeceased daughter is given to her two daughters- 1/3 divided by 2 =1/6 each (per-
+stripe division).Mother —nil sharer.
+
+Q. No. 9- . Husband: 1/4 father1/6, mother: 1/6 ,two daughters 2/3.
+
+Q.No.10 The Indian Succession Act,1925 sec.35.husband gets 1/3. The Remaining 2/3 is divided among
+the four children equally (lineal descendants), so they get 1/6 share each. Father —nil because of the
+presence of lineal descendants.
+
+                                             EEE HEHE
+                                           KEKE
+
+
+
+
+                                                    40
+

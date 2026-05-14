@@ -1,5 +1,5 @@
 ---
-description: Autonomous law study material generation — scan arbitrary inputs, classify, build knowledge base, emit exam-oriented layered outputs under .temp only.
+description: Autonomous law study material generation — scan arbitrary inputs, classify, build knowledge base, emit exam-oriented layered outputs under .temp only. Produces complete notes, condensed revision, visual aids, case law digests, question banks with model answers, quick revision sheets, exam strategy, and practice worksheets.
 alwaysApply: false
 ---
 
@@ -7,304 +7,385 @@ alwaysApply: false
 
 ## Core objective
 
-Generate complete, exam-oriented law study material from **any** arbitrary input directory containing:
-
-- syllabus
-- books
-- PDFs
-- notes
-- previous year papers
-- handwritten scans
-- OCR text
-- bare acts
-- case laws
-- presentations
-- images
-- mixed academic material
-
-The system must autonomously:
-
-- discover files
-- classify content
-- organize knowledge
-- generate structured outputs
-- produce exam-ready material
-
-…without requiring a predefined input layout (use filenames, folder names, headings, and semantics to classify).
+Generate complete, exam-oriented law study material from **any** arbitrary input directory. The output must be a **self-contained, topper-quality study pack** that a student can use end-to-end — from first learning to last-hour revision — for any law subject at any Indian university.
 
 ---
 
-## Input discovery engine
+## Phase 1 — Input discovery and classification
 
 ### Recursive directory scanning
 
-Always **recursively scan** the entire directory the user provides.
+Always **recursively scan** the entire directory the user provides. Support nested folders, mixed file types, inconsistent naming, duplicate files, and unstructured academic dumps.
 
-Support:
+Supported file types (extract text where possible; flag unreadable binaries for user OCR):
+`pdf`, `md`, `txt`, `docx`, `pptx`, `jpg`, `png`, scanned PDFs, OCR text, `html`.
 
-- nested folders
-- mixed file types
-- inconsistent naming
-- duplicate files
-- unstructured academic dumps
+### Document classification
 
-Treat as supported when present (extract text where possible; flag unreadable binaries for user OCR):
+Before generation, classify all discovered files into these categories:
 
-- pdf
-- md
-- txt
-- docx
-- pptx
-- jpg
-- png
-- scanned PDFs
-- OCR text
-- html
+| Priority | Category | Identification Signals |
+|:---:|:---|:---|
+| 1 | **Syllabus** | Keywords like "syllabus", "course outline"; unit/module structure; marks distribution; course code; prescribed readings. This is the **master content blueprint**. |
+| 2 | **Previous Year Papers (PYQ)** | University/board names; exam layout patterns; question numbering; "attempt any" phrases; semester/year in filename. |
+| 3 | **Bare Acts / Statutes** | Statutory drafting: sections, articles, definitions, provisos, explanations, amendments. |
+| 4 | **Case Law Material** | Case names, citations, party labels, holdings, ratios. |
+| 5 | **Reference Material** | Textbooks, notes, guides, presentations, study packs, articles, digests. |
+| 6 | **Classroom Notes** | Concise explanations, bullets, OCR of handwriting, lecturer emphasis. |
 
 ---
 
-## Document classification engine
+## Phase 2 — Knowledge base construction
 
-Before generation, classify discovered files.
+After classification, build **one unified legal knowledge base**:
 
-### 1. Syllabus files
+- Merge syllabus topics, references, PYQ signals, statutes, cases, and notes.
+- Deduplicate aggressively.
+- Preserve legal terminology, statutory wording, case names, and section/article references where verified.
+- The **syllabus controls**: module/unit order, topic boundaries, relative depth, and output alignment.
+- If no syllabus exists, infer structure from dominant statutes and reference headings; note the inference briefly in `README.md`.
 
-Identify using:
+### Subject detection
 
-- syllabus keywords
-- unit or module structure
-- marks distribution
-- course code
-- prescribed readings
-- typical academic layout
-
-Examples: `syllabus.pdf`, `course-outline.docx`, `LCC0601.pdf`.
-
-**Priority:** highest. The syllabus is the **master content blueprint**.
-
-### 2. Previous year question papers (PYQ)
-
-Identify using:
-
-- university or board names
-- exam layout patterns
-- question numbering
-- marks distribution
-- phrases such as “attempt any”
-- semester or year in filename or body
-
-Extract:
-
-- repeated questions
-- trends
-- marks patterns
-- important topics
-- probable questions
-
-### 3. Reference material
-
-Textbooks, notes, guides, presentations, study packs, articles, digests — use to **enrich** explanations and examples.
-
-### 4. Bare acts and statutes
-
-Identify statutory drafting (sections, articles, definitions, provisos, explanations, amendments). Extract accurate **section or article** anchors for notes and answers.
-
-### 5. Case law material
-
-Identify case names, citations, party labels, holdings. Extract principles, ratios, tests, and **exam use** one-liners.
-
-### 6. Classroom notes
-
-Concise explanations, bullets, OCR of handwriting, lecturer emphasis — use for **exam focus** and revision weighting.
+Infer the subject from syllabus wording, dominant statutes, and vocabulary. Use the inferred label for folder naming and question IDs. Examples: Constitutional Law, IPC, CrPC, CPC, Contract, Tort, Family Law, Jurisprudence, Labour Law, Administrative Law, IPR, Cyber Law, Company Law, International Law.
 
 ---
 
-## Knowledge base construction
+## Phase 3 — Output structure
 
-After classification, build one unified legal knowledge base:
-
-- merge syllabus topics, references, PYQ signals, statutes, cases, and notes
-- deduplicate aggressively
-- preserve legal terminology, statutory wording, case names, and article or section references where verified
-
----
-
-## Syllabus-first generation model
-
-The syllabus controls:
-
-- chapter or module order
-- hierarchy and topic boundaries
-- relative depth
-- output module alignment
-
-If several syllabus files exist, prefer the **latest or most complete**; merge only when boundaries stay clear.
-
-If **no** syllabus exists, infer structure from dominant statutes and reference headings, then label uncertainty in a short internal note (not a debug dump).
-
----
-
-## Subject detection engine
-
-Infer subject from syllabus wording, dominant statutes, and vocabulary (examples: Constitutional Law, IPC, CrPC, CPC, Contract, Tort, Family Law, Jurisprudence, Labour Law, Administrative Law, IPR, Cyber Law, Company Law, International Law). Use the inferred label for folder naming and question IDs only after checking consistency with sources.
-
----
-
-## Output structure generation
-
-Generate a **topper-style repository** under **`.temp/` only** (see strict location rule below).
-
-Example layout (subject slug as folder name):
+Generate a **topper-style repository** under **`.temp/{subject-slug}/`** with the following mandatory structure:
 
 ```text
 .temp/{subject-slug}/
-  00-syllabus-and-references/
-  01-complete-notes/
-  02-condensed-notes/
-  03-visual-aids/
-    Comparison_Tables/
-    Flowcharts/
-    Mind_Maps/
-  04-case-laws/
-    Module_Wise_Cases/
-  05-question-bank/
-    2_Marks/
-    5_Marks/
-    10_Marks/
-    15_Marks/
-    Distinguish_Between/
-  06-previous-papers/
-  07-quick-revision/
-  08-exam-strategy/
-  09-practice-worksheets/
   README.md
   NAVIGATION_INDEX.md
+  📖_START_HERE.md
+  01-complete-notes/
+    Module_01_{Title}.md          # includes mnemonics + mermaid diagrams inline
+    Module_02_{Title}.md
+    ...
+  02-condensed-notes/
+    Module_01_to_NN_Condensed.md  # includes mnemonics for quick recall
+    ...
+  03-visual-aids/
+    Comparison_Tables/
+      {Concept_A}_vs_{Concept_B}.md
+      ...
+    Flowcharts/                   # NEW: Mermaid diagrams for processes/hierarchies
+      {Process_or_Hierarchy}.md
+      ...
+  04-case-laws/
+    Module_Wise_Cases/
+      Important_Cases_{Subject}.md
+  05-question-bank/
+    Most_Probable_Questions_{Exam_Session}.md
+    5_Marks/
+      Q01_{Topic}.md
+      Q02_{Topic}.md
+      ... (minimum 5 files)
+    10_Marks/
+      Q01_{Topic}.md
+      ... (minimum 5 files)
+    15_Marks/
+      Q01_{Topic}.md
+      ... (minimum 5 files)
+    Distinguish_Between/
+      Q01_{A}_Vs_{B}.md
+      ... (minimum 5 files)
+  06-previous-papers/
+    README.md
+  07-quick-revision/
+    Doctrines_and_Maxims.md       # includes consolidated mnemonics cheat sheet
+  08-exam-strategy/
+    Answer_Writing_Template.md
+  09-practice-worksheets/
+    Self_Assessment_Test.md
 ```
 
-Align naming with **`sppu-llb-subject-folder-pack`** when the user wants SPPU LLB parity (for example `Module_<NN>_...`, `Q###_...`, question ID headers). Optional `06-previous-papers/` may hold PYQ index or extracted papers; if unused, add a one-line `README.md` explaining that.
+### Navigation trio (mandatory)
+
+1. **`README.md`** — Repository overview, subject context, folder structure guide, disclaimer.
+2. **`NAVIGATION_INDEX.md`** — Master index with emoji-headed sections linking to every file.
+3. **`📖_START_HERE.md`** — Step-by-step recommended study path (Layer 1 → Visual Aids → Cases → Strategy → Question Bank → Condensed → Quick Revision).
 
 ---
 
-## Content generation layers
+## Phase 4 — Content generation layers
 
-### Layer 1 — Complete notes
+### Layer 1 — Complete notes (`01-complete-notes/`)
 
-Deep coverage: definitions, principles, classifications, statutes or articles, examples, cases, criticism and exceptions where exam-relevant. Optimized for first learning and long answers.
+- **One file per module/unit**: `Module_NN_{Title}.md`.
+- Deep coverage: definitions (with section numbers), principles, classifications, essential elements (with explicit counts), statutes, examples, landmark cases, criticism, exceptions.
+- Each module file structure:
+  1. Title with statutory provision reference.
+  2. Numbered sections matching the syllabus sub-topics.
+  3. Case law references woven into relevant sections.
+  4. **Mnemonics** for lists, essentials, and enumerations (see Mnemonics section below).
+  5. **Mermaid diagrams** for processes, hierarchies, and decision flows (see Diagrams section below).
+- Optimized for first learning and long answers (15 marks).
 
-### Layer 2 — Condensed notes
+### Layer 2 — Condensed notes (`02-condensed-notes/`)
 
-Exam-ready: headings, keywords, article or section tags, doctrines, case names. Optimized for rapid revision.
+- Group modules logically into 2-3 files (e.g., `Module_01_to_04_Condensed.md`).
+- Bullet-point format: headings → keywords → section/article tags → doctrines → case names → essential counts.
+- **Include mnemonics** from Layer 1 for rapid recall.
+- Each module section should fit on 1-2 printed pages.
+- Optimized for rapid pre-exam revision.
 
-### Layer 3 — Visual aids
+### Layer 3 — Visual aids (`03-visual-aids/`)
 
-Comparison tables, flowcharts, procedural trees, mind maps, article maps. Use markdown-first; simplify procedure and structure.
+- **`Comparison_Tables/`**: Markdown tables for every major "Distinguish Between" pair. Minimum 3 tables.
+- **`Flowcharts/`**: Mermaid flowcharts for procedural topics, decision trees, and hierarchies. Minimum 3 diagrams.
+- Use icons in table headers for visual scanning (e.g., 📊 Basis, 🛡️ Concept A, 🤝 Concept B).
+- Include exam tips below each table and diagram.
 
-### Layer 4 — Case law digests
+### Layer 4 — Case law digests (`04-case-laws/`)
 
-Landmark summary plus module-wise files. Per case: **Facts → Issue → Held → Principle → Exam relevance**; keep concise.
+- **`Module_Wise_Cases/Important_Cases_{Subject}.md`**: One consolidated digest.
+- Per case format:
+  - Case name and year.
+  - **Facts** (2-3 lines).
+  - **Issue** (1 line).
+  - **Held / Principle** (2-3 lines).
+  - **Exam Relevance** (1 line — when to cite this case).
+- Aim for at least 1-2 cases per module.
 
-### Layer 5 — Question bank
+### Layer 5 — Question bank (`05-question-bank/`)
 
-2, 5, 10, and 15 mark questions; short notes; distinguish between; analytical and problem questions as the syllabus suggests. Each item should carry a **structured answer** (headings, point budget, statutes, cases). Prefer **one question per file** inside mark folders when following subject-folder-pack.
+**This is the most critical layer. Follow these rules precisely:**
 
-### Layer 6 — Quick revision
+#### File structure: One question per file
 
-Mnemonics, one-line doctrines, article or section quick refs, last-hour checklists.
+- Each question-answer pair lives in its own file: `Q01_{Topic}.md`, `Q02_{Topic}.md`, etc.
+- Files are organized into mark-based folders: `5_Marks/`, `10_Marks/`, `15_Marks/`, `Distinguish_Between/`.
+- **Minimum 5 complete Q&A files per folder** (5, 10, 15, and Distinguish).
 
-### Layer 7 — Exam strategy
+#### Model answer format by mark level
 
-Answer templates, presentation, common mistakes, scoring discipline.
+**5 Marks (Short Notes):**
+```
+### Q{N}. {Question text}
+**📖 Statutory Provision:** {Section and Act}
+**1. Meaning:** {Definition in 2-3 lines}
+**2. {Key Point}:** {Explanation}
+**3. {Key Point}:** {Explanation with sub-bullets}
+**🎯 Conclusion:** {1-2 lines}
+```
 
-### Layer 8 — Practice worksheets
+**10 Marks (Descriptive):**
+```
+## {Icon} Q{N}. {Question text}
+### 1. Introduction & Definition
+### 2. {Main Body with numbered sub-points}
+### 3. Conclusion
+```
 
-Self-tests, module tests, mock papers, probable papers — link to question IDs where useful.
+**15 Marks (Long Answers):**
+```
+## {Icon} Q{N}. {Question text}
+### 1. Introduction
+### 2. Definition (with Section number)
+### 3. {Detailed analysis with sub-headings}
+#### I. {Sub-topic}
+#### II. {Sub-topic}
+### 4. Case Laws
+### 5. Conclusion
+```
+
+**Distinguish Between:**
+```
+### ⚖️ Q{N}. Distinguish between {A} and {B}.
+**(Refer to Sections X & Y of {Act})**
+| 📊 Basis | {Icon} {A} | {Icon} {B} |
+| :--- | :--- | :--- |
+| **Meaning** | ... | ... |
+| ... | ... | ... |
+```
+
+#### Most Probable Questions prediction guide
+
+Generate **`Most_Probable_Questions_{Exam_Session}.md`** with:
+- Questions ranked by probability: 🔴 Very High, 🟠 High, 🟡 Moderate.
+- For each question: Module, Why likely, Key points to cover, Link to model answer file.
+- At least 5 questions per mark level (15, 10, 5).
+- **Priority Preparation Order** table ranking modules by exam importance.
+- **Inventory Summary** table with counts per category.
+
+### Layer 6 — Quick revision (`07-quick-revision/`)
+
+- `Doctrines_and_Maxims.md`: Table of maxims (Latin phrase → English meaning → Application).
+- Section checklists: Important sections grouped by act/statute.
+- Number crunching: Essential counts (e.g., "5 essentials of X", "4 exceptions to Y").
+- **Mnemonics cheat sheet**: Consolidated list of all mnemonics from the study pack for last-minute revision.
+
+### Layer 7 — Exam strategy (`08-exam-strategy/`)
+
+- `Answer_Writing_Template.md`: Generic scaffold for 5, 10, and 15 mark answers.
+- Emphasis on: explicit counts, underlined keywords, subheadings, case law citation format, common mistakes to avoid.
+
+### Layer 8 — Practice worksheets (`09-practice-worksheets/`)
+
+- `Self_Assessment_Test.md`: Full mock paper (3-hour format) with short notes + descriptive sections, covering all modules.
+
+### Previous papers (`06-previous-papers/`)
+
+- If PYQs found: Extract, index, map trends.
+- If no PYQs: One-line `README.md` explaining absence.
 
 ---
 
-## Previous year question analysis
+## Content style rules
 
-From PYQs produce:
+### Icons and emojis
 
-- trend and repetition mapping
-- topic weightage
-- probable questions
-- unit importance ranking
+Use emojis strategically for visual navigation:
+- 📖 Statutory provisions
+- 🎯 Conclusions
+- 🛡️ 🤝 📦 💍 👔 🛒 🏢 Module-appropriate icons
+- 🔴 🟠 🟡 Probability indicators
+- ⚖️ Distinguish between questions
+- 📊 📚 ⚡ 📝 🚀 ✍️ 🕰️ Section headers in navigation
+- 🧠 Mnemonics
+- 📐 Diagrams and flowcharts
 
-Prioritize repeated doctrines, recurring cases, and high-frequency provisions.
+### Mnemonics
+
+Generate **mnemonics** wherever there are enumerable lists, essentials, exceptions, or classifications to aid memorization. Mnemonics should be:
+
+- **Placed inline** — immediately after the list/enumeration they help remember.
+- **Prefixed** with the 🧠 emoji for easy scanning.
+- **Acronym-based** (first letter of each item forms a word/phrase) or **sentence-based** (first letter of each word maps to an item).
+- **Creative and memorable** — use funny, vivid, or relatable phrases.
+
+**Format:**
+```
+> 🧠 **Mnemonic — {ACRONYM}:** "{Expanded phrase}"
+> {Letter} = {Item 1}, {Letter} = {Item 2}, ...
+```
+
+**Example (5 Essentials of Partnership):**
+```
+> 🧠 **Mnemonic — AABSM:** "All Attorneys Buy Shares Monthly"
+> A = Association of 2+ persons, A = Agreement, B = Business, S = Sharing of profits, M = Mutual Agency
+```
+
+**When to generate mnemonics (mandatory):**
+- Essentials/elements of any legal concept (3+ items)
+- Grounds/modes of dissolution, discharge, revocation, etc.
+- Classes/categories of heirs, agents, property, etc.
+- Rights and duties lists (4+ items)
+- Exceptions to rules (3+ items)
+- Any enumerable list that a student needs to recall in an exam
+
+### Visual diagrams (Mermaid)
+
+Generate **Mermaid diagrams** embedded in markdown to visually represent legal concepts. These make complex relationships, hierarchies, and processes instantly comprehensible.
+
+**Types of diagrams to use:**
+
+1. **Flowcharts** — For procedural topics (e.g., "Steps to create a valid Wakf", "Procedure of pre-emption demands").
+2. **Hierarchy/Tree diagrams** — For classification systems (e.g., "Classes of Muslim heirs", "Order of Hindu succession").
+3. **Decision trees** — For conditional logic (e.g., "Is the alienation by Karta valid?", "Is the gift revocable?").
+4. **Sequence diagrams** — For multi-party interactions (e.g., "Guarantee: Creditor-Surety-PD relationship").
+
+**Format (use fenced code blocks with `mermaid` language):**
+````
+```mermaid
+graph TD
+    A["Hindu Male Dies Intestate"] --> B["Class I Heirs exist?"]
+    B -->|Yes| C["Property to Class I Heirs"]
+    B -->|No| D["Class II Heirs exist?"]
+    D -->|Yes| E["Property to Class II Heirs"]
+    D -->|No| F["Agnates → Cognates → Escheat"]
+```
+````
+
+**Diagram rules:**
+- Quote node labels containing special characters like parentheses or brackets.
+- Keep diagrams **focused** — one concept per diagram, max 10-15 nodes.
+- Add a **title line** above each diagram explaining what it shows.
+- Place diagrams in **complete notes** (Layer 1) where the concept is explained, and also collect key diagrams in **`03-visual-aids/Flowcharts/`**.
+
+**When to generate diagrams (mandatory):**
+- Order/hierarchy of succession or inheritance.
+- Procedural steps (e.g., execution of a will, demands of pre-emption, creation of wakf).
+- Decision trees for conditional concepts (e.g., "Can Karta alienate?", "Is gift revocable?").
+- Classification trees (e.g., types of heirs, types of property, types of gifts).
+- At least **3 diagrams** must appear in `03-visual-aids/Flowcharts/`.
+- At least **2 diagrams** should be embedded in Layer 1 complete notes across the entire pack.
+
+### Answer writing discipline
+
+- State **explicit counts** where applicable ("There are 5 essential elements...").
+- Always cite the **Section number and Act** when defining a legal concept.
+- Use the scaffold: Introduction → Definition → Essentials → Explanation → Case Laws → Conclusion.
+- For 15-mark answers: include at least 2 case laws.
+- For 10-mark answers: include at least 1 case law.
+- For 5-mark answers: include 1 case law or example.
+
+### Legal accuracy
+
+Do **NOT** invent sections, articles, case names, amendments, or citations. When uncertain, omit or say "verify in bare act or official source" rather than guessing.
+
+### Deduplication
+
+Do not paste the same long block unchanged across complete notes, question bank, and revision sheets. One deep treatment in Layer 1, then compressed recall elsewhere with cross-references.
 
 ---
 
-## Answer writing format
+## File naming conventions
 
-For major answers use a clear scaffold:
-
-1. Introduction
-2. Meaning or definition
-3. Essential elements (with **explicit counts** where applicable)
-4. Detailed explanation
-5. Case laws
-6. Criticism or exceptions (if asked or brief value-add)
-7. Conclusion
-
----
-
-## Count-based presentation rule
-
-State explicit counts where it helps the examiner (for example “7 characteristics”, “5 essentials”, “4 exceptions”). Match counts to the syllabus or verified source; do not invent numbers.
-
----
-
-## Legal accuracy rules
-
-Do **not** invent sections, articles, case names, amendments, or citations. When uncertain, omit or say “verify in bare act or official source” rather than guessing. Prefer exact references only when supported by classified inputs.
-
----
-
-## Content style
-
-Write like topper notes, academic handbook, and model-answer repository: clear, structured, legally literate. Avoid conversational filler, generic AI tone, motivation-only prose, and padding.
-
----
-
-## Deduplication rules
-
-Do not paste the same long block unchanged across complete notes, question bank, and revision sheets. **Compress and cross-link**; one deep treatment, then shorter recall elsewhere.
-
----
-
-## File naming rules
-
-Use consistent academic naming: kebab-case or `Module_<NN>_Title.md`, `Q###_Topic.md`, `D###_A_vs_B.md`, aligned with subject-folder-pack when generating SPPU-style packs.
+| Layer | Pattern | Example |
+|:---|:---|:---|
+| Complete notes | `Module_NN_{Title}.md` | `Module_01_Contracts_of_Indemnity.md` |
+| Condensed notes | `Module_NN_to_MM_Condensed.md` | `Module_01_to_04_Condensed.md` |
+| Comparison tables | `{A}_vs_{B}.md` | `Indemnity_vs_Guarantee.md` |
+| Question bank | `Q{NN}_{Topic}.md` | `Q01_Unpaid_Seller.md` |
+| Distinguish | `Q{NN}_{A}_Vs_{B}.md` | `Q01_Indemnity_Vs_Guarantee.md` |
 
 ---
 
 ## Output location rule
 
-All generated content for this rule’s runs MUST stay under:
-
-- **`.temp/`** (for example `.temp/{subject-slug}/` as above)
-
-Do not write generated pack content to `Academics/` or other repo paths **unless the user explicitly overrides** this rule for that run (then follow the user’s path and do not silently overwrite large trees).
+All generated content MUST stay under **`.temp/{subject-slug}/`**. Do NOT write to `Academics/` or other repo paths unless the user explicitly overrides.
 
 ---
 
 ## Strict prohibitions
 
 Never:
+- Create debug files, raw metadata dumps, or temporary logs as deliverables.
+- Generate off-syllabus topic trees without flagging inference.
+- Hallucinate legal material.
+- Ignore syllabus hierarchy when a syllabus exists.
+- Generate question banks with questions only (no model answers).
+- Generate fewer than 5 Q&A files per mark folder.
 
-- create debug files, raw metadata dumps, or temporary logs as deliverables
-- generate off-syllabus topic trees without flagging inference
-- hallucinate legal material
-- ignore syllabus hierarchy when a syllabus exists
+---
+
+## Minimum output targets
+
+| Deliverable | Minimum Count |
+|:---|:---:|
+| Complete note files | 1 per module/unit |
+| Condensed note files | 2 |
+| Comparison tables | 3 |
+| **Flowchart/diagram files** | **3** |
+| **Mnemonics** | **1 per module (minimum)** |
+| Case law entries | 1-2 per module |
+| 15-mark Q&As | 5 |
+| 10-mark Q&As | 5 |
+| 5-mark Q&As | 5 |
+| Distinguish Q&As | 5 |
+| Total Q&A files | ≥ 20 |
 
 ---
 
 ## Final quality target
 
-Output should resemble:
-
-- topper-quality notes
-- structured revision handbook
-- exam-ready answer repository
+Output must resemble:
+- Topper-quality notes
+- Structured revision handbook
+- Exam-ready model-answer repository
 
 It must stay **printable in markdown**, revision-friendly, academically structured, logically ordered, and as legally accurate as the inputs allow.
