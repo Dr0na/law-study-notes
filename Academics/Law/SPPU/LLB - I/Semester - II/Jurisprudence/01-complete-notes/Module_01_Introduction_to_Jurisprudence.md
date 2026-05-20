@@ -1,90 +1,94 @@
-# 📘 Module 01 — Introduction to Jurisprudence
+# 📘 Module 01: Introduction to Jurisprudence
 
-> Syllabus cluster: Meaning, nature and utility of jurisprudence • characteristics, purposes and classification of law • relationship between law and morality.
-
-## 1. Meaning, nature, and utility of jurisprudence
-
-**Jurisprudence** (Latin *juris-prudentia* — knowledge of law) is the **theoretical study of law**: its nature, sources, ends, and methods. Unlike a particular subject (Contract, Tort, IPC), jurisprudence does not state the rules of any one legal system; it asks **what law is**, **why we obey it**, and **how legal concepts hang together**.
-
-### Three working definitions to cite
-
-1. **Salmond** — *“the science of the first principles of the civil law.”*
-2. **Austin** — *“the philosophy of positive law.”*
-3. **Holland** — *“the formal science of positive law.”*
-
-### Why study it (utility)
-
-- Trains a **lawyer’s lens** — see common structure across diverse branches (sections, rights, duties, remedies).
-- Helps **judges** interpret hard cases by exposing competing **theories** (positivism, natural law, realism).
-- Helps **legislators** with the **purpose** and **limits** of law.
-- Develops **critical** capacity — the law student moves from rules to reasons.
-
-## 2. Characteristics, purposes, and classification of law
-
-### Characteristics (closed list — COUNT = 5)
-
-1. **General** — addressed to a class, not a single person.
-2. **Normative** — prescribes what *ought* to be done.
-3. **Backed by sanction** — coercive power of the state.
-4. **Recognised authority** — sovereign, legislature, or constitution.
-5. **Concerned with external conduct** — usually not private thought.
-
-> 🧠 **Mnemonic — GNSRC:** *"Good Nations Set Real Codes"*
-> G = General, N = Normative, S = Sanction, R = Recognised authority, C = Conduct (external).
-
-### Purposes of law (COUNT = 4)
-
-1. Justice — distributive and corrective (Aristotelian split).
-2. Social order — predictability and security.
-3. Protection of rights and liberties.
-4. Social engineering — Roscoe Pound’s shaping of interests.
-
-> 🧠 **Mnemonic — JOPS:** *"Justice, Order, Protection, Social engineering."*
-
-### Classification of law
-
-```mermaid
-flowchart TD
-    LAW["Law"]
-    LAW --> PUB["Public Law"]
-    LAW --> PRI["Private Law"]
-    PUB --> CON["Constitutional"]
-    PUB --> CRI["Criminal"]
-    PUB --> ADM["Administrative"]
-    PRI --> CONT["Contract"]
-    PRI --> PROP["Property"]
-    PRI --> FAM["Family"]
-    PRI --> TOR["Tort"]
-    LAW --> SUB["Substantive vs Procedural"]
-    LAW --> INT["Municipal vs International"]
-```
-
-*Diagram: classification of law (Module 01).*
-
-## 3. Relationship between law and morality
-
-Two **theses** dominate the syllabus debate:
-
-- **Overlap thesis** (natural lawyers) — law and morality are conceptually linked; unjust enactments lose the *quality* of law (Aquinas: *lex iniusta non est lex*).
-- **Separation thesis** (positivists) — what the law **is** is one question, what it **ought** to be is another (Austin, Hart).
-
-### Modern positions to cite
-
-1. **Hart–Fuller debate (1958)** — Hart defends separation but admits a minimum content of natural law; Fuller insists on **internal morality of law** (eight desiderata of legality).
-2. **Devlin–Hart debate (1959–63)** — should law enforce private morality? Devlin: yes, to preserve social cohesion. Hart: only conduct causing harm to others (echoing Mill).
-
-> 🧠 **Mnemonic — OSF:** *"Overlap, Separation, Fuller’s internal morality"*
-> Three positions to map any law-and-morality essay onto.
-
-### Indian touchpoints
-
-- *Naz Foundation* (Delhi HC, 2009) and *Navtej Singh Johar* (SC, 2018) — constitutional morality preferred over popular morality.
-- Use these only as **policy** illustrations; jurisprudence answers reward **theory** first.
-
-## 4. Conclusion
-
-Module 01 sets the **vocabulary** for the paper. Anchor every later module by asking: *what theory of law is the question testing?* Sources, schools, rights, and liability all reduce to **definition + theory + criticism**.
+🎚️ Difficulty: 🟢 Easy
 
 ---
 
-*Generated from `00 - LCC 0604 Jurisprudence - Syllabus.md`. Verify citations against `reference-material/Jurisprudence.txt` before exam.*
+### 🧠 Introduction
+
+Jurisprudence is the "Grammar of Law." It is the study of the fundamental principles of legal systems. Unlike specific laws (like the IPC or Contract Act), Jurisprudence explores the *nature*, *source*, and *purpose* of law itself.
+
+- **Meaning**: Derived from the Latin term *Jurisprudentia* (*Juris* = Law, *Prudentia* = Knowledge/Skill).
+- **Context**: It is the "Eye of Law," providing the theoretical foundation for all legal subjects.
+- **Importance**: It helps lawyers and judges interpret statutes and understand the social impact of legal rules.
+
+---
+
+### 📖 Main Content
+
+#### 1. Definitions of Jurisprudence
+
+Different jurists have defined Jurisprudence based on their schools of thought:
+
+- **Ulpian**: "The observation of things human and divine; the knowledge of the just and the unjust."
+- **Salmond**: "The science of the first principles of the civil law."
+- **Austin**: "The philosophy of positive law."
+- **Holland**: "The formal science of positive law."
+
+🧠 **Mnemonic**: **U-S-A-H** (Ulpian, Salmond, Austin, Holland) - The "USA-H" of Jurisprudence definitions.
+
+#### 2. Nature and Utility of Jurisprudence
+
+- **Nature**: It is a *formal* science, not a *material* science. It deals with the structure and concepts of law rather than the specific rules of a particular country.
+- **Utility**:
+  - It sharpens the logical technique of lawyers.
+  - It helps in the interpretation of laws.
+  - It provides a bridge between law and other social sciences (Sociology, Ethics).
+
+#### 3. Characteristics and Purposes of Law
+
+Law is a set of rules created and enforced by social or governmental institutions to regulate behavior.
+
+**Purposes of Law**:
+1.  **Justice**: To ensure fairness and equity.
+2.  **Order**: To maintain peace and stability in society.
+3.  **Social Control**: To regulate human conduct.
+4.  **Protection of Rights**: To safeguard individual liberties.
+
+📐 **Diagram: Purposes of Law**
+```mermaid
+graph TD
+    A[Purposes of Law] --> B[Justice]
+    A --> C[Order & Stability]
+    A --> D[Social Change]
+    A --> E[Protection of Rights]
+```
+
+#### 4. Classification of Law
+
+Law can be classified into several categories:
+- **Public Law vs. Private Law**: Public law deals with the state (Constitutional, Administrative, Criminal), while Private law deals with individuals (Contract, Tort, Property).
+- **Substantive Law vs. Procedural Law**: Substantive law defines rights and duties (IPC), while Procedural law defines the method of enforcement (CrPC).
+- **International Law vs. Municipal Law**: International law governs relations between states, while Municipal law is the internal law of a state.
+
+#### 5. Relationship between Law and Morality
+
+Historically, law and morality were considered the same (e.g., Dharma). However, modern Jurisprudence distinguishes them:
+- **Law**: Enforced by the state, objective, and has external sanctions.
+- **Morality**: Enforced by conscience, subjective, and has internal sanctions.
+- **Intersection**: Most laws have a moral foundation (e.g., "Thou shalt not kill" is both a moral and legal rule).
+
+---
+
+### ⚖️ Case Laws
+
+- **Queen v. Dudley and Stephens (1884)**: Explored the conflict between law and morality in a case of necessity (cannibalism at sea). The court held that necessity is no defense to murder, emphasizing that law must uphold moral standards even in extreme cases.
+
+---
+
+### 🧾 Conclusion
+
+Module 01 sets the stage for the entire subject. It teaches us that law is not just a collection of rules but a dynamic system rooted in philosophy, logic, and social needs.
+
+---
+
+### 🧠 Memorisation Toolkit
+
+#### 🧩 Mnemonics
+- **USA-H**: Ulpian (Divine), Salmond (Civil), Austin (Positive Philosophy), Holland (Formal Science).
+
+#### ⚡ Quick Revision Points
+- Jurisprudence = Knowledge of Law.
+- It is a "Formal Science."
+- Law vs Morality: External vs Internal sanctions.
+- Classification: Public/Private, Substantive/Procedural.

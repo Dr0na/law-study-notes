@@ -1,141 +1,92 @@
-# 📚 Module 02 — Sources of Law
+# 📘 Module 02: Sources of Law
 
-> Syllabus cluster: Custom • Legislation • Precedent (with **Article 141**, ratio/obiter, stare decisis, prospective overruling) • Juristic writings.
+🎚️ Difficulty: 🟡 Medium
 
-## 1. What is a "source" of law?
+---
 
-A **source** is anything from which a legal rule **derives binding force**. Salmond divides sources into **formal** (e.g. the sovereign or constitution that gives validity) and **material** (e.g. custom, legislation, precedent, juristic writings — the actual content).
+### 🧠 Introduction
 
-> 🧠 **Mnemonic — CLPJ:** *"Courts Look at Past Judgments"*
-> C = Custom, L = Legislation, P = Precedent, J = Juristic writings.
+Where does law come from? In Jurisprudence, "Sources of Law" refers to the origins, authorities, and processes through which legal rules are created. Understanding these sources is crucial for determining the validity and hierarchy of laws.
 
-## 2. Custom
+---
 
-### Meaning and nature
+### 📖 Main Content
 
-A **custom** is a uniform practice followed in a community for so long that it has acquired the force of law. Custom is the **oldest source** — pre-statutory in every legal system.
+#### 1. Custom
 
-### Essential conditions for a valid custom (COUNT = 6)
+Custom is the oldest source of law. It consists of established patterns of behavior that can be objectively verified within a particular social setting.
 
-1. **Antiquity** — observed from time immemorial.
-2. **Continuity** — without interruption.
-3. **Peaceable enjoyment** — *nec vi, nec clam, nec precario* (without force, secrecy, or permission).
-4. **Reasonableness** — courts test rationality.
-5. **Certainty** — clear in its terms.
-6. **Consistency** with statute and public policy.
+**Essential Conditions for a Valid Custom**:
+1.  **Antiquity**: It must be ancient (immemorial).
+2.  **Continuity**: It must have been practiced without interruption.
+3.  **Reasonableness**: It must not be contrary to justice or public policy.
+4.  **Certainty**: It must be clear and unambiguous.
+5.  **Compulsory Observance**: It must be followed as a right, not as a choice.
 
-> 🧠 **Mnemonic — ACPRCC:** *"All Citizens Practise Real Customs Carefully"*
-> A = Antiquity, C = Continuity, P = Peaceable, R = Reasonable, C = Certain, C = Consistent with law.
+🧠 **Mnemonic**: **A-C-R-C-C** (Antiquity, Continuity, Reasonableness, Certainty, Compulsory).
 
-### Volksgeist (Savigny)
+**Concept of Volkgeist (Savigny)**:
+Savigny, a leader of the Historical School, argued that law is not made by the state but grows out of the "spirit of the people" (*Volkgeist*). Custom is the primary evidence of this spirit.
 
-Custom expresses the **Volksgeist** — the *spirit of the people*. Law grows organically with the nation; legislation is at best a tidy-up exercise.
+#### 2. Legislation
 
-### Kinds of custom
+Legislation is the "making of law" by a formal authority (Parliament/Legislature).
 
-- **Legal custom** — operates as binding law (general or local).
-- **Conventional custom (usage)** — binds only parties who knowingly adopt it (trade usage, family customs).
+- **Supreme Legislation**: Enacted by the sovereign power (Parliament).
+- **Subordinate Legislation**: Enacted by authorities other than the sovereign (e.g., Municipal rules, Executive regulations).
 
-## 3. Legislation
+**Merits vs. Demerits**:
+- **Merits**: Certainty, clarity, prospectivity (usually), and ease of change.
+- **Demerits**: Can be rigid, may not reflect social needs if passed hastily.
 
-### Meaning
+#### 3. Precedent
 
-The **deliberate making of legal rules** by an authority competent under the constitution. In a modern state, legislation is the **dominant source**.
+Precedent refers to previous court decisions that serve as an authority for deciding subsequent cases with similar facts.
 
-### Kinds
+**Key Concepts**:
+- **Doctrine of Stare Decisis**: "To stand by things decided." It ensures consistency and predictability.
+- **Article 141 of the Constitution**: Law declared by the Supreme Court is binding on all courts in India.
+- **Ratio Decidendi**: The "reason for the decision." This is the binding part of the judgment.
+- **Obiter Dicta**: "Things said by the way." These are remarks not essential to the decision and are not binding (though persuasive).
+- **Prospective Overruling**: A doctrine where the court overrules a previous decision but applies the new rule only to future cases (e.g., *Golaknath* case).
 
-- **Supreme legislation** — Parliament / state legislature within constitutional limits.
-- **Subordinate legislation** — rules and bye-laws under delegated authority.
-
-### Merits and demerits (COUNT = 4 + 3)
-
-#### Merits
-
-1. **Clarity** — written and codified.
-2. **Speed** — can keep up with social change.
-3. **Democratic** — flows from the representative legislature.
-4. **Repeal and amendment** are easy.
-
-#### Demerits
-
-1. Risk of **rigidity** if drafted carelessly.
-2. **Detached** from felt social practice (Savigny’s critique).
-3. **Interpretation** problems — courts may distort intent.
-
-> 🧠 **Mnemonic — CSDR:** *"Clear, Speedy, Democratic, Repealable"* — the four merits of legislation.
-
-## 4. Precedent
-
-### Meaning and theories
-
-A **precedent** is a previously decided case that supplies authority for an identical or similar issue. Two competing theories:
-
-1. **Declaratory theory** (Blackstone) — judges only *declare* pre-existing law.
-2. **Constitutive (creative) theory** — judges actually *make* law in deciding novel cases.
-
-### Doctrine of *stare decisis*
-
-*"Stand by what has been decided."* Lower courts must follow the **ratio decidendi** of higher courts.
-
-### Article 141 of the Constitution
-
-*"The law declared by the Supreme Court shall be binding on all courts within the territory of India."* — the constitutional foundation of vertical *stare decisis* in India.
-
-### Ratio decidendi vs obiter dicta
-
-| 🎯 Aspect | Ratio decidendi | Obiter dicta |
-|:---|:---|:---|
-| Nature | Reason for the decision | Side remarks |
-| Force | **Binding** on lower courts | Persuasive only |
-| Identifying it | Material facts + legal reason | Anything else |
-
-> 🧠 **Mnemonic — RB-OP:** *"Ratio Binds, Obiter Persuades."*
-
-### Kinds of precedent
-
-1. Authoritative vs persuasive.
-2. Original vs declaratory.
-3. Binding vs merely advisory.
-
-### Prospective overruling
-
-A judicial technique (recognised in India in **Golak Nath, 1967**) where a court changes the law **only for the future**, sparing past transactions. Protects settled expectations.
-
-### Circumstances destroying binding force
-
-- Ignored a relevant statute (*per incuriam*).
-- Conflict with later constitution bench decision.
-- Reversal or overruling.
-- Subsequent change in statute.
-
+📐 **Diagram: Hierarchy of Binding Precedents in India**
 ```mermaid
-flowchart TD
-    P["Prior decision exists?"] -->|No| L["Decide on first principles / statute / custom"]
-    P -->|Yes| R{"Is it binding ratio?"}
-    R -->|Yes| F["Follow it (stare decisis)"]
-    R -->|No| O["Obiter — persuasive only"]
-    F --> C{"Distinguishable on facts?"}
-    C -->|Yes| D["Distinguish and decide"]
-    C -->|No| FA["Apply directly"]
+graph TD
+    A[Supreme Court] -- Binding on --> B[All High Courts]
+    A -- Binding on --> C[All Subordinate Courts]
+    B -- Binding on --> D[Subordinate Courts of that State]
+    B -- Persuasive for --> E[Other High Courts]
 ```
 
-*Diagram: applying precedent in court (Module 02).*
+#### 4. Juristic Writings
 
-## 5. Juristic writings
+Writings of eminent legal scholars and thinkers. While not binding, they are highly persuasive in interpreting complex legal issues where statutes or precedents are silent.
 
-Textbook writers and commentators (Salmond, Pollock, Mulla, Dias, Hart, Kelsen) influence courts as **persuasive secondary authority**. The Indian Supreme Court routinely cites *Pollock & Mulla*, *Halsbury’s Laws of England*, and academic articles in hard cases.
+---
 
-## 6. Comparative weight
+### ⚖️ Case Laws
 
-```mermaid
-flowchart LR
-    C["Custom (organic)"] --> L["Legislation (dominant)"]
-    L --> J["Judicial precedent (binding under Art. 141)"]
-    J --> W["Juristic writings (persuasive)"]
-```
+- **S.P. Gupta v. Union of India (1981)**: Discussed the importance of judicial interpretation and the role of the judiciary in a democracy.
+- **Bengal Immunity Co. v. State of Bihar**: Held that the Supreme Court is not bound by its own previous decisions and can overrule them if necessary for the public good.
 
-*Diagram: layered authority of the four sources.*
+---
 
-## 7. Conclusion
+### 🧾 Conclusion
 
-In modern India, **legislation** sits at the top of routine output, **precedent** does the day-to-day work in courts, **custom** survives in personal laws and trade usage, and **juristic writings** fertilise the whole. A topper answer should name **all four**, state the **rank-order**, and finish with **Article 141**.
+Sources of law provide the raw material for the legal system. While Custom was dominant in ancient times, Legislation and Precedent are the primary sources in modern democratic states like India.
+
+---
+
+### 🧠 Memorisation Toolkit
+
+#### 🧩 Mnemonics
+- **A-C-R-C-C**: Antiquity, Continuity, Reasonableness, Certainty, Compulsory (Essentials of Custom).
+- **R-O**: Ratio (Binding) vs Obiter (Persuasive).
+
+#### ⚡ Quick Revision Points
+- Custom = Oldest source.
+- Legislation = Law made by Parliament.
+- Precedent = Judge-made law (Art 141).
+- Ratio Decidendi = The binding logic.
+- Volkgeist = Spirit of the people.
