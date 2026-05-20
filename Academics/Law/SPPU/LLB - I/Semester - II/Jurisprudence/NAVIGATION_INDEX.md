@@ -28,6 +28,7 @@
 - [10 Marks Questions](./05-question-bank/10_Marks/)
 - [15 Marks Questions](./05-question-bank/15_Marks/)
 - [Distinguish Between](./05-question-bank/Distinguish_Between/)
+- [📘 Master Question Bank (Consolidated)](./05-question-bank/Master_Question_Bank_Consolidated.md)
 - [🔥 Most Probable Questions](./05-question-bank/Most_Probable_Questions_Next_Exam.md)
 
 ## ⚡ Layer 6-8: Revision & Strategy

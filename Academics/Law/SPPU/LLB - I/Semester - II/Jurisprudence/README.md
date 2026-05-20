@@ -8,7 +8,7 @@ Welcome to the comprehensive, exam-oriented study ecosystem for **Jurisprudence 
 - **`02-condensed-notes/`**: Rapid revision files for last-minute study.
 - **`03-visual-aids/`**: Comparison tables, flowcharts, and mind maps for visual learners.
 - **`04-case-laws/`**: Landmark judgments and module-wise case digests.
-- **`05-question-bank/`**: Model answers for 5, 10, and 15-mark questions.
+- **`05-question-bank/`**: Model answers for 5, 10, and 15-mark questions. Includes a [Master Consolidated Bank](./05-question-bank/Master_Question_Bank_Consolidated.md).
 - **`07-quick-revision/`**: Mnemonics, maxims, and section checklists.
 - **`08-exam-strategy/`**: Tips on how to write high-scoring answers.
 - **`09-practice-worksheets/`**: Mock tests and self-assessment tools.
