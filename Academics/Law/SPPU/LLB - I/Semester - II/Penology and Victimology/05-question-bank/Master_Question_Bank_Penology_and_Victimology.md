@@ -144,8 +144,6 @@ Effective victim assistance requires statutory clarity, funding, sensitised cour
 
 ### Q01: Open Prisons — Philosophy and Evaluation
 **Question:** Explain the philosophy behind open prisons and critically evaluate their advantages and limitations. (10 Marks)
-### Q01: Open Prisons — Philosophy and Evaluation
-**Question:** Explain the philosophy behind open prisons and critically evaluate their advantages and limitations. (10 Marks)
 
 #### 1. 🧾 Answer Synopsis
 - **Introduction**: Define open prison and its penological philosophy.
@@ -390,4 +388,7 @@ Policy should combine situational prevention informed by these theories with com
 ---
 
 ## 🔎 Notes on Usage
-- These questions are model probable items for May 2026 SPPU examination based on the syllabus and past trends.\n+- Use the 15-mark answers for practice essays and the 10/5-mark items for quick revision.\n\n*Generated for study use. Verify local case-law citations where necessary before exam use.*\n*** End Patch"}
+ - These questions are model probable items for May 2026 SPPU examination based on the syllabus and past trends.
+ - Use the 15-mark answers for practice essays and the 10/5-mark items for quick revision.
+
+*Generated for study use. Verify local case-law citations where necessary before exam use.*
