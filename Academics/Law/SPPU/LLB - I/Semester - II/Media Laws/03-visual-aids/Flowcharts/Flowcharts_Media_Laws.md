@@ -6,12 +6,12 @@ This diagram illustrates the various rights implicitly included within the Freed
 
 ```mermaid
 graph TD
-    A[<b>Article 19(1)(a)</b><br/>Freedom of Speech and Expression] --> B[Freedom of Press]
-    A --> C[Right to Circulation]
-    A --> D[Right to Receive Information]
-    A --> E[Right to Advertise<br/>Commercial Speech]
-    A --> F[Right to Telecast/Broadcast]
-    A --> G[Freedom from Pre-Censorship]
+    A["<b>Article 19(1)(a)</b><br/>Freedom of Speech and Expression"] --> B["Freedom of Press"]
+    A --> C["Right to Circulation"]
+    A --> D["Right to Receive Information"]
+    A --> E["Right to Advertise<br/>Commercial Speech"]
+    A --> F["Right to Telecast/Broadcast"]
+    A --> G["Freedom from Pre-Censorship"]
 ```
 
 💡 **Exam Tip**: Draw this when answering any question on the Constitutional Framework of Media.
@@ -23,23 +23,23 @@ graph TD
 ```mermaid
 graph LR
     subgraph State_Interests [State Interests]
-    S1[Sovereignty and Integrity]
-    S2[Security of State]
-    S3[Friendly Relations]
+    S1["Sovereignty and Integrity"]
+    S2["Security of State"]
+    S3["Friendly Relations"]
     end
     
     subgraph Public_Interests [Public Interests]
-    P1[Public Order]
-    P2[Decency or Morality]
+    P1["Public Order"]
+    P2["Decency or Morality"]
     end
     
     subgraph Legal_Interests [Legal Interests]
-    L1[Contempt of Court]
-    L2[Defamation]
-    L3[Incitement to Offence]
+    L1["Contempt of Court"]
+    L2["Defamation"]
+    L3["Incitement to Offence"]
     end
     
-    State_Interests --> R[<b>Reasonable Restrictions</b>]
+    State_Interests --> R["<b>Reasonable Restrictions</b>"]
     Public_Interests --> R
     Legal_Interests --> R
 ```
@@ -52,16 +52,16 @@ graph LR
 
 ```mermaid
 graph TD
-    M[<b>Media Sector</b>] --> P[Print Media]
-    M --> B[Broadcast/TV]
-    M --> F[Films/Cinema]
-    M --> D[Digital/Internet]
+    M["<b>Media Sector</b>"] --> P["Print Media"]
+    M --> B["Broadcast/TV"]
+    M --> F["Films/Cinema"]
+    M --> D["Digital/Internet"]
     
-    P --> PCI[Press Council of India<br/>Statutory/Watchdog]
-    B --> TRAI[TRAI and Cable Act<br/>Statutory]
-    B --> NBSA[NBSA<br/>Self-Regulation]
-    F --> CBFC[CBFC<br/>Statutory/Censorship]
-    D --> IT[IT Act and Intermediary Rules<br/>Statutory]
+    P --> PCI["Press Council of India<br/>Statutory/Watchdog"]
+    B --> TRAI["TRAI and Cable Act<br/>Statutory"]
+    B --> NBSA["NBSA<br/>Self-Regulation"]
+    F --> CBFC["CBFC<br/>Statutory/Censorship"]
+    D --> IT["IT Act and Intermediary Rules<br/>Statutory"]
 ```
 
 💡 **Exam Tip**: Use this to show the fragmented nature of media regulation in India.
