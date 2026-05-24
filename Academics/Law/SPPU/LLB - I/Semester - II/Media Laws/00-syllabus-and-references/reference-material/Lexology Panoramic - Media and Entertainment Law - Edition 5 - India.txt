@@ -1,0 +1,1472 @@
+IN-DEPTH
+
+Media And
+Entertainment Law
+INDIA
+Media and
+Entertainment Law
+EDITION 5
+
+Contributing Editor
+Benjamin E Marks
+Weil Gotshal & Manges LLP
+
+
+
+
+In-Depth: Media and Entertainment Law (formerly The Media and Entertainment Law Review)
+is a practical overview of the legal and regulatory frameworks governing the media and
+entertainment industry – including print, broadcast and online – in major jurisdictions
+worldwide. With a focus on prominent recent trends and developments, it examines issues
+including free speech and media freedom; IP rights; competition and consumer rights;
+common contractual disputes; and much more.
+
+
+
+
+Generated: December 13, 2023
+The information provided in this publication is general and may not apply in a speci’c situation,
+nor does it necessarily represent the views of authorsA ’rms or their clients. Legal advice should
+always be sought before taking any legal action based on the information provided. The publishers
+accept no responsibility for any acts or omissions contained herein. 2lthough the information provided
+was accurate as at November 0q00, be advised that this is a developing area. En@uiries concerning
+reproduction should be sent to customersuccessBlexology.com. En@uiries concerning editorial
+content should be directed to the Content Director, Clare olton – clare.boltonBlbresearch.com.
+
+
+
+
+                                                                            Explore on Lexology
+India
+Tanu Banerjee and Ishan Johri
+Khaitan & Co
+
+
+Summary
+
+INTRODUCTION
+
+YEAR IN REVIEW
+
+LEGAL AND REGULATORY FRAMEWORK
+
+FREE SPEECH AND MEDIA FREEDOM
+
+INTELLECTUAL PROPERTY
+
+COMPETITION AND CONSUMER RIGHTS
+
+DIGITAL CONTENT
+
+CONTRACTUAL DISPUTES
+
+OUTLOOK AND CONCLUSIONS
+
+ENDNOTES
+
+
+
+
+ Media and Entertainment Law | India   Explore on Lexology
+                                                                      RETURN TO SUMMARY
+
+
+
+Introduction
+
+India is one of many of the epicentres of media and entertainment activities in the world.
+Content is created and made available to people in diverse forms, languages and media.
+On an aggregate basis, the Indian media and entertainment industry is projected to grow
+                                                             [2]
+at a rate of 11.5 per cent in 2023 to reach US$29.2 billion.
+                                                                     [3]
+Several factors such as low pricing for mobile internet services, a large internet user
+     [4]
+base and a government-led push towards adoption of technology by the masses
+have enabled India to become a large market for consumption of digital content and
+entertainment services.
+
+With the recent infusion of artificial intelligence (AI)-based technology in the global market,
+the global media and entertainment landscape is expected to undergo a shift in content
+creation and consumption.
+
+Changes in government policy towards regulation of technology have tracked these recent
+technological advances. Over the past year, the government of India (GOI) has brought
+significant changes in laws including:
+
+   1. the Digital Personal Data Protection Act 2023 (Indian Data Protection Law) for
+      regulation of collection, processing, and transfer of digital personal data;
+   2. the Information Technology (Intermediary Guidelines and Digital Media Ethics
+      Code) 2021 (IT Rules 2021) to regulate streaming platforms, social media
+      intermediaries and online gaming platforms; and
+   3. amendments to the Cinematograph Act 1952 to safeguard against film piracy and
+      prescribe certification of films.
+
+
+The Securities and Exchange Board of India (SEBI) has sought to regulate the activities
+                           [5]
+of 'financial influencers'. Similarly, the Ministry of Consumer Affairs has commenced
+consultation with stakeholders on 'Guidelines on Prevention and Regulation of Dark
+Patterns', to regulate user interface or user experience design choices that may mislead
+             [6]
+consumers.
+
+The GOI has also initiated consultations to replace the Information Technology Act 2000
+(IT Act) with the Digital India Act (DIA). The DIA would overhaul the technology regulation
+framework and would focus on intermediary liability, regulation of activities on the internet
+through the perspective of user-harm, regulation of AI and providing users with digital
+        [7]
+rights.
+
+
+Year in review
+
+As noted above, the media and entertainment sector is reviving and eclipsing pre-covid
+levels. Along with this, the industry is undergoing a dynamic shift towards the digital
+medium. The industry appears to be moving towards general consolidation, with mergers
+and acquisitions, such as the amalgamation of Zee Entertainment Enterprises Limited with
+Culver Max Entertainment Limited, as mentioned above.
+
+
+
+
+ Media and Entertainment Law | India                                   Explore on Lexology
+                                                                     RETURN TO SUMMARY
+
+
+
+In the music industry, a key dispute arose between Recorded Music Performance Limited
+(RMPL) and Phonographic Performance Limited (PPL). While PPL's application to renew
+its status as a registered copyright society was pending, RMPL was granted registration.
+Given that the Copyright Act does not ordinarily permit more than one society to be
+registered for administering the same category of works – in this case, sound recordings
+– both PPL and RMPL may not be granted registration. The court has currently ordered
+the GOI to re-look at PPL's application while permitting RMPL to act as a copyright society
+until the dispute is resolved.
+
+In the film industry, recognising the menace of rampant piracy, the government introduced
+more stringent regulation of piracy under the Cinematograph Act. Further, the emergence
+of AI has posed several challenges in relation to personality rights because of the increased
+prevalence of illegal activities such as deepfakes. Such deepfakes are also being used
+to incite violence and steer political discourse. Notably, two Indian actors have secured
+favourable omnibus injunction orders against the use of their name, persona, likeness,
+                                      [8]
+voice and eponymous catchphrase.
+
+One of the most notable developments in the media and entertainment sector has been in
+the field of online gaming. While on the one hand real money online games were granted
+legitimacy as a result of the recent amendment to the IT Rules 2021 regulating online
+gaming intermediaries, the question around legality of games of skill versus games of
+chance across various Indian states remains unaddressed. Further, the GST council's
+recommendation to impose a tax on the full bet value (instead of the platform fee) and
+the imposition of 30 per cent tax deducted at source on the winnings of users has come
+as a huge blow to the gaming industry in India.
+
+
+Legal and regulatory framework
+
+
+i Print media
+
+
+Foreign direct investment in the print sector
+
+
+Under the Foreign Exchange Management (Non-Debt Instruments) Rules 2019 notified
+under the Foreign Exchange Management Act 2000 (Exchange Control Laws), foreign
+investment in the print media sector has been capped at 26 per cent through the
+GOI-approval route where investment is made in an entity publishing newspapers,
+magazines, or any other periodicals (collectively, periodicals) which (1) deal with news and
+current affairs content; and (2) are Indian editions of foreign magazines dealing with news
+and current affairs content.
+
+However, 100 per cent foreign investment is permitted through the GOI approval route for
+any periodicals which are in the nature of: (1) scientific and technical magazines, journals
+or periodicals (technical periodicals); or (2) facsimile editions of foreign newspapers.
+Exchange Control Laws also stipulate that foreign investment in publication of Technical
+periodicals requires compliance with guidelines issued by the Ministry of Information and
+                                              [9]
+Broadcasting (MIB) for technical periodicals.
+
+
+
+
+ Media and Entertainment Law | India                                 Explore on Lexology
+                                                                      RETURN TO SUMMARY
+
+
+
+Press and Registration of Books Act 1867
+
+
+Under the Press and Registration of Books Act 1867 (PRB Act) and the Registration of
+Newspapers (Central) Rules 1956, every printer and publisher of periodicals is required
+to (1) register, (2) make annual filings and (3) provide declarations as to the title,
+language, periodicity, ownership and place of printing of periodicals, to the Press Registrar,
+established under the PRB Act. The maximum monetary penalty for non-compliance of
+various provisions of the PRB Act is 20,000 rupees or imprisonment of six months, or both.
+The Press and Registration of Periodicals Bill 2023 has been tabled before the Indian
+Parliament to replace the PRB Act, which, inter alia, aims to streamline the process of
+registration and administration of registered periodicals.
+
+Press Council of India Act 1978
+
+
+The Press Council of India (PCI), established under the Press Council of India Act 1978,
+governs the conduct and functioning of periodicals, news agencies, journalists and other
+print media entities. The PCI has notified the Norms of Journalistic Conduct 2022 (Norms
+of Journalistic Conduct), which set out:
+
+   1. basic ethical principles for reporting of current events including ensuring news is:
+
+           • not baseless;
+           • misleading; and
+           • backed by evidence;
+
+   2. advertisements and compliance with applicable laws on relevant disclaimers; and
+   3. subject-specific guidelines for:
+
+            • coverage of communal disputes;
+            • criticism of public figures;
+            • music reviews;
+            • headlines;
+            • financial journalism;
+            • court proceedings;
+            • sting operations;
+            • election reporting;
+            • medical reporting; and
+                                    [10]
+            • trial by media, etc.
+
+
+
+The PCI is empowered to initiate inquiries against periodicals or news agencies for violation
+                                                               [11]
+of standards of journalistic ethics or offence to public taste. The PCI can also censure
+a periodical or news agency or require the relevant periodical to publish the particulars
+                                [12]
+relating to the PCI's inquiries.
+
+
+
+
+ Media and Entertainment Law | India                                  Explore on Lexology
+                                                                     RETURN TO SUMMARY
+
+
+
+Self-regulation
+
+
+In addition to statutory regulation, industry stakeholders have also formed self-regulatory
+bodies for industry representation. For example, the Association of Indian Magazines is an
+industry body of magazine publishers and represents the interests of its stakeholders on
+various forums.
+
+ii Broadcast media
+
+The broadcasting sector is regulated by the (a) MIB; and (b) Telecom Regulatory Authority
+of India (TRAI). The MIB regulates broadcasters and cable service providers, content,
+uplinking and downlinking of television channels, and provides compliance requirements
+for entities with foreign investment in the broadcasting sector. The TRAI makes regulations
+on quality of service, revenue sharing among service providers, and inter-connect
+agreements by broadcasters and distributors.
+
+The key Regulations for broadcasting on television are the Cable Television Networks
+Act 1995 (Cable TV Act), the Policy Guidelines for Uplinking and Downlinking of Satellite
+                                                                                [13]
+Television Channels in India 2022 (Uplinking and Downlinking Guidelines 2022)        and
+medium-agnostic laws as set out in Section II.iv.
+
+Foreign direct investment in the broadcasting sector
+
+
+The maximum foreign investment permitted in the terrestrial broadcasting and radio
+broadcasting sector is 49 per cent under the GOI-approval route and requires compliance
+with terms and conditions specified by the MIB for the setting up of radio stations in India.
+
+Foreign investment in entities engaged in: (1) the uplinking of news and current affairs
+television channels has been capped at 49 per cent through the GOI-approval route; and
+(2) the uplinking of non-news and current affairs television channels and downlinking of
+television channels is allowed up to 100 per cent through the automatic route.
+
+Additionally, foreign investment in the broadcasting sector requires compliance with the
+additional conditions, which, inter alia, include:
+
+  1. security clearance of:
+
+           • board members and key executives;
+           • shareholders holding 10 per cent or more of the paid up capital in the entity;
+             and
+           • foreign personnel deployed for more than 60 days;
+
+   2. a majority of the board of directors and certain key personnel being citizens of India;
+   3. restrictions on transfer of subscribers' databases to persons and places outside
+      India; and
+   4. providing the necessary equipment for monitoring the broadcaster's activities to the
+                               [14]
+      governmental authorities.
+
+
+
+
+ Media and Entertainment Law | India                                 Explore on Lexology
+                                                                     RETURN TO SUMMARY
+
+
+
+Television broadcasting
+
+
+The Cable TV Act provides rules pertaining to registration of cable television network
+operators, mandatory transmission of certain programmes and programme and advertising
+content under the Cable Television Network Rules 1994 (Programme Code, Advertising
+      [15]
+Code).
+
+Under the Programme Code, no programme is allowed to be transmitted through cable
+services which:
+
+   1. offends good taste or decency;
+   2. contains criticism of friendly countries;
+   3. attacks religions or promotes communal attitudes;
+   4. contains anything obscene, defamatory, false or suggestive innuendos;
+   5. could encourage or incite violence or contains anything against maintenance of law
+      and order;
+   6. is in contempt of court;
+   7. casts aspersions against the integrity of the president of India, the judiciary or the
+      country;
+   8. encourages superstition;
+   9. denigrates women or is likely to corrupt public morality;
+ 10. contains visuals which reflect a slandering, ironical and snobbish attitude in portrayal
+     of certain groups;
+  11. contravenes the provisions of the Cinematograph Act 1952; or
+  12. is not suitable for unrestricted public exhibition.
+
+
+Similarly, the Advertising Code, which governs transmission of advertisements on cable
+services, prohibits advertisements which:
+
+   1. deride any race, caste, colour, creed and nationality;
+   2. are against the Constitution of India;
+   3. incite people to crime, breach the law, or glorify violence or obscenity;
+   4. exploit the national anthem or personality of a national leader or state dignitary;
+   5. depict women in a derogatory manner or encourage them to play a subordinate role
+      in society;
+   6. exploit social evils;
+   7. promote the sale or consumption of intoxicants (with the exception of legitimate
+      brand extensions);
+   8. are of a religious or political nature; and
+   9. are in non-compliance with the Consumer Protection Act 2019 and the Advertising
+      Standards Code of India (ASCI Code) and guidelines.
+
+
+
+
+ Media and Entertainment Law | India                                 Explore on Lexology
+                                                                       RETURN TO SUMMARY
+
+
+
+
+Finally, the Advertising Code also imposes limitations on the length and placement of
+advertisements in programmes.
+
+The Uplinking and Downlinking Guidelines 2022 lay down registration and permission
+requirements for transmission of a television channel to and from satellites, in and outside
+India. The Guidelines also:
+
+   1. create a distinction between 'news channels' and 'non-news channels' and prescribe
+      differential obligations for their registration and functioning; and
+  2. provide for penalties and deterring consequences in case a television channel is
+     found to have broadcast content in violation of the Programme or Advertising Code,
+     including:
+
+           • by issuing an advisory to the broadcaster;
+           • by issuing a warning to the broadcaster;
+           • requiring the channel to run an apology scroll;
+           • directing the director or chief executive officer to read a statement of apology;
+           • directing the channel to be off air for specified number of hours or days; and
+                                                                        [16]
+           • suspension or revocation of permission of the channel.
+
+
+
+Self-regulation
+
+
+The News Broadcasters and Digital Association (NBDA), a self-regulatory organisation
+which represents private television news, current affairs and digital broadcasters has also
+                                              [17]
+prescribed an 'Ethics Code' for its members. The NBDA has the power to censure or
+express disapproval against a broadcaster or impose a fine up to 100,000 rupees, or both,
+or recommend the suspension or revocation of the licence of that broadcaster.
+
+Radio broadcasting
+
+
+The radio broadcasting sector is regulated under the Indian Telegraph Act 1888, the Indian
+Wireless Telegraph Act 1933, and various policies of the MIB. Under the FM Phase-III
+       [18]
+Policy, private FM radio stations are prohibited from transmitting news and current affairs
+content, except news bulletins of the All India Radio. However, the following categories
+of programmes are permitted: sporting events, traffic, weather, cultural events, festivals,
+public announcements pertaining to civic amenities and natural calamities provided by
+local administration.
+
+Private FM radio stations are required to comply with the 'Advertising Code of Prasar
+                                                                        [19]
+Bharati' for all advertisements carried on the respective radio channel, which, inter alia,
+prohibits the transmission of advertisements containing unlawful content, advertisements
+presented as news and misleading advertisements.
+
+iii Online media
+
+
+
+
+ Media and Entertainment Law | India                                   Explore on Lexology
+                                                                      RETURN TO SUMMARY
+
+
+
+Foreign investment in the digital media sector
+
+
+As per the Exchange Control Laws read with Press Note No. 4 (2019 series) (PN 4) issued
+by the Department for Promotion of Industry and Internal Trade (DPIIT), foreign investment
+in uploading and streaming of news and current affairs through digital media is limited to
+26 per cent under the GOI-approval route.
+
+Per a clarification issued by the DPIIT on 16 October 2020, the restriction under PN 4
+applies to the following entities:
+
+   1. digital media entities streaming or uploading news and current affairs;
+   2. news agencies writing, gathering or distributing news and current affairs; and
+   3. news aggregators, that is, entities using software of web applications to aggregate
+      news content from various sources, such as news websites, blogs, podcasts, video
+      blogs, user submitted links, etc., in one location.
+
+
+The DPIIT subsequently also clarified that OTT platforms which merely host the digital feed
+of a television news channel do not fall within the ambit of the restriction.
+
+Information Technology Act 2000
+
+
+Activities on the internet are regulated by the Ministry of Electronics and Information
+Technology (MEITY) and the MIB under the IT Act and the rules made thereunder. The
+IT Act is applicable to persons and activities outside India if the activity involves a person
+                                         [20]
+or 'computer resource' situated in India. The IT Rules 2021 set out the compliance and
+regulatory framework for intermediaries (including social media intermediaries, significant
+social media intermediaries and online gaming intermediaries), publishers of news and
+current affairs content and publishers of online curated content (i.e., over-the-top (OTT)
+content platforms).
+
+Compliance for intermediaries
+
+
+Under the IT Act, any platform that receives, stores or transmits electronic messages
+or provides services in respect of such messages on behalf of its users qualifies as an
+intermediary. Per Section 79 of the IT Act, intermediaries are entitled to safe harbour (i.e.,
+exemption from liability for content made available through the intermediary) provided that:
+(1) the function of the intermediary is limited to providing access to the content shared
+by third parties; (2) the intermediary does not initiate, select the receiver of or modify
+the information during transmission; and (3) the intermediary undertakes due diligence
+prescribed by the GOI.
+
+Under the IT Rules 2021, an intermediary is required to comply with, inter alia, the following
+due diligence requirements:
+
+   1. prominently publishing its privacy policy, rules and regulations and user agreements
+      (collectively, 'policies') on the platform;
+   2. informing users and causing users not to host, display or publish information that:
+
+
+
+
+ Media and Entertainment Law | India                                  Explore on Lexology
+                                                                       RETURN TO SUMMARY
+
+
+
+           • belongs to third parties;
+           • is defamatory, obscene, pornographic, libellous, racially or ethnically
+             objectionable or otherwise is non-compliance with applicable laws;
+           • is harmful to children;
+           • infringes the intellectual property rights of a third party;
+           • violates applicable laws;
+           • impersonates another person; and
+           • threatens the unity, integrity, defence, security or sovereignty of India;
+
+   3. informing users at least once a year that it has a right to terminate access to the
+      platform or remove non-compliant information upon non-compliance with the terms
+      of the platform; and
+   4. publishing details of the grievance redressal officer appointed by the intermediary
+      along with the grievance redressal mechanism.
+
+
+Further, significant social media intermediaries (i.e., social media intermediaries with
+more than 50 million registered users) are required to also appoint a chief compliance
+officer, nodal contact person and resident grievance officer who should be employees and
+residents of India and comply with certain additional due diligence requirements.
+
+Compliance for publishers of news and current affairs and publishers of online curated
+content
+
+
+The IT Rules 2021 prescribe a three-tier grievance redressal mechanism for redressal
+of user grievances against publishers of online curated content (content publishers)
+and publishers of news and current affairs content (news publishers) involving: (1)
+self-regulation by the publisher; (2) redressal of grievances by a self-regulatory body; and
+(3) redressal by an inter-departmental committee constituted by the MIB. Accordingly,
+publishers are also required to appoint a grievance officer and become members of a
+self-regulatory body.
+
+Code of ethics
+
+
+Content publishers are, inter alia, required to classify all content made available on the
+platform into five categories:
+
+   1. A (for adult viewers);
+   2. UA 16+ (for users above the age of 16);
+   3. UA 13+ (for users above the age of 13);
+   4. UA 7+ (for users above the age of 7); and
+   5. U (for all age groups).
+
+
+
+
+ Media and Entertainment Law | India                                    Explore on Lexology
+                                                                      RETURN TO SUMMARY
+
+
+
+This classification may be made based on parameters such as theme, content, tone,
+having regard to depiction of issues such as discrimination, substance abuse, use of liquor,
+tobacco etc.
+
+News publishers are required to comply with the Norms of Journalistic Conduct issued
+by the Press Council of India and the Programme Code, prescribed under the Cable TV
+Rules.
+
+However, the Bombay High Court and Madras High Court have issued interim orders
+restricting the operation of Part III of the IT Rules 2021 which mandate adherence to the
+                                                                                      [21]
+'Code of Ethics' and the setting-up of the three-tier grievance redressal structure. That
+said, these cases are at their hearing stage, and are subject to final decisions of the courts
+in India.
+
+Regulations on blocking of content
+
+
+Under the Information Technology (Procedure and Safeguards for Blocking Access of
+Information by Public) Rules 2009 (Blocking Rules), the GOI has a right to remove or block
+access to content that that threatens:
+
+   1. the sovereignty and integrity of India;
+   2. the security of the state;
+   3. friendly relations with foreign states;
+   4. public order;
+   5. decency or morality or in relation to contempt of court; and
+   6. defamation or incitement to an offence.
+
+
+
+Regulatory regime governing online gaming intermediaries
+
+
+Under the IT Rules 2021, an online game is a game accessible on the internet via an
+intermediary, and is further classified as:
+
+   1. an online real money game (i.e., where a user deposits cash with the expectation
+      of winning a prize);
+   2. a permissible online game (i.e., a permissible online real money game or a game
+      that is not an online real money game); and
+   3. a permissible online real money game (i.e., an online game verified by an online
+      gaming self-regulatory body).
+
+
+Online gaming intermediaries are only permitted to offer permissible online real money
+games.
+
+Every online real money game is required to be registered with a self-regulatory body
+formed under the IT Rules 2021. In addition to the due diligence requirements required to
+be complied with by all intermediaries, online gaming intermediaries are also required to:
+
+
+
+
+ Media and Entertainment Law | India                                  Explore on Lexology
+                                                                    RETURN TO SUMMARY
+
+
+
+   1. inform users within 24 hours of any change in its policies;
+   2. ensure that their policy sets out the rules in relation to withdrawal or refund
+      of deposits, manner of distribution of winnings, manner of calculating winnings,
+      payments of fees and charges;
+   3. implement a know-your-customer procedure;
+   4. implement a verification framework;
+   5. display demonstrable marks of verification of the game by a self-regulatory body;
+      and
+   6. verify a user's identity prior to accepting a deposit.
+
+
+
+Fact-checking body
+
+
+The IT Rules 2021 empower the MEITY to constitute a fact-checking body to verify all
+information pertaining to the GOI on social media platforms. In the event content identified
+as fake by the committee is reported to the intermediary and the relevant intermediary fails
+to take down such content, it may lose its safe harbour protection. However, at the time of
+writing, the MEITY has not constituted the fact-checking body.
+
+iv Medium agnostic laws
+
+Other Indian legislation also applies to the media and entertainment sector regardless of
+the medium of distribution of content. For example, the Consumer Protection Act 2019
+(CPA 2019), the Indian Penal Code 1870 (IPC), the Indecent Representation of Women Act
+1986 (Representation of Women Act), the Protection of Children from Sexual Offences Act
+(POCSO Act) and legislation governing advertisements or depiction of specific products
+                            [22]
+and themes in any content.
+
+In respect of advertising content, the ASCI Code along with various guidelines are
+applicable to members of the Advertising Standards Council of India (ASCI). However, the
+ASCI Code and guidelines reflect broad industry practice. The ASCI is a self-regulatory
+organisation comprising stakeholders from the advertising sector such as advertisers,
+agencies and publishers. The ASCI Code is applicable to all members and comprises
+basic principles which relate to truthful and honest representation in advertisements,
+non-offensiveness of advertising content, prohibition against depiction of harmful products
+and situations, and competitive fairness in advertising. Apart from this, the ASCI Code
+comprises guidelines for advertisements relating to specific categories such as brand
+extensions, foods and beverages, endorsements by celebrities and influencers, advertising
+of real money games and virtual digital assets. ASCI operates the Consumer Complaints
+Council (CCC), a grievance redressal mechanism which handles complaints from the
+public, suo motu, and intra-industry disputes. Where the CCC finds a violation of the ASCI
+Code, the CCC has the power to issue recommendations for modifications or withdrawal
+                                      [23]
+of claims made in the advertisement.
+
+Under the CPA 2019, any unfair trade practice comprising making false or misleading
+representations as to the quality, standard, condition, sponsorship or usefulness of goods
+or services, or any misleading advertisement or endorsement is prohibited and punishable.
+
+
+
+
+ Media and Entertainment Law | India                                Explore on Lexology
+                                                                      RETURN TO SUMMARY
+
+
+
+
+Under the IPC, obscenity, acts in relation to racial, religious or gender discrimination,
+violence, abetment of suicide, and defamation are punishable. Under the Representation
+                                                                                         [24]
+of Women Act, depiction of women in an indecent or derogatory manner is punishable.
+Under the POCSO Act, anybody who uses a child (anybody below the age of 18 years) in
+any form of media for purposes of sexual gratification by representation of sexual organs
+of a child, usage of a child engaged in real or simulated sexual acts or indecent or obscene
+                                                   [25]
+representation of a child, or both, is punishable.
+
+
+Free speech and media freedom
+
+
+i Protected forms of expression
+
+The right to freedom of speech and expression is guaranteed to all Indian citizens as a
+fundamental right under Article 19(1)(a) of the Constitution of India. However, freedom of
+speech and expression is subject to reasonable restrictions set out in Article 19(2), which
+are:
+
+    1. the sovereignty and integrity of India;
+    2. the security of the state;
+    3. friendly relations with foreign states;
+    4. public order;
+    5. decency or morality or in relation to contempt of court; and
+    6. defamation or incitement to an offence.
+
+
+These grounds serve as the basis for judicial interpretation of all legislation and subordinate
+legislation notified by the GOI which aim at ensuring that the right of freedom of speech
+and expression is exercised within the aforesaid framework.
+
+While 'speech' is not classified in further categories under any Indian statutes, Indian
+courts have analysed the concept of 'commercial speech'. Commercial speech is generally
+understood by Indian courts as speech which proposes a commercial transaction or is an
+expression of economic interest of a speaker to its audience. The Supreme Court stated
+                                    [26]
+in the case of Tata Press v. MTNL, that advertisements and 'commercial speech' is also
+                                                              [27]
+protected under Article 19(1)(a) of the Constitution of India. As such, commercial speech
+or advertisements are also subject to the same restrictions as set out in Article 19(2) of
+the Constitution of India.
+
+ii Hate speech
+
+While Indian laws do not specifically define hate speech, certain provisions of the IPC can
+be invoked when dealing with cases of hate speech. The IPC prescribes punishment for:
+
+   1. deliberate and malicious acts, intended to outrage religious feelings of any class;
+   2.
+
+
+
+
+ Media and Entertainment Law | India                                   Explore on Lexology
+                                                                         RETURN TO SUMMARY
+
+
+
+      uttering, words, etc, with deliberate intent to wound the religious feelings of any
+      person;
+   3. promoting enmity between different groups on grounds of, inter alia, religion, race,
+      place of birth, residence, language, and doing acts prejudicial to maintenance of
+      harmony;
+   4. making any imputations, assertions, pleas, publications that are prejudicial to
+      national integration; and
+   5. publishing, making or circulating any rumor with an intent to cause mutiny, fear or
+      alarm to the public or any section or society inducing a person to commit an offence
+      or inciting any community to commit an offence against another community.
+
+
+Further, the Supreme Court of India has recently mandated the police forces of all Indian
+states to suo motu register first information reports in hate speech cases attracting offences
+under Section 153A, 153B, 295A and 505 of the IPC, even if no complaints are forthcoming.
+
+iii Newsgathering
+
+As stated above, the Norms of Journalistic Conduct govern key aspects of newsgathering
+and reporting. In respect of payment of sources, the Norms of Journalistic Conduct prohibit
+payment or material rewards to sources.
+
+There are no special exceptions given to journalists and news agencies for trespass,-
+[28]
+     secret recording or electronic eavesdropping, or unlawfully obtained information.
+                                                                                         [29]
+Furthermore, the Supreme Court of India, in RM Malkani v. State of Maharashtra, stated
+that evidence is admissible in a court of law, even if it is obtained illegally, unless the judge
+in their discretion considers such evidence as inadmissible on the grounds of unfairness
+                                                                                   [30]
+to the accused. The Delhi High Court in the case of RK Anand v. Registrar,              upheld the
+legitimacy of sting operations to expose corruption among public officials by journalists.
+
+iv Freedom of access to government information
+
+The Right to Information Act (RTI Act) provides for the right to all Indian citizens to
+seek information such as records, documents, memos, emails, opinions, advice, reports,
+samples, models on all governmental records from any public authority. Under the RTI Act,
+public authority is understood to be any authority or body or institution of self-government
+established: (1) under the Constitution of India; (2) under a law made by the Indian
+Parliament; (3) under a law made by the state legislature; or (4) by a notification or
+order passed by the appropriate governmental authority. Bodies owned, controlled or
+substantially financed by the government, and any non-government organisation financed
+by the government fall within the purview of a 'public authority'.
+
+However, under the RTI Act a public authority can refuse to provide information if such
+action:
+
+    1. adversely affects India's sovereignty, security or other strategic interests;
+    2. is prohibited by law or could lead to contempt of court;
+    3. breaches legislative privilege;
+
+
+
+
+ Media and Entertainment Law | India                                     Explore on Lexology
+                                                                       RETURN TO SUMMARY
+
+
+
+    4. compromises commercial or intellectual property;
+    5. exists within a fiduciary relationship;
+    6. is received confidentially from a foreign government;
+    7. endangers someone's life or law enforcement sources;
+    8. impedes criminal investigations;
+    9. involves cabinet deliberations; or
+  10. relates to personal information as defined under the Indian Data Protection Law.
+
+
+
+v Protection of sources
+
+While there are no legally enumerated rights, privileges or duties to protect sources in India,
+the Whistleblower Protection Act 2014 (Whistleblower's Act) protects persons disclosing
+corruption, wilful misuse of power or discretion against any public servant. The disclosure
+is required to be made before a 'competent authority' and such competent authority would
+conduct an inquiry as per Section 5 of the Whistleblower's Act. The act also provides for
+safeguards against victimisation, disclosure of identity of the whistleblower, and witness
+protection. The Norms of Journalistic Conduct set out an exception to the disclosure of
+sources in cases of 'serious allegations where matter is related to national interest and
+           [31]
+security'.
+                                                        [32]
+In Jai Parkash Aggarwal v. Vishambhar Dutt Sharma,           it was held that while 'journalists
+or the information media have no absolute immunity or obligation to disclose their source
+of information in court . . . before the Court directs the disclosure of source it must satisfy
+itself that it is in the nature of justice and is not against the public interest'. In the same
+vein, a court in Delhi recently gave an order to the effect that journalists are not exempt
+                                                                       [33]
+from disclosing their sources to investigating agencies of the GOI.
+
+vi Private action against publication
+
+A wide variety of legal remedies are available to persons to initiate private actions against
+publication. Under the IPC, defamation is a punishable offence. The essentials for proving
+a claim for defamation include: (1) publication of the statement; (2) the statement must be
+defamatory; and (3) the statement must refer to the complainant or plaintiff. The punishment
+for defamation, publishing and sale of defamatory material of imprisonment up to two years,
+a fine or both. However, defamation can be pursued as a civil remedy under common law
+for a claim for damages as well. Under the IPC, exceptions to the crime of defamation as
+follows:
+
+    1. truth in public interest for public good;
+    2. public conduct of public servants;
+    3. conduct of persons discharging public functions;
+    4. reports of proceedings of a court of law;
+    5. comments on cases;
+    6. literary criticism;
+
+
+
+
+ Media and Entertainment Law | India                                   Explore on Lexology
+                                                                   RETURN TO SUMMARY
+
+
+
+   7. censure by person having lawful authority;
+   8. complaint to person having lawful authority;
+   9. imputation made in good faith to protect their or another's interests; and
+  10. caution made in good faith.
+
+
+In cases for civil defamation in India, while the amount of damages depends on the
+individual facts of each case, we have noted defamation cases being filed for up to 10
+billion rupees. In some cases, the Supreme Court has also directed an entity alleged of
+defamation to deposit as much as 20 million rupees in a 1 billion rupees defamation case
+                                    [34]
+before admitting the case on appeal. Further, recently, the Delhi High Court awarded a
+                                                           [35]
+sum of 20 million rupees as damages in a defamation case.
+
+The right to privacy has been read as a fundamental right under Article 21 of the
+Constitution of India in KS Puttaswamy v. Union of India. Further, the IT Act criminalises
+the violation of privacy by way of non-consensual publishing or transmission of the image
+of a private area of a person and lays down a punishment of three years, fine up to 300,000
+rupees, or both. As stated above, under the IT Rules 2021, intermediaries are under an
+obligation to take-down and prohibit the access to content which is invasive of a person's
+privacy within 72 hours of reporting thereof to the intermediary.
+
+Similarly, private action may also comprise a suit for disparagement under common law or
+under the Trade Marks Act 1999 (TMA). Entities often engage in comparative advertising
+that involves comparison among two or more competitor products or services. However,
+Indian courts have held that entities cannot state that a competitor's products or services
+                                                                        [36]
+are bad while saying that their own products or services are better,         undervalue the
+                                      [37]
+products or services of a competitor,      or disparage a competitor's products or services
+            [38]
+as unsafe. The CPA 2019 and the Misleading Advertisement Guidelines, the ASCI Code
+and the TMA provide for guidance on how such comparative claims can be made.
+
+vii Government action against publication
+
+Under the Blocking Rules, the GOI may, through a designated officer, direct the take
+down of information which is in contravention of law under the grounds outlined under
+Article 19(2) of the Constitution of India. Such orders are also made for the protection of
+children; for example, where child sexual abuse material is shared on the internet. The GOI
+has directed blocking of accounts on platforms such as YouTube and Twitter which were
+                                                    [39]
+accused of sharing fake news and misinformation. In the case where Twitter challenged
+such orders, the matter was decided by the Karnataka High Court in favour of the GOI.-
+[40]
+     Further, the GOI has directed blocking of applications having off-shore links which
+were operating in sectors requiring approvals from regulators or which were engaged in
+                                                                [41]
+unauthorised cross-border sharing of personal data of Indians.
+
+
+Intellectual property
+
+
+i Copyright and related rights
+
+
+
+
+ Media and Entertainment Law | India                                Explore on Lexology
+                                                                        RETURN TO SUMMARY
+
+
+
+The Copyright Act 1957 (Copyright Act) governs copyright law in India. As per the Copyright
+Act, copyright subsists in all published and unpublished dramatic work, artistic work, literary
+work, musical work, sound recordings and cinematograph films. Registration of copyright
+is not mandatory under Indian laws. While the Copyright Act follows the basic framework
+of the Berne Convention, the duration of protection of dramatic work, artistic work, literary
+work, musical work, granted under the Copyright Act (i.e., 60 years after the death of the
+author) differs from that granted under the Berne Convention (i.e., 50 years after the death
+of the author).
+
+The Copyright Act provides an economic right to the author or owner of a work, to
+reproduce the work, to issue copies, to perform or communicate it to the public, to make
+any cinematograph film or sound recording or to make any adaptation or translation of
+the work. The Copyright Act also provides moral rights to the author such as: (1) to claim
+authorship of the work; (2) to protect one's reputation; and (3) to not have a work falsely
+attributed to oneself.
+
+Courts in India as well as the relevant governmental authorities issued several blocking
+orders against websites illegally streaming or making available copyrighted content that led
+to a loss of revenue for rights holders. Courts have relied on dynamic injunctions, whereby
+additional blocking orders can be passed against new infringing websites and to catch
+repeat infringers. This is particularly useful in the context of illegal streaming of live events
+such as sporting events.
+
+A key challenge in the field of copyright law is in relation to regulation of artificial
+intelligence. The Department-Related Parliamentary Standing Committee on Commerce
+recommended the creation of a separate category of rights for inventions or solutions
+related to AI, to keep up with developments in technology and innovation. In a similar vein,
+the copyright office recently registered an AI tool – RAGHAV Artificial Intelligence Painting
+App – as the co-author of a copyright-protected artistic work.
+
+ii Personality rights
+
+While personality rights are not specifically recognised in any statute in India, courts in
+India have recognised personality and celebrity rights in myriad judgments. In the case of
+                                           [42]
+Titan Industries v. Ramkumar Jewellers,         the Delhi High Court held that each individual
+has a right to determine how the individual's identity is utilised for commercial purposes.
+Further, the Delhi High Court identified two prongs to test whether such rights can be
+enforced: (1) the plaintiff should own an enforceable right in the identity or persona of a
+human being (i.e., the plaintiff should be able to prove they have a proprietary interest in the
+profitability of his public reputation or persona); and (2) the plaintiff should be identifiable
+from the unauthorised use. Courts have recognised celebrities as 'famous people' who
+may be known about or talked about. Personality rights are also accorded only to living
+individuals and are not transferred to heirs or relatives upon the death of an individual.
+
+In a recent judgment relating to personality rights, the Delhi High Court held that the use
+of cricketers' images through publicly available information and creative artwork for the
+creation of non-fungible tokens would not amount to a violation of personality rights given
+that 'using celebrity names and images for purposes such as satire, parody and art fell
+within freedom of speech and expression under the Indian Constitution and did not violate
+                         [43]
+the right of publicity'.
+
+
+
+
+ Media and Entertainment Law | India                                    Explore on Lexology
+                                                                         RETURN TO SUMMARY
+
+
+
+
+iii Unfair business practices
+
+Courts in India have held that the 'hot news' doctrine is not applicable in India given
+that there can be no monopoly afforded to 'time-sensitive information' or facts. The only
+circumstance in which the doctrine would find application in India would be to injunct
+time-sensitive news where both parties are 'direct competitors'. A controversy in this regard
+arose when exclusive broadcasting rights of all cricket matches were granted to Star
+TV and other platforms such as 'cricbuzz' started sharing ball-by-ball coverage of live
+cricket matches. It was held that Star TV could not claim exclusive property over the
+information itself, even for a short duration and it did not have a right to injunct third parties
+from publishing information in relation to the match, whether or not such information was
+disseminated for commercial reasons.
+
+False attribution means a person falsely representing themselves as the owner or author
+of the work. False attribution is recognised under common law and is also recognised as a
+violation of moral right under the Copyright Act. Courts generally recognise: (1) a person's
+right to receive credit; and (2) right to prevent any distortion of the work that would be
+potentially harmful to the reputation and honour of the right holder. Under Section 57 of the
+Copyright Act, the author has the right to restrain by way of an injunction or claim damages
+in respect of any distortion, mutilation, modification or other acts that would be prejudicial
+to the honour or reputation of author.
+
+
+Competition and consumer rights
+
+The CCPA enforces the CPA 2019 in India to provide relief to consumers from unfair
+trade practices and false advertisements. The Competition Commission of India (CCI)
+is the regulator set up under the Competition Act 2002 (Competition Act) to prevent
+anticompetitive activities, and promote price-competition, information symmetry and
+innovation. Under the Competition Act, agreements that may have an appreciable adverse
+effect on competition are considered anticompetitive. The Competition Act restricts the
+abuse of dominant position by an enterprise or a group, which includes imposing unfair or
+discriminatory conditions or pricing in purchase or sale of goods or services. Recently, the
+Competition (Amendment) Act 2023 introduced the following key changes: (1) requirement
+of CCI approval where the value of any transaction, or acquisition of control, shares, voting
+rights or assets of an enterprise, merger or amalgamation exceeds 20 billion rupees;
+and (2) expanded definition of 'control' to include material influence of the activities of an
+enterprise.
+
+In terms of recent enforcement activity, the CCI approved the proposed amalgamation of
+two leading Indian broadcasters, Zee Entertainment Enterprises Limited and Culver Max
+Entertainment Limited (previously known as Sony Pictures Networks India Private Limited),
+                                                    [44]
+which would create the largest broadcaster in India. The combination was accepted with
+certain modifications directed by the CCI. Furthermore, the CCI is undertaking a review
+                                                                         [45]
+of a probe report on Apple's App Store commission and billing policies. The outcome
+of this probe is expected to affect the revenue models of many entities in the media and
+entertainment sector which make their services available through the Apple App Store. As
+regards enforcement of the CPA 2019, The framework of the CPA 2019 and the powers of
+the CCPA have been set out in Section II.
+
+
+
+
+ Media and Entertainment Law | India                                     Explore on Lexology
+                                                                      RETURN TO SUMMARY
+
+
+
+
+An advisory issued by the MIB completely prohibited advertising of online betting platforms
+in India and to Indian consumers on print media, electronic media and online and social
+media, including intermediaries as well as publishers, on the grounds that betting and
+gambling are illegal in most parts of the country and because betting and gambling pose
+significant financial and socio-economic risks for consumers.
+
+As regards 'net neutrality', the TRAI had categorically stated that there cannot be any
+discrimination by internet service providers on the grounds of content being accessed,
+protocols being used, or the user equipment deployed. However, in response to a recent
+                                                                                    [46]
+consultation paper published by the TRAI on the regulation of OTT service providers,
+certain telecoms entities have recommended the imposition of carriage service fees on
+                             [47]
+such OTT service providers.
+
+
+Digital content
+
+As noted above in Section II.iii, Section 79 of the IT Act and the IT Rules 2023 provide
+safe harbour to intermediaries against liability for content stored, published, hosted
+and transmitted on such intermediaries upon compliance with certain due diligence
+requirements.
+
+In the case of X Corp (formerly Twitter) v. Union of India, the Karnataka High Court
+dismissed a petition filed by X Corp against orders made by the GOI under the Blocking
+Rules wherein certain accounts on X were ordered to be blocked. X Corp contended that:
+(1) the users operating the accounts were not provided with reasons and an opportunity
+to be heard; and (2) the directions to suspend the entire account were disproportionate as
+the Blocking Rules provide for blocking of public access to 'information' and not accounts
+generally. However, the Karnataka High Court ruled against X Corp as (1) identification of
+the users was not possible before the account-blocking orders were made and the blocking
+orders were compliant with the Blocking Rules; and (2) the Blocking Rules allow for blocking
+of entire accounts. The court also took note of X Corp's earlier non-compliance with earlier
+orders and imposed costs of 5 million rupees. However, the imposition of costs has been
+stayed by a larger bench on appeal by X Corp.
+
+
+Contractual disputes
+
+
+i Royalties for authors of underlying works
+
+As per Sections 19(10) of the Copyright Act, all authors of musical works and literary
+works such as lyrics (collectively underlying works) are entitled to claim the right to receive
+royalties and consideration for utilisation of the work in any form where such works are
+assigned to make a sound recording not a part of a cinematograph film. The owner of the
+sound recording has the right to sell or commercially rent any copy of the sound recordings
+and to communicate the sound recording to the public.
+
+However, whether a licence granted for the exploitation of a sound recording would obviate
+licences for the composition and lyrics has been the subject of contradictory decisions.
+The Intellectual Property Appellate Board (IPAB) had held that licences are required to be
+
+
+
+
+ Media and Entertainment Law | India                                   Explore on Lexology
+                                                                       RETURN TO SUMMARY
+
+
+                             [48]
+taken for underlying works. The Delhi High Court took the opposite view and has held
+that once a licence for exploitation of a sound recording is taken, there is no requirement
+                                                                      [49]
+to obtain a separate licence for exploitation of the underlying works. However, the case
+is pending to be adjudicated before a larger bench of the Delhi High Court. Recently, the
+Bombay High Court, in Indian Performing Rights Society Ltd v. Rajasthan Patrika Pvt Ltd,-
+[50]
+     gave interim relief to the Indian Performing Rights Society and ordered that FM radio
+broadcasters were required to make payment of royalties for underlying works as well as
+exploitation of sound recordings. However, as the Bombay High Court gave an interim
+order and the case is circumscribed to an FM radio broadcaster, this development does
+not have precedent value. Therefore, the legal position on this point has not been settled
+at this stage.
+
+ii Right to receive royalties of the performer
+
+Another key area of dispute is a performer's (a person who performs such sound
+recordings) right to receive royalties on exploitation of the sound recordings. Performers
+have exclusive rights over their performances and any sound or visual recording thereof
+(performers' rights) and also have a right to receive royalties upon commercial use.
+However, the Delhi High Court has held that even performances recorded in a studio can
+be interpreted to be live. Following this decision, the Indian Singers' Rights Association
+(a copyright society for performers' rights) has obtained injunctions against commercial
+establishments for exploiting rights in studio recordings of the performers' performances.
+
+As regards whether the performer's right to receive royalties is inalienable, Section 39A of
+the Copyright Act states that Sections 18 and 19 would apply in the case of broadcast
+reproduction rights and performers' rights. Broadcast has been defined as communication
+                                          [51]
+to the public by wire or wireless means. A plain reading of Section 39A would render the
+performer's right to receive royalties inalienable. However, contrary views have been taken
+in the industry regarding the applicability of the provisos to Section 18 as they explicitly
+employ the words 'authors of the literary or musical work'. Performers are not included in
+the definition of 'author' as per Section 2(d) of the Copyright Act and any sound or visual
+recording of a performance would not constitute a literary or musical work.
+
+
+Outlook and conclusions
+
+The GOI is overhauling the technology, media and entertainment regulation landscape of
+India. With the enactment of the Indian Data Protection Law and leading up to the DIA, the
+coming year is a watershed year for regulation of the media and entertainment sector. The
+DIA is also proposed to overhaul the 'safe harbour' granted to intermediaries by imposing
+the more stringent 'notice and stay down' model instead of the 'notice and takedown' model
+that is currently in place in India. This could require intermediaries to ensure that infringing
+or non-compliant content is not just taken down but also does not resurface on the platform,
+by employing technology solutions. Further, the proposed enactment of the rules under the
+Indian Data Protection Law is expected to provide further clarity in relation to the duties
+and obligations of the relevant stakeholders under the Indian Data Protection Law.
+
+As noted above, the GOI is aiming to bring a new legislation to regulate the print
+sector and has initiated pre-consultation on the regulatory regime for the broadcasting
+sector. Moreover, the GOI is also engaging in high-level discussions around the Digital
+
+
+
+
+ Media and Entertainment Law | India                                   Explore on Lexology
+                                                                   RETURN TO SUMMARY
+
+
+
+Competition Bill in a bid to regulate large technology companies. New legislation governing
+the telecommunications sector is also expected to modernise the legal framework for
+telecommunications and internet service providers. As a closing remark, it is important
+to keep a close eye on the increasing role of AI and its regulation under future legal
+frameworks, including copyright laws and information technology laws.
+
+
+
+Endnotes
+
+1 Tanu Banerjee is a partner and Ishan Johri is a principal associate at Khaitan & Co.
+   Back to section
+
+
+2 Ernst and Young, Windows of Opportunity: India's Media & Entertainment
+  Sector – maximizing across segments, Page 10 (April 2023),
+  https://assets.ey.com/content/dam/ey-sites/ey-com/en_in/topics/media-and-en
+  tertainment/2023/05/ey-me-report.pdf (last accessed 9 October 2023). Back to section
+
+3 Cable.co.uk, Worldwide Mobile Data Pricing 2023,
+  https://www.cable.co.uk/mobiles/worldwide-data-pricing/#resources (last accessed 9
+  October 2023).    Back to section
+
+
+4 The Hindu, Over 50% Indians are Active Internet Users Now (4 May 2023),
+  https://www.thehindu.com/news/national/over-50-indians-are-active-internet-
+  users-now-base-to-reach-900-million-by-2025-report/article66809522.ece (last
+  accessed 9 October 2023).    Back to section
+
+
+5 SEBI, Consultation Paper on Association of SEBI Registered Intermediaries/Regulated
+  Entities with Unregistered Entities (including Finfluencers) (August 2023),
+  https://www.sebi.gov.in/reports-and-statistics/reports/aug-2023/consultatio
+  n-paper-on-association-of-sebi-registered-intermediaries-regulated-entities
+  -with-unregistered-entities-including-finfluencers-_75932.html (last accessed 9
+  October 2023).     Back to section
+
+
+6 Ministry of Consumer Affairs, Food and Public Distribution, Draft Guidelines
+  on Prevention and Regulation of Dark Patterns (7 September 2023),
+  https://consumeraffairs.nic.in/sites/default/files/file-uploads/latestnews/
+  Draft%20Guidelines%20for%20Prevention%20and%20Regulation%20of%20Dark%20Patt
+  erns%202023.pdf (last accessed 9 October 2023).             Back to section
+
+
+7 MEITY, Presentation on Proposed Digital India Act 2023 (10 March 2023),
+  https://www.meity.gov.in/writereaddata/files/DIA_Presentation%2009.03.2023%
+  20Final.pdf (last accessed 9 October 2023).     Back to section
+
+
+8 Can't misuse Anil Kapoor's persona, catchphrase
+  'jhakhaas', HC says,The Hindu (21 September 2023),
+  https://www.thehindu.com/news/cities/Delhi/cant-misuse-anil-kapoors-persona
+  -catchphrase-jhakhaas-hc-says/article67326277.ece (last accessed 9 October
+  2023).    Back to section
+
+
+
+
+ Media and Entertainment Law | India                                Explore on Lexology
+                                                                       RETURN TO SUMMARY
+
+
+
+
+9 MIB, Guidelines for (1) Publication of Indian Editions of Foreign
+  Technical / Scientific / Specialty Magazines / Journals / Periodicals;
+  and (2) Foreign Investment in Indian Entities Publishing Scientific /
+  Technical / Specialty Magazines / Journals / Periodicals (1 June 2005),
+  https://mib.gov.in/sites/default/files/Guidelines_for_Publication_of_Indian
+  _edition_of_Specialty_Magazines.pdf (last accessed 9 October 2023).         Back to section
+
+
+10 Press Council of India, Norms of Journalistic Conduct 2022 (November 2022),
+   https://www.presscouncil.nic.in/ViewPdfContent.aspx?Page=DocumentsOfPCI&Tit
+   le=Norms%20of%20Journalists%20Conduct,%202022 (last accessed 9 October
+   2023).    Back to section
+
+
+11 Section 14, Press Council of India Act 1978.      Back to section
+
+
+12 ibid.        Back to section
+
+
+13 MIB, Uplinking and Downlinking Guidelines 2022 (9 November 2022),
+   https://mib.gov.in/sites/default/files/Guidelines%20for%20Uplinking%20and%2
+   0Downhinking%20of%20Satellite%20Television%20Channels%20in%20India%2C%20202
+   2.pdf (last accessed 9 October 2023).        Back to section
+
+
+14 Exchange Control Laws read with the Uplinking and Downlinking Guidelines 2022.
+   Back to section
+
+
+15 Rules 6 and 7, the Cable Television Network Rules 1994,
+   https://mib.gov.in/sites/default/files/pc1_0.pdf (last accessed 9 October 2023).      Back
+   to section
+
+
+16 Part IX, Uplinking and Downlinking Guidelines 2022.        Back to section
+
+
+17 News Broadcasters & Digital Association, Code of Ethics & Broadcasting Standards
+   (2008),
+   https://www.nbdanewdelhi.com/assets/uploads/pdf/1_CODE_OF_ETHICS_BROADCASTI
+   NG_STANDARDS_1_4_081.pdf (last accessed 9 October 2023).         Back to section
+
+
+18 MIB, Policy Guidelines on Expansion of FM Radio Broadcasting Services through
+   Private Agencies (Phase-III) dated 25 July 2011. Back to section
+
+
+19 Prasar Bharti, Advertising Code for Prasar Bharati dated 18 May 2022,
+   https://prasarbharati.gov.in/wp-content/uploads/2022/05/Approved-Notificati
+   on-02_2022-Ops-Advertising-Code-of-Prasar-Bharati-18052022.pdf.        Back to section
+
+
+20 Section 75, IT Act.            Back to section
+
+
+
+
+ Media and Entertainment Law | India                                   Explore on Lexology
+                                                                    RETURN TO SUMMARY
+
+
+
+
+21 Bombay HC's interim relief in IT Rules 2021 will be applicable
+   pan-India: Madras HC, Exchange4Media (18 September 2023),
+   https://www.exchange4media.com/digital-news/bombay-hcs-interim-relief-in-it
+   -rules-2021-will-be-applicable-pan-india-madras-hc-115751.html (last accessed 9
+   October 2023).     Back to section
+
+
+22 Drug and Cosmetic Rules 2018 and the Drugs and Cosmetics Act 1940; Arms
+   Act 1959; Prize Competitions Act 1955; The Lotteries (Regulation) Act 1998; the
+   Public Gambling Act 1867; The Transplantation of Human Organs Act 1994; Infant
+   Milk Substitutes, Feeding Bottles and Infant Foods (Regulation of Production, Supply
+   and Distribution) Act 1992; Bar Council of India Rules under the Advocates Act
+   1961; The Drugs and Magical Remedies (Objectionable Advertisements) Act 1954;
+   Drugs and Cosmetics Act 1940; Indian Medical Council (Professional Conduct,
+   Etiquette and Ethics) Regulations 2002; Foreign Contributions Regulations Act 2010;
+   Standards of Weight & Measures Act 1976 (no advertisement without standard unit of
+   measurement); Representation of the People (Amendment) Act 1996; Prize Chits and
+   Money Circulation Schemes (Banning) Act 1978; Chartered Accountants Act 1949;
+   Company Secretaries Act 1980; Securities and Exchange Board of India (Prohibition of
+   Fraudulent and Unfair Trade Practices Relating to Securities Market) Regulations 2003;
+   The Prenatal Diagnostic Techniques (Regulation and Prevention of Misuse) Act 1994;
+   The Surrogacy (Regulation) Act 2021; and The Cigarettes and other Tobacco Products
+   (Prohibition of Advertisement and Regulation of Trade and Commerce, Production,
+   Supply and Distribution) Act 2003.    Back to section
+
+
+23 ASCI, Complaints Procedures,
+   https://www.ascionline.in/wp-content/uploads/2022/11/asci_complaints_proced
+   ures.pdf (last accessed 9 October 2023).    Back to section
+
+
+24 Section 4, Representation of Women Act.        Back to section
+
+
+25 Section 13, POCSO Act.       Back to section
+
+
+26 Tata Press v. Mahanagar Telephone Nigam Limited (1995) 5 SCC 139.          Back to section
+
+
+27 Hamdard Dawakhana v. Union of India, 1960 AIR 554; Indian Express Newspapers v.
+   Union of India, 1986 AIR 515. Back to section
+
+
+28 Republic says bid to silence after reporters held for 'trespass' at CM
+   Uddhav Thackeray's house in Raigad,The Indian Express (10 September 2020),
+   https://indianexpress.com/article/cities/mumbai/remand-until-september-14-r
+   epublic-says-bid-to-silence-after-reporters-held-for-cm-house-trespass-6589
+   876/ (last accessed 9 October 2023); P Sudhakar, French journalists booked for
+   trespassing on Indian Rare Earths complex, The Hindu (30 November 2018),
+   https://www.thehindu.com/news/national/tamil-nadu/french-journalists-booked
+   -trespassing-on-indian-rare-earths-complex/article25627466.ece (last accessed 9
+   October 2023).     Back to section
+
+
+
+
+ Media and Entertainment Law | India                                Explore on Lexology
+                                                                         RETURN TO SUMMARY
+
+
+
+
+29 RM Malkani v. State of Maharashtra (1973) 1 SCC 471.             Back to section
+
+
+30 RK Anand v. Registrar, Delhi High Court 2009 (10) SCALE 164.              Back to section
+
+
+31 Norms of Journalistic Conduct, Page 46.        Back to section
+
+
+32 30 (1986) DLT 21.      Back to section
+
+
+33 CBI v. Closure Report (Fake CBI Report Case), Delhi Rouse Avenue Court Order (17
+   January 2023).     Back to section
+
+
+34 Apex Court Declines Times Now Plea in
+   Defamation Case,Indian Express (15 November 2011),
+   https://indianexpress.com/article/news-archive/web/apex-court-declines-time
+   s-now-plea-in-defamation-case/ (last accessed 9 October 2023).     Back to section
+
+
+35 Major General MS Ahluwalia v. Tehelka.Com, 2023 SCC OnLine Del 4275.                   Back to
+   section
+
+
+36 Reckitt & Colman of India Ltd v. MP Ramchandran, 1999 PTC (19) 741.                Back to section
+
+
+37 Pepsico Inc v. Hindustan Coca-Cola Ltd, 2003 (27) PTC 305 Del.              Back to section
+
+
+38 Hindustan Unilever Ltd v. USV Private Ltd, Bom HC (13 July 2022).             Back to section
+
+
+39 Press Information Bureau, Ministry of I&B blocks 8 YouTube channels for spreading
+   disinformation related to India's national security, foreign relations and public order (18
+   August 2022), https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1852785 (last
+   accessed 9 October 2023)        Back to section
+
+
+40 Thwarting Twitter,The Hindu,
+   https://www.thehindu.com/opinion/editorial/thwarting-twitter-on-the-karnata
+   ka-high-court-ruling/article67041926.ece (last accessed 9 October 2023).                Back to
+   section
+
+
+41 Chetan Thathoo, India Bans 138 Chinese Betting Apps In
+   Yet Another Digital Surgical Strike, Inc42 (7 February 2023),
+   https://inc42.com/buzz/india-bans-138-chinese-betting-apps-in-yet-another-d
+   igital-surgical-strike-heres-the-full-list/ (last accessed 10 October 2023). Back to
+   section
+
+
+42 (2012) 50 PTC 486.       Back to section
+
+
+43 Digital Collectibles (P) Ltd v. Galactus Funware Technology (P) Ltd, 2023 SCC OnLine
+   Del 2306.     Back to section
+
+
+
+
+ Media and Entertainment Law | India                                     Explore on Lexology
+                                                                    RETURN TO SUMMARY
+
+
+
+
+44 CCI, Notice under Section 6(2) of the Competition Act, 2002 (Act) given by Culver
+   Max Entertainment Private Limited, Zee Entertainment Enterprises Limited, Bangla
+   Entertainment Private Limited, and Essel Group Participants (4 October 2022),
+   https://www.cci.gov.in/images/caseorders/en/order1666779994.pdf (last accessed 9
+   October 2023).     Back to section
+
+
+45 Dia Rekhi, CCI reviewing probe report on Apple app store billing policy (21 June 2023),
+   https://economictimes.indiatimes.com/tech/technology/cci-reviewing-probe-re
+   port-on-apple-app-store-billing-policy/articleshow/101142937.cms?from=mdr (last
+   accessed 9 October 2023).      Back to section
+
+
+46 TRAI, Consultation Paper on Regulatory Mechanism for Over-The-Top (OTT)
+   Communication Services, and Selective Banning of OTT Services (7 July
+   2023), https://www.trai.gov.in/sites/default/files/CP_07072023_0.pdf (last accessed 9
+   October 2023).    Back to section
+
+
+47 Chetan Thathoo, From Jio To Airtel, Telcos Seek Revenue
+   Sharing With OTTs To Foot Network Costs (7 September 2023),
+   https://inc42.com/buzz/from-jio-to-airtel-telcos-pitch-for-revenue-sharing-
+   agreements-with-otts-to-foot-network-costs/ (last accessed 9 October 2023).      Back to
+   section
+
+
+48 Music Broadcast Limited v. Tips Industries Ltd (2020) IPAB (Delhi), Paragraph 55.
+   Back to section
+
+
+49 Indian Performing Right Society v. Entertainment Network (India) Ltd and Phonographic
+   Performance Ltd v. CRI Events Private Limited (2021) SCC OnLine Del 158.      Back to
+   section
+
+
+50 Indian Performing Right Society Limited v. Rajasthan Patrika Pvt Ltd, 2023 SCC OnLine
+   Bom 944.     Back to section
+
+
+51 Section 2(dd) of the Copyright Act.     Back to section
+
+
+
+
+Tanu Banerjee                                                tanu.banerjee@khaitanco.com
+Ishan Johri                                                     ishan.johri@khaitanco.com
+
+                                       Khaitan & Co
+
+                     Read more from this rm on Lexology
+
+
+
+
+ Media and Entertainment Law | India                                Explore on Lexology
+

@@ -1,0 +1,2931 @@
+     MEDIA LAWS OF INDIA
+
+
+
+
+                                          CA Rajkumar S. Adukia
+B. Com. (Hons.), FCA, ACS, AICWA, LL.B, Dip.IFR (UK), MBA, DIPR, DLL&LP
+
+                           Mobile +91 98200 61049/+91 93230 61049
+
+                                                 Fax +91 22 26765579
+
+                                        Email rajkumarfca@gmail.com
+
+                                                          www.caaa.in
+
+
+
+
+                                                                     1
+Index
+
+  1. Introduction
+
+  2. Media Industry
+
+  3. History of Media Laws in India
+
+  4. Media laws of India – an overview
+
+  5. Laws applicable for Information
+
+  6. Laws applicable for Broadcasting
+
+  7. Laws applicable for Films
+
+  8. Other laws applicable to media
+
+        8.1. FDI in media sector
+
+        8.2. Labour related legislations
+
+        8.3. IPR
+
+        8.4. Telegraph Act & Wireless Telegraphy Act
+
+  9. Authorities regulating the media industry
+
+  10.         Case laws
+
+  11.         Professional opportunities in the media industry
+
+  12.         Useful websites
+
+  13.         About the Author
+
+
+
+
+                                                                 2
+                                        1. INTRODUCTION
+
+“One of the objects of a newspaper is to understand the popular feeling and give
+expression to it, another is to arouse among the people certain desirable sentiments,
+and the third is the fearlessness to expose popular defects.” – Mahatma Gandhi
+
+Communication is the procedure, which we use to exchange information by various
+methods and media is the medium or instrument of storing or communicating
+information. ‘Media’ the popular term inter-alia used as ‘Press’ denotes the print &
+electronic information carriers –the News Papers & Magazines, Radio, Television and
+currently includes Internet as new Media. Hailed as the ‘Fourth Estate’, media is the
+watchdog of the public affairs, informing the society and vice versa, acts as the forum
+to advocate the views of the society at large to those at the helm of public affairs.
+
+The word medium comes from the Latin word medius (middle). The word
+communication is derived from the Latin root communicate.
+
+Media law covers an area of law which involves media of all types (TV, film, music,
+publishing,   advertising,   internet    &   new   media,   etc.),   and   stretches   over
+various legal fields, including but not limited to corporate, finance, intellectual
+property, publicity and privacy.
+
+Media law is a legal field that refers to the following:
+
+   •   Advertising
+
+   •   Broadcasting
+
+   •   Censorship
+
+   •   Confidentiality
+
+   •   Contempt
+
+   •   Copyright
+
+
+                                                                                          3
+•   Corporate law
+
+•   Defamation
+
+•   Entertainment
+
+•   Freedom of information
+
+•   Internet
+
+•   Information technology
+
+•   Privacy
+
+•   Telecommunications
+
+
+
+
+                             4
+                                   2. MEDIA INDUSTRY
+
+According to a recent news, Indian Media & Entertainment Industry is to touch
+Rs.1,457 billion by 2016.
+
+In 2011, the Indian Media & Entertainment (M&E) Industry registered a growth of 12
+percent over 2010, to reach INR 728 billon. The growth trajectory is backed by strong
+consumption in Tier 2 and 3 cities, continued growth of regional media, and fast
+increasing new media business. Overall, the industry is expected to register a CAGR of
+15% to touch INR 1,457 billion by 2016.
+
+While television continues to be the dominant medium, sectors such as animation &
+VFX, digital advertising, and gaming are fast increasing their share in the overall pie.
+Radio is expected to display a healthy growth rate after the advent of Phase 3. Print,
+while witnessing a decline in growth rate, will continue to be the second largest
+medium in the Indian M&E industry. Also, the film industry had a reason to cheer,
+with multiple movies crossing the INR 100 crore mark in domestic theatrical
+collections, and INR 30 crore mark in C&S rights.
+
+Advertising spends across all media accounted for INR 300 billion in 2011, contributing
+to 41 percent of the overall M&E industry’s revenues. Advertising revenues witnessed
+a growth of 13 percent in 2011, as against 17 percent observed in 2010.
+
+In terms of performance, 2011 proved to be a year with mixed results in terms of
+growth across different sub sectors. The traditional media businesses experienced a
+slow down compared to last year, especially in the second half of the year. However,
+the new media segments like Animation and VFX, Online and Gaming businesses
+witnessed phenomenal growth rates.
+
+The media industry in 2011 in a nutshell –
+
+   •   Print: The print industry grew by 8.3 percent from INR 193 billion in 2010 to
+       INR 209 billion in 2011. The growth was slightly lower than the expectation of
+
+
+                                                                                      5
+    9.5 percent last year due to the challenging macroeconomic environment and
+    reduced advertising spends.
+
+•   Television: The over-all television industry is estimated to be INR 329 billion
+    in 2011, and is expected to grow at a CAGR of 17 percent over 2011-16, to
+    reach INR 735 billion in 2016. The share of subscription to the total industry
+    revenue is expected to increase from 65 percent in 2011 to 69 percent in 2016.
+    The TV industry continues to have headroom for further growth as television
+    penetration in India is still at approximately 60% of total households.
+
+•   Films: With several high budget Hindi releases lined up across the year, 2012 is
+    expected to sustain the growth momentum witnessed in 2011. The Indian film
+    industry is projected to grow at a CAGR of 10.1 percent to touch INR 150 Billion
+    in 2016. The industry is estimated to be INR 93 billion in 2011 indicating a
+    growth of 11.5 percent vis-à-vis 2010.
+
+•   Music: While 2010 was the year of structural shift from physical formats to
+    digital ones, 2011 provided users’ viable options of music consumption through
+    different digital platforms. The Indian music industry achieved revenues of INR
+    9 billion in 2011, registering a growth of 5% over 2010.
+
+•   Radio: Overall the industry grew at 15 percent in CY 2011 to reach INR 11.5
+    billion compared to INR 10 billion in CY 2010.
+
+•   New Media: Digital advertising is expected to grow at a CAGR of 30% from
+    2011-16; digital ads spend reached approximately 4 percent of total M&E
+    industry advertising revenue in 2011. Growth is largely driven by increase in
+    internet penetration and proliferation of new age devices.
+
+•   Animation & VFX: Animation, VFX (visual effects) and Post Production industry
+    achieved estimated revenues of INR 31 billion in 2011, a robust growth of 31
+    percent over 2010. Growth was achieved on the back of increased contract
+    work, higher VFX content in movies, 2D/3D conversion projects.
+
+                                                                                   6
+                          3. HISTORY OF MEDIA LAWS IN INDIA
+
+When Europeans write on the history of the media, they refer to the Acta diurna of
+the Roman Empire as closely akin to the newspaper of today. In India the Rock Edicts
+of Emperor Ashok (c.273-236 BC) engraved on the rocks contain in abundance
+measures adopted and regulations issued by him. This is not very different from the
+news content of modern media. In that era when Ashok, the Great, used this
+technology for communicating his message throughout his vast empire, there is no
+reference to restrictions on communication imposed by law. However, the
+Arthashastra written originally in the reign of Chandragupta Maurya (c. 324-300 BC) by
+Kautilya mentions punishment for spreading false rumours. The Arthashastra and the
+Rock Edicts also speak of spies and reporters.
+
+Akhbar is the word used for newspapers today in Hindi and Urdu languages and Babur
+mentions it in such a way as if it is something routine. It was meant to communicate
+an official announcement by Babur that a tax would be waived on all Muslims if he
+won the battle and he himself had given up drinking and banned liquor in his
+dominions. However, there is no reference to any regulation on akhbar. The earliest
+mention of pre-typographic newspapers is to be found in a contemporary historical
+work (Muntakhals-ul-Lubab by Khafi Khan) of the later Mughul times. Colonel James
+Tod (1782-1835) sent hundreds of original manuscript newspapers of the court of
+Aurangzeb, sixth of the Great Mughuls to the Royal Asiatic Society in London. The size
+of these seventeenth-century papers, written in different hands, was 8 inches by 4½
+inches. These were considerably free and could report even personal affairs of the
+emperor. There is no record of any law governing these newspapers. Perhaps, there
+was neither pre-censorship nor licensing, both being Western institutions.
+
+It was sheer accident, however, that brought printing press to India on 6th September
+1556. Granting a request from Emperor of Abyssinia, the King of Portugal dispatched
+in 1556 a printing press and technicians via the Cape route. But the patriarch
+accompanying the press halted en route at Goa from where his onward journey to
+Abyssinia was first delayed and later abandoned. He died on 22nd December 1562. The
+                                                                                    7
+press, intended for missionary work in Abyssinia never left Goa, instead, it printed
+literature for Abyssinia from Goa.
+
+However, there was no press regulation until the British East India Company started
+ruling a part of India after the Battle of Plassey in 1757. William Bolts, an ex-
+employee of the British East India Company attempted to start the first newspaper in
+India in 1766 but was deported. Later a collection of papers on the affairs of India
+“particularly respecting the state of Bengal and its dependencies” was published in
+1773 by J. Almon, London as “Considerations on Indian Affairs” in two volumes with
+maps and survey reports. In this publication he has been identified as former Judge of
+the Mayor’s Court of Calcutta.
+
+When newspapers in India were published by only Europeans expulsion of the editor
+(printer) was ultimate penalty. The Supreme Court of Judicature upheld this power.
+Every foreigner was required to obtain a licence for his residence in the territories of
+the Company and if any one incurred the displeasure of the officials by writing or
+publishing something which was not palatable to them, the licence was cancelled. It
+appears that growing importance of the Fourth Estate in England and the desire of
+missionaries to start newspapers in India ultimately led to abolition of pre-censorship
+in 1818 by Lord Hastings as missionaries of Serampore started the first Indian language
+journal Samachar Darpan on 23rd May 1818. It became bilingual carrying news in
+Bengali and English in parallel columns in 1829.
+
+Like censorship, licensing was also a European institution to control the press. It was
+introduced in Bengal in 1823 through Adam’s regulations. The East India Company also
+issued instruction that no servant of the company should have any connection with a
+newspaper. This decision was the result of an incident in Bombay (now Mumbai)
+where a member of the Council of the Governor owned a newspaper. Licensing
+regulations were replaced by Metcalfe’ Act which was applicable to entire territory of
+the East India Company and required that the printer and publisher of every
+newspaper declare the location of the premises of its publication.
+
+
+                                                                                      8
+Licensing was, however, reintroduced in 1857 by Lord Canning and was applied to all
+kinds of publications. This was the year when Indians fought their war of
+independence against the East India Company after which the British Crown took over
+the territories of the Company. In 1860 Indian Penal Code was passed as a general law
+but laid down offences which any writer, editor or publisher must avoid - the offences
+of defamation and obscenity.
+
+The next important event in the field of media laws was the enactment of the Press
+and Registration of Books Act (25 of 1867). This Act is still in force, of course with
+amendments from time to time. The object of this Act was to provide for the
+regulation of the printing presses and of periodical containing news, for the
+preservation of copies of books and for the registration of books. It contains rules for
+the registration of books. It contains rules for the making of declaration by the
+keepers of presses and publishers of newspapers (part II); rules regulations for the
+delivery of books (Part III); penalties (Part IV); registration of book (Part V). Part VI of
+this Act gave powers to the government to make rules and to exempt books or
+newspapers from the provisions of this Act. The Act 55 of 1955 added Part VA to
+provide for appointment of Registrar of Newspapers.
+
+The role of the press during the Wahabi Conspiracy of 1869-70 led to the amendment
+of the Indian Penal Code (27 of 1870) to incorporate a section on sedition (124-A).
+This dealt with a person who “excites or attempts to excite feeling of disaffection to
+the government established by law in British India.” It came handy to send many
+freedom fighters to jail for their writings in newspapers. Shortly afterwards, the
+restrictions imposed by the East India Company prior to 1841 returned to the
+government officers, though in a milder tone. In 1875, the government passed orders
+that no officer in the service of the government should be permitted without previous
+sanction to become the proprietor of any periodical or to edit or manage a periodical.
+Officers were advised to remain within the limits of ‘temperate and reasonable’
+discussion. No document or information should be revealed to the press, which they
+might come to posses in their official capacity. In cases where doubts, may arise as to
+
+                                                                                          9
+whether any engagements of officers with the press were consistent with the
+discharge of their duties to the government, the decision to that effect would lie with
+the government.
+
+For the purpose of ascertaining the character of any intended public dramatic
+performance the Dramatic Performances Act (19 of 1876) was passed as it was
+suspected that such performances may provoke people against the Government.
+
+When the Indian language press became very bold the Vernacular Press Act 1878 was
+introduced. It was comprehensive and rigorous, aimed at “better control” of the
+language press. It empowered any magistrate of a district or a commissioner of police
+in a presidency town to call upon the printer and publisher of a newspaper to enter
+into a bond undertaking not to publish certain kind of material, to demand security,
+and to forfeit, if it was thought fit, such presses and confiscate any printed matter as
+it deemed objectionable. No printer or publisher against whom such action had been
+taken could have recourse to a court of law. It was particularly meant to crush Amrit
+Bazar Patrika, which was bilingual before this Act. But the smart owner foiled this
+attempt by turning it into an English language paper overnight. The main role in
+persuading Lord Lytton for the Vernacular Press Act was played by Sir Ashley Eden
+(1831-1887), the then Lieutenant Governor of Bengal. He was in a fit to crush the
+Amrita Bazar Patrika. Sir Ashley called the editor of the Amrita Bazar Patrika, Babu
+Shishir Kumar, and offered: “Let us three, I, you and Kristo Das, govern the province.
+Kriso Das has agreed to conduct his paper according to my direction... You will have
+to do the same thing. I shall contribute to your paper as I do to the Hindoo Patriot.
+And when you write an article criticizing the government you will have to submit the
+manuscript to me before publication. In return the government will subscribe to a
+considerable number of your paper and I shall consult you as I consult Kristo Das in
+carrying on the administration of province.” Babu Shishir Kumar thanked him and
+quietly remarked, “Your Honor, there ought to be at least one honest journalist in the
+land”. Sir Ashley himself remarked, “If there had been only one week’s delay on the
+part of the proprietors to convert the Patrika into English we would have dealt a
+
+                                                                                     10
+deadly blow at it by demanding a heavy bail-bond from them.” When Gladstone who
+had criticized the Vernacular Press Act, became the prime minister and Lord Ripon
+the governor-general, and even before the retirement of Sir Ashley Eden the repeal of
+Vernacular Press Act had become a foregone conclusion. The repealing bill was passed
+without discussion, on December 7, 1881.
+
+In India telegraph was introduced in 1851 and was very useful to East India Company
+during 1857. However, the Indian Telegraph Act was passed in 1885. The Government
+had exclusive privilege under this Act in respect of telegraph and power to grant
+licenses. The definition of telegraph in this Act is very wide as it later covered all
+other means of communication depending on electromagnetic waves, thus including
+teleprinter, telephone, fax, radio and television. It provides for interception of
+messages and takeover of licensed establishments by the Government in any public
+emergency or in the interest of public safety.
+
+Section 19 of the Sea Customs Act 1878 gave power to the central government of
+prohibit or restrict the importation or exportation of goods into or out of India.
+Section 5 of the Telegraph Act 1885 gave power to the central government or
+provincial governments of an official specially authorized by the government to take
+possession of licensed telegraphs and to order interception of telegraphic messages
+which include as per section 3(1) of the Act telephone messages also. Section 25 of
+the Indian Post Office Act 1898 confers power on an officer of the post office to
+intercept during transmission by post goods which have been notified under section 19
+of the Sea Customs Act or the import or export of which is otherwise prohibited.
+Section 26 of the Post Office Act provides power of interception of postal articles on
+the same lines as section 5 of the Telegraph Act. Thus by the turn of the century the
+government had wide ranging powers to intercept anything anywhere along all the
+possible channels.
+
+With Swadeshi Movement and partition of Bengal the opposition of the Government
+reached its zenith, both in the press and the public. In June 1908 the government
+passed the Newspaper (Incitement to Offences) Act, which gave power to local
+                                                                                   11
+authorities to take judicial action against the editor of any newspaper, which indulges
+in writings calculated to incite rebellion. Nine prosecutions were instituted under this
+Act and as a result seven presses were confiscated. Then came the Press Act of 1910,
+which empowered the government to demand security from any newspaper, a
+provision similar to what existed in the Vernacular Press Act.
+
+British Parliament passed the Copyright Act in 1911. Similar provisions came to India
+by Indian Copyright Act, 1914 (3 of 1914). It was replaced by a comprehensive
+legislation only in 1957 by the new Copyright Act (14 of 1957).
+
+In 1918 Government passed the Cinematograph Act (2 of 1918), which was replaced by
+the Cinematograph Act, 1952 (37 of 1952).
+
+In 1921, the government appointed a committee, with Sir Tej B Bahadur Sapru (1875-
+1949) as chairman, to look into the then existing press laws. The committee
+unanimously recommended the repeal of the Newspaper (Incitement of Offences) Act
+1908 and the India Press Act 1910. In regard to the Press and Registration of Books
+Act, the committee recommended that the name of the editor should be inscribed on
+every issue of the newspaper and the editor should be subjected to the same
+liabilities as the printer and publisher as regards criminal and civic responsibility, that
+a person registering under this Act should be a major, that the term of imprisonment
+in part IV of the Act should be reduced from two years to six months, and that
+provision should be made for delivery to government of copies of newspapers printed
+in British India. The committee advocated the retention of powers to seize and
+confiscated seditious leaflets and literature. It recommended that the ancillary
+powers of preventing importation and postal transmission of such literature should be
+retained. The requisite amendments were carried out by the Press Law (Repeal and
+Amendment) Act of 1922 (14 of 1922).
+
+In 1922, on the request of the Chamber of Princes, the Princes Protection Bill was
+introduced in the Legislative Assembly. The Assembly rejected the bill. But the
+Governor-General, invoking treaty obligations and exercising his special powers under
+
+                                                                                        12
+section 67B of the Government of India Act 1919, certified the Bill which became the
+Indian States (Proection against Disaffection) Act 1922. This Act provided punishment
+of imprisonment up to 5 years for any person editing, printing or publishing any
+document which brings into hatred or contempt or excites disaffection towards any
+prince or chief of a state in India, or the government or administration established in
+any such state. For material of this nature, the powers of forfeiture under sections
+99-A to 99-C of the Criminal Procedure Code and of postal interception under sections
+27-B to 27-D of the Indian Post Offices Act were made applicable.
+
+In 1923 the Official Secrets Act was passed in order to update and consolidate the
+existing provisions of Indian Official Secrets Act of 1889, along the lines of the British
+Acts of 1911 and 1920. The earlier Act was repealed. Section 5 of this Act, which
+affects the Press deals with “official secrets” and relates to “wrongful communication
+of information.”
+
+To meet the situation posed by the civil disobedience movement of 1930, the
+government promulgated the Indian Press Ordinance to provide for “better control of
+the press”. This revived the stringent provisions of the repealed Press Act of 1910.
+Some 130 newspapers had to deposit securities, nine refused to do so and suspended
+publications. In 1931, the Indian Press (Emergency Powers) Act was passed.
+
+In 1932 the Foreign Relations Act was passed with the object of providing against the
+publication of statements likely to prejudice the maintenance of friendly relations
+between the British government and the governments of certain foreign states. The
+powers of forfeiture under sections 99A-99G of the Criminal Procedure Code and the
+postal interception under sections 27B-27D of the Indian Post Offices Act were
+extended by section 3 of this Act to documents containing matter defamatory of such
+ruler or his consort of son or principal minister of a state outside but adjoining India.
+
+Indian States (Protection) Act was passed in 1934 to protect the administrations of
+states in India, which were under the suzerainty of the British crown from activities,
+which tended to subvert or excite disaffection towards or to obstruct such
+
+                                                                                        13
+administration. Section 3 of this Act extended to Press Emergency Act Powers 1931 to
+protect these states.
+
+Before Independence, the Interim Government appointed the Press Laws Enquiry
+Committee in March 1947 to examine the press laws. The Committee gave its report
+on 22 May 1948 after Independence and partition of India. After the report of this
+committee the Act of 1931 was replaced by Press (Objectionable Matter) Act 1951.
+However, the mood was so much for freedom of press that it was allowed to lapse in
+February 1956 and was repealed in 1957. The Indian Constitution gives every citizen
+fundamental right to freedom of speech and expression and the courts have
+interpreted that it includes freedom of the press.
+
+Major setback to the freedom of press in India was when Emergency was imposed in
+June 1975 and censorship was introduced. However, after the defeat of the then
+ruling party in 1977 General Elections it has not been possible for anybody to follow
+the example. Press Council advised the Government not to put curbs on the press
+even in disturbed areas like Jammu and Kashmir. This policy appears to be better
+than the curbs on the press by Government.
+
+Liberal ethos reinforced after 1977 has affected broadcasting as well. While demand
+for autonomous corporation to control All India Radio and Doordarshan was accepted
+and finally Prasar Bharti, an autonomous corporation came into existence from 15
+September 1997 after the notification of the Prasar Bharti Act. It has not been
+possible to come up with a regulator for broadcasting content despite several bills
+that came to Parliament over the years and private satellite and cable channels are
+having a field day enjoying more freedom than in any other part of the world.
+
+Though the Government has not allowed news on private radio outfits yet, freedom of
+print and television channels make India one of the most liberal countries in the world
+as far as the freedom of media goes. Right to Information Act 2005 has been
+implemented and this has further extended freedom of media in India.
+
+
+
+                                                                                    14
+                        4. MEDIA LAWS OF INDIA – AN OVERVIEW
+
+There are many laws that regulate the performance of media in India. Laws related to
+the mass media have been there since the very beginning. In the time of the British
+Raj, many laws related to the Press were enacted. In the post-Independence time,
+the various Governments have enacted many more media related laws.
+
+Media being a very powerful influence on the society is regulated and controlled by
+various legislations enacted from time to time.
+
+Constitutional Provisions
+
+The Indian Constitution does not provide freedom for media separately. But there is
+an indirect provision for media freedom. It gets derived from Article 19(1) (a). This
+Article guarantees freedom of speech and expression. The freedom of mass media is
+derived indirectly from this Article. Article 19 of our Constitution deals with the right
+to freedom and it enumerates certain rights regarding individual freedom of speech
+and expression etc. These provisions are important and vital, which lie at the very
+root of liberty.
+
+Article 19 of the Indian constitution lays down -
+
+"All citizens shall have the right to freedom of speech and expression, to assemble
+peaceably, and without arms, to form associations or unions, to move freely
+throughout the territory of India, to reside in any part of the territory of India, to
+acquire hold and dispose of property and to practice any profession or to carry on any
+occupation, trade or business.
+
+However the right to freedom of speech and expression shall not affect the operation
+of any existing law or prevent the state from making any law insofar as such law
+imposes reasonable restrictions on the exercise of that right in the interests of the
+sovereignty and integrity of India, the security of the State, friendly relations with
+foreign states, public decency or morality or In relation to contempt of court,
+defamation or incitement to offence”.
+                                                                                      15
+List of Acts and Rules applicable to the media industry -
+
+   1. The Press and Registration of Books Act, 1867
+
+   2. Registration of Newspapers (Central) Rules, 1956
+
+   3. The Press and Registration Appellate Board (Practice and Procedure) Order,
+      1961
+
+   4. The Press Council Act, 1978
+
+   5. The Press Council Rules, 1979
+
+   6. The Press Council (Procedure for Nomination of Members) Rules, 1978
+
+   7. The Press Council (Procedure for Inquiry) (Amendment) Regulations, 2006
+
+   8. The Press Council (Procedure for Conduct of Meetings and Business)
+      Regulations, 1979
+
+   9. The Press Council of India (Grant of Certified Copies) Regulations, 1999
+
+   10. The Working Journalists and Other Newspaper Employees (Conditions of
+      Service) and Miscellaneous Provisions Act, 1955
+
+   11. The Working Journalists (Conditions of Service) and Miscellaneous Provisions
+      Rules, 1957
+
+   12. The Working Journalists and other Newspaper Employees Tribunal Rules, 1979
+
+   13. The Working Journalists (Fixation of Rates of Wages) Act, 1958
+
+   14. The Newspaper (Prices and Pages) Act, 1956
+
+   15. The Delivery of Books and Newspapers (Public Libraries) Act, 1954
+
+   16. The Right to Information Act, 2005
+
+   17. The Right to Information (Regulation of Fee and Cost) Rules, 2005
+                                                                                    16
+18. The Central Information Commission (Appeal Procedure) Rules, 2005
+19. The Central Information Commission (Management) Regulations, 2007
+20. The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954
+21. The Drugs and Magic Remedies (Objectionable Advertisements) Rules, 1955
+22. The Emblems and Names (Prevention of Improper Use) Act, 1950
+23. The Emblems and Names (Prevention of Improper Use) Rules, 1982
+24. State Emblem of India (Prohibition of Improper Use) Act, 2005
+25. State Emblem of India (Regulation of Use) Rules, 2007
+26. The Parliamentary Proceedings (Protection of Publication) Act, 1977
+
+27. The Young Persons (Harmful Publications) Act, 1956
+
+28. The Punjab Special Powers (Press) Act, 1956 (Relevant Provisions)
+
+29. Copyright Act, 1957
+
+30. The Dramatic Performances Act, 1876 (Relevant Provisions)
+31. The Cinematograph Act, 1952
+32. The Cinematograph (Certification) Rules, 1983
+33. The Cine-workers and Cinema Theatre Workers (Regulation of Employment)
+   Act, 1981
+34. The Cine-Workers and Cinema Theatre Workers (Regulation of Employment)
+   Rules, 1984
+35. The Cine-Workers Welfare Cess Act, 1981
+36. The Cine-workers Welfare Cess Rules, 1984
+37. The Cine-Workers Welfare Fund Act, 1981
+38. The Cine-Workers Welfare Fund Rules, 1984
+39. The Prasar Bharati (Broadcasting Corporation of India ) Act, 1990
+40. The Sports Broadcasting Signals (Mandatory Sharing with Prasar Bharati) Act,
+   2007
+41. The Sports Broadcast Signals (Mandatory Sharing with Prasar Bharati) Rules,
+   2007
+
+                                                                              17
+42. The Cable Television Networks (Regulation) Act, 1995
+43. The Cable Television Networks Rules, 1994
+44. The Radio, Television and Video Cassette Recorder Sets (Exemption from
+   Licensing Requirements) Rules, 1997
+45. The Standards of Quality of Service (Broadcasting and Cable services) (Cable
+   Television – CAS Areas) Regulation, 2006
+46. The Indian Telegraph Act, 1885 (Relevant Provisions)
+47. The Telecom Regulatory Authority of India Act, 1997
+48. The Telecom Regulatory Authority of India (Miscellaneous) Rules, 1999
+49. The Telecom Regulatory Authority of India (Period for Filing of Application to
+   Authority) Rules, 1999
+50. The Telecommunication Interconnection (Port Charges) Regulation, 2001
+51. The TRAI (Levy of Fees and Other Charges for Tariff Plans) Regulations, 2002
+52. The Telecom Disputes Settlement and Appellate Tribunal (Form, Verification
+   and the Fee for Filing an Appeal) Rules, 2003
+53. The Telecommunication Interconnection (Charges and Revenue Sharing)
+   Regulation, 2001
+54. The Telecommunication Interconnection Usage Charges Regulation, 2003
+55. The Telecom Regulatory Authority of India (Salaries, Allowances and Other
+   Conditions of Service of Chairperson and Whole-time Members) Rules, 2000
+56. The Telecom Regulatory Authority of India (Procedure for Conducting Inquiry
+   Against a Member) Rules, 1999
+57. The Telecom Regulatory Authority of India (Annual Report and Returns) Rules,
+   1999
+58. The Telecom Regulatory Authority of India (Form of Annual Statement of
+   Accounts and Records) Rules, 1999
+59. The Telecommunication (Broadcasting and Cable Services) Interconnection
+   Regulations, 2004
+60. The Telecom Regulatory Authority of India (Access to Information) Regulations,
+   2005
+
+                                                                                   18
+61. The Common Charter of Telecom Services, 2005
+62. The Regulation on Quality of Service of Basic and Cellular Mobile Telephone
+   Services, 2005
+63. Quality of Service (Code of Practice for Metering and Billing Accuracy)
+   Regulation, 2006
+64. The Standards of Quality of Service (Broadcasting and Cable Services) (Cable
+   Television – CAS Areas) Regulation, 2006
+65. The Quality of Service of Broadband Service Regulations, 2006
+66. The Telecom Consumers Protection and Redressal of Grievances Regulations,
+   2007
+67. The Telecom Unsolicited Commercial Communications Regulations, 2007
+68. The International Telecommunication Access to Essential Facilities at Cable
+   Landing Stations Regulations, 2007
+69. The Telecommunication Consumers Education and Protection Fund Regulations,
+   2007
+70. The Direct to Home Broadcasting Services (Standards of Quality of Service and
+   Redressal of Grievances) Regulations, 2007
+71. Domestic Leased Circuits Regulations, 2007
+72. The Register of Interconnect Agreements Regulations, 1999
+73. The Indian Post Office Act, 1898 (Relevant Provisions)
+74. The Information Technology Act, 2000 (Relevant Provisions)
+75. The Information Technology (Certifying Authorities) Rules, 2000
+
+
+
+
+                                                                              19
+                           5. LAWS APPLICABLE FOR INFORMATION
+
+The list of legislations applicable for Information –
+
+   i.     Press & Registration of Books Act 1867
+
+  ii.     Delivery of Books 'and Newspapers' (Public Libraries) Act, 1954
+
+ iii.     Delivery of Books (Public Libraries) Rules, 1955
+
+ iv.      Registration of Newspapers (Central) Rules 1956
+
+  v.      The Newspaper (Prices and Pages) Act, 1956
+
+ vi.      The Young Persons (Harmful Publications) Act, 1956
+
+vii.      The Press and Registration Appellate Board (Practice and Procedure) Order,
+          1961
+
+viii.     The Parliamentary Proceedings (Protection of Publication) Act, 1977
+
+ ix.      Press Council Act, 1978
+
+  x.      The Press Council (Procedure for Nomination of Members) Rules, 1978
+
+ xi.      The Press Council Rules, 1979
+
+xii.      The Press Council (Procedure for Conduct of Meetings and Business)
+          Regulations, 1979
+xiii.     The Press Council of India (Grant of Certified Copies) Regulations, 1999
+xiv.      Press Council (Procedure for Inquiry) (Amendment) Regulations, 2006
+
+The following guidelines and policies are applicable for Information –
+
+       1) Central Newsmedia Acredition Guidelines, 1999
+
+       2) Guidelines for publication of Indian editions of foreign magazines dealing with
+          news and current affairs
+
+                                                                                      20
+   3) Guidelines for syndication arrangements by newspapers
+
+   4) Advertisement Policy
+
+   5) Electronic Media Advertisement Policy
+
+   6) Guidelines for Empanelment of Audio-Video Producers with DAVP
+
+   7) Policy guidelines for empanelment of private C&S TV Channels for government
+      advertisements by DAVP and Other duly authorised agencies of the ministry of
+      I&B
+
+   8) Citizens Charter of Registrar of Newspapers for India
+
+   9) Guidelines for foreign investment in Indian entities publishing Scientific
+      /Technical /Specialty Magazines/Journals/Periodicals
+
+   10) Guidelines for foreign investment in print media news sector/facsimile
+      editions.
+
+   11) The Press Council of India's Norms of Journalistic Conduct
+
+
+
+
+Press & Registration of Books Act, 1867 & The Registration of Newspapers
+(Central) Rules 1956
+
+The earliest surviving enactment specifically directed towards the press was passed in
+1867, the Press and Registration of Books Act (PRB Act) (XXV of 1867). The objective
+was however not to establish governmental control over the freedom of the Press. It
+was a regulatory law which enabled Government to regulate printing presses and
+newspapers by a system of registration and to preserve copies of books and other
+matter printed in India. A number of minor amendments were made in the Act from
+time to time to make the Sections/Clauses compatible with the changing situation,
+more particularly after Independence. But major amendments were carried out in
+
+                                                                                   21
+1955 following the recommendations of the First Press Commission in 1953,
+consequent upon which the Office of the Registrar of Newspapers of India (RNI) was
+created and started functioning in 1956.
+
+Printing and publishing of newspapers and periodicals within India are governed by
+the Press and Registration of Books Act, 1867 and the Registration of Newspapers
+(Central) Rules, 1956.
+
+Section 3 of the Act requires every book or paper printed within India to have the
+name of the printer and the place of printing, the name of the publisher and the
+place of publishing printed legibly on it.
+
+Section 4 of the Act stipulates that the keeper of the printing press (someone who
+possesses a press that prints newspapers/books) has to make and subscribe a
+declaration before the District, Presidency or sub-divisional Magistrate within whose
+local jurisdiction the press is situated. A new declaration is to be made when the
+place where a press is kept is changed. The Declaration is to be made in Form I as
+given in the Schedule to the Registration of Newspapers (Central) Rules, 1956.
+
+Before making the declaration, Title Verification Letter should be obtained from the
+Press Registrar.
+
+No new declaration is necessary when:-
+
+1) The change is for a period not exceeding 60 days
+
+2) The place where the press is kept after change is within the local jurisdiction of
+the Magistrate.
+
+Section 5 lays down the following rules for newspapers published in India:-
+
+   1) Every copy must have the names of the publisher and the editor along with the
+      date of publication printed clearly on it.
+
+
+
+
+                                                                                  22
+2) The printer and the publisher of the newspaper must appear in person or by an
+   authorised agent before a District, Presidency or Sub-divisional Magistrate
+   within whose local jurisdiction the newspaper is published to make a
+   declaration.
+
+3) The declaration must specify the title, the language and the periodicity of the
+   newspaper.
+
+4) If the printer or the publisher is not the owner of the publication then the
+   declaration must specify the name of the owner and an authority in writing
+   from the owner authorising the printer/publisher to make the declaration.
+
+5) A new declaration must be made if the title, periodicity or language of the
+   newspaper changes.
+
+6) A new declaration is also to be made when the owner of the newspaper or the
+   place of printing/publishing is changed.
+
+7) When a printer/publisher concerned with the declaration leaves India or is
+   incapable of rendering his/her duties for more than 90 days, a new declaration
+   is to be made.
+
+8) A declaration is considered void when the newspaper does not commence
+   publication –
+
+      a. Within 6 weeks of the authentication of the declaration for a weekly (or
+         more often published newspaper)
+
+      b. Within 3 months of authentication for any other newspaper
+
+9) A declaration ceases to have effect when a daily, tri-weekly, bi-weekly weekly
+   or fortnightly publishes half the number of issues it is supposed to in a period
+   of 3 months; the same happens for any other newspaper if it has ceased
+   publication for more than 12 months
+
+
+                                                                                23
+Section 6 of the Act requires two originals of the declaration to be authenticated by
+the Magistrate. Any person who wishes to see the declaration can do so by obtaining a
+copy of the declaration (attested by the Seal of Court) from the officer in-charge. One
+of the said originals should be deposited among the records of the office of the
+Magistrate, and the other deposited among the records of the High Court of
+Judicature, or other principal Civil Court of original jurisdiction for the place where
+the said declaration should have been made.
+
+According to Section 7, in any legal proceeding, civil or criminal, the copy of the
+above mentioned declaration can be held as sufficient evidence against the person
+whose name is subscribed to it.
+
+Section 8 requires a new declaration by persons who have previously signed a
+declaration and have ceased to printers or publishers. It is also to be authenticated by
+a magistrate. The latter declaration will be held as evidence (as in Section 7) over a
+former declaration in legal proceedings.
+
+Under Section 8A of the Act, if a person’s name is published incorrectly as the editor
+he may make a declaration that says so within two weeks of him/her realizing that
+his/her name is published. The person must appear before the District, Presidency or
+sub-divisional Magistrate, and if the magistrate is satisfied that the declaration is true
+on making an enquiry he/she shall certify accordingly.
+
+Section 8B provides for the cancellation of the declaration if the Magistrate is of the
+opinion that any declaration made in respect of a newspaper should be cancelled; an
+opportunity must be given to the concerned person to show cause against the action
+taken.
+
+A cancellation is ordered under the following circumstances:
+
+1) The newspaper is published in contravention of the Act.
+
+2) The newspaper has the same/ similar title to another newspaper of the same
+language or in the same state.
+                                                                                       24
+3) The printer or publisher has ceased to be so.
+
+4) The declaration was made on false representation or on the concealment of any
+material.
+It is possible to appeal against the order of the Magistrate. The aggrieved person must
+appeal to the Press and Registration Appellate Board within sixty days of the
+cancellation of the declaration.
+
+Section 9 of the Act is about the delivery of books. Printed copies of the whole book
+along with the maps, prints and other engravings belonging to the book must be
+delivered by the printer for free of expense to the Government.
+
+a) Every book must be delivered to the State Government within one calendar month
+after the book is delivered out of the press.
+
+b) The State Government can require from the printer not more than two copies one
+calendar year.
+
+Under Section 11, the State Government should transmit the copy of the book
+mentioned in Section 9 Clause (b) to the Central Government. Section 11A requires
+the publisher of every newspaper in India to deliver one copy of every issue to the
+Press Registrar as soon as it published.
+
+Section 18 of the Act requires the maintenance of a catalogue of all books delivered
+to the Government called the Memoranda of Books. It is to be maintained by an
+officer the State Government appoints. The memoranda should contain the following
+particulars:-
+
+
+1) The title of the book, the contents of the title page (with the translation of the
+title and contents in English if it is any other language).
+
+2) The language in which it is written.
+
+3) Name of the author, translator and editor.
+
+                                                                                    25
+4) The subject.
+
+5) Place of printing and place of publishing.
+
+6) Name of the firm of the printer and publisher.
+
+7) Date of issue from the press.
+
+8) Number of sheets/leaves/pages.
+
+9) The size.
+
+10) The edition.
+
+11) The Price.
+
+12) The number of copies of an edition.
+
+13) Whether printed/cyclostyled or lithographed.
+
+14) The name and residence of the proprietor of the copyright or of any portion of
+such copyright.
+
+Section 19A provides for the appointment of the Registrar of Newspapers i.e. the
+Press Registrar and other officers by the Central Government.
+
+The Press Registrar should maintain a register of newspapers that will contain the
+following particulars of all newspapers:-
+
+1) The title
+
+2) The language
+
+3) The periodicity of publication
+
+4) Names of the editors, publisher and printer
+
+5) Average number of pages per week
+
+6) Number of days of publication in a year
+                                                                                26
+7) Retail selling price per copy
+
+8) Average number of copies printed, sold to the public and distributed for free
+
+9) Name and address of the owner
+
+Section 19D prescribes the duty of the publisher of every newspaper to furnish to the
+Press Registrar, an annual statement in Form II containing the above mentioned
+particulars in respect of the newspaper. Penalty for failure to furnish annual
+statement is fine upto five hundred rupees. Section 14 of the Act also provides that
+any publisher making false statement on conviction before a Magistrate, may be
+punished by fine up to Rs. 2000/- and imprisonment for a term, which may extend to
+six months.
+
+The Press Registrar should prepare an Annual Report containing a summary of the
+information obtained by him during the previous year in respect of the newspapers in
+India and give an account of the working of such newspapers and a copy of the report
+should be forwarded to the Central Government.
+
+
+Procedure for registration of newspaper
+After publication of the first issue of the newspaper as provided under Section 5(5) of
+the Press and Registration of Books Act, the Registrar of Newspapers (RNI) must be
+requested to issue a certificate of registration to the newspaper. The check
+list/guidelines for registration of newspapers/periodicals are as under:-
+
+     1. Documents required:
+
+              a. Photocopy of title verification letter issued by RNI.
+
+              b. Attested copy of Declaration authenticated by the DM/ADM/DCP
+                 /CMM/SDM as prescribed in form-I.
+
+              c. First issue indicating Volume - I and Issue-I.
+
+                                                                                    27
+            d. An affidavit from the publisher for "No Foreign Tie-up" in the
+                prescribed form
+
+     2. Separate declaration should be filed in case the printer and publisher are
+        different or the place of publication and place of printing come under the
+        jurisdiction of two different magistrates.
+
+     3. The first issue should indicate Volume-I and Issue-I, date line, page number
+        and the title in full prominently on the cover.
+
+     4. The publication should be brought out within six weeks (in case of
+        daily/weekly) and three months (in case of other periodicity) from the date
+        of authentication of Declaration.
+
+     5. The imprint line should contain the name of the Publisher, Printer, Owner,
+        Printing press with complete address, Place of publication with complete
+        address and the name of the editor.
+
+ If the documents are found to be complete in all respects and the publication is in
+ order, the Press Registrar will enter the particulars of the newspaper in the register
+ maintained by him and issue a Certificate of Registration to the publisher.
+
+ RNI does not accept incomplete applications for registration or issuing of revised
+ registration certificate.     All pending applications for registration or revised
+ registration will be processed only when all the complete and correct documents are
+ submitted.
+
+Check List for the required documents:-
+
+For the Certificate of Registration:
+
+a) Copy of title verification letter
+
+
+                                                                                    28
+b) Attested copy of the declaration duly filled in and authenticated by the District
+Magistrate /Addl. District Magistrate etc.
+
+c) Affidavit for 'No foreign tie up' duly filled in and notarized.
+
+d) First Issue of publication brought out within 42 days in case of dailies and weeklies
+and 90 days for fortnightly and above.
+
+e) Copy of the latest issue of the publication.
+
+For Revised certificate of registration:
+
+Following documents are required on the basis of which Revised Registration
+Certificate is issued:
+
+a) Original Certificate of Registration issued by the O/o Registrar of Newspapers for
+India and in case it is lost, he/she is required to submit the affidavit for loss of
+certificate duly filled in and notarized along with the IPO of Rs.5/-.
+
+b) Attested copy of the latest declaration, duly filled in and authenticated by DM/ADM
+concerned.
+
+c) Affidavit for No foreign tie up, duly filled in and notarized.
+
+d) Latest issue of the publication.
+
+ Fresh/Revised Certificates -
+
+ A fresh declaration is to be made in the case of any change in (a) title (b) language
+ (c) periodicity (d) ownership (e) place of publication (f) place of printing (g)
+ publisher and (h) printer. It will be necessary to apply to the Press Registrar for a
+ revised certificate of registration. A revised certificate will not be necessary if the
+ fresh declaration has been made under other circumstances.
+
+
+                                                                                     29
+ The documents required are given below:
+
+ (a)    An attested photocopy of the fresh declaration duly authenticated by the
+        magistrate concerned etc. indicating the change(s).
+
+ (b)    A copy of the latest issue of the publication with correct imprint line, title
+        and date line printed on each page of the publication.
+
+ (c)    Original Certificate of registration issued by the office of RNI.
+
+ (d)    If Original Certificate of Registration is lost, damaged, stolen etc., an
+        affidavit duty signed by a magistrate, with a five rupee Indian Postal Order in
+        favour of RNI has to be furnished.
+
+ (e)    In case of change of ownership, attested photocopy of the transfer deed in
+        respect of ownership, duly authenticated by the magistrate concerned, is also
+        to be submitted.
+
+ (f)     In case of change of title/language, a copy of the title verification letter is
+        to be submitted.
+
+ (g)     An affidavit for no foreign tie-up.
+
+Duplicate Certificates
+
+When the original certificate of registration is lost, damaged, or stolen, and if none of
+the circumstances requiring a fresh declaration as noted above exist, an application
+may be submitted to the Press Registrar for issue of a duplicate certificate of
+registration with full details given on a separate sheet of paper. Please note that if
+the certificate has been lost or stolen, adequate documentary proof of having
+reported the matter to the concerned police authorities, such as a copy of the FIR or
+a copy of the complaint bearing their stamp/seal, would be necessary. The
+documents required are as under:
+
+                                                                                      30
+         (a)     An affidavit to this effect duly authenticated by Notary or the
+         Magistrate concerned under his signature and office seal.
+
+         (b) Attested photocopy of the latest declaration authenticated by the
+               magistrate concerned.
+
+         (c)    A copy of the latest issue of the publication with correct imprint line.
+
+         (d) An Indian Postal Order of Rs.5/- in favour of RNI.
+
+         (e)     An affidavit for "No Foreign Tie Up"
+
+
+
+Duties of a Publisher
+
+   a) According to the Registration of Newspaper (central) Rules, 1956, within 48
+      hours of the publication of a newspaper, one copy of the issue is to be sent to
+      the Press Registrar, either by post or by a messenger. In the case of multi-
+      edition newspapers published under the same declaration, one copy of each
+      edition is required to be sent if the retail selling price or the number of pages
+      in an edition is different from another edition.
+   b) Every publisher should furnish to the Press Registrar an annual statement
+      regarding the newspaper. The statement is to be in the format given as in
+      Form II in the Schedule to the Registration of Newspapers (Central) Rules,
+      1956. The statement will be on financial year basis, and it should reach the
+      Press Registrar on or before the last day of May of the following year. Where
+      the circulation of newspaper exceeds 2000 copies per publishing day, a
+      certificate from a chartered accountant or a qualified auditor as given below
+      Part B of the prescribed format is to be furnished along with the annual
+      statement.
+   c) Every year, in the first issue after the last day of February, a statement
+      regarding the ownership and other details of the newspaper should be
+
+                                                                                       31
+      published, in the format given as Form IV in the Schedule to the Registration of
+      Newspapers (Central) Rules, 1956.
+   d) In the event a person ceases to be the printer or a publisher of the newspaper,
+      he/she should appear before any Magistrate (District, Presidency, or Sub-
+      Divisional) and make a declaration. The Magistrate will authenticate the
+      declaration and an attested copy of the same is to be forwarded to Press
+      Registrar by the printer/publisher.
+   e) The publisher/owner of a newspaper should submit half-yearly returns for the
+      period ending 30th September by 31st October of the same year and annual
+      returns for the period ending 31st March by 30th April, indicating the quantity
+      of imported newsprint purchased and consumed during the relevant
+      periods. The half-yearly return is to be certified by the publisher/owner and
+      the annual return is to be certified by a Chartered Accountant. Failure to
+      submit the returns in time or submission of false information will disqualify the
+      newspaper for authentication of Certificate of Registration for import of
+      newsprint.
+
+The Newspaper (Price and Page) Act, 1956
+
+The Newspaper (Prices and Pages) Act, 1956 has been enacted to provide for the
+regulation of the prices charged for newspapers in relation to their pages and of
+matters connected therewith for the purpose of preventing unfair competition among
+newspapers so that newspapers can have fuller opportunities of freedom of
+expression. The Act empowers the central government to make orders providing for
+the regulation of the prices charged for newspapers in relation to their maximum or
+minimum number of pages, sizes or areas and for the space to be allotted for
+advertising and other related matters for the purpose of preventing unfair
+competition among newspapers so that newspapers generally and in particular,
+newspapers with smaller resources and those published in Indian languages can have
+fuller opportunities of freedom of expression. The Act also provides that the Central
+Government should before making any order, consult associations of publishers and
+                                                                                    32
+such publishers likely to be affected by the order. The Act prohibits publication and
+sale of newspapers in contravention of any order made under the provisions of this
+Act.
+
+The Press Council Act, 1978
+
+The Press Council Act, 1978 was enacted to establish a Press council for the purpose
+of preserving the freedom of the Press and for maintaining the standards of
+newspaper and news agencies in India. The Act established the Press Council of India
+which is a body corporate having perpetual succession, with effect from 1st March
+1979. The Press Council of India is empowered to make observations in respect of
+conduct of any authority including Government, if considered necessary for
+performance of its functions under the Act. The Council can warn, admonish or
+censure the newspaper, the news agency, the editor or the journalist or disapprove
+the conduct of the editor or the journalist if it finds that a newspaper or a news
+agency has not complied with the standards of journalistic ethics or public taste or
+that an editor or a working journalist has committed any professional misconduct.
+
+Complaints against the Press
+
+It is open to any person to lodge a complaint with the Press Council against a
+newspaper for a breach of the recognized ethical canons of journalistic propriety and
+taste. The complainant need not necessarily be the person aggrieved or directly
+involved. The alleged breach may be in the publication or non-publication of a news-
+item or statement, or other material, like cartoons, pictures, photographs, strips or
+advertisement which are published in a newspaper. Cases can also be initiated by any
+member of the public against any professional misconduct by an editor, working
+journalist, staff of a newspaper or engaged in freelance work. There can also be a
+complaint against any matter transmitted by a news agency by any means
+whatsoever. By virtue of the Press Council (Procedure for Inquiry) Regulations, 1979,
+complaint shall be lodged with the Council within the following periods:
+
+             (i)    Dailies, News agencies and Weeklies - within 2 months
+                                                                                    33
+             (ii)    In all other cases - within 4 months
+             Provided that a relevant publication of an earlier date may be
+             referred to in the complaint
+Write to the editor first
+It is a requirement of the Inquiry Regulations that the complainant should
+initially write to the editor of the newspaper drawing his attention to what the
+complainant considers being a breach of journalistic ethics or an offence against
+public taste. Such prior reference to the editor affords him an opportunity to
+deal with the matter in the first instance and thus allows the respondent to take
+such remedial action as he might consider appropriate before the complaint is
+lodged with the Council. This rule is necessary because it acquaints the editor
+with the identity of his accuser and the details of the complaint.          It is
+conceivable that in some instance the complainant has been wrongly informed or
+has misinterpreted the facts. In others, it may be a case of inadvertent error
+which the editor is only too ready to admit and correct. If the would-be-
+complainant is satisfied, that would be the end of the matter.
+Where, after reference to the newspaper, the person desires to proceed with the
+complaint, he should enclose with his complaint copies of correspondence with
+the editor, if no reply has been received from the editor, the fact should be
+mentioned in the complaint.
+The complainant has, in his complaint, to give the name and address of the
+newspaper, editor or journalist against whom the complaint is directed. A
+clipping of the matter or news-items complained of, in original or self attested
+copy (English translation, if the news item(s) is in vernacular) should accompany
+the complaint. The complainant has to state in what manner the passage or
+news-items or the material complained of is objectionable. He should also supply
+other relevant particulars, if any.
+In case of a complaint against non-publication of material the complainant will,
+of course, say how that constitutes a breach of journalistic ethics.
+
+
+                                                                                    34
+The Council cannot deal with any matter which is sub-judice in the court of law.
+The complainant has to declare that “to the best of his knowledge and belief he
+has placed all the relevant facts before the Council and that no proceedings are
+pending in any court of law in respect of any matter alleged in the complaint.” A
+declaration that “ he shall notify the Council forthwith if during the pendency of
+the inquiry before the Council any matter alleged in the complaint becomes the
+subject matter of any proceedings in a court of law" is also necessary.
+
+
+Complaints regarding oppression to Press freedom
+A newspaper, a journalist or any institution or individual can complain against
+Central or State Government or any organization or person for interference with
+free functioning of the press or encroachment on the freedom of the press. Such
+complaints should contain full particulars of the alleged infringement whereupon
+the Council shall follow the procedure of inquiry set out herein above so far as
+may be.
+The opinion expressed by the Council serves two useful purposes, namely (i) that
+any abuse of press freedom does not pass without anybody noticing it or raising a
+finger of protest, and (ii) that the press should not in its own interest indulge in
+scurrilous or other objectionable writings-writings such as have been considered
+below the level of recognized standards of journalistic ethics by a fair minded
+jury like the Council constituted of the press itself, for it would lead to the very
+loss of the much prized freedom of the press.
+
+
+Address of the respondent
+It is a requirement of the Inquiry Regulations that the complainant should draw
+the attention of the respondent(s)/authorities towards the grievances, state how
+the action/inaction of the respondent authorities amounts to curtailment of the
+freedom of the press, mention the possible reason for the action/inaction of the
+respondent(s)/authorities duly supported by documentary evidence and furnish a
+copy of the letter written to the respondent(s)/authorities.
+
+                                                                                       35
+In case the action of the respondent(s)/authorities is a reprisal measure for
+writings in the newspaper, critical of the respondent(s), the cuttings of such
+reports be furnished in original or as self attested copies (English translation, if
+the news item(s) is in vernacular.
+Furnish a copy of the reply, if any received from the respondent(s)/authorities,
+provided that the Chairman may waive this requirement in his discretion.
+By virtue of the Press Council(Procedure for Inquiry) Regulations, 1979,
+limitation of time is four months from the      date of cause of action, provided
+that the Chairman may condone the delay if he is satisfied that there exist
+sufficient reasons for such condonation.
+The Council cannot deal with any matter which is sub-judice in the court of law.
+The complainant has to declare that “to the best of his knowledge and belief he
+has placed all the relevant facts before the Council and that no proceedings are
+pending in any court of law in respect of any matter alleged in the complaint.” A
+declaration that “ he shall notify the Council forthwith if during the pendency of
+the inquiry before the Council any matter alleged in the complaint becomes the
+subject matter of any proceedings in a court of law" is also necessary.
+
+
+Delivery of Books 'and Newspapers' (Public Libraries) Act, 1954
+The Delivery of Books 'and Newspapers' (Public Libraries) Act, 1954 has been enacted
+to regulate delivery of Books to the National Library, Calcutta, and other public
+libraries. The Act provides that subject to any rules that may be made under the Act,
+but without prejudice to the provisions contained in Section 9 of the Press and
+Registration of Books Act, 1867, the publisher of every book published in the
+territories to which this Act extends after the commencement of this Act should,
+despite any agreement to the contrary, deliver at his own expense a copy of the book
+to the National Library at Calcutta and one such copy to each of the other three
+public libraries within thirty days from the date of its publication. Regarding the
+delivery of newspapers to public libraries, the Act provides that subject to any rules
+that may be made under this Act, but without prejudice to the provisions contained in
+
+                                                                                       36
+the Press and Registration of Books Act,1867, the publisher of every newspaper,
+published in the territories to which this Act extends, should deliver at his own
+expense one copy of each issue of such newspaper as soon as it is published, to each
+such public library as may be notified in this behalf by the Central Government in the
+Official Gazette.
+
+Guidelines for publication of Indian editions of foreign magazines dealing with
+news and current affairs dated 4.12.2008
+
+Publication of Indian editions of foreign magazines publishing news and comments on
+public news i.e., periodicals falling in the news and current affairs category, by Indian
+entity(ies), with or without foreign investment is allowed. Entities/publishers of such
+editions would be eligible for attracting 26% foreign investment. The ceiling of total
+Foreign Direct Investment {which includes foreign direct investments by Non-Resident
+Indians (NRIs), Persons of Indian Origin (PIOs) and portfolio investments by recognized
+Foreign Institutional Investors (FIIs), together} is up to 26%, as per the consolidated
+FDI policy.
+‘Magazine’ has been defined as ‘a periodical publication brought out on non-daily
+basis containing public news or comments on public news’.
+Eligibility
+Any Indian entity, with or without foreign investment, will be permitted to publish an
+Indian edition of a foreign magazine falling in the news and current affairs sector.
+Entities/Publishers of such editions would be eligible for attracting 26% foreign
+investment as per FDI Guidelines issued by this Ministry from time to time.
+Verification of Title of the Publication and its Registration
+The title of the magazine should be got verified and subsequently registered by the
+Indian entities/publishers from the Registrar of Newspapers for India (RNI) under the
+Press and Registration of Books Act, 1867 and as per the prescribed procedure.
+Conditions
+   •   The publisher/owner of the foreign magazine of which Indian edition is
+       proposed to be published should have sound credentials.
+
+                                                                                         37
+•   Permission to publish such editions would be granted only to those
+    entities/publishers which are registered as an Indian company with the
+    Registrar of Companies under the provisions of the Indian Companies Act, 1956.
+•   The Indian companies would be allowed to enter into financial arrangements
+    (such as royalty payment arrangements, etc.) with the owners of the foreign
+    magazines subject to the rules and regulations of the Government of India
+    issued on the matter from time to time.
+•   At least 3/4th of the Directors on the Board of Directors of the Applicant Indian
+    Company and all key executives and editorial staff should be resident Indians.
+•   The applicant Indian company should frame its Articles/Memorandum of
+    Association to ensure compliance with the prescribed eligibility criteria.
+•   100% identical content of the foreign magazine concerned would be allowed
+    and the Indian publisher would be free to add local content and
+    advertisements.
+•   That permission may be granted for publication of only such magazines which
+    are being published in the country of their origin with the approval of the
+    regulatory authority of the respective Governments of those countries in cases
+    where such approvals are granted by the Governments.
+•   That the proposed publication should have been published continuously for a
+    period of at least 5 years, and the publication must have had a circulation of at
+    least 10,000 paid copies in the last financial year in the country of its origin.
+    The period of continuous publication and circulation must be certified by the
+    respective Governmental authority of the country, and if there is no such
+    Governmental authority regulating such matters, the certificate should be from
+    respected and recognized agencies engaged in the business of certification.
+•   Any Indian company publishing Indian edition of foreign magazines in India will
+    be subject to all the relevant laws and guidelines applicable to Indian news
+    magazines and their publishers.
+•   The applicant entity should make full disclosure, at the time of application, of
+    the Licence Agreement/ Financial Arrangement with the foreign entity for
+                                                                                  38
+    publishing such Indian editions. Any subsequent change, should be disclosed to
+    the Ministry of Information & Broadcasting within fifteen days of such a change.
+•   The applicant company should inform the Ministry of Information &
+    Broadcasting within 15 days of effecting any changes in the composition of
+    resident Indian Directors or key executives and editorial staff. Such a change
+    would be subject to post facto approval of the Ministry of Information &
+    Broadcasting.
+•   The applicant company will be liable to intimate the names and details of any
+    foreigners/NRIs/PIOs proposed to be employed/engaged in the Entity for more
+    than 60 days in a year, either as Consultant or as regular employees or in any
+    other capacity. The Entity will be liable to dispense with the services of such
+    persons if subsequently not found security cleared.
+•   The applicant company should obtain prior clearance from the Ministry of
+    Information & Broadcasting of all persons not being resident Indians who are
+    proposed to be inducted in the Board of Directors/Key Executives/Editorial
+    Staff of the company.
+•   The applicant company should permit the Government agencies to inspect the
+    facilities required for publishing Indian edition of foreign magazine, as and
+    when required.
+•   The Government of India, Ministry of Information & Broadcasting will have the
+    right to suspend/ withdraw/ cancel the permission of the company for a
+    specified period or for whole time, if the conditions specified in the grant of
+    permission is violated or in public interest or in the interest of national
+    security. The company should immediately comply with the directives issued in
+    this regard.
+•   The company should stop publication of the Indian edition of the magazine
+    whenever approval for such publication is suspended/ withdrawn/ cancelled by
+    the Ministry of Information & Broadcasting.
+
+
+
+
+                                                                                 39
+Procedure for application
+
+   •   Eleven copies of the prescribed application form, duly filled in, along with the
+       requisite documents should be submitted to the Ministry of Information &
+       Broadcasting.
+
+   •   Application fee of Rs.20,000/- (Rupees Twenty thousand only) will have to be
+       deposited through demand draft made in favour of Pay & Accounts Officer,
+       Ministry of Information and Broadcasting, payable at New Delhi.
+
+   •   In case the original foreign magazine is in a language other than English/Hindi,
+       the certified/ authenticated English transcripts of the magazine, one issue
+       each for the last five years along with the original copy may be provided with
+       the application.
+
+   •   Certification/ authentication should be done by the publisher of the original
+       foreign magazine.
+
+All new applications for publication of Indian editions of foreign magazines dealing in
+news and current affairs sector, will be processed and decided in the Ministry of
+Information & Broadcasting on the basis of inter-ministerial consultation with the
+Ministry of Home Affairs, Ministry of External Affairs, Department of Industrial Policy
+& Promotion, Ministry of Corporate Affairs and other Ministries/Departments, as may
+be required.
+
+
+
+
+                                                                                    40
+                             6. LAWS APPLICABLE FOR BROADCASTING
+
+The list of legislations applicable for Cable Network –
+
+   i.        Cable Television Networks Regulation Act, 1995
+
+  ii.        Cable Television Networks Rules, 1994
+
+The list of legislations related to Prasar Bharati –
+
+       i.    Prasar Bharati (Broadcasting Corporation of India) Act, 1990
+
+       ii.   Prasar Bharati Investment of Money Rules, 2007
+
+The list of legislations related to Sports Broadcasting –
+
+       i.    Sports Broadcasting Signals (mandatory Sharing with Prasar Bharati) Act, 2007
+
+       ii.   Sports Broadcasting Signals (mandatory Sharing with Prasar Bharati) Rules, 2007
+
+The following guidelines and policies are applicable for Broadcasting –
+
+   i.        Internet Protocol Television (IPTV) Guidelines
+
+  ii.        Direct to Home (DTH) Service Guidelines
+
+ iii.        CRS (Community Radio Stations) Guidelines
+
+ iv.         Uplinking guidelines
+
+  v.         Policy guidelines for Downlinking of TV Channels
+
+ vi.         FM Radio Phase-II
+
+vii.         Conditional Access System (CAS)
+
+viii.        Content Regulation on Private TV Channels
+
+ ix.         Guidelines for providing Headend-in-the-Sky (HITS) broadcasting service in India
+                                                                                             41
+   x.    Advertisement of Political Nature on Radio
+
+  xi.    Policy guidelines for Internet Protocol Television (IPTV) service in India
+
+  xii.   Certification of film songs, film promos etc. for cable service
+
+ xiii.   TRAI’s DTH Regulation
+
+ xiv.    The Code of advertising Practice of the Advertising Standards Council of India
+
+  xv.    FM phase II Policy
+
+ xvi.    Policy Guidelines for expansion of FM Radio broadcasting services through
+         Private Agencies (Phase-III)
+
+xvii.    Policy Guidelines for setting up Community Radio Stations in India
+
+xviii.   Guidelines to regulate child participation in TV serials, reality shows and
+         advertisements
+
+ xix.    Protection of identity of Children in Need of Care and Protection and juveniles
+         in conflict with Law
+
+
+
+
+ The Cable Television Networks Regulation Act, 1995
+
+ The principal purpose of the Act was to introduce regulatory certainty to the cable
+ market that had emerged in the early 1990s. The statement of objects and reasons
+ declared that cable TV constituted a ‘cultural invasion’ as cable programmes were
+ predominantly western and alien to Indian culture and way of life. It declared that
+ the lack of regulation had resulted in undesirable programmes and advertisements
+ being shown to Indian viewers without any censorship.
+
+ The Cable Television Networks (Regulation) Act, 1995 was enacted for the purpose of
+ regulating the operations of cable television networks in the country so as to bring
+ uniformity in their operations, avoid undesirable programmes from being made
+                                                                                          42
+available to the viewers as well as to enable the optimal exploitation of the
+technology which had the potential of making available to the subscribers a vast pool
+of information and entertainment.
+
+Section 3 of the Act mandates that a cable television network can be operated only by
+a registered cable operator. In order to register, an entity could be
+
+   -   an Indian citizen
+   -   an association of individuals whose members are Indian citizens
+   -   a company in which not less than 51 per cent of paid up equity share capital is
+       held by Indian citizens
+The Cable Networks Act empowers and authorizes a government officer to seize a
+cable operator’s equipment if the officer has reason to believe that the cable
+operator is functioning without proper registration.
+
+The Cable Television Networks Rules, 1994 were enacted under the Cable Television
+Networks (Regulation) Ordinance, 1994. The programme code under Rule 6 lays down
+restrictions on the content of both programmes and advertisements that can be shown
+on cable TV. No programme can be shown that:
+   §   Offends against good taste or decency
+   §   Contains criticism of friendly countries
+   §   Contains attack on religions or communities or visuals or words contemptuous
+       of religious groups or which promote communal attitudes
+   §   Contains anything obscene, defamatory, deliberate, false and suggestive
+       innuendos and half truths
+   §   Is likely to encourage or incite violence or contains anything against
+       maintenance of law and order or which promote-anti-national attitudes
+   §   Contains anything amounting to contempt of court
+   §   Contains aspersions against the integrity of the President and Judiciary
+   §   Contains anything affecting the integrity of the Nation
+   §   Criticises, maligns or slanders any individual in person or certain groups,
+       segments of social, public and moral life of the country
+                                                                                   43
+   §   Encourages superstition or blind belief
+   §   Denigrates women through the depiction in any manner of the figure of a
+       women, her form or body or any part thereof in such a way as to have the
+       effect of being indecent, or derogatory to women, or is likely to deprave,
+       corrupt or injure the public morality or morals
+   §   Denigrates children
+   §   Contains visuals or words which reflect a slandering, ironical and snobbish
+       attitude in the portrayal of certain ethnic, linguistic and regional groups
+   §   Is not suitable for unrestricted public exhibition
+
+
+Rule 7 deals with restrictions on advertisements. The Advertising Code in the Cable
+Network Rules says that all advertising carried in the cable service have to conform to
+the laws of the country and should not offend morality, decency and religious
+susceptibilities of the subscribers. The code says that no advertisement shall be
+permitted which:
+
+
+   •   Derides any race, caste, colour, creed and nationality
+   •   Is against any provision of the Constitution of India
+   •   Tends to incite people to crime, cause disorder or violence, or breach of law or
+       glorifies violence or obscenity in any way
+   •   Presents criminality as desirable
+   •   Exploits the national emblem, or any part of the Constitution or the person or
+       personality of a national leader or a State dignitary
+   •   In its depiction of women violates the constitutional guarantees to all citizens.
+   •   Projects a derogatory image of women. The Rules say that women should not
+       be portrayed in a manner that emphasises passive, submissive qualities and
+       encourages them to play a subordinate, secondary role in the family and
+       society. The cable operator is supposed to ensure that the portrayal of the
+       female form, in the programmes carried in his cable service, is “tasteful and
+       aesthetic, and is within the well-established norms of good taste and decency”.
+                                                                                       44
+   •   Exploits social evils like dowry, child marriage.
+   •   Promotes directly or indirectly production, sale or consumption of cigarettes,
+       tobacco products, wine, alcohol, liquor or other intoxicants, infant milk
+       substitutes, feeding bottle or infant food.
+
+
+       The Rules prohibit advertisements that
+   •   Are wholly or mainly of a religious or political nature or directed towards any
+       religious or political end.
+   •   Contain references that hurt religious sentiments.
+   •   Contain references that are likely to lead the public to infer that the product
+       advertised or any of its ingredients has some special or miraculous or super-
+       natural property or quality, which is difficult of being proved.
+   •   Contain pictures and audible matter of the advertisement that are excessively
+       loud
+   •   Endanger the safety of children or creates in them any interest in unhealthy
+       practices or shows them begging or in an undignified or indecent manner
+   •   Contain indecent, vulgar, suggestive, repulsive or offensive themes or
+       treatment
+   •   Contain advertisements that violate the standards of practice for advertising
+       agencies as approved by the Advertising Agencies Association of India, Bombay,
+       from time to time.
+
+
+
+The Cable Television Networks (Regulation) Amendment Act, 2011
+
+The Telecom Regulatory Authority of India (TRAI), in its recommendations dated the
+5th August, 2010 on "Implementation of Digital Addressable Cable Systems in India"
+had, inter alia, recommended that "digitalization with addressability be implemented
+on priority in cable TV services in Non-CAS areas" and, accordingly, recommended a
+time-frame comprising four phases for switch over from analog system to the digital
+addressable system (DAS) in the cable TV sector. In view of the above-mentioned
+                                                                                   45
+recommendations of the TRAI, the Central Government decided to introduce
+digitalization with addressability in the cable TV services in a phased time bound
+manner on a pan India basis, leading to complete switch off of analog TV services by
+the 31st December, 2014.
+
+For the implementation of DAS, certain amendments were required to be made in the
+aforesaid Act mandating all cable operators to provide programmes of all channels,
+including free-to-air (FTA) channels, in an encrypted form through DAS in a phased
+manner at specified areas from specified dates to be notified by the Central
+Government. It is also mandatory that any such notification should give at least six
+months time to the cable operators for being able to install the necessary digital
+equipments for migration and educate the subscribers in this area. In order to protect
+the interest of consumers, it has been proposed to empower TRAI to specify a package
+of free-to-air channels, called basic service tier, which shall be offered by every cable
+operator to the consumers. It is also necessary that every cable operator should offer
+channels in the basic service tier on a la carte (individual) basis to consumers at a
+tariff fixed by TRAI.
+
+It has also been considered necessary to carry out certain amendments in the Act for
+rectifying certain deficiencies noticed during the operation of the Act for the last
+fifteen years.    These, inter alia, include systemization of registration of cable
+operators, providing right of way to cable operators and permission by public
+authorities, compulsory transmission of certain channels, inspection of cable network
+services, prescription of interference standards by the Central Government and
+empowering the TRAI to specify basic service tier and its tariff.
+
+The Act has come into force from 25th day of December 2011.
+
+Prasar Bharati (Broadcasting Corporation of India) Act, 1990
+
+The introduction of the Prasar Bharati Bill in Parliament in May 1979 was the direct
+result of the recommendations of the B. G. Verghese Committee set up in 1977 after
+
+                                                                                      46
+the Internal Emergency declared by the then Prime Minister Indira Gandhi (1975-77).
+The Bill was allowed to lapse after the Janata party government elected to form the
+government after the Emergency collapsed and the Congress party returned to power.
+
+The victory of the National Front government in 1989 saw the revival of the Prasar
+Bharati Bill in a somewhat modified form; the Bill was passed by Parliament and
+received presidential assent on September 12, 1990. The Act provided for the
+formation   of   an   autonomous   Broadcasting    Corporation   that   would   manage
+Doordarshan and AIR, discharging all powers previously held by the Information and
+Broadcasting Ministry. The corporation would inherit the capital assets of Doordarshan
+and AIR and would be managed by a 15-member Prasar Bharati Board, including the
+Directors-General of the two organisations and two representatives from amongst the
+employees. The Chair and other members of the Board would be appointed on the
+recommendations of the selection committee headed by the Vice President. A fifteen-
+member Broadcasting Council would address public complaints.
+
+The primary duty of the Broadcasting Corporation was to ‘organize and conduct public
+broadcasting services to inform, educate, and entertain the public’ and to ensure ‘a
+balanced development’ of broadcasting of radio and television. The Corporation was
+to be guided by a set of objectives while discharging its functions. These include:
+
+   •   Upholding the unity and integrity of the country and the values enshrined in
+       the Constitution
+   •   Safeguarding the citizen’s right to be informed freely, truthfully and
+       objectively on all matters of public interest, national or international, and
+       presenting a fair and balanced flow of information including contrasting views
+       without advocating any opinion or ideology of its own
+   •   Paying special attention to the fields of education and spread of literacy,
+       agriculture, rural development, environment, health and family welfare and
+       science and technology.
+   •   Providing adequate coverage to the diverse cultures and languages of the
+       various regions of the country by broadcasting appropriate programmes.
+                                                                                      47
+•   Providing adequate coverage to sports and games so as to encourage healthy
+    competition and the spirit of sportsmanship.
+•   Providing appropriate programmes keeping in view the special needs of the
+    youth.
+•   Informing and stimulating the national consciousness in regard to the status and
+    problems of women and paying special attention to the upliftment of women.
+•   Promoting social justice and combating exploitation, inequality and such evils
+    as untouchability and advancing the welfare of the weaker sections of the
+    society.
+•   Safeguarding the rights of the working classes and advancing their welfare
+•   Serving the rural and weaker sections of the people and those residing in
+    border regions, backward or remote areas.
+•   Providing suitable programmes keeping in view the special needs of the
+    minorities and tribal communities.
+•   Taking special steps to protect the interests of children, the blind, the aged,
+    the handicapped and other vulnerable sections of the people.
+•   Promoting national integration by broadcasting in a manner that facilitates
+    communication in the languages in India; and facilitating the distribution of
+    regional broadcasting services in every State in the languages of that State.
+•   Providing comprehensive broadcast coverage through the choice of appropriate
+    technology and the best utilisation of the broadcast frequencies available and
+    ensuring high quality reception.
+•   Promoting research and development activities in order to ensure that radio
+    and television broadcast technology are constantly updated.
+•   Expanding broadcasting facilities by establishing additional channels of
+    transmission at various levels.
+•   Ensuring that broadcasting is conducted as a public service to provide and
+    produce programmes.
+•   Establishing a system for the gathering of news for radio and television;
+
+
+                                                                                    48
+•   Negotiating for the purchase of, or otherwise acquire, programmes and rights
+    or privileges in respect of sports and other events, films, serials, occasions,
+    meetings, functions or incidents of public interest, for broadcasting and to
+    establish procedures for the allocation of such programmes, rights or privileges
+    to the services.
+•   Establishing and maintain a library or libraries of radio, television and other
+    materials. Conducting or commissioning, from time to time, programmes,
+    audience research, market or technical service, which may be released to such
+    persons and in such manner and subject to such terms and conditions as the
+    Corporation may think fit.
+
+
+
+
+                                                                                 49
+                                7. LAWS APPLICABLE FOR FILMS
+
+The list of legislations applicable for films -
+
+   i.    The Cinematograph Act, 1952
+   ii.   The Cinematograph (Certification) Rules, 1983
+
+The following guidelines and policies are applicable for Films –
+
+   1.    Guidelines for import of films
+
+   2.    Policy for import of Cinematograph films and other films.
+
+   3.    Revised guidelines for shooting feature films in India by foreign nationals/co-
+         productions.
+
+   4.    Guidelines to certify Films (CBFC)
+
+   5.    Policy for certification of films for Film festivals
+
+
+
+
+Cinematograph Act, 1952
+
+The Cinematograph Act of 1952 has been passed to make provisions for certification
+of cinematographed films for exhibition by means of Cinematograph. Under this Act,
+the Board of Film Censor (i.e. Central Board of Film Certification) with advisory
+panels at regional centres is empowered to examine every film and sanction it
+whether for unrestricted exhibition or for exhibition restricted to adults. The Board is
+also empowered to refuse to sanction a film for public exhibition.
+
+The Certification process is in accordance with The Cinematograph Act, 1952, The
+Cinematograph (certification) Rules, 1983, and the guidelines issued by the Central
+government u/s 5 (B). At present films are certified under 4 categories –
+
+                                                                                     50
+     •         U - Unrestricted Public Exhibition
+
+     •         UA - Unrestricted Public Exhibition - but with a word of caution that Parental
+               discretion required for children below 12 years
+
+     •         A - Restricted to adults
+
+     •         S - Restricted to any special class of persons
+
+The Cinematograph Act lays down that a film should not be certified if any part of it
+is against the interest of the sovereignty and integrity of India, the security of the
+State, friendly relations with foreign States, public order, decency or involves
+defamation or contempt of court or is likely to incite commission of any offence.
+Under section 5B(2) the Central Government has issued the following guidelines.
+
+
+A film is judged in its entirety from the point of view of its overall impact and is
+examined in the light of the period depicted in the film and the contemporary
+standards of the country and the people to whom the film relates, provided that the
+film does not deprave the morality of the audience. Guidelines are applied to the
+titles of the films also.
+1.         Objectives of Film Certification
+     i)        the medium of film remains responsible and sensitive to the values and
+               standards of society;
+     ii) artistic expression and creative freedom are not unduly curbed;
+     iii) certification is responsible to social changes;
+     iv) the medium of film provides clean and healthy entertainment; and
+     v) as far as possible, the film is of aesthetic value and cinematically of a good
+               standard.
+2.         In pursuance of the above objectives, the CBFC shall ensure that
+
+
+          i)      anti social activities such as violence are not glorified or justified
+
+
+                                                                                           51
+ii)       the modus operandi of criminals, other visuals or words likely to incite the
+         commission of any offence are not depicted;
+iii)      scenes -
+         a. showing involvement of children in violence as victims or perpetrators or
+            as forced witnesses to violence, or showing children as being subjected
+            to any form of child abuse.
+         b. showing     abuse    or       ridicule   of   physically   and   mentally
+            handicapped persons; and
+         c. showing cruelty to, or abuse of animals, are not presented needlessly
+  iv)      pointless or avoidable scenes of violence, cruelty and horror, scenes of
+  violence primarily intended to provide entertainment and such scenes as may
+  have the effect of de-sensitising or de-humanising people are not shown;
+  v)       scenes which have the effect of justifying or glorifying drinking are not
+          shown;
+  vi)      scenes tending to encourage, justify or glamorise drug addiction are not
+          shown;
+            a. scenes tending to encourage, justify or glamorise consumption of
+  tobacco or smoking are not shown;
+  vii)     human sensibilities are not offended by vulgarity, obscenity or depravity;
+  viii) such dual meaning words as obviously cater to baser instincts are not
+          allowed;
+  ix)      scenes degrading or denigrating women in any manner are not presented;
+  x)       scenes involving sexual violence against women like attempt to rape,
+          rape or any form of molestation or scenes of a similar nature are avoided,
+          and if any such incidence is germane to the theme, they shall be reduced
+          to the minimum and no details are shown
+  xi)      scenes showing sexual perversions shall be avoided and if such matters
+          are germane to the theme they shall be reduced to the minimum and no
+          details are shown
+
+
+                                                                                    52
+      xii)      visuals or words contemptuous of racial, religious or other groups are not
+              presented
+      xiii)     visuals or words which promote communal, obscurantist, anti-scientific
+              and anti-national attitude are not presented
+      xiv)      the sovereignty and integrity of India is not called in question;
+      xv)       the security of the State is not jeopardized or endangered
+      xvi)      friendly relations with foreign States are not strained;
+      xvii) public order is not endangered
+      xviii) visuals or words involving defamation of an individual or a body of
+              individuals, or contempt of court are not presented
+
+
+      EXPLANATION: Scenes that tend to create scorn, disgrace or disregard of rules
+      or undermine the dignity of court will come under the term ''Contempt of
+      Court'' : and
+
+
+      xix) national symbols and emblems are not shown except in accordance with
+      the provisions of the Emblems and Names (Prevention of Improper Use) Act,
+      1950 (12 of 1950)
+
+
+3.    The Board of Film Certification shall also ensure that the film
+      i)      Is judged in its entirety from the point of view of its overall impact; and
+      ii) Is examined in the light of the period depicted in the films and the
+      contemporary standards of the country and the people to which the film
+      relates provided that the film does not deprave the morality of the audience.
+
+4.    Films that meet the above – mentioned criteria but are considered unsuitable
+for exhibition to non-adults shall be certified for exhibition to adult audiences only.
+
+5.
+      i)      While certifying films for unrestricted public exhibition, the Board shall
+             ensure that the film is suitable for family viewing, that is to say, the film
+                                                                                            53
+           shall be such that all the members of the family including children can view
+           it together.
+        ii) If the Board, having regard to the nature, content and theme of the film is
+           of the opinion that it is necessary to caution the parents / guardian to
+           consider as to whether any child below the age of twelve years maybe
+           allowed to see such a film, the film shall be certified for unrestricted public
+           exhibition with an endorsement to that effect.
+        iii) If the Board having regard to the nature, content and theme of the film, is
+           of the opinion that the exhibition of the film should be restricted to
+           members of any profession or any class of persons, the film shall be
+           certified for public exhibition restricted to the specialized audiences to be
+           specified by the Board in this behalf.
+
+
+   6.   The Board shall scrutinize the titles of the films carefully and ensure that they
+        are not provocative, vulgar, offensive or violative of any of the above-
+        mentioned guidelines.
+
+
+The Central Board of Film Certification is responsible for certifying films. The
+enforcement of compliance to the provisions of the Cinematograph Act, 1952 is
+entrusted to the State Governments /Union Territory Administrations, since exhibition
+of films is a State subject.
+The following are the major violations that agitate the minds of the public:
+
+   •    exhibition of an ''''A'''' certified film to a non-adult;
+
+   •    exhibition of an ''''S'''' certified film to persons other than those for whom it is
+        meant;
+
+   •    exhibition of a film in a form other than the one in which it was certified. Such
+        violations are known as interpolations. Interpolations can be described as
+        follows –
+
+
+                                                                                         54
+          o re-insertion in the prints of a film, those portions which were deleted by
+              the Board while certifying the film
+
+          o insertion in prints of a film, portions which were never shown to the
+              Board for certification
+
+          o exhibition of ''''bits'''' unconnected with the certified film
+
+   •   exhibition of a film which was refused a certificate (or ''''banned'''' in common
+       parlance)
+
+   •   exhibition of uncertified films with forged certificates of other films
+
+   •   exhibition of films without CBFC certificate
+
+Violations of Cinematograph act and penalties –
+
+Section 7 of the Cinematograph Act provides penalties for violation of censorship
+provisions. Penalty can also be imposed for failure to comply with section 6A which
+requires that any person delivering a film to an exhibitor or a distributor will also give
+to him details of all cuts, certification, title, length and conditions of certification.
+
+A person guilty of violation while exhibiting celluloid films is punishable with
+imprisonment for a term which may extend to Three years, or with fine which may
+extend to Rs.1/-lakh, or with both, and with a further fine up to Rs.20,000 for each
+day for a continuing offence. Similarly, Showing of video films which violate the rules
+in the manner prescribed in this section will attract imprisonment of not less than
+three months but which may extend to three years and a fine of not less than
+Rs.20,000 but which may extend to Rs.1/-lakh and a further fine up to Rs.20,000 for
+each day for a continuing offence.
+
+Furthermore, the trial court can direct that the offending film be forfeited to the
+Government. Under Section 7A, any police officer can enter a hall where an offending
+film is being screened, search the premises and seize the print. Films can also be
+seized when they are likely to be exhibited in violation of Cinematograph Act.
+                                                                                            55
+                              8. OTHER LAWS APPLICABLE TO MEDIA
+
+    8.1.    FDI in media sector
+
+Foreign direct investment (FDI) is that investment, which is made to serve the
+business interests of the investor in a company, which is in a different nation distinct
+from the investor's country of origin.
+
+FDI in India is governed by the Consolidated FDI Policy issued by the Department of
+Industrial Policy and Promotion (DIPP), Ministry of Commerce and Industry,
+Government of India.
+
+Print Media
+
+Sl.No.     Activity                               % of FDI cap/equity Entry route
+
+1          Publishing    of    Newspaper    and 26%       (FDI     and Government
+           periodicals dealing with news and investment             by
+           current affairs                        NRIs/PIOs/FII)
+2          Publication of Indian editions of 26%          (FDI     and Government
+           foreign magazines dealing with investment                by
+           news and current affairs               NRIs/PIOs/FII)
+3          Publishing/printing of Scientific 100%                        Government
+           and        Technical     Magazines/
+           specialty journals/ periodicals,
+           subject to compliance with the
+           legal framework as applicable
+           and guidelines issued in this
+           regard from time to time by
+           Ministry     of    Information   and
+           Broadcasting.
+4          Publication of facsimile edition 100%                         Government
+           of foreign newspapers
+
+                                                                                      56
+FDI should be made by the owner of the original foreign newspapers whose facsimile
+edition is proposed to be brought out in India. Publication of facsimile edition of
+foreign newspapers can be undertaken only by an entity incorporated or registered in
+India under the provisions of the Companies Act, 1956. Foreign investment would also
+be subject to the Guidelines for Publication of Indian editions of foreign magazines
+dealing with news and current affairs issued by the Ministry of Information &
+Broadcasting on 4.12.2008. Publication of facsimile edition of foreign newspaper
+would also be subject to the Guidelines for publication of newspapers and periodicals
+dealing with news and current affairs and publication of facsimile edition of foreign
+newspapers issued by Ministry of Information & Broadcasting on 31.3.2006, as
+amended from time to time.
+
+
+Broadcasting
+
+
+Sl.No.   Activity                          % of FDI cap/equity Entry route
+
+1        Terrestrial Broadcasting FM (FM 26% (FDI, NRI & PIO Government
+         Radio) subject to such terms and investments      and
+         conditions as specified from time portfolio
+         to time by Ministry of Information investment)
+         and Broadcasting for grant of
+         permission for setting up of FM
+         Radio Stations
+2        Cable Network, subject to Cable 49% (FDI, NRI & PIO Government
+         Television Network Rules, 1994 investments        and
+         and other conditions as specified portfolio
+         from time to time by Ministry of investment)
+         Information and Broadcasting
+3        Direct–to-Home subject to such 49% (FDI, NRI & PIO Government
+
+                                                                                  57
+        guidelines/terms and conditions investments                       and
+        as specified from time to time by portfolio
+        Ministry    of      Information        and investment)               -
+        Broadcasting                                  Within     this   limit,
+                                                      FDI component not
+                                                      to exceed 20%
+4       FDI limit in (HITS) Broadcasting 74%               (total       direct Automatic        up   to
+        Service     is     subject     to      such and indirect foreign 49%;
+        guidelines/terms and conditions investment                                Government      route
+        as specified from time to time by including                portfolio beyond 49% and up
+        Ministry of Information and                   and FDI)                    to 74%
+        Broadcasting.
+
+5       Setting up of Up-linking HUB/ 49% (FDI & FII)                             Government
+        Teleports
+6       Up-linking a Non-News & Current 100%                                      Government
+        Affairs TV Channel
+7       Up-linking a News & Current 26% (FDI & FII)                               Government
+        Affairs TV Channel subject to the
+        condition        that   the     portfolio
+        investment from FII/ NRI shall
+        not   be         persons      acting     in
+        concert     with FDI investors, as
+        defined in the SEBI(Substantial
+        Acquisition        of      Shares      and
+        Takeovers) Regulations
+
+
+Headend-In-The-Sky        (HITS)     Broadcasting      Service     refers    to    the     multichannel
+downlinking and distribution of television programme in C-Band or Ku Band wherein
+all the pay channels are downlinked at a central facility (Hub/teleport) and again
+uplinked to a satellite after encryption of channel. At the cable headend these
+                                                                                                     58
+encrypted      pay   channels   are     downlinked     using   a   single   satellite    antenna,
+transmodulated and sent to the subscribers by using a land based transmission system
+comprising of infrastructure of cable/optical fibres network.
+All the activities related to uplinking will be further subject to the condition that the
+Company permitted to uplink the channel should certify the continued compliance of
+this requirement through the Company Secretary at the end of each financial year.
+FDI for Up-linking TV Channels will be subject to compliance with the Up-linking
+Policy notified by the Ministry of Information & Broadcasting.
+
+
+
+   8.2.   Labour related legislations
+
+Generally all labour related legislations are applicable for people working in the
+media sector. But there are certain specific labour legislations that regulate the
+conditions of employment in this sector. A few of them have been discussed
+hereunder –
+
+The Working Journalists and Other Newspaper Employees (Conditions of Service)
+and Miscellaneous Provisions Act, 1955 & The Working Journalists (Conditions of
+Service) and Miscellaneous Provisions Rules, 1957
+
+The Working Journalists and Other Newspaper Employees (Conditions of Service) and
+Miscellaneous Provisions Act, 1955 provides for regulation of certain conditions of
+service   of    working   journalists    and   other    persons    employed     in      newspaper
+establishments. The Act provides that for the purpose of fixing or revising rates of
+wages in respect of working journalists, the Central Government shall constitute
+Wage Board as and when necessary. The Central Government has set up a central-
+level monitoring committee in the Ministry of Labour to oversee the implementation
+of wage board's recommendations. After receipt of the recommendations of the
+Board, the Central Government is required to make an order in terms of
+recommendations and this order becomes applicable on the class of newspaper
+establishments for which the Board has recommended.
+                                                                                               59
+All the Assistant Labour Commissioners of the Labour Department have been
+appointed Inspectors for carrying out the enforcement work under the Act for their
+respective districts. Deputy Labour Commissioners have been authorized for the
+recovery of the amount due to the newspaper employees under the provisions of the
+Act. The amount can be recovered by issue of a certificate for the amount to the
+Collector, for recovery of the amount as arrears of land revenue. The penalty
+provided for violation of any of the provisions of the Act or any rule made there under
+is punishment with a fine which may extend to Rs. 200/- and Rs. 500/- for subsequent
+violation.
+
+Working Journalist is a person whose principal avocation is that of a journalist and
+who is employed either wholetime in one or more newspaper establishments and
+includes an editor, a leader-writer, newseditor, sub-editor, feature writer, copy
+tester, reporter, correspondent, cartoonist, news photographer, and proof reader,
+but does not include any such person who -- (i) is employed mainly in a managerial or
+administrative capacity; or (ii) being employed in a supervisory capacity, performs,
+either by the nature of the duties attached to his office or by reason of the powers
+vested in him, function mainly of a managerial nature. (Section 2 (f))
+
+Newspaper means any printed periodical work containing public news or comments on
+public news and includes such other class of printed periodical work as may, from
+time to time, be notified in this behalf by the Central Government in the Official
+Gazette. (Section 2(b))
+Newspaper establishment means an establishment under the control of any person or
+body of persons, whether incorporated or not, for the production or publication of
+one or more newspaper or for conducting any news agency or syndicate; and includes
+newspaper establishments specified as one establishment under the Schedule.
+Explanation: - For the purposes of this clause-
+(a) different departments, branches and centres of newspaper establishments shall be
+treated as parts thereof,-
+
+
+
+                                                                                    60
+(b) a printing press shall be deemed to be a newspaper establishment if the principal
+business thereof is to print newspaper. (Section 2(d)
+
+
+Important provisions of the Act
+The provisions of the Industrial Disputes Act will apply to the working journalist with
+some modifications. The period of notice referred in the ID Act in relation to the
+retrenchment has been enhanced to six months in the case of editor and three months
+in the case of other working journalists. (Section 3)
+The Industrial Employment (Standing Orders) Act, 1946 is made applicable to every
+newspaper establishment wherein twenty or more newspaper employees are
+employed. (Section 14)
+Gratuity is payable to working journalists who has put in a minimum service of three
+years. (Section 5)
+
+The Employees’ Provident Fund Act 1952 is applicable to every newspaper
+establishment in which twenty or more persons are employed on any day. (Section 15)
+
+No working journalist will be required or allowed to work more than 144 hours in four
+consecutive weeks. The total working hours in a day should not exceed six hours and
+in the case of night shift shall be 5½ hours only. They shall be given one day off in a
+week. These provisions will not be applicable to editors, or to correspondents,
+reporters or news photographers. (Section 6 & Rule 7)
+
+A working journalist is entitled to 10 holidays in a year and is also entitled to for a
+compensatory holiday within a period of 30 days in lieu of attending on a holiday.
+
+A working journalist is entitled to 15 days casual leave and one month earned leave.
+The earned leave can be accumulated upto 90 days in every year. A female working
+journalist is entitled to three months maternity leave on full wages on production of
+medical certificate. The leave and other service conditions in respect of non-
+journalists are regulated as per the provisions of the Factories Act, 1948.
+
+
+
+                                                                                     61
+The following registers and records are liable to maintain by the employer in respect
+of the working journalists –
+
+   •      Register of employees in Form-D
+
+   •      Service register of all working journalists, in Form-E
+
+   •      Leave register of working journalist in Form-F
+
+   •      Muster roll in form-G
+
+
+
+
+The Cine-workers and Cinema Theatre Workers (Regulation of Employment) Act,
+1981      &   the   Cine-workers     and    Cinema    Theatre      Workers   (Regulation   of
+Employment) Rules, 1984
+
+The Cine Workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981
+provides for the regulation of the conditions of employment of certain cine-workers
+and cinema theatre workers and related matters thereto.
+
+‘Cinema theatre’ means a place which is licensed under Part III of the Cinematograph
+Act, 1952, or under any other law for the time being in force in a State for the
+exhibition of a cinematograph film.
+
+A cine-worker is an individual who is employed, directly or through any contractor or
+other person, in or in connection with the production of a feature film to work as an
+artiste
+(including actor, musician or dancer) or to do any work, skilled, unskilled, manual,
+supervisory, technical, artistic or otherwise and whose remuneration with respect to
+such
+employment in or in connection with the production of such feature film does not
+exceed, where such remuneration is by way of monthly wages, a sum of one thousand
+six hundred rupees per month, and where such remuneration is by way of a lump sum,
+a sum of fifteen thousand rupees.
+                                                                                           62
+Producer, in relation to a feature film, means the person by whom the arrangements
+necessary for the making of such film (including the raising of finances and engaging
+cine-workers for the making of such film) are undertaken.
+
+
+The Act prohibits the employment of any cine-worker without an agreement in writing
+with the producer of the film or where any cine-worker is employed through a
+contractor or other person, with the producer of such film and such contractor or
+other person. Such agreement should be registered with the competent authority
+notified under the law by the producer of the film. The Agreement should be in Form
+A as given under the Rules. Whoever contravenes this provision will be punishable
+with fine not less than Rs.10,000 but which may extend to Rs.50,000.
+
+The Act provides safeguards to low paid artistes and technicians engaged in the
+production of feature films with regard to their terms and conditions of employment,
+payment of wages and provision of other amenities.
+
+The provisions of the Employees' Provident Funds and Miscellaneous Provisions Act,
+1952 will apply to every cinema theatre in which five or more workers are employed
+on any day.
+
+The provisions of the Payment of Gratuity Act, 1972 will apply to every worker
+employed in a cinema theatre in which five or more workers are employed or were
+employed on any day of the preceding twelve months.
+
+In case of any dispute regarding breach of the terms and conditions of the agreement,
+a cine-worker may approach the Conciliation Officer for mediation. The Conciliation
+Officer will investigate the dispute and all matters affecting the merits and the right
+settlement and induce the parties to come to a fair and amicable settlement.
+
+
+
+
+                                                                                    63
+   8.3.    IPR
+
+The IPR issues relating to content for all media segments are very vast and cover a
+wide range from the rights of content creators to the issue of difficulty of licensing of
+content.
+
+The main Intellectual Property Rights legislation related to media sector is the
+Copyright Act of 1957 and Copyright Rules, 1958 and the International Copyright
+Order, 1999.
+
+Copyright is the set of exclusive rights granted to the author or creator of an original
+work, including the right to copy, distribute and adapt the work. Copyright ensures
+certain minimum safeguards of the rights of authors over their creations, thereby
+protecting and rewarding creativity.
+
+What is Copyright?
+According to Section 14 of the Act, “copyright” means “the exclusive right subject to
+the provisions of this Act, to do or authorise the doing of any of the following acts in
+respect of a work or any substantial part thereof, namely:-
+(a) in the case of a literary, dramatic or musical work, not being a computer
+programme, -
+      (i) to reproduce the work in any material form including the storing of it in any
+      medium by electronic means;
+      (ii) to issue copies of the work to the public not being copies already in
+circulation;
+      (iii) to perform the work in public, or communicate it to the public;
+      (iv) to make any cinematograph film or sound recording in respect of the work;
+      (v) to make any translation of the work;
+      (vi) to make any adaptation of the work;
+      (vii) to do, in relation to a translation or an adaptation of the work, any of the
+      acts specified in relation to the work in sub-clauses (i) to (vi);
+(b) in the case of a computer programme,-
+
+                                                                                      64
+       (i) to do any of the acts specified in clause (a);
+       (ii) to sell or give on commercial rental or offer for sale or for commercial
+       rental any copy of the computer programme:
+       Provided that such commercial rental does not apply in respect of computer
+       programmes where the programme itself is not the essential object of the
+       rental.
+(c) in the case of an artistic work,-
+       (i) to reproduce the work in any material form including depiction in three
+       dimensions of a two dimensional work or in two dimensions of a three
+       dimensional work;
+       (ii) to communicate the work to the public;
+       (iii) to issue copies of the work to the public not being copies already in
+circulation;
+       (iv) to include the work in any cinematograph film;
+       (v) to make any adaptation of the work;
+       (vi) to do in relation to an adaptation of the work any of the acts specified in
+       relation to the work in sub-clauses (i) to (iv);
+(d) In the case of cinematograph film, -
+       (i) to make a copy of the film, including a photograph of any image forming
+part thereof;
+       (ii) to sell or give on hire, or offer for sale or hire, any copy of the film,
+       regardless of whether such copy has been sold or given on hire on earlier
+       occasions;
+       (iii) to communicate the film to the public;
+(e) In the case of sound recording, -
+       (i) to make any other sound recording embodying it;
+       (ii) to sell or give on hire, or offer for sale or hire, any copy of the sound
+       recording regardless of whether such copy has been sold or given on hire on
+       earlier occasions;
+       (iii) to communicate the sound recording to the public.
+
+                                                                                    65
+Explanation : For the purposes of this section, a copy which has been sold once shall
+be deemed to be a copy already in circulation.”
+
+
+Classes of works for which copyright protection is available
+Indian Copyright Act affords separate and exclusive copyright protection to the
+following 7 clauses of work:
+
+1. Original Literary Work
+
+2. Original Dramatic Work
+
+3. Original Musical Work
+
+4. Original Artistic Work
+
+5. Cinematograph Films
+
+6. Sound recording
+
+7. Computer Programme
+
+Copyright will not subsist in any cinematograph film if a substantial part of the film is
+an infringement of the copyright in any other work or in any sound recording made in
+respect of a literary, dramatic or musical work, if in making the sound recording,
+copyright in such work has been infringed.
+
+Ownership of Copyright
+The author of the work will be the first owner of the copyright in the following
+instances:
+
+ i.   In the case of a literary, dramatic or artistic work made by the author in the
+      course of his employment by the proprietor of a newspaper, magazine or
+      similar periodical under a contract of service or apprenticeship, for the purpose
+      of publication in a newspaper, magazine or similar periodical, the said
+      proprietor will, in the absence of any agreement to the contrary, be the first
+
+                                                                                      66
+       owner of the copyright in the work in so far as the copyright relates to the
+       publication of the work in any newspaper, magazine or similar periodical, or to
+       the reproduction of the work for the purpose of its being so published, but in
+       all other respects the author will be the first owner of the copyright in the
+       work.
+ ii.   In the case of a photograph taken, or a painting or portrait drawn, or an
+       engraving or a cinematograph film made, for valuable consideration at the
+       instance of any person, such person will, in the absence of any agreement to
+       the contrary, be the first owner of the copyright therein.
+iii.   In the case of a work made in the course of the author’s employment under a
+       contract of service or apprenticeship, the employer will, in the absence of any
+       agreement to the contrary, be the first owner of the copyright therein.
+iv.    In the case of any address or speech delivered in public, the person who has
+       delivered such address or speech or if such person has delivered such address
+       or speech on behalf of any other person, such other person will be the first
+       owner of the copyright therein notwithstanding that the person who delivers
+       such address or speech, or, as the case may be, the person on whose behalf
+       such address or speech is delivered, is employed by any other person who
+       arranges such address or speech or on whose behalf or premises such address or
+       speech is delivered.
+ v.    In the case of a government work, government in the absence of any
+       agreement to the contrary, will be the first owner of the copyright therein.
+vi.    In the case of a work made or first published by or under the direction or
+       control of any public undertaking, such public undertaking in the absence of
+       any agreement to the contrary, will be the first owner of the copyright therein.
+vii.   In case of any work which is made or first published by or under the directions
+       or control of any international organisation, such international organisation will
+       be the first owner of the copyright therein.
+
+
+
+
+                                                                                      67
+Term of copyright
+Copyright generally lasts for a period of sixty years.
+   ü In the case of literary, dramatic, musical or artistic works, the sixty year period
+      is counted from the year following the death of the author.
+   ü In the case of cinematograph films, sound recordings, photographs, posthumous
+      publications, anonymous and pseudonymous publications, works of government
+      and public undertakings and works of international organisations, the 60-year
+      period is counted from the date of publication.
+   ü In case of Broadcast reproduction right - 25 years from the beginning of the
+      calendar year next following the year in which the broadcast is made.
+   ü In case of Performers right - 25 years from the beginning of the calendar year
+      next following the year in which the performance is made.
+
+
+Rights of Broadcasting Organisation and of Performers
+Every broadcasting organisation will have a special right to be known as 'broadcast
+reproduction right' in respect of its broadcasts. The broadcast reproduction right will
+subsist until twenty-five years from the beginning of the calendar year next following
+the year in which the broadcast in made. This would prevent any person other than
+the broadcasting organisation from:
+
+      i) Re-broadcasting what has already been broadcasted
+
+      ii) Causing the broadcast to be seen or heard by the public on payment of
+      charges
+
+      iii) Making any sound/visual recording of the broadcast
+
+      iv) Making any reproduction of such sound recording ro visual recording where
+      such initial recording was done without licence or, where it was licensed, for
+      any purpose not envisaged by such licence
+
+      v) Selling or hiring or offering to sell or hire sound/visual recordings.
+                                                                                     68
+Where any performer appears or engages in any performance, he will have a special
+right known as the 'performer's right' in relation to such performance. The performer's
+right will subsist until fifty years from the beginning of the calendar year next
+following the year in which the performance is made. These rights are:
+
+       i) No person may make a sound/visual recording of the performer’s
+       performances
+
+       ii) Reproduce a sound/visual recording
+
+       iii) Broadcast the performance
+
+       iv) Communicate to the public otherwise than by broadcast
+
+No broadcast reproduction right or performer's right will be deemed to be infringed
+by:-
+
+          •   The making of any sound recording or visual recording for the private use
+              of the person making such recording, or solely for purposes of bona fide
+              teaching or research; or
+
+          •   The use, consistent with fair dealing, of excerpts of a performance or of
+              a broadcast in the reporting of current events or for bona fide review,
+              teaching or research; or
+
+          •   Such other acts, with any necessary adaptations and modifications,
+              which do not constitute infringement of copyright under the Act.
+
+Copyright Societies
+Collective administration of copyright by societies is a concept where management
+and protection of copyright in works are undertook by a society of owners of such
+works. Obviously no owner of copyright in any work can keep track of all the uses
+others make of his work. When he becomes a member of a national copyright society,
+
+                                                                                    69
+that society, because of its organisational facilities and strength, is able to keep a
+better vigil over the uses made of that work throughout the country and collect due
+royalties from the users of those works. Because of the country’s membership in
+international conventions, the copyright societies are able to have reciprocal
+agreements with similar societies in other countries for collecting royalties for the
+uses of Indian works in those countries. From this it can automatically be inferred
+that it will be in the interests of copyright owners to join a collective administration
+organisation to ensure better protection to the copyright in their works and for
+reaping optimum economic benefits from their creations. Users of different types of
+works also find it easy to obtain licences for legal exploitation of the works in
+question, though the collective administrative society.
+A copyright society is a registered collective administration society under Section 33
+of the Copyright Act, 1957. Such a society is formed by copyright owners. The
+minimum membership required for registration of a society is seven. Ordinarily, only
+one society is registered to do business in respect of the same class of work. A
+copyright society can issue or grant licences in respect of any work in which copyright
+subsists or in respect of any other right given by the Copyright Act.
+The following are the registered copyright societies in India:
+i. For cinematograph and television films : Society for Copyright Regulation of Indian
+Producers for Film and Television (SCRIPT) 135 Continental Building, Dr. A.B. Road,
+Worli, Mumbai 400 018;
+ii. For musical works: The Indian Performing Right Society Limited (IPRS), 208,
+Golden Chambers, 2nd Floor, New Andheri Link Road, Andheri (W), Mumbai- 400 058
+(Website: http://www.iprs.org/);
+iii. For sound recording: Phonographic Performance Limited (PPL) Flame Proof
+Equipment Building, B.39, Off New Link Road, Andheri (West), Mumbai 400 053
+(Website: http://www.pplindia.org/);
+iv. For reprographic (photo copying) works: Indian Reprographic Rights Organization
+(IRRO), 18/1-C, Institutional Area, Near JNU Campus, New Delhi – 110067, (Website:
+http://www.irro.in/)
+
+                                                                                     70
+   8.4.   Telegraph Act & Wireless Telegraphy Act
+
+Broadcasting in India is governed by the Indian Telegraph Act, 1885 and by the Indian
+Wireless Telegraphy Act, 1933.
+
+The Indian Telegraph Act, 1885 gives the Government of India (GOI) exclusive rights
+for the establishment and working of telegraphy using electro-magnetic waves.
+Governance of broadcasting has its basis in the powers bestowed on the GOI by this
+Act.
+According to the Act, "telegraph" means any appliance, instrument, material or
+apparatus used or capable of use for transmission or reception of signs, signals,
+writing, images and sounds or intelligence of any nature by wire, visual or other
+electro-magnetic emissions, Radio waves or Hertzian waves, galvanic, electric or
+magnetic means. "Radio waves" or "Hertzian waves" means electro-magnetic waves of
+frequencies lower than 3,000 giga-cycles per second propagated in space without
+artificial guide. Judicial decisions have also held that the term ‘telegraph’ includes
+the term telephone, television, radio, wireless, mobile and video equipment.
+
+Section 4(1) of the Telegraph Act states that the Central Government has the
+exclusive privilege of establishing, maintaining, and working telegraphs within India.
+Section 5(1) of the Telegraph Act authorizes the Central Government to take
+temporary possession of a telegraph in cases involving public emergencies or public
+safety. Section 5 (2) enables the government to lawfully intercept telegraph messages
+on certain grounds. These include India’s sovereignty and integrity, state security,
+friendly relations with foreign states, public order, and preventing the commission of
+an offence. Section 8 of the Telegraph Act empowers the government to revoke a
+telegraph license for breach of any terms and conditions or for a default in making
+license-fee payments.
+
+
+
+
+                                                                                   71
+Broadcasting means “the dissemination of any form of communication like signs,
+signals, writing, pictures, images, and sounds of all kinds, by transmission of
+electromagnetic waves through space or through cables intended to be received by
+the general public either directly or indirectly through the medium of relay stations
+and all its grammatical variations and cognate expressions shall be construed
+accordingly.
+
+To offer most forms of broadcasting, a broadcaster must have two licenses: 1) a
+general license from the MIB to offer telegraph services (under the Telegraph Act),
+and 2) a wireless operating license from the Wireless Planning and Communication
+(WPC) Wing of the Department of Telecom, (under the Wireless Telegraphy Act).
+
+Most radio and television services are also regulated by the Indian Wireless Telegraphy
+Act (No 17 of 1933), as they constitute ‘wireless communications’. Section 2(2) and
+Section 3 regulate wireless communication by requiring users of various types of
+wireless equipment to obtain wireless licenses for possessing and using the
+equipment. These licenses are granted by the WPC (Wireless Planning & Coordination
+Authority) Wing of the Department of Telecommunications (DoT).
+
+Therefore, to offer most kinds of broadcasting services, a broadcasting company must
+obtain two types of licenses:
+
+   •   A Grant of Permission (GOPA) to offer broadcast services issued by the Ministry
+       of Information and Broadcasting under the Telegraph Act, 1885.
+
+   •   A wireless operating license from the WPC (Wireless Planning & Coordination
+       Authority) Wing of the Ministry of Communication and Information Technology
+       under the Wireless Telegraphy Act, 1933.
+
+
+
+
+                                                                                    72
+                   9. AUTHORITIES REGULATING THE MEDIA INDUSTRY
+
+   i)      Ministry of Information and Broadcasting - Government Of India
+
+            http://www.mib.nic.in/default.aspx
+
+The Ministry of Information & Broadcasting, through the mass communication media
+consisting of radio, television, films, the press, publications, advertising and
+traditional mode of dance and drama plays a significant part in helping the people to
+have access to free flow of information. It also caters to the dissemination of
+knowledge and entertainment to all sections of society, striking a careful balance
+between public interest and commercial needs, in its delivery of services. Ministry of
+Information & Broadcasting is the apex body for formulation and administration of the
+rules and regulations and laws relating to information, broadcasting, the press and
+films. This Ministry is responsible for international co-operation in the field of mass
+media, films and broadcasting and interacts with its foreign counterparts on behalf of
+Government of India. The mandate of the Ministry of Information & Broadcasting is:
+
+   •    News Services through All India Radio (AIR) and Doordarshan (DD) for the
+        people
+   •    Development of broadcasting and television.
+   •    Import and export of films.
+   •    Development and promotion of film industry.
+   •    Organisation of film festivals and cultural exchanges for the purpose.
+   •    Advertisement and visual publicity on behalf of the Government of India.
+   •    Handling of press relations to present the policies of Government of India and
+        to get feed-back on the Govt. policies.
+   •    Administration of the Press and Registration of Books Act, 1867 in respect of
+        newspapers.
+   •    Dissemination of information about India within and outside the country
+        through publications on matters of national importance.
+
+                                                                                     73
+   •   Research, Reference and Training to assist the media units of the Ministry to
+       meet their responsibilities.
+   •   Use of interpersonal communication and traditional folk art forms for
+       information/ publicity campaigns on public interest issues.
+   •   International co-operation in the field of information & mass media.
+
+The following comes under the purview of the Ministry of Information and
+Broadcasting –
+
+   1) Broadcasting policy and administration
+
+   2) Cable television policy
+
+   3) Radio
+
+   4) Doordarshan
+
+   5) Films
+
+   6) Advertising and visual publicity
+
+   7) Press
+
+   8) Publications
+
+   9) Research and reference
+
+   10) Various subordinate, autonomous organisations, public sector undertakings
+
+
+
+
+   ii) Press Information Bureau
+
+The Press Information Bureau (PIB) is the nodal agency of the Government to
+disseminate information to the print and electronic media on government policies,
+programmes, initiatives and achievements. It functions as an interface between the
+
+
+                                                                                   74
+Government and the media and also provides feedback to the Government on people's
+reaction as reflected in the media.
+
+PIB has its Headquarters in New Delhi. It is headed by the Principal Director General
+(Media & Communication) who is assisted by a Director General and eight Additional
+Director Generals. Besides, the Bureau has Officers in the ranks of Director, Joint
+Director, Dy. Director, Assistant Director and Media & Communication Officer who are
+attached with different Ministries in order of their rank and Ministry's size, importance
+and sensitivity.
+
+PIB has a dedicated unit for the publicity and media support to the Prime Minister's
+Office (PMO). The unit functions on 24X7 basis and compiles media reports on all days
+including holidays for PMO and Cabinet Secretariat.
+
+   iii)   Directorate of Advertising & Visual Publicity
+
+The Directorate of Advertising and Visual Publicity (DAVP), established in 1955, is the
+nodal multi-media advertising agency of the Government of India. Over the past 56
+years, it has been catering to the communication needs of almost all central
+Ministries/Departments, autonomous bodies and PSUs by providing them single-
+window cost-effective service. It informs and educates the people, both rural and
+urban, about the government's policies and programmes and motivates them to
+participate   in   developmental      activities,   through   its   various   vehicles   of
+communication, viz, Print media advertising, Audio Visual            advertising, printed
+publicity, exhibitions, outdoor publicity and mass mailing.
+
+The DAVP is headed by Director General who is assisted by 2 Additional Director
+Generals and other officials. At it’s headquarter it consists of a Campaign Wing.
+Advertising Wing, Printed Publicity Wing, Exhibition Wing, Electronic Data Processing
+Center, Mass Mailing Unit, Audio-Visual Cell, a Design Studio and Administration and
+Accounts Wings.
+
+
+
+
+                                                                                         75
+   iv) Registrar of Newspapers for India
+
+The Office of the Registrar of Newspapers for India, more popularly known
+as RNI came into being on 1st July, 1956, on the recommendation of the First
+Press Commission in 1953 and by amending the Press and Registration of Books
+Act 1867. The Press and Registration of Books Act contain the duties and
+functions of the RNI. On account of some more responsibilities entrusted upon
+RNI during all these years, the office is performing both statutory as well as
+some non-statutory functions. Some of the functions are –
+
+   •   Compilation and maintenance of a Register of Newspapers containing
+       particulars about all the newspapers published.
+   •   Issue of Certificate of Registration to the newspapers published under
+       valid declaration;
+   •   Scrutiny and analysis of annual statements sent by the publishers of
+       newspapers every year under Section 19-D of the Press and Registration of
+       Books Act containing information on circulation, ownership etc;
+   •   Informing the District Magistrates about availability of titles, to intending
+       publishers for filing declaration;
+   •   Ensuring that newspapers are published in accordance with the provisions
+       of the Press and Registration of Books Act 1867 and the Rules made there
+       under.
+   •   Verification under Section 19-F of the PRB Act, of circulation claims
+       furnished by the publishers in their Annual Statements; and
+   •   Preparation   and    submission      to   the   Government   on   or   before
+       31st December each year, a report containing all available information
+       and statistics about the press in India with particular reference to the
+       emerging trends in circulation and in the direction of common ownership
+       units etc.
+
+
+
+                                                                                       76
+   •   Formulation of Newsprint Allocation Policy - Guidelines and issue of
+       Eligibility Certificate to the newspapers to enable them to import
+       newsprint and to procure indigenous newsprint.
+   •   Assessing and certifying the essential need and requirement of newspaper
+       establishments to import printing and composing machinery and allied
+       materials.
+
+   v) Directorate of Field Publicity
+
+Directorate of Field Publicity with its headquarters in New Delhi is the largest
+rural oriented interpersonal communication medium in the country. It operates
+as a two-way channel for dissemination of information among masses and
+gathering feed back for the Government. It acts as a bridge between the people
+and the Government. Established in 1953 as ‘Five Year Plan Publicity
+Organization’ with the sole objective of publicity of Five Year Plans, the
+Directorate assumed its present format and role in 1959 with its publicity scope
+widened and made all inclusive. Over the years, its areas of operation as also its
+aims and objectives have been diversified. Briefly they are:- (a) to inform,
+educate, motivate and involve the people, especially at the grass root level, in
+the process of development so that the vision of the framers of the Constitution
+as outlined in its preamble is realized. (b) to generate public opinion for the
+implementation      of   developmental   programmes      and   mobilize    popular
+participation in the process of nation building. (c) to keep the public, especially
+the weaker, the marginalized and the remotely placed people informed about
+the policies and the programme of the Government and generate awareness on
+several national and social issues of relevance. (d) to keep the Government
+informed of the people’s reactions to its programmes and policies and their
+implementation at the field level thereby facilitating corrective measures as and
+when required.
+
+
+
+
+                                                                                      77
+   vi) Press Council of India
+
+Press Council is a statutory quasi-judicial authority mandated by the Parliament
+to preserve the freedom of the press and maintain and improve the standards of
+newspapers and the news agencies in India. It is an autonomous body with equal
+quasi judicial authority over the authorities and the press persons.
+
+The Council discharges its functions primarily through adjudications on
+complaint cases received by it, either against the Press for violation of
+journalistic ethics or by the Press for interference with its freedom. Where the
+Council is satisfied, after inquiry, that a newspaper or a news agency has
+offended against the standards of journalistic ethics or public taste or that an
+editor or working journalist has committed any professional misconduct, the
+Council may warn, admonish or censure them or disapprove of their conduct.
+The Council is also empowered to make such observations as it may think in
+respect of the conduct of any authority, including Government, for interfering
+with the freedom of the press. The decisions of the Council are final and cannot
+be questioned in any court of law.
+
+The Press Council of India has been entrusted by the Parliament with the additional
+responsibility of functioning as an Appellate Authority under Section 8 (c) under the
+PRB Act 1867 and the Appellate Board comprising of the Chairman of the Council and
+another member meet regularly to hear the Appeals before it.
+
+   vii)Film Certification Appellate Tribunal
+
+The Film Certification Appellate Tribunal (FCAT) is a statutory body, constituted vide
+Section 5D of the Cinematograph Act, 1952 under the Ministry of Information and
+Broadcasting, Government of India. The Tribunal hears the appeals filed under
+Section 5C of the Act under which any applicant for a Certificate in respect of a film
+who is aggrieved by an order of the Central Board of Film Certification (CBFC), can
+
+
+
+                                                                                   78
+file an Appeal before the Tribunal. The Tribunal has its headquarters in New
+Delhi. The Tribunal has a Secretary to look after its day to day affairs.
+
+   viii)   Central Board of Film certification
+
+Central Board of Film certification (CBFC) with its headquarters at Mumbai is
+responsible for certifying the films produced in India as well as outside the country
+suitable for public exhibition. The Board gives four categories of certificates "U" for
+unrestricted public exhibition, "A" for public exhibition restricted to adults only,
+"UA" for unrestricted public exhibition with parental guidance for children below the
+age of 12 and "S" for exhibition to restricted audience such as doctors etc. These
+certificates are issued through the Regional Offices of the Board located at
+Bangalore, Calcutta, Chennai, Cuttack, Guwahati, Hyderabad, Mumbai, New Delhi
+and Thiruvananthapuram. Appeal against the decision of the Board lies with the Film
+Certification Appellate Tribunal. The enforcement of the penal provisions of the
+Cinematograph     Act,   1952   is   with   the   State   Governments/Union   Territory
+Administrations, since exhibition of films is a State subject.
+
+   ix) The Advertising Standards Council of India
+
+The Advertising Standards Council of India (ASCI) is a self regulatory voluntary
+organization of the advertising industry. It was set up in October 1985. The ASCI and
+its Consumer Complaints Council deals with complaints received from consumers and
+industry, against Ads which are considered as False, Misleading, Indecent, Illegal,
+leading to Unsafe practices, or Unfair to competition, and             consequently in
+contravention of the ASCI Code for Self-Regulation in Advertising. The representatives
+of Indian Society of Advertisers, the Advertising Agencies Association of India and the
+Indian Newspapers Society have set up the Council to self-regulate the content of
+advertisements. The Code of the Council for Self-Regulation in Advertising specifies
+that all advertising should be truthful, honest, decent, legal and safe for consumers
+particularly minors, and fair to the competition.
+
+
+                                                                                      79
+   x) Copyright Board
+
+The Copyright Board, a quasi-judicial body, was constituted in September 1958. The
+jurisdiction of the Copyright Board extends to the whole of India. The Board is
+entrusted with the task of adjudication of disputes pertaining to copyright
+registration, assignment of copyright, grant of Licenses in respect of works withheld
+from public, unpublished Indian works, production and publication of translations and
+works for certain specified purposes. It also hears cases in other miscellaneous
+matters instituted before it under the Copyright Act, 1957. The meetings of the Board
+are held in five different zones of the country. This facilitates administration of
+justice to authors, creators and owners of intellectual property including IP attorney’s
+near their place of location or occupation.
+
+
+   xi) Telecom Regulatory Authority of India
+
+The entry of private service providers brought with it the inevitable need for
+independent regulation. The Telecom Regulatory Authority of India (TRAI) was, thus,
+established with effect from 20th February 1997 by an Act of Parliament, called the
+Telecom Regulatory Authority of India Act, 1997, to regulate telecom services,
+including fixation/revision of tariffs for telecom services which were earlier vested in
+the Central Government. TRAI's mission is to create and nurture conditions for growth
+of telecommunications in the country in a manner and at a pace which will enable
+India   to   play   a   leading   role   in   emerging   global   information   society.
+One of the main objectives of TRAI is to provide a fair and transparent policy
+environment which promotes a level playing field and facilitates fair competition.
+
+
+
+
+                                                                                       80
+                              10.       CASE LAWS
+
+i) Sakal Papers Ltd. v. Union of India [4]
+
+   In this case, the Daily Newspapers (Price and Control) Order, 1960, which fixed
+   a minimum price and number of pages, which a newspaper is entitled to
+   publish, was challenged as unconstitutional. The State justified the law as a
+   reasonable restriction on a business activity of a citizen. The Supreme Court
+   struck down the Order rejecting the State’s argument. The Court opined that,
+   the right of freedom of speech and expression couldn’t be taken away with the
+   object of placing restrictions on the business activity of the citizens. Freedom
+   of speech can be restricted only on the grounds mentioned in clause (2) of
+   Article 19.
+
+ii) K. A. Abbas v. Union of India
+
+   The petitioner for the first time challenged the validity of censorship as
+   violative of his fundamental right of speech and expression. The Supreme Court
+   however observed that, pre-censorship of films under the Cinematograph Act
+   was justified under Article 19(2) on the ground that films have to be treated
+   separately from other forms of art and expression because a motion picture
+   was able to stir up emotions more deeply and thus, classification of films
+   between two categories ‘A’ (for adults only) and ‘U’ (for all) was brought
+   about.
+
+iii) Bobby Art International v. Om Pal Singh Hoon
+
+   The Supreme Court re-affirmed the afore-mentioned view and upheld the order
+   of the Appellate Tribunal (under the Cinematograph Act) which had followed
+
+
+
+                                                                                81
+   the Guidelines under the Cinematograph Act and granted an ‘A’ certificate to a
+   film.
+
+iv) Hamdard Dawakhana v. Union of India
+
+   The Supreme Court was faced with the question as to whether the Drug and
+   Magic Remedies Act, which put restrictions on the advertisements of drugs in
+   certain cases and prohibited advertisements of drugs having magic qualities for
+   curing diseases, was valid as it curbed the freedom of speech and expression of
+   a person by imposing restrictions on advertisements. The Supreme Court held
+   that, an advertisement is no doubt a form of speech and expression but every
+   advertisement is not a matter dealing with the expression of ideas and hence
+   advertisement of a commercial nature cannot fall within the concept of Article
+   19(1)(a).
+
+v) Tata Press Ltd. v. Mahanagar Telephone Nigam Ltd.
+
+   A three judge bench of the Supreme Court differed from the view expressed in
+   the Dawakhana case and held that ‘commercial advertisement’ was definitely a
+   part of Article 19(1)(a) as it aimed at the dissemination of information
+   regarding the product. The Court, however, made it clear that the government
+   could regulate commercial advertisements, which are deceptive, unfair,
+   misleading and untruthful.
+
+
+
+
+                                                                               82
+           11.       PROFESSIONAL OPPORTUNITIES IN THE MEDIA INDUSTRY
+
+In India the Media and Entertainment industry comprises of the following segments:
+
+   •   Television
+   •   Print
+   •   Films
+   •   Radio
+   •   Music
+   •   Animation
+   •   Gaming
+   •   Advertising – internet and outdoor
+Professional opportunities in Indian media and entertainment industry are enormous.
+Most media organizations in India are in the private sector, while quite a few are
+owned by the government. Media organizations which are directly under the control
+of central government comes under the Ministry of Information and Broadcasting. The
+government media units in which one can seek opportunities are: Akashvani (All India
+Radio), Prasar Bharti, Doordarshan, Direct to Home, Press information bureau,
+Publication Division, Photo Division, Registrars of newspapers, Directorate of
+advertising and Visual Publicity, Press Council of India, Song and Drama Division, Film
+Division, National Film Archive of India, Directorate of Film festivals, National Film
+Development Corporation, Central Board of Film Certification, Children’s Film society
+etc.
+The Indian press, is predominantly in private hands. News agencies like Press Trust of
+India, United News of India, Hindustan Samachar and Samachar Bharati, form the
+major sources for disseminating information to the public.
+
+Besides the government agencies, Media companies, industrial houses and start-ups
+backed by venture money are all launching newspapers, magazines and television
+channels. In the film industry, technical jobs include story and script writing for film
+and television, copywriting for advertisements, cinematography, photography, Sound
+mixing and recording, direction of films and promotional ventures etc.
+                                                                                     83
+Advertising industry is another major employer for media professionals.
+
+Indian media and entertainment industry is one of the fastest growing in the world
+and has the largest output by any media industry in the world. Raised regulations,
+quality content development, competitive pricing, increased consumer base and
+significant marketing, creative use of technology and work effectiveness are driving
+the growth of this industry. Many media companies in India have grown up speedily
+and are recruiting newer and younger talent for increased efficiency and creativity.
+The challenges and scope for growth for those who decide to make a career for
+themselves in the field of media and entertainment are varied and endless.
+
+The Indian media and entertainment industry being one of the fastest growing sectors
+in the country provides ample opportunities for professionals. Some of the
+opportunities are -
+
+   1. Obtaining registration under the media related laws
+   2. Advisory on all aspects of contractual agreements pertaining to media laws.
+   3. Legal compliance audit.
+   4. Advisory on issues arising out of Intellectual property transfers and assignment
+      rights for distributors, productions and fiscal arrangements for media
+      corporations and individuals.
+   5. Maintenance of accounts.
+   6. Internal audit
+   7. Information Systems Audit
+   8. Audit of accounts
+
+   9. Advisory on mergers and acquisitions
+   10. Advisory on foreign investment and FEMA related compliances
+
+   11. Representation before authorities
+   12. Advisory on codes and guidelines applicable to the media industry
+
+
+
+
+                                                                                    84
+                               12.        USEFUL WEBSITES
+
+www.mib.nic.in – Ministry of Information and Broadcasting, Govt. Of India
+http://www.trai.gov.in/ - Telecom Regulatory Authority of India
+www.pib.nic.in – Press Information Bureau
+
+https://rni.nic.in/ - Registrar of Newspapers for India
+www.allindiaradio.org – All India Radio
+
+www.ddindia.gov.in - Doordarshan
+http://rrtd.nic.in/ - Research, Reference and Training Division (RR&TD)
+
+http://publicationsdivision.nic.in - Publications Division (PD)
+
+http://photodivision.gov.in – Photo Division
+www.davp.nic.in - Directorate of Advertising & Visual Publicity
+http://presscouncil.nic.in/ - Press Council of India
+http://iimc.nic.in – Indian Institute of Mass Communication
+
+http://mib.nic.in/fcat/default.htm - Film Certification Appellate Tribunal
+www.copyright.gov.in – Copyright office, India
+www.dff.nic.in - Directorate of Film Festivals
+www.cbfcindia.gov.in - Central Board of Film certification
+www.becil.com – Broadcast Engineering Consultant India Ltd.
+
+http://www.ijuindia.org/wjact.html - Indian Journalists Union
+http://www.ascionline.org/ - Advertising Standards Council of India
+http://www.nbanewdelhi.com - News Broadcasters Association
+www.wapconline.org - World Association of Press Councils
+
+
+
+
+                                                                             85
+About the Author
+
+
+
+
+                                                             CA Rajkumar S. Adukia
+                B. Com. (Hons.), FCA, ACS, AICWA, LL.B, Dip.IFR (UK), MBA, DIPR, DLL&LP
+                                              Mobile +91 98200 61049/+91 93230 61049
+                                                                    Fax +91 22 26765579
+                                                            Email rajkumarfca@gmail.com
+                                                                             www.caaa.in
+
+
+Mr. Rajkumar Adukia is an eminent business consultant, academician, writer, and
+speaker. He is a rank holder from Bombay University and did his graduation from
+Sydenham College of Commerce & Economics. He passed the Chartered Accountancy,
+Company secretary and Cost Accountancy Course and was among the top rank holders
+in the courses. Mr. Adukia also holds a degree in law. He has been involved in the
+activities of the Institute of Chartered Accountants of India (ICAI). In addition to being
+a Council Member of the ICAI, he is actively involved in various committees of ICAI.
+
+He has been coordinating with various professional institutions, associations’
+universities, University Grants Commission and other educational institutions and has
+actively participated with accountability and standards-setting organizations in India
+and at the international level. He is constantly engaged in knowledge development
+and has done extensive study and given various presentations and seminars on the
+subject of Corporate Social Responsibility and Corporate Governance.
+
+Based on his rich experience, he has written numerous articles on varied topics in
+finance, real estate, International Trade, Climate Change and Carbon Credits
+Mechanism etc. His authoritative articles appear in financial papers like Business
+India, Financial Express, Economic Times and professional and business magazines. He
+has authored several books on vast range of topics. His books are known for their
+practicality and for their proactive approaches to meeting practice needs.
+                                                                                       86
+Mr. Adukia is a frequent speaker at seminars and conferences organized by the
+Institute of Chartered Accountants of India, various chambers of Commerce, income
+tax offices and other professional and industry associations.        He has extensive
+experience as a speaker, moderator and panelist at workshops and conferences held
+for both students and professionals across the country and abroad.
+
+
+
+
+                                                                                   87
+

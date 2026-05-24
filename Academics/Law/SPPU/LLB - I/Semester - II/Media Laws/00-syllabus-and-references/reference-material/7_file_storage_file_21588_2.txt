@@ -1,0 +1,1328 @@
+               Media law: Pitfalls and
+    3          protections for the media
+               In this chapter you will learn:
+                The internationally accepted grounds for regulating certain forms of expression
+                   by the media
+                The internationally accepted grounds for prohibiting the publication of certain
+                   forms of expression by the media
+                Laws that hinder the media in performing its various roles
+                Laws that assist the media in performing its various roles
+
+
+
+
+1    INTRODUCTION
+It is clear that freedom of the press is not absolute. This chapter looks in some detail
+at the internationally accepted standards for restricting the media. It outlines the
+legitimate grounds upon which the media can be restricted and how such restrictions
+are implemented. This chapter identifies 14 instruments, charters, resolutions or
+declarations adopted by international bodies such as the United Nations (UN), the
+European Union (EU), and the African Union (AU), as well as those adopted at
+significant conferences held under the auspices of international bodies such as United
+Nations Education, Scientific and Cultural Organisation UNESCO. Others have been
+established by non-governmental organisations (NGOs) with long-standing records of
+work in the area of freedom of expression and freedom of the press, such as the inter-
+national NGO, Article 19. These instruments (many of which have a particular focus
+on Africa) deal with, among other things, the legitimate grounds for regulating or
+restricting certain forms of expression.
+
+Since this handbook is aimed at journalists and other media practitioners as opposed
+to lawyers, the content of the instruments, charters and declarations is not set out as
+a whole, as these typically deal with a wide range of topics besides the media. Instead,
+we detail the key grounds upon which expression, including by the media, may be
+regulated. It is also important to note that the list of instruments referred to does not
+purport to contain every instrument, charter or declaration relevant to democratic
+
+                                             63
+64        MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+media restriction. Rather, it is a selection of the key instruments, charters or
+declarations made by bodies of international standing, some of which have particular
+(but not exclusive) relevance for Africa.
+
+The selected instruments, charters, protocols and declarations to be discussed are in
+alphabetical order:
+
+ The African Charter on Broadcasting: The African Charter on Broadcasting was
+  adopted in 2001 by participants at a UNESCO conference to mark the 10th
+  anniversary of the Windhoek Declaration. While the Windhoek Declaration
+  focuses mainly on the print media, the African Charter on Broadcasting focuses
+  on the broadcast media.
+
+ The African Principles of Freedom of Expression Declaration: The Declaration of
+  Principles on Freedom of Expression in Africa was adopted in 2002 by the African
+  Commission on Human and Peoples’ Rights (ACHPR), a body established under
+  the auspices of the AU.
+
+ The American Convention on Human Rights: The American Convention on
+  Human Rights, otherwise known as the Pact of San José, was adopted by the
+  nations of the Americas in 1969 and came into force in 1978.
+
+ The Camden Principles on Freedom of Expression and Equality: The Camden
+  Principles on Freedom of Expression and Equality were prepared by Article 19
+  on the basis of an international conference held in 2009 to discuss freedom of
+  expression and equality issues. They aim to promote greater consensus about the
+  proper relationship between freedom of expression and the promotion of
+  equality.
+
+ The European Convention for the Protection of Human Rights and Fundamental
+  Freedoms: The European Convention for the Protection of Human Rights and
+  Fundamental Freedoms was adopted in 1950 under the auspices of the Council of
+  Europe.
+
+ The International Convention on the Elimination of All Forms of Racial
+  Discrimination: The International Convention on the Elimination of All Forms of
+  Racial Discrimination was adopted by the UN General Assembly in 1965 and
+  came into force in 1969.
+
+ The International Covenant on Civil and Political Rights: The ICCPR was
+  adopted by the UN General Assembly in 1966 and came into force in 1976.
+                                      MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   65
+
+
+
+
+ The Johannesburg Principles: The Johannesburg Principles on National Security,
+  Freedom of Expression and Access to Information were adopted in October 1995
+  by a panel of experts in international law, national security and human rights, and
+  convened by Article 19, the International Centre Against Censorship and the
+  Centre for Applied Legal Studies of the University of the Witwatersrand.
+  The Johannesburg Principles have been endorsed by the UN Committee on
+  Human Rights and the UN Special Rapporteur on Freedom of Opinion and
+  Expression.
+
+ Midrand Declaration: The Midrand Declaration on Press Freedom in Africa was
+  adopted by the Pan African Parliament (PAP) in 2013 and launched the PAP’s
+  campaign on Press Freedom for Development and Governance: Need for Reform,
+  in all five regions in Africa and called upon the AU member states to use the Model
+  Law on Access to Information drafted by the ACHPR.
+
+ Resolution on Press Freedom for Development and Governance: Need for
+  Reform: This resolution was adopted by the PAP in 2012. Among other things it
+  urges AU member states to: contribute positively in reform efforts that relate to
+  media freedom; repeal laws that oppress journalists and adopt the Model Law on
+  Access to Information drafted by the ACHPR.
+
+ Resolution 169: Resolution 169 on Repealing Criminal Defamation Laws in
+  Africa was adopted by the ACHPR in 2010. Resolution 169 calls on state parties
+  to the African Charter on Human and Peoples’ Rights to repeal criminal
+  defamation laws or insult laws which impede freedom of speech.
+
+ The Table Mountain Declaration: The Table Mountain Declaration was adopted
+  in 2007 by the World Association of Newspapers and the World Editors’ Forum.
+  It contains a number of important statements on African media issues made by a
+  civil society forum of newspaper publishers and editors.
+
+ UNESCO’s Media Development Indicators: UNESCO’s International Programme
+  for the Development of Communications published a document in 2008 entitled
+  ‘Media Development Indicators: A Framework for Assessing Media Develop-
+  ment’. This set of indicators clearly articulates appropriate grounds for limiting
+  the media’s freedom of expression.
+
+ The WSIS Geneva Principles: The WSIS Geneva Principles were adopted in
+  Geneva in 2003 at the World Summit on the Information Society (WSIS) held by
+  the UN in conjunction with the International Telecommunications Union. While
+  the WSIS Geneva Principles mainly cover issues concerning universal access to
+66         MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+     information and communications technology, they do contain some important
+     statements on the media more generally.
+
+After reviewing the relevant instruments, charters, protocols, resolutions and
+declarations, the chapter takes a closer look at media law itself and examines the
+kinds of laws that hinder the media when reporting on news and current affairs, as
+well as the kinds of laws that assist the media in performing its functions. This lays
+the basis for the chapters that follow, which deal with the media laws applicable to
+specific Eastern African countries.
+
+
+2     RESTRICTING FREEDOM OF EXPRESSION
+This section looks at the international standards for restricting freedom of expression
+generally. It does not identify specific types of expression that are legitimate to
+regulate or restrict; instead, it focuses on the manner in which expression may be
+legitimately regulated or restricted, and what kinds of interference or restrictions are
+illegitimate, or not, according to internationally accepted standards.
+
+The specific grounds for restriction are examined in the next section.
+
+
+2.1 Relevant provisions in international instruments
+ Article 3 of the American Convention provides that ‘[t]he right to freedom of
+  expression may not be restricted by indirect methods or means, such as the abuse
+  of government or private controls over newsprint, radio broadcasting frequencies,
+  or equipment used in the dissemination of information, or by any other means
+  tending to impede the communications and circulation of ideas and opinions’.
+
+ Article II(2) of the African Principles of Freedom of Expression Declaration
+  provides that ‘[a]ny restrictions on freedom of expression shall be provided by
+  law, serve a legitimate interest and be necessary in a democratic society’.
+
+ Article XIII(1) of the African Principles of Freedom of Expression Declaration
+  provides that ‘[s]tates shall review all criminal restrictions on content to ensure
+  that they serve a legitimate interest in a democratic society’.
+
+ The UNESCO Media Development Indicators provide that ‘restrictions upon
+  freedom of expression ... should be clear and narrowly defined in law and
+  justifiable as necessary in a democratic society in accordance with international
+  law and that such laws should be subject to a public interest override where
+  appropriate’.
+                                        MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   67
+
+
+
+
+ The UNESCO Media Development Indicators provide that the state ‘may not
+  place unwarranted legal restrictions on the media such as legal provisions dictating
+  who may practice journalism or requiring the licensing or registration of journa-
+  lists’.
+
+ The UNESCO Media Development Indicators provide that neither broadcasting nor
+  print content may be ‘subject to prior censorship, either by government or by regu-
+  latory bodies’, and require that ‘sanctions for breaches of regulatory rules relating to
+  content are applied only after the material has been broadcast or published’.
+
+ The UNESCO Media Development Indicators provide that there can be no ‘expli-
+  cit or concealed restrictions upon access to newsprint, to distribution networks or
+  printing houses’.
+
+ Principle 11 of the Camden Principles provides that states should not impose any
+  restrictions on freedom of expression ‘... [unless these are] provided by law’ and
+  ‘[are] necessary in a democratic society to protect [legitimate] interests. This
+  implies ... that restrictions [must be]’:
+       Clearly and narrowly defined and respond to a pressing social need
+       The least intrusive measure available, in the sense that there is no
+          other measure which would be effective and yet less restrictive of
+          freedom of expression
+       Not overbroad, in the sense that they must not restrict speech in a
+          wide or untargeted way or beyond the scope of harmful speech and
+          rule out legitimate speech
+       Proportionate, in the sense that the benefit to the protected interest
+          outweighs the harm to freedom of expression, including in respect to
+          the sanctions they authorise.
+
+
+2.2 Summary
+ The right to freedom of expression may not be restricted by indirect methods, in
+  particular by:
+      The abuse of control over access to media-related materials such as
+         newsprint, printing materials, printing facilities, distribution
+         networks, radio broadcasting frequencies and equipment, including
+         through the imposition of import duties and other means
+      Requiring the licensing or registration of journalists.
+
+ Legitimate restrictions on freedom of expression must be clearly set down in law
+  and must:
+68        MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+       Be narrowly defined and targeted
+       Serve a legitimate interest. In other words, serve a pressing social
+        need (these legitimate interests or social needs are dealt with in the
+        next section)
+       Be necessary in a democratic society
+       Be the least intrusive measure available
+       Be proportionate
+       Be in accordance with international law
+       Be subject to a public interest override where appropriate.
+
+ Illegitimate legal restrictions on freedom expression include those that:
+       Require prior censorship. In other words, a process of approval of
+          content by a government or regulatory body prior to publication.
+          (Although, as will be dealt with in more detail in the next section,
+          there are certain limited circumstances when prior censorship would
+          be acceptable, namely, to determine age restrictions for films or
+          during wartime or a state of emergency)
+       Give special protections to officials and institutions.
+
+
+2.3 Comment
+ One of the most important aspects to bear in mind is that the tests for determining
+  whether or not a media restriction is legitimate, which are set out above, are
+  objective. This means that a court can enquire as to whether or not there is or was,
+  in reality, a genuine pressing social need for the restriction of the publication of
+  information by the media. Consequently, laws that allow for officials to restrict
+  publication of information by the media based on their ‘opinion’ as to, for
+  example, whether or not there is a pressing social need for such restrictions,
+  would not be legitimate. This is important as many national laws allow for
+  officials (particularly in the security forces or elsewhere in the executive) to
+  restrict the publication of information by the media on the mere say so of these
+  officials without there being any requirement of an objective pressing social need.
+  Needless to say, such national laws are not in accordance with internationally
+  accepted standards for restricting the media.
+
+ It is important to bear in mind that the cumulative tests for a legitimate restriction
+  on the media’s right to publish or broadcast information are that the restriction
+  must be clearly set down in law and must:
+        Be narrowly defined and targeted
+        Serve a legitimate interest, that is, serve a pressing social need
+        Be necessary in a democratic society
+                                        MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   69
+
+
+
+
+        Be the least intrusive measure available
+        Be proportionate
+        Be in accordance with international law
+        Be subject to a public interest override where appropriate.
+
+    These tests apply in relation to every instance of such a restriction. Consequently,
+    when reading the next section setting out pressing social concerns constituting
+    legitimate grounds for such restrictions, one needs to bear in mind that this is just
+    one of the tests and that all the others must be present at all times for such
+    restrictions to be legitimate.
+
+
+3     REGULATING AND PROHIBITNG THE DISSEMINATION OF CERTAIN FORMS OF
+      EXPRESSION BY THE MEDIA
+It was noted in the previous section that states must have legitimate grounds for regu-
+lating and restricting freedom of expression, including by the media. This section looks
+at the 14 internationally accepted specific grounds for such regulations or restrictions.
+
+These are the 14 grounds upon which there is broad international agreement on the
+legitimacy of restricting the media’s publication of such content or otherwise
+regulating the media. Each ground is dealt with, setting out the relevant provisions of
+the applicable international instruments, statements and declarations. A summary
+and/or comment are provided where necessary.
+
+The 14 legitimate grounds for regulating, including the prohibition of, the dissemina-
+tion of certain forms of expression by the media are:
+
+ Licensing and regulation of broadcasting and cinema
+ Protection of reputations
+ Protection of rights of others generally
+ Protection of privacy
+ Obscenity and the protection of children and morals
+ Propaganda for war
+ Hate speech or discriminatory speech
+ National security or territorial integrity
+ War or state of emergency
+ Protection of public order or safety
+ Protection of public health
+ Maintaining the authority and impartiality of the judiciary
+ For the prevention of crime
+ Preventing the disclosure of information received in confidence.
+70         MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+3.1 Legitimate licensing and regulation of broadcasting and cinema
+3.1.1 Relevant provisions in international instruments
+Article 10(1) of the European Convention on Human Rights specifically provides that
+the article, which protects the right to freedom of expression, ‘shall not prevent States
+from requiring the licensing of broadcasting, television or cinema enterprises’.
+
+
+3.1.2 Comment
+ Although this restriction is mentioned in only one international instrument, it is
+  important to note that a licensing requirement in respect of broadcasting
+  (television or radio) or cinema enterprises is not, without more, an abuse of the
+  media’s right to disseminate information to the public. Indeed, as broadcast media
+  in Africa generally makes use of a scarce and finite natural resource, namely the
+  radio frequency spectrum (because cable broadcasting is not widely used in
+  Africa), licensing is essential to avoid inevitable interference, which would result
+  in no broadcast media being available to the public. Without licensing, it would be
+  impossible to regulate the use of the radio frequency spectrum effectively, and the
+  level of radio interference would be such that no one would be able see or hear
+  any broadcasting service at all.
+
+
+3.2 Protecting reputations
+3.2.1 Relevant provisions in international instruments
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in
+  a democratic society ... for the protection of the reputation ... of others ...’.
+
+ Article 19(3)(a) of the ICCPR specifically provides in its relevant part that the
+  exercise of the right to freedom of expression ‘may be subject to certain
+  restrictions, but these shall only be such as are provided by law and are necessary
+  for respect of the ... reputations of others’.
+
+ Article 2(a) of the American Convention provides that the right to freedom of
+  expression ‘shall not be subject to prior censorship but shall be subject to
+  subsequent imposition of liability, which shall be expressly established by law to
+  the extent necessary to ensure respect for the ... reputations of others’.
+
+ Article XII(1.) of the African Principles of Freedom of Expression Declaration
+                                       MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   71
+
+
+
+
+   provides in its relevant part that ‘[s]tates should ensure that their laws relating to
+   defamation conform to the following standards’:
+       No one shall be found liable for true statements, opinions or
+         statements regarding public figures which it was reasonable to make
+         in the circumstances.
+       Public figures shall be required to tolerate a greater degree of
+         criticism.
+       Sanctions shall never be so severe as to inhibit the right to freedom
+         of expression, including by others.
+
+ The Table Mountain Declaration provides that African states must abolish ‘insult
+  and criminal defamation laws’.
+
+ Resolution 169 of the ACHPR calls on state parties to the AU Charter to ‘repeal
+  criminal defamation or insult laws which impede freedom of speech’.
+
+ UNESCO’s Media Development Indicators provide that defamation laws must
+  ‘impose the narrowest restrictions necessary to protect the reputation of
+  individuals’. In this regard, UNESCO’s Media Development Indicators set out the
+  characteristics of appropriate defamation laws, including that:
+      They do not inhibit public debate about the conduct of officials or
+         official entities
+      They provide for sufficient legal defences such as:
+              • The statement was an opinion not an allegation of fact
+              • The publication/broadcasting was reasonable or in the public
+                 interest
+              • That it occurred during a live transmission
+              • That it occurred before a court or elected body
+      They provide for a regime of remedies that allow for proportionate
+         responses to the publication or broadcasting of defamatory state-
+         ments
+      The scope of defamation laws is defined as narrowly as possible,
+         including as to who may sue
+      Defamation law suits cannot be brought by public bodies, whether
+         legislative, executive or judicial
+      The burden of proof falls upon the plaintiff in cases involving
+         the conduct of public officials and other matters of public
+         interest
+      There is a reasonable cut-off date after which plaintiffs can no longer
+         sue for an alleged defamation.
+72        MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+3.2.2 Summary
+ While protecting the reputations of others is a legitimate ground for regulating or
+  even prohibiting expression by the media, laws relating to defamation:
+      Must not:
+            • Criminalise defamation but instead ought to impose post-
+               publication civil sanctions, such as damages awards. It is
+               interesting to note that the African Court of Human and
+               Peoples’ Rights1 has recently held that ‘[a]part from serious
+               and very exceptional circumstances … violations of laws on
+               freedom of speech and the press cannot be sanctioned by
+               custodial sentences’.2 The effect of this judgment is to echo
+               the international standards that financial penalties are an
+               appropriate mechanism for punishing defamatory statements
+            • Inhibit public debate about the conduct of officials or official
+               entities who are required to tolerate a greater degree of
+               criticism than ordinary members of the public
+            • Allow defamation law suits to be brought by public bodies,
+               whether legislative, executive or judicial.
+
+       Must:
+          • Provide for legal defences to a defamation suit including that:
+                  – The statement was true and was made in the public
+                     interest
+                  – The statement was an opinion not an allegation of fact
+                  – Publication/broadcasting was reasonable or in the
+                     public interest
+                  – It occurred during a live transmission
+                  – It occurred before a court or elected body
+          • Provide for a range of appropriate and proportionate
+              remedies for the publication of defamatory material
+          • Ensure the burden of proof falls upon the plaintiff in cases
+              involving the conduct of public officials and other matters of
+              public interest
+          • Ensure there is a reasonable cut-off period after which
+              plaintiffs can no longer sue for an alleged defamation.
+
+
+3.2.3 Comment
+The summary of the contours of internationally accepted standards for defamation
+law clearly lays out a progressive vision which puts the public interest ahead of the
+                                          MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   73
+
+
+
+
+reputations of, particularly, public figures. The reality, however, is that all Eastern
+African countries’ defamation laws fall far short of these standards, as will be seen in
+the country chapters.
+
+
+3.3 Protecting the rights of others generally
+3.3.1 Relevant provisions in international instruments
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in
+  a democratic society ... for the protection of the ... rights of others ...’.
+
+ Article 19(3)(a) of the ICCPR specifically provides in its relevant part that the
+  exercise of the right to freedom of expression ‘may be subject to certain
+  restrictions, but these shall only be such as are provided by law and are necessary
+  for respect of the rights ... of others.’
+
+ Article 58 of the WSIS Geneva Principles provides that the ‘[t]he use of ICTs and
+  content creation should respect human rights and fundamental freedoms of
+  others, including ... the right to freedom of thought, conscience and religion in
+  conformity with relevant international instruments’.
+
+
+3.3.2 Comment
+ The wording of this ground is extremely vague and usually will be subsumed
+  under other more specific grounds, such as reputation, privacy or morality. It is
+  included here because it features in at least three international instruments.
+
+
+3.4 Protecting privacy
+3.4.1 Relevant provisions in international instruments
+ Article XII(2) of the Principles of African Freedom of Expression Declaration
+  provides that privacy laws ‘shall not inhibit the dissemination of information of
+  public interest’.
+
+ Article 58 of the WSIS Geneva Principles provides that ‘[t]he use of ICTs and
+  content creation should respect human rights and fundamental freedoms of
+  others, including personal privacy ... in conformity with relevant international
+  instruments’.
+74         MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+ The UNESCO Media Development Indicators provide that ‘restrictions upon
+  freedom of expression ... based on ... privacy ... should be clear and narrowly
+  defined in law and justifiable as necessary in a democratic society in accordance
+  with international law and that such laws should be subject to a public interest
+  override where appropriate’.
+
+ In paragraph (xiii) of the Resolution on Press Freedom for Development and Gover-
+  nance: Need for Reform, the PAP resolves to ‘contribute to the process of drafting
+  clear policies for ensuring the privacy … aspects that are related to the media’.
+
+
+3.4.2 Comment
+ Public figures, particularly in government, have less reason for claiming a right to
+  privacy due to the public nature of their chosen positions.
+
+
+3.5 Regulating obscenity and protecting children and morals
+3.5.1 Relevant provisions in international instruments
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in
+  a democratic society ... for the protection of ... morals ...’.
+
+ Article 19(3)(b) of the ICCPR specifically provides in its relevant part that the
+  exercise of the right to freedom of expression ‘may be subject to certain
+  restrictions, but these shall only be such as are provided by law and are necessary
+  for the protection of ... morals ...’.
+
+ Article 2(b) of the American Convention provides in its relevant part that the right
+  to freedom of expression ‘shall not be subject to prior censorship but shall be
+  subject to subsequent imposition of liability, which shall be expressly established
+  by law to the extent necessary to ensure ... the protection of ... morals’.
+
+ Article 3 of the American Convention specifically provides that ‘public enter-
+  tainments may be subject by law to prior censorship for the sole purpose of
+  regulating access to them for the moral protection of childhood and adolescence’.
+
+ Article 59 of the WSIS Geneva Principles provides that ‘[a]ll actors in the
+  Information Society should take appropriate actions and preventive measures as
+  determined by law, against abusive uses of ICTs such as ... all forms of child abuse,
+                                          MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   75
+
+
+
+
+   including paedophilia and child pornography, and trafficking in, and exploitation
+   of, human beings’.
+
+ The UNESCO Media Development Indicators provide that ‘restrictions upon
+  freedom of expression ... based on ... obscenity should be clear and narrowly
+  defined in law and justifiable as necessary in a democratic society in accordance
+  with international law and that such laws should be subject to a public interest
+  override where appropriate’.
+
+
+3.5.2 Summary
+ While protecting children and morality are both legitimate grounds for regulating
+  or even prohibiting expression, particularly of obscene materials, by the media,
+  this cannot prevent the publication of information in the public interest.
+
+ Regulating access to public entertainments (such as films, whether to be shown in
+  cinemas or broadcast) to prevent access for the moral protection of children and
+  adolescents is a legitimate ground for prior censorship. In other words, a
+  government or regulatory body can rule on whether or not and, if so, how the
+  publication or exhibition of public entertainments is to take place – for example,
+  imposing age restrictions on films.
+
+
+3.5.3 Comment
+ Some of the international instruments are contradictory on the issue of prior
+  censorship of materials – that is, approval of content prior to publication by a
+  governmental official or regulatory agency. However, most countries have
+  national laws that regulate obscene materials or materials aimed at children
+  through some system of prior censorship.
+
+ Many countries are moving away from regulating the publication or broadcasting
+  of materials based on the ground of ‘morality’ due to the difficulty of setting a
+  national standard for morality. This is often a highly subjective matter, particularly
+  in multicultural societies.
+
+
+3.6 Propaganda for war
+3.6.1 Relevant provisions in international instruments
+ Article 20(1) of the ICCPR provides that ‘[a]ny propaganda for war shall be
+  prohibited by law’.
+76         MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+ Article 5 of the American Convention provides in its relevant part that ‘[a]ny
+  propaganda for war ...’ shall be considered an offence punishable by law.
+
+
+3.6.2 Summary
+ Propaganda for war is prohibited and engaging therein is an offence.
+
+
+3.6.3 Comment
+ It is interesting to note that the international instruments use exceptionally strong
+  language in relation to propaganda for war. This is not just content which
+  governments may legitimately restrict; indeed, governments are required to
+  prohibit such content and to make the publication thereof an offence.
+
+
+3.7 Hate speech or discriminatory speech
+3.7.1 Relevant provisions in international instruments
+ Article 4(a) of the Convention on the Elimination of Racial Discrimination
+  provides in its relevant part: ‘[s]tates parties condemn all propaganda ... which ...
+  [is] based on ideas or theories of superiority of one race or group of one colour
+  or ethnic origin, or which attempt to justify or promote racial hatred and
+  discrimination in any form, and undertake to adopt immediate and positive
+  measures designed to eradicate all incitement to ... such discrimination and to this
+  end ... [s]hall declare an offence punishable by law all dissemination of ideas based
+  on racial superiority or hatred, incitement to racial discrimination, as well as all
+  acts of violence or incitement to such acts against any race or group of persons of
+  another colour or ethnic origin ... .’
+
+ Article 20(2) of the ICCPR provides that ‘[a]ny advocacy of national, racial or
+  religious hatred that constitutes incitement to discrimination, hostility or violence
+  shall be prohibited by law’.
+
+ Article 5 of the American Convention provides in its relevant part that ‘... any
+  advocacy of national, racial, or religious hatred that constitute incitements to
+  lawless violence or to any other similar action against any person or group of
+  persons on any grounds including those of race, colour, religion, language, or
+  national origin shall be considered as offenses punishable by law’.
+
+ Article 59 of the WSIS Geneva Principles provides that ‘[a]ll actors in the
+  Information Society should take appropriate actions and preventive measures, as
+                                      MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   77
+
+
+
+
+   determined by law, against abusive uses of ICTs, such as illegal and other acts
+   motivated by racism, racial discrimination, xenophobia, and related intolerance,
+   hatred, violence ...’.
+
+ The UNESCO Media Development Indicators provide that ‘restrictions upon
+  freedom of expression ... based on ... hate speech ... should be clear and narrowly
+  defined in law and justifiable as necessary in a democratic society in accordance
+  with international law and that such laws should be subject to a public interest
+  override where appropriate’.
+
+ Principle 12 of the Camden Principles provides that states ‘should adopt
+  legislation prohibiting any advocacy of national, racial or religious hatred that
+  constitutes incitement to discrimination, hostility or violence’.
+
+
+3.7.2 Summary
+ Hate speech is the advocacy of national, racial or religious hatred that constitutes
+  incitement to discrimination, hostility or violence.
+
+ Discriminatory speech is propagating the idea of the superiority of one race or
+  group of one colour or ethnic origin.
+
+ Dissemination of hate speech should be an offence.
+
+ Preventing hate speech or discriminatory speech are both legitimate grounds for
+  regulating or even prohibiting expression by the media.
+
+
+3.7.3 Comment
+ As was the case for propaganda for war, the international community uses
+  particularly strong language in relation to hate speech, and it requires that the
+  dissemination thereof be made an offence under national law.
+
+ When considering how a particular country deals with hate speech restrictions, it
+  is important to be aware that while hate speech can be, and often is, regulated in
+  ordinary laws, it is also sometimes included in constitutions as an exception to the
+  right to freedom of expression itself. Note, however, that this is not required by
+  the international instruments that deal with this issue.
+78         MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+3.8 Protection of national security or territorial integrity
+3.8.1 Relevant provisions in international instruments
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in a
+  democratic society, in the interests of national security [and] territorial integrity ...’.
+
+ Article 19(3)(b) of the ICCPR specifically provides in its relevant part that the
+  exercise of the right to freedom of expression ‘may be subject to certain
+  restrictions, but these shall only be such as are provided by law and are necessary
+  for the protection of national security ...’.
+
+ Article 2(b) of the American Convention provides that the right to freedom of
+  expression ‘shall not be subject to prior censorship but shall be subject to
+  subsequent imposition of liability, which shall be expressly established by law to
+  the extent necessary to ensure ... the protection of national security ...’.
+
+ Principles 1(c) and (d) read together with principles 2(a) and (b) and Principle 6
+  of the Johannesburg Principles provide that the exercise of the right to freedom
+  of expression ‘may be subject to restrictions ... for the protection of national
+  security. No restriction on freedom of expression or information on the ground of
+  national security may be imposed unless the government can demonstrate that the
+  restriction is prescribed by law and is necessary in a democratic society to protect
+  a legitimate national security interest. The burden of demonstrating the validity of
+  the restrictions rests with the government ... A restriction sought to be justified on
+  the ground of national security is not legitimate unless its genuine purpose and
+  demonstrable effect is to protect a country’s existence or its territorial integrity
+  against the use or threat of force, or its capacity to respond to the use or threat of
+  force, whether from an external source, such as a military threat, or an internal
+  source, such as incitement to violent overthrow of the government. In particular,
+  a restriction sought to be justified on the ground of national security is not
+  legitimate if its genuine purpose or demonstrable effect is to protect interests
+  unrelated to national security, including, for example, to protect a government
+  from embarrassment or exposure of wrongdoing, or to conceal information about
+  the functioning of its public institutions, or to entrench a particular ideology or to
+  suppress industrial unrest’.
+
+ Principle 23 of the Johannesburg Principles provides that ‘[e]xpression shall not
+  be subject to prior censorship in the interest of protecting national security, except
+  in a time of public emergency which threatens the life of the country ...’.
+                                       MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   79
+
+
+
+
+ Article XIII(2) of the Principles of African Freedom of Expression Declaration
+  provides that ‘[f]reedom of expression should not be restricted on ... national
+  security grounds unless there is a real risk of harm to a legitimate interest and
+  there is a close causal link between the risk of harm and the expression’.
+
+ In paragraph (xiii) of the Resolution on Press Freedom for Development and
+  Governance: Need for Reform, the PAP resolves to ‘contribute to the process of
+  drafting clear policies for ensuring … the security aspects that relate to the media’.
+
+ The UNESCO Media Development Indicators provide that ‘restrictions upon
+  freedom of expression ... based on ... national security ... should be clear and
+  narrowly defined in law and justifiable as necessary in a democratic society in
+  accordance with international law and that such laws should be subject to a public
+  interest override where appropriate’.
+
+ The UNESCO Media Development Indicators provide that ‘national security
+  restrictions must not inhibit public debate about issues of public concern’.
+
+
+3.8.2 Summary
+ Protecting national security or territorial integrity are both legitimate grounds for
+  regulating or even prohibiting expression by the media. This cannot inhibit public
+  debate on matters of public concern.
+
+ Restricting the media’s right to freedom of expression on the basis of a national
+  security interest is not legitimate:
+
+       Unless it can be shown that:
+             • The restriction will protect a country’s existence or its
+                territorial integrity against the threat of force, whether
+                external or internal
+             • There is a causal link between the expression and the risk of
+                the threat of force.
+       If it protects interests unrelated to national security, including, for
+        example:
+             • Protecting a government from embarrassment or exposure of
+                wrongdoing
+             • Concealing information about the functioning of its public
+                institutions
+             • Entrenching a particular ideology
+             • Suppressing industrial unrest.
+80         MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+3.8.3 Comment
+ It is interesting to note that the international instruments go into a great deal of
+  detail as to when resorting to ‘national interest’ restriction would not be
+  legitimate. This is undoubtedly due to the history of the near-systematic abuse of
+  this otherwise legitimate ground for media restriction by many government
+  officials, particularly in the security forces.
+
+ It is noteworthy that the international instruments detail the nature of the threat
+  to national security and its relationship to the proposed restricted expression that
+  must exist before such a ground will be legitimate.
+
+ Very few national laws, particularly in Eastern African countries, comply with
+  these requirements.
+
+
+3.9 War or state of emergency
+3.9.1 Relevant provisions in international instruments
+ Article 15(1) of the European Convention on Human Rights provides that ‘[i]n a
+  time of war or other public emergency threatening the life of the nation, any High
+  Contracting Party may take measures derogating from its obligations under this
+  Convention to the extent strictly required by the exigencies of the situation,
+  provided that such measures are not inconsistent with its other obligations under
+  international law’.
+
+ Article 27(1) of the American Convention provides in its relevant part that ‘[i]n a
+  time of war, public danger or other emergency that threatens the independence or
+  security of a State Party, it may take measures derogating from its obligations
+  under the present Convention to the extent and for the period of time strictly
+  required by the exigencies of the situation ...’.
+
+ Principle 3 of the Johannesburg Principles provides that ‘[i]n time of public
+  emergency which threatens the life of the country and the existence of which is
+  officially and lawfully proclaimed in accordance with both national and
+  international law, a state may impose restrictions on freedom of expression and
+  information but only to the extent strictly required by the exigencies of the
+  situation and only when and for so long as they are not inconsistent with the
+  government’s other obligations under international law’.
+
+ Principle 23 of the Johannesburg Principles provides that ‘[e]xpression shall
+                                         MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   81
+
+
+
+
+   not be subject to prior censorship in the interest of protecting national
+   security, except in a time of public emergency which threatens the life of the
+   country ...’.
+
+ The UNESCO Media Development Indicators expressly provide that laws
+  must ‘not allow state actors to seize control of broadcasters during an
+  emergency’.
+
+
+3.9.2 Summary
+ War or a state of emergency are both legitimate grounds for regulating or even
+  prohibiting expression by the media, including by means of prior censorship,
+  provided that this is done only for the period of time strictly necessary in the
+  circumstances.
+
+ Emergency laws must not allow state actors to seize control of broadcasters during
+  an emergency.
+
+
+3.9.3 Comment
+ Comments are confined to the state of emergency ground.
+
+ Many governments abuse emergency powers and use these to stifle dissent rather
+  than to protect the population. One of the most important aspects of the
+  internationally articulated standards for emergency restrictions is the requirement
+  that these last for a limited period only. Consequently, states of emergency that are
+  said to be ‘indefinite’ or which in practice last for years or decades clearly do not
+  meet international standards of legitimacy.
+
+ Another noteworthy aspect is the requirement that emergency laws not allow state
+  organs to seize control of broadcasters during an emergency. Many national
+  broadcasting laws allow for broadcasters to be required to broadcast public service
+  announcements by government during public emergencies. This is obviously very
+  different from governments taking over a broadcaster altogether.
+
+
+3.10 Protection of public order or safety
+3.10.1 Relevant provisions in international instruments
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+82          MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+     conditions, restrictions or penalties as are prescribed by law and are necessary in
+     a democratic society, in the interests of ... public safety ... [and] for the prevention
+     of disorder ...’.
+
+ Article 19(3)(b) of the ICCPR specifically provides in its relevant part that the
+  exercise of the right to freedom of expression ‘may be subject to certain
+  restrictions, but these shall only be such as are provided by law and are necessary
+  for the protection of ... public order ...’.
+
+ Article 2(b) of the American Convention provides that the right to freedom of
+  expression ‘shall not be subject to prior censorship but shall be subject to
+  subsequent imposition of liability, which shall be expressly established by law to
+  the extent necessary to ensure the protection of ... public order ...’.
+
+ Article XIII(2) of the Principles of African Freedom of Expression Declaration
+  provides that ‘[f]reedom of expression should not be restricted on public order ...
+  grounds unless there is a real risk of harm to a legitimate interest and there is a
+  close causal link between the risk of harm and the expression’.
+
+
+3.10.2 Summary
+ Protecting public order or public safety are both legitimate grounds for regulating
+  or even prohibiting expression by the media, provided there is a real risk to public
+  order or public safety, and there is a close causal link between the risk of harm and
+  the expression.
+
+
+3.10.3 Comment
+ As is the case with emergency provisions, governments often abuse the grounds of
+  public order or public safety to restrict the publication of legitimate expressions
+  of dissent. National laws often do not comply with internationally articulated
+  standards in regard to these grounds.
+
+
+3.11 Protection of public health
+3.11.1 Relevant provisions in international instruments
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in
+  a democratic society ... for the protection of health ...’.
+                                         MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   83
+
+
+
+
+ Article 19(3)(b) of the ICCPR specifically provides in its relevant part that the
+  exercise of the right to freedom of expression ‘may be subject to certain
+  restrictions, but these shall only be such as are provided by law and are necessary
+  for the protection of ... public health ...’.
+
+ Article 2(b) of the American Convention provides that the right to freedom of
+  expression ‘shall not be subject to prior censorship but shall be subject to
+  subsequent imposition of liability, which shall be expressly established by law to
+  the extent necessary to ensure the protection of ... public health ...’.
+
+
+3.11.2 Summary
+ Protecting public health is a legitimate ground for regulating or even prohibiting
+  expression by the media.
+
+
+3.12 Maintaining the authority and impartiality of the judiciary
+3.12.1 Relevant provisions in international instruments
+ Article 10(2) of the European Convention on Human Rights specifically provides in
+  its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in a
+  democratic society ... for maintaining the authority and impartiality of the judiciary’.
+
+ The UNESCO Media Development Indicators provide that ‘restrictions upon
+  freedom of expression ... based on ... contempt of court laws ... should be clear
+  and narrowly defined in law and justifiable as necessary in a democratic society in
+  accordance with international law’, and that such laws should be subject to a
+  public interest override where appropriate.
+
+
+3.12.2 Summary
+ Maintaining the authority and impartiality of the judiciary is a legitimate ground
+  for regulating or even prohibiting expression by the media.
+
+
+3.12.3 Comment
+Generally, the authority and impartiality of the judiciary is maintained legally through
+contempt of court laws, which are made up of two aspects:
+
+ The rule against scandalising the court: This is where attacks on the judiciary are
+84          MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+     such that they undermine the administration of justice. This obviously goes far
+     beyond fair and reasonable comment and criticism of judgments and judges,
+     which does not undermine the administration of justice.
+
+ The sub judice rule: This is where the outcome of a judicial proceeding is
+  effectively preempted or prejudiced through the publication of information which
+  also undermines the administration of justice.
+
+
+3.13 For the prevention of crime
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in
+  a democratic society ... for the prevention of ... crime ...’.
+
+
+3.14 Preventing the disclosure of information received in confidence
+ Article 10(2) of the European Convention on Human Rights specifically provides
+  in its relevant part that freedom of expression ‘may be subject to such formalities,
+  conditions, restrictions or penalties as are prescribed by law and are necessary in
+  a democratic society ... for preventing the disclosure of information received in
+  confidence ...’.
+
+
+4     LAWS THAT HINDER THE MEDIA IN PERFORMING ITS ROLE
+The kinds of laws that hinder the media are those that do not comply with
+internationally accepted standards for:
+
+ Democratic media regulation
+ Democratic broadcasting regulation
+ Restricting publication or broadcasting by the media.
+
+Consequently, it is difficult to give a definitive or even comprehensive list of the kinds
+of laws that hinder the media. Nevertheless, nine examples are given of laws that are
+commonly seen as hindering the media’s role of providing news and information in
+the public interest. These are laws that:
+
+ Unreasonably restrict market entry – that is, which act as a barrier to establishing
+  independent media sources
+
+ Provide for prior censorship
+                                       MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   85
+
+
+
+
+ Favour individual rights, particularly of public officials, over the public’s right to
+  know
+
+ Do not comply with internationally accepted restrictions upon the publication of
+  obscene materials
+
+ Do not comply with internationally accepted restrictions upon the publication of
+  propaganda for war or hate speech
+
+ Do not comply with internationally accepted restrictions upon the publication of
+  information which threatens national security, territorial integrity and public
+  order
+
+ Do not comply with internationally accepted restrictions upon the publication of
+  information which threatens law enforcement
+
+ Provide for indefinite states of emergency
+
+ Do not comply with internationally accepted restrictions upon the publication of
+  information which undermines the judiciary.
+
+
+4.1 Laws that unreasonably restrict market entry
+Governments that are not media friendly often enact (or deliberately fail to repeal)
+laws which require journalists or newspapers to be registered or licensed prior to
+operation. Often such laws directly or indirectly require government approval of the
+journalist or media house in question before such licences or registration will be
+granted. This acts as a clear barrier to establishing independent media sources and a
+professional cadre of journalists in a country.
+
+Note that licensing is in fact required in respect of broadcasting due to the need to
+regulate frequency spectrum use effectively.
+
+
+4.2 Laws that provide for prior censorship
+Any law that provides for a government or regulatory body to determine, prior to
+publication, whether or not information ought to be published by the media is
+obviously an enormous threat to the media and hinders the performance of its roles.
+Prior censorship laws should be very carefully drafted to ensure that they meet
+internationally accepted standards, such as being limited to determining age
+restrictions for films to be shown on circuit or broadcast.
+86        MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+4.3 Laws that favour individual rights, particularly of public officials, over the
+    public’s right to know
+
+In an effort to guard against embarrassing public revelations in the media,
+governments sometimes enact (or deliberately fail to repeal) laws which provide a
+great deal of protection for private and even public figures at the expense of the
+media’s right to publish or broadcast and the public’s right to know. Thus, criminal
+defamation laws, insult laws or civil defamation laws – whether provided for in a
+statute or in the common law, as determined by the judiciary – that do not comply
+with internationally accepted standards for laws protecting privacy or reputations, or
+the rights of others hinder the media greatly in its operations.
+
+Not only is the media threatened with damages awards but these laws often make
+publication an offence, with a potential prison sentence or heavy fine as a sanction.
+Even if such ‘punishment’ does not occur, these kinds of laws have a chilling effect
+on newsrooms as journalists, editors, owners and publishers try to avoid falling foul
+of the law. This can lead to self-censorship, whereby the media fails to publicise the
+full story in order to guard against potential liability.
+
+
+4.4 Laws that do not comply with internationally accepted restrictions upon the
+    publication of obscene materials
+Generally, the mainstream media does not often fall foul of laws that regulate
+obscenity, morality or which aim at protecting children. However, in the recent past,
+there have been a number of examples in Africa where obscenity laws have been
+invoked by officials to try to prevent the publication of news and information that is
+clearly in the public interest. In one instance, a journalist who was working on a story
+about the state of public health care in Zambia faced obscenity charges for circulating
+to public officials (not even publishing) photographs of a woman giving birth on the
+pavement outside a hospital.
+
+Obscenity laws that are drafted loosely and not in accordance with universally
+accepted standards can be abused to prevent the publication of material that is clearly
+in the public interest.
+
+
+4.5 Laws that do not comply with internationally accepted restrictions upon the
+    publication of propaganda for war or hate speech
+Although one generally associates the passage of hate speech legislation with
+progressive governments anxious to protect citizens from racism or other
+discrimination, governments have made, and sometimes do make, use of such
+                                       MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   87
+
+
+
+
+legislation to stifle dissent and prevent the publication of material in the public
+interest.
+
+
+4.6 Laws that do not comply with internationally accepted restrictions upon the
+    publication of information which threatens national security, territorial
+    integrity and public order
+Unfortunately, governments often confuse national security with government
+popularity. Thus, a threat to a government’s standing or popularity among citizens is
+seen as a threat to ‘national security’ or ‘public order’. This means that governments
+often abuse the legitimate grounds for limiting media expression of national security
+or territorial integrity for their own, as opposed to the public’s, interests.
+Unfortunately, a large number of national laws relating to security issues – such as
+defence, intelligence, classified information, terrorism and the like – often do not
+comply with internationally accepted standards for such legislation, which standards
+are set out in chapters 2 and 3.
+
+Security laws prohibiting the publication of information on these grounds, and which
+do not comply with such standards, hinder the media’s work enormously as they:
+
+ Prohibit the publication of information that the public ought to know about
+
+ Often provide for stiff penalties, including criminal sanctions such as fines or jail
+  sentences.
+
+
+4.7 Laws that do not comply with internationally accepted restrictions upon the
+    publication of information which threatens law enforcement
+As is the case with laws relating to national security, laws that restrict media
+publication in order to prevent crime, but which do not comply with internationally
+accepted standards for these kinds of laws, can harm the media. Sometimes laws
+relating to policing, prosecutorial bodies, criminal procedure and other
+administration of justice matters contain unreasonable restrictions upon the
+publication of information. Furthermore, they sometimes contain provisions that
+require journalists to divulge confidential sources of information without any of the
+internationally accepted safeguards. Clearly, these kinds of laws hinder the media.
+
+
+4.8 Laws that provide for indefinite states of emergency
+Internationally, the ability of governments to restrict the media during a time of
+national crisis, such as a state of emergency, is widely recognised. However, this is
+88         MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+subject to a set of clearly specified internationally agreed requirements. Unfortunately,
+many governments abuse so-called emergency powers. Perhaps the worst such abuse is
+the indefinite state of emergency that lasts for years, sometimes even decades. States
+of emergency and freedom of the press are largely incompatible. The media therefore
+has very little space within which to operate in countries with ongoing states of
+emergency. Needless to say, enormous damage is done to the independent media, with
+dangerous consequences for democracy and social development.
+
+
+4.9 Laws that do not comply with internationally accepted restrictions upon the
+    publication of information which undermines the judiciary
+As a general rule it is rare that the judiciary acts in such a way as to unreasonably
+prevent the media from publishing information in the public interest. However, laws
+such as the sub judice rule in common law can be abused in ways that harm the media
+and prevent it from carrying out its functions. For example, sometimes public officials
+involved in court proceedings cite the sub judice rule as a reason for providing no
+information to the media, even if the case is on a matter of public importance and the
+publication of information would not prejudice the outcome of the case.
+
+
+4.10 Laws that criminalise defamation
+Although all the Eastern African countries considered in this book continue to have
+criminal defamation laws on their statute books, it is important to note that
+international best practice standards clearly indicate that the most appropriate way of
+protecting against defamation is through civil sanctions, such as damages awards,
+rather than criminal sanctions, such as imprisonment.
+
+
+5    LAWS THAT ASSIST THE MEDIA TO PERFORM ITS VARIOUS ROLES
+The kinds of laws that assist the media are those that comply with internationally
+accepted standards for:
+
+ Democratic media regulation
+ Democratic broadcasting regulation
+ Restricting publication or broadcasting by the media.
+
+There are also other kinds of laws that greatly assist the media, if only indirectly, in
+its day to day operations, as well as in terms of building long-term support for media
+freedom. While it is difficult to give a definitive or even comprehensive list of the
+kinds of laws that assist the media, seven types of laws have been selected, which are
+commonly seen as supporting the functioning of the media, namely:
+                                        MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   89
+
+
+
+
+ Constitutions
+
+ Laws that comply with internationally accepted standards for democratic media
+  regulation
+
+ Laws that comply with internationally accepted standards for democratic broad-
+  casting regulation
+
+ Laws that comply with internationally accepted standards for restricting
+  publication or broadcasting by the media
+
+ Access to information legislation
+
+ Whistleblower protection or anti-corruption laws
+
+ Laws that establish independent bodies to act in the public interest.
+
+
+5.1 Constitutions
+One of the most important laws in relation to the media is, of course, a constitution.
+A constitution that contains a number of provisions and is the supreme law (that is,
+it takes precedence over national laws) provides a level of institutional protection and
+safety for the media, which greatly increases the media’s ability to perform its roles
+effectively. These provisions include the following:
+
+ The right to freedom of expression, including freedom of the press and other
+  media, should be enshrined in a bill of rights. In addition, this right ought not to
+  be subject to specific internal limitations on the right itself, but rather ought to be
+  subject to a general limitations clause that allows for rights to be limited, provided
+  this is necessary and justifiable in an open and democratic society.
+
+ The right of access to information, whether held by the state or by private bodies,
+  should be enshrined in a bill of rights.
+
+ The right to administrative justice, including the right to procedurally fair
+  administrative action and to written reasons for administrative action, should be
+  enshrined in a bill of rights.
+
+ The independence of the broadcasting regulatory authority and the fact that it is
+  to act in the public interest ought to be specifically guaranteed in constitutional
+  provisions.
+90        MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+ The independence of the public broadcaster and the fact that it is to act in the
+  public interest ought to be specifically guaranteed in constitutional provisions.
+
+ An independent judiciary that has the final say over the legal interpretation of the
+  provisions of the constitution should be provided for in the constitution.
+
+ General public watchdog bodies to protect the public from abuses of power and
+  to preserve constitutional values should be established by the constitution. Bodies
+  that can perform these roles include human rights commissions, public protectors
+  or a public ombudsman.
+
+
+5.2 Laws that comply with internationally accepted standards for democratic
+    media regulation
+If all laws that regulate the media generally comply with internationally accepted
+standards for democratic media regulation (set out in Chapter 2), this will assist the
+media to perform its roles effectively by:
+
+ Ensuring that regulation does not result in the public being unreasonably denied
+  access to news and information in the public interest
+
+ Ensuring a media environment that supports values such as diversity, independence,
+  freedom of expression and of the press, and professionalism in the media.
+
+
+5.3 Laws that comply with internationally accepted standards for democratic
+    broadcasting regulation
+If all laws that regulate broadcasting comply with internationally accepted standards
+for democratic broadcasting regulation (set out in Chapter 2), this will assist the
+broadcast media to perform its roles effectively, including through guaranteeing:
+
+ A public as opposed to a state broadcaster
+ An independent broadcasting regulator
+ A diverse range of broadcasting services: public, commercial and community.
+
+
+5.4 Laws that comply with internationally accepted standards for restricting
+    publication or broadcasting by the media
+If all laws that restrict what the media may publish or broadcast were to comply with
+internationally accepted standards for restricting publication or broadcasting by the
+media (set out previously in this chapter), this would assist the media to perform its
+                                       MEDIA LAW: PITFALLS AND PROTECTIONS FOR THE MEDIA   91
+
+
+
+
+roles effectively by ensuring that regulation does not result in the public being
+unreasonably denied access to news and information in the public interest.
+
+
+5.5 Access to information legislation
+One of the most useful pieces of legislation for any journalist or media institution is
+access to information legislation. Typically, an access to information law grants any
+person (including, the media) the right to access information held by public
+authorities. Where the information is needed to exercise or protect a right, access to
+information laws may also provide for this right of access to information to be
+extended to information held by private bodies or persons, too. This kind of law is
+particularly useful for investigative journalists.
+
+Access to information statutes almost always provide for grounds upon which
+disclosure of the information or access to the records requested can be denied.
+Generally, these grounds are there to protect important societal interests, such as
+crime prevention, national security, privacy or information provided in confidence.
+Progressive access to information laws will contain a public interest override clause,
+allowing for the information to be disclosed if there is an overwhelming public
+interest in the information being made public (for example, if this will provide
+evidence of a crime or of public wrongdoing), even if the information falls within one
+of the grounds for non-disclosure.
+
+Furthermore, such laws usually allow for internal appeals against refusals to provide
+the information requested, as well as for access to the courts to challenge a refusal to
+disclose information.
+
+It is important to recognise that the issue of access to information has been taken up
+by the ACHPR and also by the PAP; both of these institutions have called on state
+parties to the African Charter to implement the Model Law on Access to Information
+which has been developed by the ACHPR.
+
+
+5.6 Whistleblower protection or anti-corruption laws
+Other laws that are often particularly useful for journalists are statutes designed to
+promote good governance by supporting anti-corruption measures. Thus, anti-
+corruption statutes or statutes that provide ‘whistleblower’ protection for those who
+alert the authorities (or the media) to public wrongdoing, particularly criminal
+activities by public officials, help to provide an environment in which the media is
+able to access sources of public interest information without those sources suffering
+abuse or retaliation as a result.
+92           MEDIA LAW HANDBOOK FOR EASTERN AFRICA – VOLUME 1
+
+
+
+
+5.7 Laws that establish independent bodies to act in the public interest
+Sometimes laws are passed to establish bodies that are aimed at supporting
+constitutional democracy and the public interest more generally, such as a public
+protector, public ombudsman, human rights commission or independent electoral
+authority. While not directly established to assist the media, these bodies can and
+often do play important roles in protecting the media from governmental harassment
+or in supporting the media generally by encouraging access to information or
+freedom of expression. These bodies can play a particularly crucial role during
+election periods.
+
+
+
+NOTES
+1    Konate v Burkina Faso (Application No. 004/20013) http://www.african-court.org/en /images/
+     documents/Judgment/Konate%20Judgment%20Engl.pdf, last accessed on 31 July 2015.
+2    Ibid, paragraph 165 of the Konate judgment.
+
