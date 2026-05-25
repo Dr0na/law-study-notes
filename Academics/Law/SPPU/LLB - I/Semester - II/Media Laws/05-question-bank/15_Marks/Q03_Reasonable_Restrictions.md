@@ -40,26 +40,26 @@ The Supreme Court in *Chintaman Rao v. State of MP* held that a restriction is "
 ### 5. 📊 Diagram: Art 19(2) Grounds
 ```mermaid
 graph LR
-    subgraph State Interests
+    subgraph State_Interests [State Interests]
     S1[Sovereignty]
     S2[Security]
     S3[Foreign Relations]
     end
     
-    subgraph Public Interests
+    subgraph Public_Interests [Public Interests]
     P1[Public Order]
     P2[Decency/Morality]
     end
     
-    subgraph Legal Interests
+    subgraph Legal_Interests [Legal Interests]
     L1[Contempt]
     L2[Defamation]
     L3[Incitement]
     end
     
-    State Interests --> R[**Reasonable Restrictions**]
-    Public Interests --> R
-    Legal Interests --> R
+    State_Interests --> R["<b>Reasonable Restrictions</b>"]
+    Public_Interests --> R
+    Legal_Interests --> R
 ```
 
 ### 6. 🧾 Conclusion
