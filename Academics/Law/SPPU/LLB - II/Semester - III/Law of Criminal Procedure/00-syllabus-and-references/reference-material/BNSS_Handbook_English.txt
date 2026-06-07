@@ -1,0 +1,829 @@
+A handbook for police officers
+on
+
+Bharatiya Nagarik Suraksha Sanhita, 2023
+(highlighting key provisions and changes vis-à-vis CrPC)
+
+Maharaja Ranjit Singh
+
+Punjab Police Academy
+Phillaur
+
+A handbook for Police officers
+on
+
+Bharatiya Nagarik Suraksha Sanhita, 2023
+(highlighting key provisions and changes vis-à-vis CrPC)
+
+Prepared by
+
+1. Simrit Pal Singh Nibber, DyDA (PPA)
+2. Dr. Harpreet Singh, DyDA (PPA)
+3. Inderdeep Singh Gill, DyDA (PPA)
+4. Shallinderpreet kaur, DyDA (PPA)
+5. Sonia Taank, ADA (PPA)
+
+6.
+
+Typing & Designing by
+
+Sohan Singh Rawat
+
+2024
+
+Maharaja Ranjit Singh
+
+Punjab Police Academy
+Phillaur
+
+Bharatiya Nagarik Suraksha Sanhita, 2023
+(highlighting key provisions and changes vis-à-vis CrPC)
+INDEX
+Sr.
+No.
+
+Topics
+
+Page
+No.
+
+1.
+
+Salient features of Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)
+
+1
+
+Changes brought in by BNSS vis-à-vis CrPC
+with respect to the following:
+2.
+
+FIR
+
+1-2
+
+3.
+
+Recording of statements
+
+2-3
+
+4.
+
+Arrest
+
+3
+
+5.
+
+Medical Examination
+
+4
+
+6.
+
+Remand
+
+4
+
+7.
+
+Search
+
+4-5
+
+8.
+
+Attachment, Forfeiture or Restoration of Property – a flow chart
+
+6
+
+9.
+
+Inquest Report
+
+7
+
+10.
+
+Police Report
+
+7
+
+11.
+
+Victim-centric provisions
+
+7-8
+
+12.
+
+Magistrate power in Complaint Case
+
+8
+
+13.
+
+Speedy Trial
+
+8-9
+
+14.
+
+Other Key Changes
+
+9-10
+
+15.
+
+Specific Timelines for various stages of Trial
+
+11-12
+
+Bharatiya Nagarik Suraksha Sanhita, 2023
+(key provisions and changes vis-a-vis CrPC)
+The Bharatiya Nagarik Suraksha Sanhita, 2023 (hereinafter referred to as BNSS) shall
+replace the Criminal Procedure Code, 1973 (CrPC) and shall come into force on July 01,
+2024.
+The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) seeks to
+ ensure speedy justice
+ bring transparency and accountability in investigation
+ make criminal justice system more victim centric
+Some salient features of BNSS
+a) Specific timelines for investigation and trial
+BNSS prescribes specific timelines for different aspects of investigation and trial in
+order to ensure speedy justice.
+b) Audio-Video recording of search
+BNSS mandates audio-video recording of search and seizure to bring in greater
+transparency during investigation.
+c) Attachment of Property during investigation
+The property of criminals, which is deemed to be proceeds of crime, can be attached
+by the Court. Such proceeds of crime shall be distributed among the victims. This
+would not only create greater deterence for crime but would also provide some
+pecuniary relief to the victims of crime.
+d) In-absentia trial of Proclaimed offender
+BNSS provides for in-absentia trial of proclaimed offenders.
+The major changes brought in by BNSS with respect to investigative process vis-a–vis CrPC
+are as follows:
+
+Changes with respect to FIR [Sec. 173 BNSS]
+i. Registration of FIR irrespective of jurisdiction [Sec. 173 (1) BNSS]
+FIR can be registered at any Police station irrespective of the area, where the offence is
+committed.
+ii. FIR through electronic means [Sec.173 (1) (ii) BNSS]
+FIR can be registered through electronic means (E-FIR). However the same has to be
+signed by the informant within 3 days.
+iii. Conditions for conducting Preliminary enquiry [Sec.173 (3) BNSS]
+In offences punishable with imprisonment between 3 to 7 years, the Officer in-charge
+of the police station may
+ with the permission of Deputy Superintendent of Police
+ conduct preliminary enquiry to ascertain whether there is any prima facie case, for
+proceeding in the matter.
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+1
+
+Such preliminary enquiry must be completed in 14 days.
+Note: There was no such provision under CrPC.
+Forwarding Daily Diary Reports to Magistrate once in 14 days [Sec. 174 BNSS]
+Officer in charge shall forward the daily diary reports of information regarding noncognizable cases once in 14 days to the Magistrate.
+Note: There was no specific timeline for this under CrPC.
+
+Changes with respect to recording of statements [Sec. 176, 179-183 BNSS]
+i. Recording of rape victim statement at her residence [Sec.176 BNSS]
+In relation to the offence of rape, the recording of the statement of victim shall be
+conducted at the residence of victim or at the place of her choice by a woman police
+officer in the presence of her parent or guardian or near relative or social worker of the
+locality. Such statement may also be recorded by audio-video electronic means
+including mobile phone.
+Note: CrPC did not have any provision for recording the statement of victim of sexual
+assault through mobile phone.
+ii. Woman Police officer to record the statement of victim of sexual assault
+[Sec. 180 BNSS]
+The statement of a woman, against whom sexual assault is alleged to have been
+committed or attempted, shall be recorded by a woman police officer or any woman
+officer. Such statements may also be recorded by audio-video electronic means.
+iii. Recording of statement of victim of sexual assault by female Judicial Magistrate
+[Sec. 183 BNSS]
+Section 183 (6) (a) mandates that the statement of the victim of the rape shall be
+recorded only by a woman Judicial Magistrate and in her absence, by a male Judicial
+Magistrate in the presence of a woman.
+iv. Women, persons above 60 or with acute illness not bound to attend Police station
+[Sec. 179 BNSS]
+a) no male person under 15 years or above 60 years of age
+b) no woman
+c) no mentally or physically disabled person
+d) no person with acute illness
+shall be called to police station for recording of their statement.
+However, if the said person is willing to attend the police station he or she may be
+permitted to do so.
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+2
+
+v. Recording of statement by Judicial Magistrate of witness in offences punishable
+with imprisonment for 10 years or more [Sec. 183 (6) BNSS]
+ In cases relating to the offences punishable with imprisonment for 10 years or life
+or death, the Judicial Magistrate shall record the statement of the witness
+brought before him by the police officer.
+Note: CrPC did not have any provision like this.
+ If the person making the statement is temporarily or permanently, mentally or
+physically disabled, the statement made by the person with the assistance of an
+interpreter or a special educator, shall be recorded through audio-video electronic
+means, preferably by mobile phone.
+
+Arrest [Sec. 35 BNSS]
+i. No arrest of aged or infirm person without permission of DySP in offences
+punishable with less than 3 years imprisonment [Sec. 35 BNSS]
+In case of offences punishable with less than 3 years of imprisonment no arrest of a
+person, who is
+ infirm or
+ above 60 years of age
+shall be made without the prior permission of DySP.
+ii. Appointment of Designated Police Officer in every Police station for maintaining
+the record of arrested persons and displaying it in digital mode [Sec. 37 BNSS]
+An officer, not below the rank of ASI, shall be appointed as Designated Police Officer
+in every Police station, who shall maintain and display, in digital mode, the
+information regarding name, address, nature of the offence of the arrested person at
+Police Station and District Headquarter.
+iii. Information of arrest to Designated Police Officer [Sec. 48 BNSS]
+Police officer effecting arrest is required to inform about arrest of person to
+a) Relatives or friends and
+b) Also to designated Police officer
+iv. Arrest by Private person [Sec. 40 BNSS]
+In case of arrest by private person, the arrested person must be handed over to the
+police within 6 hours of arrest.
+v. Use of handcuffs allowed in certain cases [Sec.43 (3) BNSS]
+The use of handcuffs on the accused is permitted in the following cases:
+ in case of habitual or repeat offender or
+ in case of a person who has escaped from custody or
+ in case of organised crime, terrorist act, drug related crime, illegal possession of
+arms and ammunition, murder, rape, acid attack, counterfeiting of coins and
+currency notes, human trafficking, sexual offences against children or offences
+against State.
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+3
+
+Medical Examination [Sec. 51 to 53, 184 BNSS]
+i. Application for the medical examination by any police officer [Sec 51 and 52 BNSS]
+Any police officer can move an application for the medical examination of accused.
+Note:- Under CrPC only SI could move such an application.
+ii. Medical report of Victim in Rape cases to be given in 7 days [Sec. 184 BNSS]
+The Medical Officer shall, within a period of 7 days, forward the Medico-Legal Report
+(MLR) to the investigating officer, who shall forward to it to the Magistrate with Police
+Report.
+
+iii. Medical examination report of accused to be given without delay [Sec. 52 BNSS]
+The Medical Officer shall without any delay forward the Medico-Legal Report (MLR)
+to the investigating officer.
+
+Remand [Sec. 187 (2) BNSS]
+Police Remand can be sought even after the initial 15 days
+Remand of accused can be sought under BNSS
+ within first 40 days of arrest in cases where the offence is punishable with less than
+10 years imprisonment.
+ within first 60 days of arrest in cases where the offence is punishable for more than
+10 years imprisonment.
+Note: Under CrPC the Police Remand of accused could be sought only during the initial 15
+days after arrest.
+
+Changes with respect to Search [Sec. 103, 105, 185, 186 BNSS]
+BNSS has introduced major changes regarding the search proceedings as compared to CrPC.
+It has mandated audio-video recording of the entire process of search. The following
+procedure has to be followed while conducting search:
+
+Action before proceeding for search in person
+& deputing subordinate Police Officer for search
+a) Recording of reasons for search in Case diary: The Officer in-charge of Police Station
+or IO is required to record the grounds of his belief for conducting search and also record
+the reason for not conducting search in person in the case-diary.[Sec 185 (1) BNSS]
+b) Conducting search in person: The Officer incharge of Police Station or IO shall, if
+practicable, conduct the search in person. [Sec. 185 (2) BNSS]
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+4
+
+c) Deputing subordinate Police officer for conducting search: If the Officer in-charge of
+Police Station or IO is unable to conduct search in person, he may after recording the
+reasons, depute any subordinate Police officer for conducting the search.
+[Sec. 185 (3) BNSS]
+
+Procedure during Search
+Recording of search and seizure through audio-video electronic means [Sec. 105 and
+Proviso to Sec. 185 (2) BNSS]
+The Officer Incharge of Police Station or IO shall record the whole process of search by any
+audio-video electronic means preferably by mobile phone.
+Search to be conducted in the presence of two independent witnesses [Sec.103 (4)
+BNSS]
+As per Sec. 103 (4) of BNSS, before making search, Police officer is required to call upon
+two or more independent and respectable inhabitants of the locality in which the place to be
+searched is situated.
+Refusal to become witness for search amounts to an offence [Sec.103(8) BNSS]
+Any person who, without reasonable cause refuses or neglects to attend and witness a search
+under this section, when called upon to do so by an order in writing delivered or tendered to
+him, shall be deemed to have committed an offence under section 222 of Bharatiya Nyaya
+Sanhita, 2023.
+
+Action after search
+Audio-video recording of search to be sent to DM, SDM or JMIC [Sec. 105 BNSS]
+The police officer shall without delay forward audio-video recording to the DM, SDM or
+JMIC.
+IO to send record regarding search to Magistrate within 48 hours [Sec.185 (5) BNSS]
+The IO shall send the copies of the following record within 48 hours to the competent
+Magistrate:
+a) Reasons for conducting search
+b) Reason for not conducting search in person and deputing subordinate police officer in
+case someone else is deputed by IO to conduct search
+c) The details of search proceedings
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+5
+
+Attachment, Forfeiture or Restoration of Property [Sec. 107 BNSS]
+BNSS lays down the following procedure for attachment of property of criminals, derived
+from criminal activity and its distribution:
+Application by IO for attachment of property made from criminal activity
+[Sec. 107 (1) BNSS]
+The investigating officer may, with the approval of Superintendent of police or
+Commissioner of police, make an application before the competent Magistrate for the
+attachment of property made from criminal activity or from the commission of any
+offence.
+Show cause notice by Magistrate [Sec. 107 (2) BNSS]
+Magistrate may issue notice to the person, to whom the property belongs, to show cause
+within the period of 14 days as to why an order of attachment shall not be made.
+
+Order of attachment of proceeds of crime [Sec. 107 (4) BNSS]
+The Magistrate may, after hearing all parties concerned, direct attachment of the property
+found to be the proceeds of crime.
+
+Ex-parte interim order for attaching property [Sec. 107 (5) BNSS]
+If the Magistrate is of the opinion that issuing notice to the owner of the property for
+attachment will defeat the object of the attachment or seizure, he may pass an ex-parte
+interim order for attaching property.
+
+Direction to the District Magistrate for rateable distribution of proceeds of crime
+to the victims [Sec. 107 (6) BNSS]
+Upon determination that the property in question falls under proceed of crime, the
+Magistrate will direct the District Magistrate to rateably distribute the property amongst
+those who were affected by the crime.
+
+Action by District Magistrate [Sec. 107 (7) BNSS]
+The District Magistrate shall within a period of 60 days distribute the proceeds of crime
+either by himself or authorise any other officer subordinate to him to effect such
+distribution.
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+6
+
+Inquest Report [Sec. 194 – 196 BNSS]
+i. Inquest report to be sent to SDM within 24 hours [Sec. 194 (1) BNSS]
+The inquest report shall be signed by Officer incharge/IO and other persons shall be
+forwarded to the DM or SDM by police within 24 hours.
+Note: CrPC did not have any specific timeline for this.
+ii. Power to summon person for the purpose of Inquest [Sec. 195 BNSS]
+For the purpose of inquest proceedings, no male person under the age of 15 years or
+above the age of 60 years or a woman or mentally or physically disabled person or a
+person with acute illness shall be required to attend at any place other than the place
+where such person resides. If such person is willing to attend the police station he
+may be permitted to do so.
+]
+
+Police Report [Sec. 193 BNSS]
+i. Investigation in certain sexual offence cases under BNS and POCSO to be
+completed within 2 months from the date of recording of information
+The investigation in relation to an offence under sections 64, 65, 66, 67, 68, 70, 71 of
+the Bharatiya Nayaya Sanhita, 2023 or under sections 4, 6, 8 of the Protection of
+Children from Sexual Offences Act, 2012 shall be completed within 2 months from the
+date on which the information was recorded by the officer in-charge of the police
+station.
+ii. IO to supply of copies of Police report through electronic means to Magistrate
+[Sec 193 (8) BNSS]
+The investigating officer shall submit copies of the police report along with other
+documents duly indexed to the Magistrate.
+The Magistrate shall supply these documents to the accused and victim as required
+under section 230 BNSS.
+The Police Report and other documents supplied by electronic communication shall be
+considered as duly served.
+
+Victim-centric Provisions [Sec. 193 BNSS]
+i. IO to inform the victim about the progress of investigation within 90 days
+[Sec. 193 (3) (ii) BNSS]
+The police officer shall, within a period of 90 days, inform the progress of the
+investigation by any means including through electronic communication to the
+informant or the victim.
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+7
+
+ii. Further investigation to be completed within 90 days [Sec.193 (9) BNSS]
+Further investigation during the trial may be conducted with the permission of the
+Court trying the case and the same shall be completed within a period of 90 days which
+may be extended with the permission of the Court.
+iii.Victim to be heard before withdrawal from prosecution [Sec 360 BNSS]
+No court shall allow withdrawal from prosecution without giving an opportunity of
+hearing to the victim.
+
+Procedure in case of complaint case against Public Servant and others
+[Sec. 175 BNSS]
+i. Magistrate’s power in complaint against Public Servant [Sec. 175 (4) BNSS]
+The Magistrate may take cognizance of a complaint against a public servant, regarding
+his official duties after:
+ Receiving a report from senior officers of such officer about the fact and
+circumstances of the incident and
+ consideration of assertions made by such Public Servant.
+ii. Magistrate to hear police officer before ordering investigation in a complaint case
+[Sec. 175 (3) BNSS]
+Magistrate may consider the submission made by the Police Officer before ordering
+investigation in complaint cases.
+
+Speedy Trial [Sec. 175 BNSS]
+i. Trial in-absentia of Proclaimed Offender [Sec. 356 BNSS]
+ The BNSS has introduced provision for conducting trial in-absentia of Proclaimed
+Offender. This allows the trial and pronouncement of judgment in the absence of
+the accused, which was not provided under CrPC.
+ Section 356 of the BNSS mandates the court to proceed with the trial in-absentia
+when a person declared as a Proclaimed Offender has absconded to evade trial, and
+there is no immediate prospect of arresting him. It also specifies a mandatory
+waiting period of ninety (90) days from the date of framing of the charge before
+commencing the trial.
+Note: CrPC allowed evidence to be recorded in the absence of the accused u/s
+299, but did not provide for trial to be completed or for judgment to be
+pronounced against Proclaimed offender.
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+8
+
+ii. Framing of charge within 60 days [Sec. 263 BNSS]
+The Magistrate shall frame the charge against the accused within period of 60 days
+from the date of first hearing on charge.
+iii. Judgement within a period of 45 days on completion of trial
+[Sec. 392 BNSS]
+After the termination of trial the judgment shall be pronounced at subsequent time but
+not later than 45 days.
+iv. Judgement by Session Court within a period of 30 days after arguments
+(extendable to 45 days) [Sec. 258 BNSS]
+After hearing the arguments of prosecution and defence, Session Court shall give the
+Verdict within a period of 30 days extendable up to 45 days.
+v. Examination of a witness by audio-video electronic means [Sec. 265 BNSS]
+During trial, the statements of prosecution witnesses may be recorded by audio-video
+electronic means.
+vi. Prosecution Sanction in 120 days [Sec. 218 BNSS]
+Under Sec. 218 BNSS the Central or the State Government is required to decide
+request for sanction for prosecuting the public servant within 120 days. If the said
+Government fails to do so, the sanction will be deemed to have been accorded by the
+Government.
+
+Other Key Changes
+i.
+
+Forensic aid in heinous crime investigation [Sec. 176 (3) BNSS]
+Sec. 176 (3) of BNSS mandates the collection of forensic evidence at the crime scene
+by a forensic expert for offences punishable by imprisonment of 7 years or more. The
+provision is to be impleamented within 5 years during which such capacity is to be
+developed by the State Government.
+The State Government shall also notify regarding utilization of forensic facility of any
+other State until State develops such facility.
+
+ii. Compensation to persons groundlessly arrested (Malicious arrest) [Sec 360 BNSS]
+Whenever any person causes a police officer to arrest another person, if it appears to
+the Magistrate by whom the case is heard that there was no sufficient ground for
+causing such arrest, the Magistrate may award such compensation, not exceeding one
+thousand rupees, to be paid by the person so causing the arrest to the person so
+arrested.
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+9
+
+iii. Minimum SP rank officer to be Special Executive Magistrate [Sec. 15 BNSS]
+In Police Commissionerate area, minimum Superintendent of Police rank officer may
+be appointed as a Special Executive Magistrate.
+Note: Under CrPC, Dy.S.P/A.C.P rank officer could be appointed as a Special Executive
+Magistrate
+iv. Service of summons through electronic communication [Sec 64 (2) BNSS]
+Summons may also be served through electronic communication
+v. Summons to produce document or other things [Sec. 94 BNSS]
+Under Sec. 94 BNSS, any Court or office Incharge of Police station can demand
+production of electronic communication including communication device, which is
+likely to contain digital evidence.
+Note: CrPC did not have any provision for summoning the electronic record.
+vi. SP can entrust investigation to DySP [Sec. 175 (1) BNSS]
+The Superintendent of Police may after considering the nature and gravity of the
+offence require the Deputy Superintendent of Police to investigate the offence.
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+10
+
+Timelines for various stages of Trial under BNSS
+Sr.
+No.
+
+Stage
+
+Provision
+
+CrPC
+
+BNSS
+
+1.
+
+Charge
+
+Framing of charges by
+Magistrate
+(for offences the Magistrate
+is competent to try and
+punish)
+
+No time
+prescribed
+Sec. 240 (1)
+CrPC
+
+Within 60 days from
+first hearing on charge
+Sec. 263 (1) BNSS
+
+2.
+
+Charge
+
+Procedure for an accused to
+No time
+file application for
+prescribed
+Sec. 227 CrPC
+discharge
+(in cases triable by a Sessions
+Court)
+
+Within 60 days from
+committal Sec.
+250 (1) BNSS
+
+3.
+
+Charge
+
+Procedure for discharge by
+Magistrate in case of
+absence of complainant on
+date fixed for hearing in a
+complaint case, for
+offences that are noncognizable and
+compoundable
+
+Granting 30 days
+opportunity to
+complainant to appear
+in court Sec. 272
+BNSS
+
+4.
+
+Plea
+Bargaining
+
+5.
+
+No time
+prescribed
+Sec. 249
+CrPC
+
+Procedure for application
+No time
+for plea bargaining by the
+prescribed
+accused, in court where trial Sec. 265-B (1)
+for said offence is pending
+CrPC
+
+Within 30 days from
+the date of framing of
+charge Sec. 290 (1)
+BNSS
+
+Trial
+
+Procedure for admission
+and denial of genuineness
+of documents by the
+defence and prosecution
+
+No time
+prescribed
+Sec. 294 (1)
+CrPC
+
+Soon after supply of
+documents, and no
+later than 30 days,
+unless the Court
+relaxes the time limit
+with written reasons
+Sec. 330 (1) BNSS
+
+6.
+
+Trial
+
+Procedure for examination
+of the accused in custody,
+through electronic means,
+by Magistrate or Sessions
+Court
+
+No time
+prescribed
+Sec. 281
+CrPC
+
+Signature of accused to
+be taken within 72
+hours of such
+examination
+Sec. 316 BNSS
+
+7.
+
+Trial
+
+Commencement of in
+absentia trial against
+proclaimed offenders by a
+court
+
+No time
+prescribed
+Sec. 299
+CrPC
+
+After a period of 90
+days has lapsed from
+the framing of charge
+Sec. 356 (1) BNSS
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+11
+
+Sr.
+No.
+
+Stage
+
+Provision
+
+CrPC
+
+BNSS
+
+8.
+
+Trial
+
+Issuance of two
+consecutive arrest
+warrants by a court against
+proclaimed offenders,
+before commencing in
+absentia trials
+
+No time
+prescribed
+
+Execution of 2
+consecutive arrest
+warrants within the
+interval of 30 days
+Sec. 356 (2) (1)BNSS
+
+9.
+
+Trial
+
+Publication of notice to
+proclaimed offender to
+appear before court, in a
+newspaper
+
+No time
+prescribed
+
+Notice period of 30
+days Sec. 356 (2) (ii)
+BNSS
+
+10.
+
+Judgment
+and
+sentence
+
+Pronouncement of
+judgment after termination
+of trial in any criminal
+court
+
+Immediately
+after the
+termination
+of trial or at
+some
+subsequent
+time Sec.
+
+Not later than
+45 days Sec.
+392 (1) BNSS
+
+353 (1) CrPC
+
+11.
+
+Judgment
+and
+sentence
+
+Judgment of acquittal or
+conviction by Court of
+Sessions
+
+No time
+prescribed
+Sec.235 (1)
+CrPC
+
+30 days from the
+completion of
+arguments.
+Extendable up to 45
+days for reasons in
+writing
+Sec. 258 (1) BNSS
+
+12.
+
+Uploading
+of
+Judgment
+
+Court to upload a digital
+copy of the judgment
+
+No time
+prescribed
+Sec. 353 (4)
+CrPC
+
+7 days from
+pronouncement, as far
+as practicable
+Sec. 392 (4) BNSS
+
+13.
+
+Disposal
+of
+property
+
+Procedure for custody or
+disposal of property
+produced before a
+Court/Magistrate during
+investigation, inquiry or
+trial. The Court is bound to
+prepare a statement of
+property produced before it
+
+No time
+prescribed
+Sec. 451 CrPC
+
+Within 14 days of
+production of property
+before the court Sec.
+497 (2) BNSS
+
+Maharaja Ranjit Singh Punjab Police Academy, Phillaur
+
+12
+
+Notes
+
+We Train to Serve and Protect
+
+Maharaja Ranjit Singh
+
+Punjab Police Academy
+Phillaur
+
+
