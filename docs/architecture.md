@@ -151,7 +151,7 @@ Documentation exists only for understanding and maintenance.
 Location:
 
 ```text
-.agents/
+.gemini/.agents/
 ```
 
 Files:
@@ -553,7 +553,7 @@ Reports
 Location:
 
 ```text
-.templates/
+.gemini/.templates/
 ```
 
 Purpose:

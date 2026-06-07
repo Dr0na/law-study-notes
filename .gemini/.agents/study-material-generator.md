@@ -87,7 +87,7 @@ Consumes:
 
 docs/sppu-answer-writing-rules.md
 
-.templates/
+.gemini/.templates/
 ```
 
 ---
