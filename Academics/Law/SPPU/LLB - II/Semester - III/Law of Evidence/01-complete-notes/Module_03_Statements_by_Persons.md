@@ -20,6 +20,9 @@ A statement made by a person as to the cause of his death, or as to any of the c
 *   **Key Case**: *Pakala Narayana Swami v. Emperor (1939)*: The deceased received a letter inviting him to collect a debt. He told his wife he was going to that place, and his dismembered body was later found. His statement to his wife was held admissible as a circumstance of the transaction resulting in his death.
 *   **Key Case**: *Kaushal Rao v. State of Bombay (AIR 1958 SC 22)*: The Supreme Court held that a dying declaration can form the sole basis of conviction without corroboration, provided it is voluntary, truthful, and recorded properly.
 
+### Visual Guide: Dying Declaration Admissibility Checklist (Sec. 26(1) BSS)
+![Dying Declaration Admissibility Checklist Infographic](../03-visual-aids/images/dying_declaration.jpg)
+
 ---
 
 ## 2. Relevancy of Expert Witness — Secs. 39 to 45 BSS

@@ -33,6 +33,9 @@ graph TD
     B -->|To Private Person / Extra-Judicial| H[Admissible but weak evidence]
 ```
 
+### Visual Guide: Section 23 Admissibility Flow
+![Police Confessions & The Discovery of Fact Infographic](../images/police_confessions_discovery.jpg)
+
 ---
 
 ## 3. Admissibility of Electronic Records (Sec. 63 Certification)

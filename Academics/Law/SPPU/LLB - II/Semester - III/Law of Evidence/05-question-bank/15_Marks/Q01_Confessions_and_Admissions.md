@@ -16,6 +16,9 @@
 When an accused in police custody gives information that leads to the discovery of a distinct physical fact (e.g., weapon, body), that portion of the information which distinctly relates to the discovery is admissible.
 - Case: *Pulukuri Kottaya v. Emperor*: Reaffirmed that only the information showing the accused's knowledge of the hiding place of the object is admissible, not the confession of guilt.
 
+### Visual Guide: Section 23 Admissibility (Police Confessions & Discovery of Fact)
+![Police Confessions & The Discovery of Fact Infographic](../../03-visual-aids/images/police_confessions_discovery.jpg)
+
 ## 4. Confession of Co-Accused (Section 24 BSS)
 A confession made by one co-accused trying jointly for the same offence can be "taken into consideration" against the other co-accused. It is considered a weak type of evidence (*Bhuboni Sahu v. The King*).
 

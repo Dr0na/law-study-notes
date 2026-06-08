@@ -8,5 +8,9 @@
 
 ## 2. Legal Maxims
 - ***Nemo moriturus praesumitur mentiri***: "A dying man is not presumed to lie." (Basis of Dying Declarations under Sec. 26(1)).
+
+### Visual Guide: Dying Declaration Admissibility (Sec. 26(1) BSS)
+![Dying Declaration Admissibility Checklist Infographic](../03-visual-aids/images/dying_declaration.jpg)
+
 - ***Allegans contraria non est audiendus***: "He is not to be heard who alleges things contradictory to each other." (Basis of Estoppel under Sec. 121).
 - ***Interest reipublicae ut sit finis litium***: "It is in the interest of the State that litigation should have an end." (Basis of Res Judicata under Sec. 34 and Section 169 BSS).

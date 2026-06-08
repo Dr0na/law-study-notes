@@ -16,11 +16,14 @@
   - To police: Inadmissible (Sec. 23(1)).
   - Under custody: Inadmissible unless in presence of Magistrate.
   - **Discovery of Fact (Sec. 23(2))**: Admissible only to the extent it distinctly relates to the discovered object. Case: *Pulukuri Kottaya v. Emperor*.
-- **Visual Comparative Guide**:
-  ![Admissions vs. Confessions Comparative Infographic](../03-visual-aids/images/admissions_vs_confessions.jpg)
+- **Visual Guides**:
+  - **Admissions vs. Confessions**: ![Admissions vs. Confessions Comparative Infographic](../03-visual-aids/images/admissions_vs_confessions.jpg)
+  - **Police Confessions & Discovery (Sec. 23)**: ![Police Confessions & The Discovery of Fact Infographic](../03-visual-aids/images/police_confessions_discovery.jpg)
 
 ## Module 3: Statements by Persons
 - **Dying Declaration (Sec. 26(1) BSS)**: Statement by a deceased person regarding the cause of their death. Can form the sole basis of conviction if voluntary. Case: *Kaushal Rao v. State of Bombay*.
+- **Visual Guide**:
+  - **Dying Declaration Checklist**: ![Dying Declaration Admissibility Checklist Infographic](../03-visual-aids/images/dying_declaration.jpg)
 - **Expert Opinion (Sec. 39 BSS)**: Opinion on science, art, foreign law, handwriting. Advisory and corroborative. Case: *State of HP v. Jailal*.
 
 ## Module 4: Documentary Evidence

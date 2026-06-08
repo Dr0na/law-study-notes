@@ -10,6 +10,9 @@ Under Section 26(1) of BSS (formerly Section 32(1) IEA), a statement made by a p
   2. The declarant was in a fit mental condition (verified by medical certificate).
   3. It is free from tutoring or prompting.
 
+### Visual Guide: Admissibility Checklist (Sec. 26(1) BSS)
+![Dying Declaration Admissibility Checklist Infographic](../../03-visual-aids/images/dying_declaration.jpg)
+
 ## 3. Circumstances where Corroboration is Required
 - If there are multiple conflicting dying declarations.
 - If the declarant was in a semi-conscious state.

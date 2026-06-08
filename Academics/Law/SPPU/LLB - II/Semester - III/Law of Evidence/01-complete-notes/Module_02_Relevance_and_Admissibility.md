@@ -56,6 +56,9 @@ A **Confession** is an admission made at any time by a person charged with a cri
 - **Discovery of Fact — Sec. 23(2) BSS (formerly Sec. 27 IEA)**: When any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact thereby discovered, may be proved.
 - **Confession by Co-Accused — Sec. 24 BSS**: When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the Court may take into consideration such confession as against such other person as well as against the person who makes such confession.
 
+### Visual Guide: Police Confessions & Discovery of Fact (BSS Sec. 23)
+![Police Confessions & The Discovery of Fact Infographic](../03-visual-aids/images/police_confessions_discovery.jpg)
+
 ---
 
 ## 4. Differences between Admission and Confession
