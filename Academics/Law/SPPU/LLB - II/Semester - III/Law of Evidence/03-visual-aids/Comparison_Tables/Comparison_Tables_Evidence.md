@@ -36,6 +36,9 @@ This document contains key comparative tables to help distinguish important conc
 | **Evidentiary Value** | Not conclusive proof; acts as estoppel. | Substantive evidence; can form the sole basis of conviction. |
 | **Maker** | Can be made by agents, parties, or third parties. | Must be made by the accused person themselves. |
 
+### Visual Comparative Guide (BSS Secs. 15-24)
+![Admissions vs. Confessions Comparative Infographic](../images/admissions_vs_confessions.jpg)
+
 ---
 
 ## 4. Primary Evidence vs. Secondary Evidence

@@ -67,6 +67,9 @@ A **Confession** is an admission made at any time by a person charged with a cri
 | Evidentiary Value | Not conclusive proof, but acts as estoppel | Substantive evidence if voluntary and truthful |
 | Police Presence | Admission to police is generally admissible | Confession to police is strictly inadmissible |
 
+### Visual Comparative Guide (BSS Secs. 15-24)
+![Admissions vs. Confessions Comparative Infographic](../03-visual-aids/images/admissions_vs_confessions.jpg)
+
 ---
 
 ## 5. Landmark Judgments

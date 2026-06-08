@@ -5,6 +5,9 @@
 - **Confessions (Secs. 22-24 BSS)**: Specific statements admitting guilt in criminal proceedings.
 - Case: *Pakala Narayana Swami v. Emperor*: A confession must admit the offence in terms, or substantially all the facts constituting it.
 
+### Visual Comparative Guide (BSS Secs. 15-24)
+![Admissions vs. Confessions Comparative Infographic](../../03-visual-aids/images/admissions_vs_confessions.jpg)
+
 ## 2. Confessions in Police Presence and Custody (Section 23 BSS)
 - **General Rule (Sec. 23(1))**: A confession made to a police officer is inadmissible and cannot be proved against the accused. This rule protects individuals from forced confessions and custodial torture.
 - **Exception (Sec. 23(1) Proviso)**: A confession in police custody is admissible if made in the immediate presence of a Magistrate.
