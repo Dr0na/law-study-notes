@@ -13,6 +13,9 @@ The Burden of Proof is a central concept in procedural law that determines which
 *   **Evidentiary Burden (Onus of Proof) — Sec. 105 BSS (formerly Sec. 102 IEA)**: The burden of proof in a suit or proceeding lies on that person who would fail if no evidence at all were given on either side.
     - *Shifting Onus*: Unlike the legal burden under Sec. 104, the onus of proof under Sec. 105 shifts continuously from one party to the other during the trial as evidence is led.
 
+### Visual Guide: Trial Dynamics (Burden of Proof vs. Onus of Proof)
+![Burden of Proof vs. Onus of Proof Infographic](../03-visual-aids/images/burden_vs_onus.jpg)
+
 ---
 
 ## 2. Exceptions and Specific Burden Rules (BSS Sections 108 to 116)

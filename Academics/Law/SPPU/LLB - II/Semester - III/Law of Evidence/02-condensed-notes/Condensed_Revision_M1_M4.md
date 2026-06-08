@@ -30,3 +30,6 @@
 - **Primary Evidence (Sec. 57 BSS)**: Original documents produced in court.
 - **Secondary Evidence (Sec. 58 BSS)**: Copies, certified copies, or oral accounts. Admissible under exceptions (Sec. 60 BSS) like original lost/destroyed.
 - **Electronic Records (Sec. 63 BSS)**: Admissible if accompanied by a signed Certificate of authenticity. Cases: *Anvar P.V.*, *Arjun Panditrao*.
+- **Visual Guide**:
+  - **Section 63 Admissibility Checklist**: ![Section 63 Admissibility of Electronic Records Infographic](../03-visual-aids/images/electronic_evidence.jpg)
+

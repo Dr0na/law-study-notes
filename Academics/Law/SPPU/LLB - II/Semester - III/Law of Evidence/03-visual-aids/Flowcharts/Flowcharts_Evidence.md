@@ -51,6 +51,9 @@ graph TD
     D -->|No| G
 ```
 
+### Visual Guide: Section 63 Admissibility Checklist (Electronic & Digital Records)
+![Section 63 Admissibility of Electronic Records Infographic](../images/electronic_evidence.jpg)
+
 ---
 
 ## 4. Order of Witness Examination

@@ -15,6 +15,9 @@ Any secondary electronic evidence (like printouts or copies on flash drives) mus
 - Describe the device and manner of production.
 - Be signed by a person in charge of the device or system.
 
+### Visual Guide: Section 63 Admissibility Checklist (Electronic & Digital Records)
+![Section 63 Admissibility of Electronic Records Infographic](../../03-visual-aids/images/electronic_evidence.jpg)
+
 ## 4. Landmark Judicial Rulings
 - *Anvar P.V. v. P.K. Basheer (2014)*: The Supreme Court held that the certificate is mandatory for secondary electronic records. Oral evidence cannot bypass this requirement.
 - *Arjun Panditrao Khotkar v. Kailash (2020)*: Confirmed *Anvar P.V.* and clarified that if the original device (e.g., the phone itself) is produced in court, no certificate is needed.

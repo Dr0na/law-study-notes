@@ -60,3 +60,7 @@ This document contains key comparative tables to help distinguish important conc
 | **Shifting** | Never shifts; remains fixed throughout. | Shifts continuously from one party to the other. |
 | **Constant** | Constant on the prosecution (criminal) or plaintiff (civil). | Shifts depending on who would fail if no more evidence is given. |
 | **Statute** | Governed by BSS Section 104. | Governed by BSS Section 105. |
+
+### Visual Comparative Guide (BSS Secs. 104-105)
+![Burden of Proof vs. Onus of Proof Infographic](../images/burden_vs_onus.jpg)
+

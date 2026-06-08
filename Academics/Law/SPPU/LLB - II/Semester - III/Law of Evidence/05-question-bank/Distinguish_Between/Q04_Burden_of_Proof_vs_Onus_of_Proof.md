@@ -6,3 +6,9 @@
 | **Shifting** | Never shifts; remains fixed. | Shifts continuously from party to party. |
 | **Constant** | Constant on the prosecution (criminal). | Changes as the case develops. |
 | **Statute** | Governed by Section 104. | Governed by Section 105. |
+
+---
+
+### Visual Comparative Guide (BSS Secs. 104-105)
+![Burden of Proof vs. Onus of Proof Infographic](../../03-visual-aids/images/burden_vs_onus.jpg)
+

@@ -42,6 +42,9 @@ BSS, 2023 has overhauled the admissibility of electronic evidence to simplify pr
 *   **Key Case**: *Anvar P.V. v. P.K. Basheer (2014)*: The Supreme Court held that the certificate under Section 65B IEA (now Sec. 63 BSS) is mandatory for admissibility of secondary electronic evidence.
 *   **Key Case**: *Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (2020)*: Clarified that the certificate is a condition precedent to admissibility when the original device cannot be produced in court.
 
+### Visual Guide: Section 63 Admissibility Checklist (Electronic & Digital Records)
+![Section 63 Admissibility of Electronic Records Infographic](../03-visual-aids/images/electronic_evidence.jpg)
+
 ---
 
 ## 3. Public and Private Documents — Secs. 74 to 77 BSS

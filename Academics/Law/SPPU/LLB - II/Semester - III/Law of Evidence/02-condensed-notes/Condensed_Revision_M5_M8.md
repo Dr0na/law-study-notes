@@ -14,6 +14,8 @@
 - **Evidentiary Onus (Sec. 105 BSS)**: Burden to introduce evidence. Shifts continuously.
 - **Special Knowledge (Sec. 107 BSS)**: Burden of proving facts especially within one's knowledge is on that person (e.g., ticketless travel).
 - **Dowry Death Presumption (Sec. 120 BSS)**: If cruelty for dowry is shown soon before death, the court *shall* presume the husband caused it.
+- **Visual Guide**:
+  - **Burden vs. Onus of Proof**: ![Burden of Proof vs. Onus of Proof Infographic](../03-visual-aids/images/burden_vs_onus.jpg)
 
 ## Module 7: Oral Evidence
 - **Direct Evidence (Sec. 55 BSS)**: Oral evidence must always be direct (what was seen, heard, or perceived). Hearsay is excluded.
