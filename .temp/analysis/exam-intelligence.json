@@ -1,0 +1,242 @@
+{
+  "Overview of the Indian Evidence Act, historical background, objectives, and scope Central Conceptions in Law of Evidence": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 1,
+    "unitTitle": "Introduction to Law of Evidence"
+  },
+  "Bhartiya Sakshya Sanhita, 2023: Structure and Key Provisions": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 1,
+    "unitTitle": "Introduction to Law of Evidence"
+  },
+  "Definitions - Facts Sec. 2(f), relevant facts Sec. 2(k), facts in issue Sec. 2(g)": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 1,
+    "unitTitle": "Introduction to Law of Evidence"
+  },
+  "Evidence Sec. 2(e): Oral and documentary and real Primary and secondary evidence, Sec 2(d), Circumstantial Evidence and Direct and indirect Evidence, Hearsay Evidence, Proved Sec. 2(j), Not Proved Sec. 2(i) and Disproving Sec. 2(c), Witness Sec. 124": {
+    "priority": "High",
+    "score": 90,
+    "unit": 1,
+    "unitTitle": "Introduction to Law of Evidence"
+  },
+  "Appreciation of Evidence and Presumption \u2013 May Presume Sec. 2(h), Shall Presume Sec. 2(l) and Conclusive Proof Sec. 2(b)": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 1,
+    "unitTitle": "Introduction to Law of Evidence"
+  },
+  "Concepts of relevance and admissibility, admissible and inadmissible evidence Sec. 3": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 2,
+    "unitTitle": "Relevance and Admissibility"
+  },
+  "The Doctrine of Res Gestae Secs. 4, 5, 6, Test identification parade Sec. 7, Evidence of Common Intention Sec. 8, The problems of relevancy of 'Otherwise' Irrelevant Facts Sec. 9, facts to determine amount of damages Sec. 10, Proof of Custom Sec. 11, Facts concerning state of body and mind Secs. 12, 13 & 14": {
+    "priority": "High",
+    "score": 95,
+    "unit": 2,
+    "unitTitle": "Relevance and Admissibility"
+  },
+  "Admissions Secs. 15-21, General Principles concerning Admissions Sec. 25": {
+    "priority": "High",
+    "score": 90,
+    "unit": 2,
+    "unitTitle": "Relevance and Admissibility"
+  },
+  "Confessions Secs. 22-24 - Admissibility and Inadmissibility of confession made before a police officer, Confession by co-accused, the problems with the judicial action based on a 'retracted confession', Differences between 'Admission' and 'Confession'": {
+    "priority": "High",
+    "score": 95,
+    "unit": 2,
+    "unitTitle": "Relevance and Admissibility"
+  },
+  "Statement of persons who cannot be called as witnesses Secs. 26-27": {
+    "priority": "High",
+    "score": 90,
+    "unit": 3,
+    "unitTitle": "Statements by Persons"
+  },
+  "Statement made under special circumstances Secs. 28-32, How much of a statement is to be proved Sec. 33": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 3,
+    "unitTitle": "Statements by Persons"
+  },
+  "Judgments of courts when relevant Secs. 34-38": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 3,
+    "unitTitle": "Statements by Persons"
+  },
+  "Relevancy of expert witness Secs. 39-45, The problems with expert testimony": {
+    "priority": "High",
+    "score": 90,
+    "unit": 3,
+    "unitTitle": "Statements by Persons"
+  },
+  "Evidence of character Secs. 46-50": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 3,
+    "unitTitle": "Statements by Persons"
+  },
+  "Types of documents, admissibility of documents, proof of execution, secondary evidence Documentary evidence": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 4,
+    "unitTitle": "Documentary Evidence"
+  },
+  "General Principles concerning documentary evidence Sec. 56, Primary and Secondary evidence, Secs. 57-60": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 4,
+    "unitTitle": "Documentary Evidence"
+  },
+  "Electronic and digital record Sec. 61, Admissibility and Relevancy of Electronic Records Secs. 62-63, relevant legal provisions under the Information Technology Act, 2000": {
+    "priority": "High",
+    "score": 90,
+    "unit": 4,
+    "unitTitle": "Documentary Evidence"
+  },
+  "Attested documents Secs. 65-73": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 4,
+    "unitTitle": "Documentary Evidence"
+  },
+  "Public document and private document Secs. 74-77, Presumptions regarding documents Secs. 78-93": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 4,
+    "unitTitle": "Documentary Evidence"
+  },
+  "General Principles Regarding Exclusion of Oral by Documentary Evidence Secs. 94-95": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 4,
+    "unitTitle": "Documentary Evidence"
+  },
+  "Ambiguous documents Secs. 96-103": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 4,
+    "unitTitle": "Documentary Evidence"
+  },
+  "Competency and compellability of witnesses, who may testify Sec. 124": {
+    "priority": "High",
+    "score": 90,
+    "unit": 5,
+    "unitTitle": "Witnesses"
+  },
+  "Witness unable to communicate verbally Sec. 125": {
+    "priority": "High",
+    "score": 90,
+    "unit": 5,
+    "unitTitle": "Witnesses"
+  },
+  "Examination of witnesses, Competency to testify Secs. 126-127": {
+    "priority": "High",
+    "score": 90,
+    "unit": 5,
+    "unitTitle": "Witnesses"
+  },
+  "Privileges of communications: matrimonial privileges Sec. 128, State Privilege Sec. 129, Official Communications Sec. 130, Information as to commission of offences Sec. 131": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 5,
+    "unitTitle": "Witnesses"
+  },
+  "Professional Privilege Secs. 132-134": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 5,
+    "unitTitle": "Witnesses"
+  },
+  "Other provisions as to witness Secs. 135, 136 and 137": {
+    "priority": "High",
+    "score": 90,
+    "unit": 5,
+    "unitTitle": "Witnesses"
+  },
+  "Accomplice and number of witnesses Sec. 138 and Sec. 139": {
+    "priority": "High",
+    "score": 90,
+    "unit": 5,
+    "unitTitle": "Witnesses"
+  },
+  "Burden of proof and standard of proof, burden of proof in civil and criminal cases": {
+    "priority": "High",
+    "score": 90,
+    "unit": 6,
+    "unitTitle": "Burden of Proof"
+  },
+  "The general conception of burden of proof Secs. 104-107": {
+    "priority": "High",
+    "score": 90,
+    "unit": 6,
+    "unitTitle": "Burden of Proof"
+  },
+  "General and Special Exceptions to burden of proof Secs. 108-116": {
+    "priority": "High",
+    "score": 90,
+    "unit": 6,
+    "unitTitle": "Burden of Proof"
+  },
+  "Court may presume existence of certain facts Secs. 117-120": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 6,
+    "unitTitle": "Burden of Proof"
+  },
+  "The Scope or the doctrine of judicial notice Secs. 51-52": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 6,
+    "unitTitle": "Burden of Proof"
+  },
+  "Facts admitted need not be proved Sec. 53": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 6,
+    "unitTitle": "Burden of Proof"
+  },
+  "Oral evidence: general principles concerning Oral Evidence, exceptions to hearsay evidence": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 7,
+    "unitTitle": "Oral Evidence"
+  },
+  "Oral evidence: Examination-in-chief, cross-examination, re-examination, witness credibility - General Principles of Examination Secs. 140-168, Leading Questions Sec. 146, Lawful Questions in Cross-Examination Sec. 149, Hostile witness Sec. 157, Impeaching of the standing the credit of witnesses Sec. 158": {
+    "priority": "High",
+    "score": 90,
+    "unit": 7,
+    "unitTitle": "Oral Evidence"
+  },
+  "Refreshing the memory Sec. 162": {
+    "priority": "Medium",
+    "score": 75,
+    "unit": 7,
+    "unitTitle": "Oral Evidence"
+  },
+  "What is Estoppel? Estoppel, Res judicata and waiver; and presumption": {
+    "priority": "High",
+    "score": 95,
+    "unit": 8,
+    "unitTitle": "Estoppel"
+  },
+  "Promissory Estoppel, Secs. 121-123": {
+    "priority": "High",
+    "score": 95,
+    "unit": 8,
+    "unitTitle": "Estoppel"
+  },
+  "Effect of Improper admission and of witness in civil and criminal cases Sec. 169": {
+    "priority": "High",
+    "score": 90,
+    "unit": 8,
+    "unitTitle": "Estoppel"
+  }
+}

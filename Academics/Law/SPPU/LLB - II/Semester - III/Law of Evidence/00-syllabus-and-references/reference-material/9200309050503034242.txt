@@ -1,0 +1,822 @@
+Indian Evidence Act, 1872 (Introduction & History)
+E-Content
+Shri, Vivek Dubey, Assistant Professor
+School of Law
+Dr. Hari Singh Gour Vishwavidyalaya Sagar, Madhya Pradesh
+Module I - Introduction
+Module II- History of the Indian Evidence Act
+Module III - Structure and Objective of the Indian Evidence Act
+Module IV- Amendments of the Indian Evidence Act
+Module V – The relevancy of facts
+Module VI- Facts which need not be proved
+Module VII- Conclusion
+Module-I - INTRODUCTION
+Why to study Evidence Act?
+Evidence refers to anything that is necessary to prove a certain fact. Thus, Evidence is a means of proof.
+Facts have to be proved before the relevant laws and its provisions can be applied. It is evidence that leads
+to authentication of facts and in the process, helps in rationalizing an opinion of the judicial authorities.
+Further, the law of evidence helps prevent long drawn inquiries and prevents admission of excess
+evidence than needed.
+What is IEA? How does it function?
+To answer this question one need to know how law proceed or propose to decide a case. There two
+fundamental principles of trial in all the judicial systems, firstly, it must ensure that parties to the case are
+given full opportunity to prove their case, and secondly every dispute must come to an end. These two
+rules which are juxtaposed to each other must be balanced and this is done by the blending of procedural
+law and rules of evidence.
+What is Evidence?
+The functions of Court of Justice are two-fold:- i) To ascertain the existence or non existence of certain
+facts, and ii) To apply the substantive law to the ascertained facts and to declare the rights and liabilities
+of the parties. For this the court has to collect, peruse, analyse and sift the evidential material brought
+before it. The means whereby the court informs itself of the existence of these facts is called EVIDENCE.
+In other words, the object of every judicial investigation is the enforcement of a right or liability that
+depends on certain facts. The law of evidence can be called the system of rules whereby the questions of
+
+fact in a particular case can be ascertained. It is basically a procedural law but it has shades of substantive
+law. For example, the law of estoppel can defeat a man’s right. Law of Evidence is one of the
+fundamental subjects of law and therefore we must study it in detail and depth. The term ‘evidence’ owes
+its origin to the Latin terms ‘evident’ or ‘evidere’ that mean ‘to show clearly, to discover, to ascertain or
+to prove.’
+Taylor says – (functional description of court process) “The word ‘evidence’ includes all legal means,
+exclusive of mere arguments, which tend to prove or disprove any matter of fact, the truth of which is
+submitted to judicial investigation.”
+Classical exposition of Bentham – “Any matter of fact, the effect or tendency of which is to produce in
+the mind a persuasion, affirmative or disaffirmative of the existence of some other matter of fact.”
+(comprehends both physical and psychological facts)
+Evidence may bear two meanings or refer to – i) MEANS – that tend to create a belief in the mind of
+judge; and ii) FINAL BELIEF – actually created in his mind, known as PROOF. PROOF IS THE END
+AND EVIDENCE IS THE MEANS TO PROOF.
+In the Indian Evidence Act,1872, the word ‘Evidence’ is used in the sense of “Means”. Sec-3 of the
+Indian Evidence Act, 1872 reads: EVIDENCE means and includes – (1) All statements which the court
+permits or requires to be made before it by witnesses, in relation to matters of facts under inquiry – such
+statements are called ORAL EVIDENCE. (2) All documents produced for the inspection of the court –
+called DOCUMENTARY EVIDENCE. This interpretation is not exhaustive. It did not cover ‘Material
+Objects’ like, photos, weapon used in murder, bloodstained clothes etc. which are admitted in practice.
+Court need not concern itself with the method by which such evidence is obtained. (Pushpa Devi M.
+Jatia vs. M.L.Wadhwan) Tape recorded conversation is held as documentary evidence. (Rama Reddy vs.
+V.V.Giri) Dock tracking evidence is held to be scientific evidence. (Abdul vs. State)
+TYPES OF EVIDENCE
+1. Direct 2. Circumstantial 3.Hearsay 4. Documentary 5. Oral 6. Scientific 7. Real 8. Digital
+Law related to evidence and proof is nothing but rules that must be observed in particular situations
+before certain forums. If the other party in a legal proceeding admits guilt, all is well. The other party can
+also deny the allegations in the plaint and the existence of certain facts may be called into question. Then
+the parties or their witnesses have to give evidence in the court of law so that the court may decide
+whether the facts exist or not. Interpretation of agreed facts is a rarity and in most cases the existence or
+non existence of facts as to be shown and therefore, the law of evidence plays a very important role.
+Illustration: X has entered into a contract with Y to sell his house for an amount of INR 10,000. In case of
+a breach of contract by either X or Y, a Court of Law cannot decide the rights and liabilities unless the
+existence of such a contract is proved.
+In Indian Evidence Act, we will study who is a competent witness, on whom does the burden of proof lie
+and other things.
+INTRODUCTION TO IEA
+
+The Indian Evidence Act, 1872 is largely based on the English law of Evidence. The Act does not claim
+to be exhaustive. Courts may look at the relevant English Common Law for interpretation as long as it is
+not inconsistent with the Act. The Act consolidates, defines and amends the laws of evidence. It is a
+special law and hence, will not be affected by any other enactment containing provisions on matter of
+evidence unless and until it is expressly stated in such enactment or it has been repealed or annulled by
+another statute. Parties cannot contract to exclude the provisions of the Act. Courts cannot exclude
+relevant evidence made relevant under the Act. Similarly, evidence excluded by the Act will be
+inadmissible even if essential to ascertain the truth.
+
+THE LAW OF EVIDENCE IS THE LEX FORI
+Law of evidence is part of the law of procedure. That why it is called the lex fori or the law of the court or
+forum. It means that Indian courts know and apply only the Indian law of evidence. Thus, the competency
+of a witness, whether a fact is proved or not is determined by the law of the country where the question
+arose, where the remedy is sought to be enforced and where the court sits to enforce it. For example, if a
+legal proceeding is going on in Sri Lanka and evidence is taken in India for the said proceeding whether
+by commission or by assistance of courts in India, the law which will be applied during such recording of
+evidence will Sri Lankan Law of Evidence.
+
+THE LAW OF EVIDENCE IS THE SAME IN CIVIL AND CRIMINAL PROCEEDINGS
+A civil case of will and murder will have the same law of evidence. For example, the date of death has to
+be clarified or confirmed for the will to come into existence and a murder date has to be set for
+proceeding further with the criminal investigations too. There are, however, certain sections that apply
+exclusively to civil matters and others that apply exclusively to criminal cases. In civil cases, mere
+preponderance of evidence may be enough but in criminal cases the prosecution must prove its case
+beyond reasonable doubt and leave the other alternatives presented very unlikely and highly suspect.
+
+BASIC PRINCIPLES OF EVIDENCE
+The Act deals with Relevancy of Facts, Mode of Proof and Production and Effect of Evidence. The
+following principles are called the basic principles and the exceptions to the above principles, the exact
+application has been set out very clearly in the Act:
+Evidence must be confined to the matters in issue.
+Hearsay evidence may not be admitted.
+The best evidence must be given in all cases.
+All facts having rational probative value are admissible in evidence, unless excluded by a positive rule of
+paramount importance.
+
+Module-II- HISTORY OF THE LAW OF EVIDENCE
+Today we have two basic of evidence upon which rules are formulated. One rule is that only the facts
+bearing importance to the matter being heard should be looked into by the courts and second that all facts
+that will help the court to reach a decision are admissible unless otherwise excluded like a client
+confessing to his legal counsel.
+Among others from ancient Hindu Period, Vasistha recognised 3 kinds of evidence:
+Lekhya (Documentary Evidence)
+Sakshi ( Witnesses)
+Bukhti ( Possession)
+Divya (Ordeals)
+Though the concept of justice in Islam is that it is a divine disposition, the Mohammedan law givers have
+dealt with evidence in various forms as indicated by the table below:
+1. Oral that may be Direct Hearsay
+2. Documentary (Less preferred than oral)
+Initially at many places and in many beliefs, the parties to litigation would fight each other and it was
+believed that divine help will come to the rightful party. Trial by battle has been abrogated only in 1817.
+The trials by ordeal included a person on bed of hot coals or putting ones hand in boiling water. Anyone
+who suffered injury was held to be impure and guilty. Though it was believed that providence will not let
+harm come to the innocent, often it was the priests who manipulated the tests so that certain people could
+go scot-free.
+It was believed that if a guilty man touches the corpse it would show a reaction and then the man should
+be punished. Accordingly refusal to touch a corpse was also admission of guilt by the accused.
+The most cruel evidence law existed in Europe with respect to witch hunts and witch craft. The woman
+suspected of being a witch was tied up and thrown into a pond. If she floated p, she was a witch and was
+burned alive at stake. If the woman were to sink to the bottom of the pond, she was not a witch.
+Unfortunately she would be dead by then but nevertheless innocent in the eyes of law.
+Confessions due to torture are not unknown today either.
+
+THE MODERN LAW AS IT PREVAILS
+The concrete evidence of the ‘law of evidence’ comes from the times of the Britishers. In 1837, an Act
+was a passed whereby even a convicted person was allowed to give evidence. Subsequently, parties to
+
+litigation could be witnesses for their respective sides. Charles Dickens ridiculed this law and questioned
+the honesty of such witnesses. After all, who will testify against himself or to his disadvantage? Between
+1835 and 1855, there are eleven Acts that touch upon the subject of law of evidence. And these were
+consolidated.
+In 1856, Sir Henry Summer Maine, the then law member of the Governor General’s Council was asked to
+prepare and Indian Evidence Act. His draft was found unsuitable for the Indian conditions. So it fell to Sir
+James Fitzjames Stephan who became the law member in 1871 to come up with the Indian Evidence Act.
+His draft bill was approved and came into being as the Indian Evidence Act, 1872 and came into force
+from 1st September 1872. Before independence, many states had already accepted this law as the law in
+their respective state. After independence, the Indian evidence Act was held to be the law for all Indian
+courts.1
+
+Module-III- Structure and Objective of Indian Evidence Act, 1872
+The Indian Evidence Act, 1872 is divided into 3 parts, 11 chapters and comprises of 167 sections. Part-I
+answers the question ‘what facts may or may not be proved?’ (Ch.I & II – Ss-1 to 55) Part-II deals with
+‘what sort of evidence is to be given of these facts?’ (Ch.III – VI Ss-56 to100) Part-III covers ‘by whom
+and in what manner the facts are to be proved?’ (Ch-VII to XI; Ss-101 to 167) Sec-5 to 55 deal with
+RELEVANCY and Sec-56 to 167 deal with the ADMISSIBILITY.
+The Objective of the Indian evidence Act 1872 was to consolidate, define and amend the
+Law of Evidence.
+
+Module-IV- Amendment of the Indian Evidence Act, 1872
+A)- Amendment of the Indian Evidence Act, 1872 in 2000
+1. In section 3,—
+(a)
+in the definition of "Evidence", for the words "all documents produced for the inspection of the
+Court", the words "all documents including electronic records produced for the inspection of the
+Court" shall be substituted;
+(b)
+after the definition of "India", the following shall be inserted, namely:— 'the expressions
+"Certifying Authority", "digital signature", "Digital Signature Certificate", "electronic form",
+"electronic records", "information", "secure electronic record", "secure digital signature" and
+"subscriber" shall have the meanings respectively assigned to them in the Information
+Technology Act, 2000.'.
+2. In section 17, for the words "oral or documentary,", the words "oral or documentary or
+contained in electronic form" shall be substituted.
+1
+
+https://kanwarn.wordpress.com/2008/12/20/introduction-to-indian-evidence-act/
+
+2. After section 22, the following section shall be inserted, namely: —
+When oral admission as to contents of electronic records are relevant.
+"22A. Oral admissions as to the contents of electronic records are not relevant, unless the
+genuineness of the electronic record produced is in question.".
+In section 34, for the words "Entries in the books of account", the words "Entries in the books of
+account, including those maintained in an electronic form" shall be substituted.
+1.
+In section 35, for the word "record", in both the places where it occurs, the words "record
+or an electronic record" shall be substituted.
+2.
+For section 39, the following section shall be substituted, namely: —
+What evidence to be given when statement forms part of a conversation, document, electronic
+record, book or series of letters or papers.
+"39. When any statement of which evidence is given forms part of a longer statement, or of a
+conversation or pan of an isolated document, or is contained in a document which forms part of a
+book, or is contained in part of electronic record or of a connected series of letters or papers,
+evidence shall be given of so much and no more of the statement, conversation, document,
+electronic record, book or series of letters or papers as the Court considers necessary in that
+particular case to the full understanding of the nature and effect of the statement, and of the
+circumstances under which it was made.".
+7. After section 47, the following section shall be inserted, namely: —
+Opinion as to digital signature where relevant.
+"47A. When the Court has to form an opinion as to the digital signature of any person, the
+opinion of the Certifying Authority which has issued the Digital Signature Certificate is a
+relevant fact.".
+1.
+In section 59, for the words "contents of documents" the words "contents of documents or
+electronic records" shall be substituted.
+2.
+After section 65, the following sections shall be inserted, namely: —
+Special provisions as to evidence relating to electronic record.
+'65A. The contents of electronic records may be proved in accordance with the provisions of
+section 65B.
+Admissibility of electronic records.
+65B. (1) Notwithstanding anything contained in this Act, any information contained in an
+electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic
+media produced by a computer (hereinafter referred to as the computer output) shall be deemed
+to be also a document, if the conditions mentioned in this section are satisfied in relation to the
+information and computer in question and shall be admissible in any proceedings, without further
+proof or production of the original, as evidence of any contents of the original or of any fact
+stated therein of which direct evidence would be admissible.
+
+(2)
+The conditions referred to in sub-section (1) in respect of a computer output shall be the
+following, namely: —
+(a)
+the computer output containing the information was produced by the computer during the period
+over which the computer was used regularly to store or process information for the purposes of
+any activities regularly carried on over that period by the person having lawful control over the
+use of the computer;
+(b)
+during the said period, information of the kind contained in the electronic record or of the kind
+from which the information so contained is derived was regularly fed into the computer in the
+ordinary course of the said activities;
+(c)
+throughout the material part of the said period, the computer was operating properly or, if not,
+then in respect of any period in which it was not operating properly or was out of operation
+during that part of the period, was not such as to affect the electronic record or the accuracy of its
+contents; and
+(d)
+the information contained in the electronic record reproduces or is derived from such information
+fed into the computer in the ordinary course of the said activities.
+(3)
+Where over any period, the function of storing or processing information for the purposes of any
+activities regularly carried on over that period as mentioned in clause (a) ofsub-section (2) was
+regularly performed by computers, whether—
+(a)
+by a combination of computers operating over that period; or
+(b)
+by different computers operating in succession over that period; or
+(c)
+by different combinations of computers operating in succession over that period; or
+(d)
+in any other manner involving the successive operation over that period, in
+Proof as to digital signature.
+"67A. Except in the case of a secure digital signature, if the digital signature of any subscriber is
+alleged to have been affixed to an electronic record the fact that such digital signature is the
+digital signature of the subscriber must be proved.".
+11. After section 73, the following section shall be inserted, namely: —
+Proof as to verification of digital signature.
+'73A. In order to ascertain whether a digital signature is that of the person by whom it purports to
+have been affixed, the Court may direct—
+(a)
+
+that person or the Controller or the Certifying Authority to produce the Digital Signature
+Certificate;
+(b)
+any other person to apply the public key listed in the Digital Signature Certificate and verify the
+digital signature purported to have been affixed by that person.
+12. Presumption as to Gazettes in electronic forms.
+After section 81, the following section shall be inserted, namely: —
+"81 A. The Court shall presume the genuineness of every electronic record purporting to be the
+Official Gazette, or purporting to be electronic record directed by any law to be kept by any
+person, if such electronic record is kept substantially in the form required by law and is produced
+from proper custody.".
+13. Presumption as to electronic agreements.
+After section 85, the following sections shall be inserted, namely: —
+"85A. The Court shall presume that every electronic record purporting to be an agreement
+containing the digital signatures of the parties was so concluded by affixing the digital signature
+of the parties.
+Presumption as to electronic records and digital signatures.
+85B. (1) In any proceedings involving a secure electronic record, the Court shall presume unless
+contrary is proved, that the secure electronic record has not been altered since the specific point
+of time to which the secure status relates.
+(2)
+In any proceedings, involving secure digital signature, the Court shall presume unless the
+contrary is proved that—
+(a)
+the secure digital signature is affixed by subscriber with the intention of signing or approving the
+electronic record;
+(b)
+except in the case of a secure electronic record or a secure digital signature, nothing in this
+section shall create any presumption relating to authenticity and integrity of the electronic record
+or any digital signature.
+Presumption as to Digital Signature Certificates.
+85C. The Court shall presume, unless contrary is proved, that the information listed in a Digital
+Signature Certificate is correct, except for information specified as subscriber information which
+has not been verified, if the certificate was accepted by the subscriber.".
+14. Presumption as to electronic messages.
+
+After section 88, the following section shall be inserted, namely: — '88A. The Court may
+presume that an electronic message forwarded by the originator through an electronic mail server
+to the addressee to whom the message purports to be addressed corresponds with the message as
+fed into his computer for transmission; but the Court shall not make any presumption as to the
+person by whom such message was sent. Explanation.—For the purposes of this section, the
+expressions "addressee" and "originator" shall have the same meanings respectively assigned to
+them in clauses (b) and (za) of sub-section (1) of section 2 of the Information Technology Act,
+2000.'.
+15. Presumption as to electronic records five years old.
+After section 90, the following section shall be inserted, namely: —
+"90A. Where any electronic record, purporting or proved to be five years old, is produced from
+any custody which the Court in the particular case considers proper, the Court may presume that
+the digital signature which purports to be the digital signature of any particular person was so
+affixed by him or any person authorised by him in this behalf.
+Explanation.—Electronic records are said to be in proper custody if they are in the place in
+which, and under the care of the person with whom, they naturally be; but no custody is
+improper if it is proved to have had a legitimate origin, or the circumstances of the particular
+case are such as to render such an origin probable.
+This Explanation applies also to section 81A.".
+16. For section 131, the following section shall be substituted, namely: —
+
+B)- Amendment of the Indian Evidence Act, 1872 in 2013
+
+After section 53 of the Indian Evidence Act, 1872 (hereafter in this Chapter referred to as
+the Evidence Act), the following section shall be inserted, namely:—
+Evidence of character or previous sexual experience not relevant in certain cases.
+“53A. In a prosecution for an offence under section 354, section 354A, section 354B, section
+354C, section 354D, section 376, section 376A, section 3768, section 376C, section 376D or
+section 376E of the Indian Penal Code or for attempt to commit any such offence, where the
+question of consent is in issue, evidence of the character of the victim or of such person’s
+previous sexual experience with any person shall not be relevant on the issue of such consent or
+the quality of consent.”.
+Substitution of new section for section 114A.
+
+For section 114A of the Evidence Act, the following section shall be substituted, namely:Presumption as 10 absence of consent in certain prosecution for rape.
+‘II4A. In a prosecution for rape under clause (0), clause (b), clause (c), clause (d), clause (e),
+clause (j), clause (g), clause (h), clause (‘), clause (j), clause (k), clause (f), clause (m) or clause
+(n) of sub-section (2) of section 376 of the Indian Penal Code, where sexual intercourse by the
+accused is proved and the question is whether it was without the consent of the woman alleged to
+have been raped and such woman states in her evidence before the court. That she did not
+consent, the court shall presume that she did not consent.
+Explanation.- In this section, “sexual intercourse” shall mean any of the acts mentioned in
+clauses (0) to (d) of section 375 of the Indian Penal Code.’.
+Substitution of new section for section 119.
+For section 119 of the Evidence Act, the following section shall be substituted, namely:Witness unable 1.0 communicate verbally.
+“119. A witness who is unable to speak may give his evidence in any other manner in which he
+can make it intelligible, as by writing or by signs; but such writing must be written and the signs
+made in open Court, evidence so given shall be deemed to be oral evidence:
+Provided that if the witness is unable to communicate verbally, the Court shall take the assistance
+of an interpreter or a special educator in recording the statement, and such statement shall be
+video graphed.”.
+Amendment of section 146.
+In section 146 of the Evidence Act, for the proviso, the following proviso shall be substituted,
+namely:Provided that in a prosecution for an offence under section 376, section 376A, section 3768,
+section 376C, section 3760 or section 376E of the Indian Penal Code or for attempt to commit
+any such offence, where the question of consent is an issue, it shall not be permissible to adduce
+evidence or to put questions in the cross-examination of the victim as to the general immoral
+character, or previous sexual experience, of such victim with any person for proving such
+consent or the quality of consent.”
+Chapter V
+Substitution of new sections for section 42.
+For section 42 of the Protection of Children from Sexual Offences Act, 2012, the following
+sections shall be substituted, namely:-
+
+Alternate punishment.
+“42. Where an act or omission constitutes an offence punishable under this Act and also under
+sections 166A, 354A, 354B, 354C, 3540, 370, 370A, 375, 376, 376A, 376C, 3760, 376E or
+section 509 of the Indian Penal Code, then, notwithstanding anything contained in any law for
+the time being in force, the offender found guilty of such offence shall be liable to punishment
+under this Act or under the Indian Penal Code as provides for punishment which is greater in
+degree.
+ACI not in derogation of any other law.
+42A. The provisions of this Act shall be in addition to and not in derogation of the provisions of
+any other law for the time being in force and, in case of any inconsistency, the provisions of this
+Act shall have overriding effect on the provisions of any such law to the extent of the
+inconsistency.”
+
+Module- V- The Relevancy of facts (Section 5 to 55)
+Whole IEA can be divided into three broad categories, firstly what to prove (5 to 55), Secondly,
+Who to prove (100-115), and lastly how to prove (rest of IEA). What to Prove? Section 5 of IEA,
+provides that evidence may be given on fact in issue or on relevant facts but no other facts. It means,
+during trial parties are allowed to prove fact in issue, relevant facts but they are not allowed to prove
+anything which is neither.
+Facts: means anything or state of things or relations of thing which can be perceived by senses (see,
+touch, taste, hear, and smell). Particular ‘state of mind’ is also a fact. Examples of facts:
+1. Knife which is used for murder is a fact (things)
+2. The blood of the victim on the sport or over the knife is facts (relation with the things i.e. knife)
+3. Presence of victim and accused at the sport immediately before occurrence is also fact (state of things)
+4. In case of murder through poisoning, pre-poisoning state condition of body and after poisoning
+condition of body of the victim is fact (State of things & relation of things) etc.
+Facts in issue is defined under section 3 of IEA, which simply means those facts which can established
+right, duty, liabilities or obligations.
+The expression “facts in issue” means and includes—any fact from which, either by itself or in
+connection with other facts, the existence, non-existence, nature, or extent of any right, liability, or
+disability, asserted or denied in any suit or proceeding, necessarily follows.
+Explanation.—Whenever, under the provisions of the law for the time being in force relating to Civil
+Procedure, any Court records an issue of fact, the fact to be asserted or denied in the answer to such issue,
+is a fact in issue.
+
+Thus, in a dispute relating to possession of house, ownership would be fact in issue, since once the
+ownership is decided, who should have possession can easily be decided just by application of law. In
+criminal law, ingredients of an offence are ‘facts in issue’. Say example, in case of murder, whether death
+is caused or not, whether death was caused with same intention as required by section 300 IPC or not?
+Whether accused is entitled for any right of private defense or not? These are ‘facts in issue’. Example
+given in the IEA is:
+Illustrations
+A is accused of the murder of B. At his trial the following facts may be in issue:—
+That A caused B’s death; (will fix the liability as required by section 300 IPC)
+That A intended to cause B’s death; (will fix the liability as required by section 300 IPC)
+That A had received grave and sudden provocation from B; (will reduce the liability as provided in
+section 300 IPC)
+That A at the time of doing the act which caused B’s death, was, by reason of unsoundness of mind,
+incapable of knowing its nature. (will absolve from any liability since it general exception to any offence
+and a very good defense)
+Relevant facts: relevant facts are those facts which are so connected with the ‘fact in issue’ that it can
+explain, assert or deny existence of ‘facts in issue’. However, it is to be noted here that every facts
+connected with ‘facts in issue’ is not relevant, unless the said fact is connected with ‘facts in issue’ in the
+same way as described in section 6-55 of IEA. Categories of relevant facts are:
+1. Facts forming part of same transactions
+2. Certain Statements like admission, confession or dying declarations
+3. Earlier judgment pertaining to the said cause of action
+4. Opinion of expert of facts disputed
+5. Character of parties
+Principle of Res gestae— in English law all facts which are connected through ‘part of the same
+transaction’ they are called as evidence of ‘res gestae’, however in India such facts are codified from
+section 6 to section 11. Res Gestae in IEA are:
+1. Facts forming part of same transaction (section 6)
+2. Facts which are occasion, cause or effect of facts in issue (Section 7)
+3. Facts suggesting Motive, preparation and previous or subsequent conduct (Section 8)
+4. Facts necessary to explain or introduce relevant facts (section 9)
+5. Things said or done by conspirator in reference to common design (Section 10)
+6. When Facts not otherwise relevant become relevant because these facts make other facts in issue or any
+relevant fact either highly probable or highly improbable (section 11)
+
+Facts forming part of same transactions (Section 6):
+All facts which are connected with the ‘facts in issue’ due to:
+1. Proximity of time
+2. Proximity of place
+3. Continuity of action
+4. Community of purposes, whether happen at same time and place or different time and different place.
+Then, they are said be ‘part of the same transactions’. For example
+Facts which are occasion, cause or effect of facts in issue (Section 7):
+These facts are those which provide either occasion or cause or create effect over ‘facts in issue’. For
+example in murder case, ‘presence’ of accused and victim at the place of occurrence at same time or
+accused ‘having gun’, at given time, or ‘altercation between’ accused and victim are the facts proving
+occasion, and thus they are relevant in this section. ‘Firing’ of bullet is cause of death, so ‘firing’ as such
+is a relevant fact; ‘firing of bullet’ may have effect of causing death or serious injuries, here injuries or
+death is effect of ‘firing of bullet’, so such injuries are relevant facts.
+Facts suggesting Motive, preparation and previous or subsequent conduct (Section 8):
+Facts suggesting motive (say example previous fighting, property dispute, love affair, family dispute,
+business rivalry etc.) or preparation (say example just before the murder accused purchased a gun or
+bullets, or took training for shooting, or in case of forgery, he purchase few stamp papers to forged a sale
+deed etc) or conduct, whether previous or subsequent of the parties are also relevant (examples of
+previous conducts like, previous attempts, any fights; example of subsequent conduct such as being
+missing from house after committing murder, suspicious act of hiding himself or certain goods used for
+the offence etc.)
+It is important to note that conducts of parties as well as their agents both are relevant in any suit or
+proceeding.
+Facts necessary to explain or introduce relevant facts (section 9):
+When certain fact can explain any fact in issue or any relevant fact, and by such explanation the parties
+can support or rebut any inference drawn from such facts, then these types facts are called as explanatory
+facts, and they are thus relevant. Explanatory facts are those facts which can explain a fact which is
+already taken and inference are drawn from such facts
+Things said or done by conspirator in reference to common design (Section 10):
+This is most often used section in cases related to conspiracy. It provides that during existence of a
+conspiracy, what ever were said or done by the conspirators in furtherance of conspiracy is relevant
+against all conspirators. Essentials of this section are:
+Proof of an existed conspiracy (reason to believe) between all people whose statement or conduct is
+proposed to be proved
+Statement or conduct of conspirator must be limited to the one which was in furtherance (direct
+relationship) with the said conspiracy.
+
+When Facts not otherwise relevant become relevant because these facts make other facts in issue or
+any relevant fact either highly probable or highly improbable (section 11):
+Facts which are not otherwise relevant will become relevant: if they are inconsistent with any fact in issue
+or relevant fact;
+Other relevant facts (Section 12-16):
+Facts tending to enable Court to determine amount of damages or compensation are relevant under
+section 12 of IEA. For example, at given time, income of victim’s family, number of family members,
+medical expenditure after accident etc.
+Facts necessary to establish a right or custom in question are relevant in section 13 of IEA. For example,
+the ‘transaction’ by which the right or custom in question was created, claimed modified, recognized,
+asserted or denied, or which was inconsistent with its existence of such right or custom are relevant if the
+said right or custom itself is disputed.
+Facts showing existence of state of mind or of body or bodily feeling are always relevant under section
+14 of IEA. A fact relevant as showing the existence of a relevant state of mind must show that the state of
+mind exists, not generally but in reference to the particular matter in question.
+Statements: Admission, Confessions & Dying Declaration (Section 17-32)
+Admission: According to section 31 of IEA, Admissions are not conclusive proof of the matters admitted,
+but they may operate as estoppels under the provisions hereinafter contained. Admissions are those
+statements of made by the parties which are against their own interest. Why these statements are relevant
+is easy to appreciate. If some one is making statement against his own interest, then either he is insane or
+he is speaking truth, and if he is speaking truth, law must recognise that statement.
+Since, admissions are made by parties against their own interest, during suit or proceeding, they are often
+proved by opposite party, except in following cases:
+1. An admission may be proved by or on behalf of the person making it, when it is of such a nature that, if
+the person making it were dead it would be relevant as between third person under section 32 i.e. dying
+declaration.
+3. An admission may be proved by or on behalf of the person making it, when it consists of a statement of
+the existence of any state of mind or body, relevant or in issue, made at or about the time when such state
+of mind or body existed, and is accompanied by conduct rendering its falsehood improbable.
+4. An admission may be proved by or on behalf of the person making it, if it is relevant otherwise than as
+an admission.
+Who can make Admissions? (Section 18, 19 & 20 IEA)
+Admissions can be made by:
+1. a. Parties to the case
+2. b. Authorised agents of parties, whether expressly authorised or authorized impliedly
+d. Persons having any proprietary or pecuniary interest in the subject-matter of the proceeding
+
+1. e. Persons from whom the parties to the suit have derived their interest in the subject-matter of the suit,
+and where statement was made during the continuance of such interest of the persons making the
+statements
+Confession— (Section 24-30)
+Confession is that type of admission in criminal matter where accused admits guilt in its absolute terms,
+leaving prosecution to prove nothings. In other words, confession of guilt in its entirety may be termed as
+confession.
+Rule regarding Admissibility of Confession—
+According to section 24 of IEA, No confession given by an accused person would be relevant if it given
+in a criminal proceeding, and it was given under any inducement, threat or promise, with reference to the
+charge against the him, and such inducement, threat or promise was given by a person in authority in
+relation to that case and sufficient, in the opinion of the Court, to give the accused person grounds, which
+would appear to him reasonable, for supposing that by making it he would gain any advantage or avoid
+any evil of a temporal nature in reference to the proceeding against him.
+Exception to Rules of Confession—
+The first exception to rule of confession is provided in section 27 of IEA. It provides that when any fact is
+deposed to as discovered in consequence of information received from a person accused of any offence,
+in the custody of a police officer, so much of such information, whether it amounts to a confession or not,
+as relates distinctly to the fact thereby discovered, may be proved.
+The condition necessary to bring the section 27 into operation is that the discovery of a fact in a
+consequence of information received from a person accused of any offence in the custody of a police
+officer must be deposed to, and thereupon so much of the information as relates distinctly to the fact
+thereby discovered may be proved;
+Section 29 provides that Confession otherwise relevant not to become irrelevant because of promise of
+secretary etc.
+Section 30 of IEA provides that when a confession is given by one accused, and the same was proved, it
+can be used against the co-accused if he is tried together in the same case during the joint trial. However,
+Dying Declaration—
+Generally, no statement given by any person can be used as evidence, until he comes to the court and
+testified on oath as to veracity of his statement. The reason behind this rule is that court cannot rely on a
+statement which is just a hearsay or rumor. What someone said, who know better than the person who
+made that statement, and until he comes to court, his statement should not be considered.
+Evidence given by a witness in a judicial proceeding is relevant for the purpose of proving a particular
+fact in later stage of the same judicial proceeding, when the witness cannot be found or is dead
+Public Entries, documents & Judgment of the Court:
+Section 35 provides that entry in public record or an electronic record made in performance of official
+duty is relevant
+Section 36 provides that statements of facts in issue or relevant facts, made in published maps or charts
+generally offered for public sale, or in maps or plans made under the authority of the Central Government
+
+or any State Government, as to matters usually represented or stated in such maps, charts, or plans are
+themselves facts.
+According to Section 37, When the Court has to form an opinion as to a law of any country, any statement
+of such law contained in a book purporting to be printed or published under the authority of the
+Government of such country and to contain any such law, any report of a ruling of the Courts of such
+country contained in a book purporting to be a report of such rulings, is relevant.
+Section 40 provides that the existence of any judgment etc which by law prevents any court from taking
+cognizance of a suit or holding a trial, is a relevant fact when the question is, whether such Court ought to
+take cognizance of such suit or to hold such trail. A final judgment or order or decree of a Competent
+Court, in exercise of probate, matrimonial, admiralty or insolvency jurisdiction, which confers upon or to
+take away from any person any legal character, or which declares any person to be entitled to any such
+character, or to be entitled to any specific thing not as against any specified person but absolutely, is
+relevant when the existence of any legal character, or the title of any such person to any such thing, is
+relevant.
+Judgments, orders or decrees other than those mentioned in Section 41, are relevant if they relate to
+matters of a public nature relevant to the inquiry; nut such judgments, orders or decrees are not conclusive
+proof of that which they state.
+judgments, orders or decrees other then those mentioned in Sections 40, 41 and 42, are irrelevant, unless
+the existence of such judgment, order or decree is a fact in issue, or is relevant, under some other
+provision of this Act.
+Expert Opinion and its Relevancy— Section 45-50
+For declaring someone expert no particular certificate of degree is required unless the same is recognised
+by law.
+Any one having special knowledge may be declared expert. When there is a conflict of opinion between
+the experts, then the Court is competent to form its own opinion with regard to signatures on a document.
+The evidence of a doctor conducting post mortem without producing any authority in support of his
+opinion is insufficient to grant conviction to an accused.
+Section 46 “Facts, not otherwise relevant, are relevant if they support or are inconsistent with the opinion
+of experts when such opinions are relevant.”
+Section 47, when the Court has to form an opinion as to the person by whom document was written or
+signed, the opinion of any person acquainted with the handwriting of the person by whom it is supposed
+to be written or signed that it was or was not written or signed by that person, is a relevant fact.
+Explanation – A person is said to be acquainted with the handwriting of another person when he has seen
+that person write, or when he has received document purporting to be written by that person in answer to
+documents written by himself to under his authority and addressed to that person, or when in the ordinary
+course of business document purporting to be written by that person have been habitually submitted to
+him.
+According to section 47A, when the Court has to form an opinion as to the digital signature of any person,
+the opinion of the Certifying Authority which has issued the Digital Signature Certificate is a relevant
+fact.
+Under section 48 & 49, opinion may taken to decide questions relating to right or custom or usages etc.
+
+Section 50 says that when the Court has to form an opinion as to the relationship of one person to another,
+the opinion, expressed by conduct, as to the existence of such relationship, or any person who, as a
+member of the family or otherwise, has special means of knowledge on the subject, is a relevant fact:
+provided that such opinion shall not be sufficient to prove a marriage in proceedings under the Indian
+Divorce Act, 1869 (4 of 1869) or in prosecutions under section 494, 495, 497 or 498 of the Indian Penal
+Code (45 of 1860).
+Relevancy of Character—
+As per provisions the evidence law, in criminal matter, character of the accused is not relevant. however,
+if party want to suggest evidence of good-character to take some relief, then prosecution may adduce
+evidence of bad-character as well.
+
+Module VI- Facts which need not be Proved
+Generally, if a fact is alleged by any party to a suit or criminal case, that party has to provide proof of the
+truthfulness of that fact to the court. However, Indian Evidence Act allows the court to accept certain
+kinds of facts without any necessity to be proven by any party. These kinds of facts are specified in
+Section 56, 57, 58, and 114. The provisions in these sections are as follows Section 56 - Facts judicially noticeable need not be proved - No fact of which the Court will take judicial
+notice need be proved. This means that if the court is bound to take notice of a particular fact, the parties
+do not have the burden of proving that fact. It is part of the judicial function to know that fact. For
+example, the court is bound to know the various laws and customs of the country. A party does not need
+to provide any proof when stating any law. Facts for which a court will take judicial notice are specified
+in Section 57. These include Laws in force in India, Public Acts of Parliament, Local, and person acts
+declared by it to be judicially noticed, Articles of War for Indian armed forces, the rule of the road, land,
+or sea, that vehicles in India must keep to the left of a road etc, the territories under the dominion of Govt.
+of India. In all these case, the court may resort appropriate books or documents of reference for its aid.
+Also, the matters enumerated in this section are not exhaustive. The section merely provides that the court
+must take judicial notices of the facts enumerated in this section. It does not prohibit the court from
+takings judicial notice of any other facts. To understand this point, we need to look at the meaning of
+judicial notice Meaning of "Taking Judicial Notice" - It means recognition of something as existing or as being true
+without having any proof. Judicial notice is based upon reasons of convenience and expediency. Certain
+things are so commonly known that any ordinary person is aware of it and it is a waste of time to seek any
+proof for such things.
+Section 58 - Facts admitted need not be proved - No fact need be proved in any proceeding which the
+parties thereto or their agents agree to admit at the hearing, or which, before the hearing, they agree to
+admit by any writing under their hands, or which by any rule of pleading in force at the time they are
+deemed to have admitted by their pleadings. Provided that the Court may, in its discretion, require the
+facts admitted to be proved otherwise than by such admissions.
+Section 114 - Court may presume existence of certain facts - The Court may presume the existence of
+any fact which it thinks likely to have happened, regard being had to the common course of natural
+events, human conduct and public and private business, in their relation to the facts of the particular case.
+
+For example, a person may be presumed to be dead if his whereabouts are not known for seven years.
+Such facts need not be proven.
+
+Module – VII- Conclusion
+The functions of Court of Justice are two-fold:- i) To ascertain the existence or non existence of certain
+facts, and ii) To apply the substantive law to the ascertained facts and to declare the rights and liabilities
+of the parties. For this the court has to collect, peruse, analyse and sift the evidential material brought
+before it. The means whereby the court informs itself of the existence of these facts is called EVIDENCE.
+In other words, the object of every judicial investigation is the enforcement of a right or liability that
+depends on certain facts. The law of evidence can be called the system of rules whereby the questions of
+fact in a particular case can be ascertained. It is basically a procedural law but it has shades of substantive
+law. For example, the law of estoppel can defeat a man’s right. Law of Evidence is one of the
+fundamental subjects of law and therefore we must study it in detail and depth. The term ‘evidence’ owes
+its origin to the Latin terms ‘evident’ or ‘evidere’ that mean ‘to show clearly, to discover, to ascertain or
+to prove.’
+The Indian Evidence Act, 1872 is largely based on the English law of Evidence. The Act does not claim
+to be exhaustive. Courts may look at the relevant English Common Law for interpretation as long as it is
+not inconsistent with the Act. The Act consolidates, defines and amends the laws of evidence. It is a
+special law and hence, will not be affected by any other enactment containing provisions on matter of
+evidence unless and until it is expressly stated in such enactment or it has been repealed or annulled by
+another statute. Parties cannot contract to exclude the provisions of the Act. Courts cannot exclude
+relevant evidence made relevant under the Act. Similarly, evidence excluded by the Act will be
+inadmissible even if essential to ascertain the truth.
+Law of evidence is part of the law of procedure. That why it is called the lex fori or the law of the court or
+forum. It means that Indian courts know and apply only the Indian law of evidence. Thus, the competency
+of a witness, whether a fact is proved or not is determined by the law of the country where the question
+arose, where the remedy is sought to be enforced and where the court sits to enforce it. For example, if a
+legal proceeding is going on in Sri Lanka and evidence is taken in India for the said proceeding whether
+by commission or by assistance of courts in India, the law which will be applied during such recording of
+evidence will Sri Lankan Law of Evidence.
+
+A civil case of will and murder will have the same law of evidence. For example, the date of death has to
+be clarified or confirmed for the will to come into existence and a murder date has to be set for
+proceeding further with the criminal investigations too. There are, however, certain sections that apply
+exclusively to civil matters and others that apply exclusively to criminal cases. In civil cases, mere
+preponderance of evidence may be enough but in criminal cases the prosecution must prove its case
+beyond reasonable doubt and leave the other alternatives presented very unlikely and highly suspect.
+
+FAQ’s
+Q. Why to study Evidence Act?
+Evidence refers to anything that is necessary to prove a certain fact. Thus, Evidence is a means of proof.
+Facts have to be proved before the relevant laws and its provisions can be applied. It is evidence that leads
+to authentication of facts and in the process, helps in rationalizing an opinion of the judicial authorities.
+Further, the law of evidence helps prevent long drawn inquiries and prevents admission of excess
+evidence than needed.
+
+Q. What is IEA? How does it function?
+To answer this question one need to know how law proceed or propose to decide a case. There two
+fundamental principles of trial in all the judicial systems, firstly, it must ensure that parties to the case are
+given full opportunity to prove their case, and secondly every dispute must come to an end. These two
+rules which are juxtaposed to each other must be balanced and this is done by the blending of procedural
+law and rules of evidence.
+Q. What is Evidence?
+The functions of Court of Justice are two-fold:- i) To ascertain the existence or non existence of certain
+facts, and ii) To apply the substantive law to the ascertained facts and to declare the rights and liabilities
+of the parties. For this the court has to collect, peruse, analyse and sift the evidential material brought
+before it. The means whereby the court informs itself of the existence of these facts is called EVIDENCE.
+
+Q. "Evidence may be given of facts in issue and relevant facts." Explain.
+To ensure that a judicial process does not linger on for too long, courts cannot waste their time
+on things that are not important for the case. While there can be many things for which evidence
+can be given but evidence that does not bear on the case at hand, has no use for the court. This is
+the concept behind Section 5 of Indian Evidence Act, 1872, which says that in any suit or
+proceeding, evidence may be given of the existence or non-existence of every fact in issue and of
+such other facts as are hereinafter declared to be relevant, and of no others. A person is not
+allowed to bring forward any evidence to prove or disprove a fact that is neither a fact in issue or
+a fact that is relevant to the facts in issue. This statement refers to two kinds of facts - facts in
+issue and relevant facts. Let us see what they both mean Facts in Issue
+Section 3 defines facts in issue. According to this section, a fact in issue is a fact that directly or
+indirectly in connection with other facts, determines the existence, non-existence, nature, or
+extent of any right or liability that is asserted or denied in any suit or proceeding. In other words,
+facts in contention in a case are facts in issue. For example, A is accused of murder or B. In this
+case, the following are facts in issue A caused B's death.
+A had intention to kill B.
+A was insane.
+A received grave and sudden provocation from B.
+All the above are facts in issue because they are in contention and they determine the liability of
+A. Their truth increases or decreases the probability that A murdered B. Prosecution will have to
+establish the facts that prove that A murdered B before A can be convicted. At the same time, the
+prosecution also has to disprove that any of the exceptions do not apply to A. A fact in issue is
+also known by its latin term - factum probandum, which means fact to be proved.
+A fact will be considered as fact in issue only if the fact is such that by itself or in connection to
+other facts it is crucial to the question of a right or liability. To be a fact in issue, a fact must
+satisfy two requirements - the fact must be in dispute between the parties and the fact must touch
+the question of right or liability. The extent of rights and liabilities of parties depend on the
+
+ingredients of an offence. In criminal matters, the allegations in the charge sheet constitute the
+facts in issue, while in a civil case, it depends on the provisions of the substantive law.
+
+Relevant Facts
+Q. What do you understand by relevancy of facts?
+The word relevancy as such is not defined in Indian Evidence Act, 1872, however, the meaning
+of the word is quite clear. The word "relevancy" means the property of a thing that makes it
+connected to the matter at hand. A thing is relevant to other when it has a relation to the other
+thing that tells something appropriate about the other thing. Relevancy of a Fact means that the
+fact has a significant relation to another fact that is under consideration. When two facts have a
+direct relation, they are relevant to each other. For relevancy it is necessary that if we take one
+fact, the other will be relevant only if there is a certain type of relation between them, which is
+pertinent in the given circumstances.
+A relevant fact is also known by its latin term - factum probans, which means a fact that proves.
+Thus, if facts-in-issue are the facts to be proved or disproved in a trial, relevant facts are the facts
+that help prove or disprove facts-in-issue. A fact is relevant if belief in that fact helps the
+conclusion of the existence or non-existence of another.
+Section 3 specifies that a Relevant fact is a fact is relevant to another when it is connected to the
+other in any of the ways referred to in the provisions contained in the act. Sections 6 to 55
+contains provisions that define the relationships that make a fact legally relevant or not relevant
+to another. The relationship makes one fact more probable or improbable because of the other.
+For example, Fact A is that a person was given certain medication and he died. Fact B is that the
+person was suffering from TB. Here, fact B is relevant to fact A because it throws light on the
+possible causes of his death. Fact B makes is probable that he might have died because of TB
+instead of the given medication.
+In DPP vs Kilbourne, 1973, Lord Simon of Glaisdale has said, "Evidence is relevant if it is
+logically probative or disprobative of some matter which requires proof. A relevant evidence is
+evidence that makes the matter which requires proof more or less probable."
+As is evident from Section 5 stated above, only those facts that are related to the facts in issue
+through relationships defined in Section 6 to 55 are legally relevant and evidence can be given
+only for those facts in a trial. It must be noted, however, that a relevant fact may not necessarily
+be admissible.
+Section 11 would be important to mention here. As per Section 11, in certain situations facts not
+otherwise relevant become relevant. This happens if they are inconsistent with any fact in issue
+or relevant fact or if by themselves or in connection with other facts they make the existence or
+non-existence of any fact in issue or relevant fact highly probable or improbable. For example,
+(a) The question is whether A committed a crime at Calcutta on a certain day - The fact that, on
+that day, A was at Lahore is relevant. (b) The question is, whether A committed a crime. The
+circumstances are such that the crime must have been committed either by A, B, C or D. Every
+
+fact which shows that the crime could have been committed by no one else and that it was not
+committed by either B, C or D is relevant. As is shown by these illustrations, an alibi is a very
+common example of an irrelevant fact becoming relevant.
+Q. Explain the doctrine of Res Gestae. Do you agree with the view that this doctrine is not
+only useless but is also harmful? / When does relevancy of facts form part of the same
+transaction?
+Doctrine of Res Gestae
+In a nutshell, Res Gestae means facts forming part of a transaction. This includes things done and
+things said in the course of a transaction. Acts and declarations accompanying a transaction are
+treated as Res Gestae and are admissible in evidence. As discussed above, a Court is interested
+only in such evidence that is bearing on a fact in issue or a relevant fact. This is important in
+limiting the scope of the trial to facts that are indeed important for the case so that justice can be
+done swiftly.
+However, in narrowing the scope of things that can be brought before the court, injustice should
+not be done. The things that are reasonably connected to the facts in issue are usually very
+important for a case and such facts must be allowed to be brought before the court whether they
+fall into any of the sections that categorize the facts as relevant or not. This concept is espoused
+by Section 6. It says:
+Section 6. Relevancy of facts forming part of same transaction - Facts which, though not in issue
+are so connected with a fact in issue as to form part of the same transaction, are relevant, whether
+they occurred at the same time and place or at different times and places.
+What it means is that a fact in issue does not happen in isolation. It always has a factual story
+behind it. A fact in issue lies in a pool of other facts that gives birth to it. This section makes all
+such facts relevant. The important thing to understand here is the meaning of the term
+"transaction". To be eligible under this section the fact must have occurred in the same
+transaction in which the fact in issue occurred. "Occurring in the same transaction" is a wide
+term that includes several kinds of things such as things that happened at the vicinity of the facts
+in issue, things that were done by the accused right after or before the facts in issue, things that
+lead to facts in issue, and so on.
+
+References
+BOOKS
+
+
+
+
+
+
+
+Krisnamachari V., “The Law of Evidence”, Hyderabad, 2003, P.6 (Butterworths -2000 Ed. - Vol.15)
+Kelkar R. V, “Criminal Procedure”, Dr. K. N. Chandrasekharan Pillai (Ed.), Eastern Book Company,
+Lucknow, (4th Ed., 2004), p. 391.
+Monir M., “Law of Evidence”, Vol. - I&II, 14th
+Murphy, “Murphy on Evidence” 8 Ed., Delhi: Universal Law Publication,
+2006th Phipsons’ Evidence, 13th Ed. Edition, New Delhi: Butterworths India, 2003
+Rattan Lal & Dhiraj Lal , “The Law of Evidence”, Ed., Nagpur : Wadhwa & Company, 2004
+
+
+
+Sarkar M.C. and S.C. Sarkar, “Law of Evidence”, 16 th Ed., Nagpur: Wadhwa & Company,2007
+
+INTERNET RESOURCES AND WEBLINKS
+• http://www.google.com
+• http://www.ipcs.org
+• http://www.legalserviceindia.com
+• http://www.lawguru.com
+• http://www.findlaw.com
+• http://www.indlaw.com
+• http://www.lawinfo.com
+• http://en.wikipedia.org/wiki/Witness_Protection_Program
+• http://people.howstuffworks.com/witness-protection.htm
+• http://www.indiatogether.org/combatlaw/vol4/issue1/witness.htm
+• http://en.wikipedia.org/wiki/Adversarial_system
+• http://en.wikipedia.org/wiki/Inquisitorial_system
+
+

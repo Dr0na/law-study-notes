@@ -1,0 +1,69 @@
+{
+  "topic": "Burden of proof and standard of proof, burden of proof in civil and criminal cases",
+  "subjectType": "Criminal Law",
+  "unit": 6,
+  "definitions": {
+    "statutory": "Statutory definition related to: Burden of proof and standard of proof, burden of proof in civil and criminal cases",
+    "judicial": "Judicial definition related to: Burden of proof and standard of proof, burden of proof in civil and criminal cases",
+    "academic": "Academic definition related to: Burden of proof and standard of proof, burden of proof in civil and criminal cases"
+  },
+  "historicalBackground": {
+    "origin": "Historical evolution under the Indian Evidence Act, 1872 and English common law.",
+    "evolution": "Transition from traditional common law rules of evidence to the statutory framework of the Indian Evidence Act, 1872, and the modern codification under the Bharatiya Sakshya Sanhita (BSS), 2023.",
+    "currentPosition": "Governed by the Bharatiya Sakshya Sanhita, 2023 (BSS) which modernizes digital evidence and restructures section layouts."
+  },
+  "concepts": [
+    {
+      "name": "Burden of proof and standard of proof, burden of proof in civil and criminal cases",
+      "meaning": "Core concept of Burden of proof and standard of proof, burden of proof in civil and criminal cases under Evidence Law.",
+      "purpose": "To regulate the admissibility, relevancy, and reliability of evidence presented in court.",
+      "scope": "Applies to judicial proceedings in court.",
+      "application": "Used by judges to determine admissibility and weight of evidence."
+    },
+    {
+      "name": "Burden of Proof vs Onus of Proof",
+      "meaning": "Burden of proof is the legal burden to establish a case (remains constant), whereas onus of proof is the evidentiary burden to introduce evidence (shifts).",
+      "purpose": "To determine which party must lose if no evidence is given.",
+      "scope": "Applies throughout the trial.",
+      "application": "Governed by BSS Sections 104 and 105."
+    }
+  ],
+  "principles": [
+    {
+      "name": "Relevancy and Admissibility",
+      "meaning": "Evidence must be legally relevant to be admissible, but not all relevant evidence is admissible.",
+      "importance": "Ensures the court only considers reliable and legally obtained evidence.",
+      "application": "Used to filter out hearsay, character evidence, and privileged communications unless exceptions apply."
+    }
+  ],
+  "essentials": [
+    {
+      "name": "Legally Relevant",
+      "meaning": "Must fall under the relevant sections of BSS (Sections 3 to 50).",
+      "legalSignificance": "Fundamental requirement for admissibility.",
+      "proofRequirements": "Logical connection to the facts in issue."
+    }
+  ],
+  "characteristics": [],
+  "classifications": [],
+  "rights": [],
+  "duties": [],
+  "procedures": [],
+  "doctrines": [],
+  "maxims": [],
+  "cases": [
+    "Jabar Singh v. Dinesh Prasad",
+    "State of Maharashtra v. Vasudeo Ramachandra Kaidalwar"
+  ],
+  "statutes": [
+    "Bharatiya Sakshya Sanhita, 2023",
+    "Indian Evidence Act, 1872",
+    "BSS Sections 104-116"
+  ],
+  "articles": [],
+  "amendments": [],
+  "references": [
+    "Batuklal's Law of Evidence",
+    "Ratanlal & Dhirajlal's Law of Evidence"
+  ]
+}

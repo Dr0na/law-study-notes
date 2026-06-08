@@ -1,0 +1,2054 @@
+LAW OF EVIDENCE
+LIST OF CONTENTS
+I: Introduction and Relevancy
+a. Evidence and its Relationship with the Substantive and Procedural Laws
+b. Definitions: Facts, Facts in Issue, Relevant Fact, Evidence Proved, Disproved, not Proved,
+Oral and Documentary Evidence, Factum Probandum and Factum Probans, Proof and
+Evidence
+c. Theory of Relevancy: i. Logical Relevancy, Legal Relevancy, Admissibility and Reliability
+ii. Facts not otherwise Relevant (Plea of Alibi) – Sections 5 to 44
+d. Doctrine of Res Gestae
+e. Test Identification Parade
+f. Conspiracy
+II: Statement – Admissions / Confessions and Dying Declarations
+a. Admissions – Sections 17 to 23
+b. Confessions – Sections 24 to 30
+c. Dying Declarations- Section 32
+III: Method of proof of facts
+a. Presumptions – Sections 79 to 90A
+b. Expert Opinion – Sections 45 to 51
+c. Oral and Documentary evidence – Sections 59 to 100
+d. Burden of Proof – Sections 101 to 114A
+e. Estoppel – Sections 115 to 117
+f. Privileged Communications - 120, 122, 126 and more
+IV: Emerging Areas in the Law of Evidence
+a. Evidence by Accomplice – Section 133
+b. Definition of Witness, Witness Protection Scheme
+c. Examination of Witness, Cross Examination, Leading Questions and Hostile Witness –
+Sections 135 to 166
+d. Refreshing Memory
+e. Impact of Forensic Science: Evidentiary Value in DNA Test, Narco-analysis.
+
+Overview and the Meaning of the Indian Evidence Act
+This Act is also referred to as the Indian Evidence Act 1872 and it extends to the whole of
+India (except the State of Jammu and Kashmir) and is applicable to all judicial proceedings
+and Courts Martial. However, if the court martial is done under- Army Act, the Naval
+Discipline Act, the Indian Navy (Discipline) Act, 1934, and the Air Force Act, then it will
+have no application over these laws. It may also be noted that Evidence Act does not apply on
+affidavits presented to any Court or Officer, nor does it apply to any proceedings before an
+arbitrator. The Act contains 167 Sections and 11 Chapters
+After 15 August 1947 The Indian Evidence Act continued to be in force in India(except
+Jammu & Kashmir) and Pakistan. But in 1984, Pakistan annulled this act and replaced it with
+‗The Evidence Order‘ also know by the urdu name ―Qanun-e-Shahadat‖. This act is mainly
+based on the work of Sir James Fitzjames Stephen who was an English lawyer, judge and a
+writer. At times he is called as the ―Father of the Indian Evidence Act‖.
+The Indian Evidence Act 1872 makes provisions for rules with respect to evidence in all
+judicial proceedings before the court of law. There are two basic principles of trial in all
+judicial systems. Firstly, it must ensure that the concerned parties to the case are given full
+opportunity to prove their case, and secondly, every dispute must come to an end. These two
+rules must be placed side by side in a balanced manner, and this is done by blending of
+procedural laws and rules of evidence.
+Criminal charges often may lead to serious consequences for the accused. Therefore, in
+criminal cases, the level and importance of evidence (proof) required to resolve a case is very
+high. It is a strict requirement and the party alleging the crime or the accused must prove the
+claim beyond all reasonable doubt. Therefore, a case that goes to trial must be robust in its
+legal submissions with respect to these evidence and should be able to prove the claim being
+made by the accused party.
+A case which goes to trial must be strong in its legal submission and satisfy the Court of the
+claims made by producing evidence. To do this, there are certain documents and objects that
+are taken into consideration while deciding on a matter of evidence. The Law of Evidence
+governs this aspect of criminal proceedings.The law has also established that certain types of
+documents and certain articles of evidence have more impact than others, and would prove
+the claim convincingly. This can be done by producing relevant documents, or eye-witnesses
+
+to the offending incident or circumstantial evidence that increases the probability
+of the incident.
+Proof is anything that can make a person believe whether a certain assertion is true or false. It
+is different from evidence in a manner that proof is a broad term including everything that
+may be illustrated at a trial, whereas evidence is a narrow term describing certain types of
+proof that can be admitted at trial. This can be done by producing relevant documents, or eyewitnesses to the offending incident or circumstantial evidence that increases the probability of
+the incident.
+
+I. INTRODUCTION AND RELEVANCY
+The Indian Evidence Act is divided into three main parts or Scheme of the Act
+
+
+Relevancy of Facts (what to prove)– Sections 5 to 55
+
+
+
+Mode of Proof (how are the relevant facts to be proved) – Sections 56 -117, and
+
+
+
+Production and Effect of Evidence (by whom and in what manner must the evidence
+be produced) – Sections 118-167
+
+a. Evidence and its relationship with the Substantive and Procedural Law
+Laws may be divided into Substantive and Procedural laws. The laws by which rights, duties
+and liabilities are defined are known as Substantive Laws. For instance, IPC (which defines
+several offences and also lays down certain punishments for such offences). The laws which
+prescribe the mode by which the application of the substantive law is regulated are known as
+Procedural Laws, e.g. CRPC. The procedural laws are further divided into two parts
+Firstly, there are rules for dealing with the various procedures to be followed in a Court of
+Law.
+Secondly, there are rules about dealing with the mode of the proof of the existence or
+otherwise of rights, duties, and liabilities e.g. Evidence Act.
+The objective of every judicial investigation is enforcement of some rights and liabilities
+which invariably depends on certain facts. Law of evidence is a system of rules for
+ascertaining the contradicted questions of facts in judicial inquiries. The substantive law
+defines what facts go on to constitute a right or liability. The law of evidence investigates into
+these facts and as a procedural law it provides inter alia, how a fact is to be proved.
+
+b. Definitions:
+Section 3 in The Indian Evidence Act, 1872 – Interpretation Clause
+In this Act the following words and expressions are used in the following senses, unless a
+contrary intention appears from the context:— ―Court‖. —―Court‖ includes all Judges 1 and
+Magistrates, 2 and all persons, except arbitrators, legally authorized to take evidence. ―Fact‖.
+—―Fact‖ means and includes—
+Section 3(1) any thing, state of things, or relation of things, capable of being perceived by the
+senses;
+Section 3 (2) any mental condition of which any person is conscious. Illustrations
+Section 3 (2) (a) That there are certain objects arranged in a certain order in a certain place, is
+a fact.
+Section 3 (2) (b) That a man heard or saw something, is a fact.
+Section 3 (2) (c) That a man said certain words, is a fact.
+Section 3 (2) (d) That a man holds a certain opinion, has a certain intention, acts in good
+faith, or fraudulently, or uses a particular word in a particular sense, or is or was at a specified
+time conscious of a particular sensation, is a fact.
+Section 3 (2) (e) That a man has a certain reputation, is a fact.
+―Relevant Fact‖. —One fact is said to be relevant to another when the one is connected with
+the other in any of the ways referred to in the provisions of this Act relating to the relevancy
+of facts.
+―Facts in issue‖. —The expression ―facts in issue‖ means and includes— any fact from
+which, either by itself or in connection with other facts, the existence, non-existence, nature,
+or extent of any right, liability, or disability, asserted or denied in any suit or proceeding,
+necessarily follows.
+Explanation.— Whenever, under the provisions of the law for the time being in force relating
+to Civil Procedure, any Court records an issue of fact, the fact to be asserted or denied in the
+answer to such issue, is a fact in issue.
+―Document‖. —―Document‖ means any matter expressed or described upon any substance by
+means of letters, figures or marks, or by more than one of those means, intended to be used,
+
+or which may be used, for the purpose of recording that matter. A writing is a document;
+Words printed, lithographed or photographed are documents; A map or plan is a document;
+An inscription on a metal plate or stone is a document; A caricature is a document.
+―Evidence‖ .— ― Evidence‖ means and includes—
+Section 3(2)(e)(1) All statements which the Court permits or requires to be made before it by
+witnesses, in relation to matters of fact under inquiry, such statements are called oral
+evidence;
+Section 3(2)(e)(2) all documents including electronic records produced for the inspection of
+the Court, such documents are called documentary evidence.
+―Evidence Proved‖ .—A fact is said to be proved when, after considering the matters before
+it, the Court either believes it to exist, or considers its existence so probable that a prudent
+man ought, under the circumstances of the particular case, to act upon the supposition that it
+exists.
+―Evidence Disproved‖. — A fact is said to be disproved when, after considering the matters
+before it, the Court either believes that it does not exist, or considers its non-existence so
+probable that a prudent man ought, under the circumstances of the particular case, to act upon
+the supposition that it does not exist.
+―Evidence Not proved‖. — A fact is said not to be proved when it is neither proved nor
+disproved.
+It is pertinent to mention that in the law of evidence ‗Facts‘ include(i) the factum probandum (i.e. principal fact to be proved) and
+ii) the factum probans (i.e. the evidentiary fact from which the principal fact follows
+immediately or by inference)
+c.Theory of Relevancy – Section 5 to Section 44
+The concept of relevance is one criterion that governs the admission and use of evidence in a
+judicial inquiry. If the evidence does not relate directly or indirectly to the case at hand, it
+should not be regarded or admitted as proof for either the prosecution or the defence.
+―Relevant Evidence is evidence that makes a fact more or less likely to be true than it would
+
+be without the evidence.Irrelevant evidence may be excluded for unfair prejudice, confusion,
+or waste of time. Relevant evidence is generally admissible and irrelevant evidence is never
+admissible. The two leading principles on relevance are:
+1) that nothing is to be received which is not logically probative of some matter requiring to
+be proved; and
+2) that everything which is thus probative should come in, unless a clear ground of policy or
+law excludes it. Relevancy exists as a relation between an item of evidence and a proposition
+sought to be proved.‖
+(i)Logical Relevance V/s Legal Relevance
+Statement made by the accused affecting probability of the fact in issue or relevant fact, is
+admissible in evidence. Such statement may or may not be relevant under any other section
+pertaining to the relevancy of fact. If such statement affects the probability of fact in issue or
+relevant fact it is relevant under section 11 of Evidence Act. This section deals with the
+theory of logical relevancy. The object is to bring within the sphere of relevancy all facts,
+which can throw some light on the fact in issue or relevant fact. It is an exception to other
+provision relating to the relevancy of fact. This provision of law can be pressed into service
+whenever other sections are not attracted.
+A fact is said to be logically relevant to another when it bears such a causal relation with the
+other as to render probable the existence or non-existence of the latter. As stated above, all
+facts which are logically relevant are not legally relevant. One fact is said to be legally
+relevant to another, only when the one is connected with the other in any of the ways referred
+to in Sections 5 to 55 of the Evidence Act.
+Logical relevancy is broader than legal relevancy. All facts which are legally relevant is
+logically relevant, but every fact which is logically relevant may not necessarily be legally
+relevant. Thus, a confession made to a police officer may appear to be logically relevant, but
+such a confession is not legally relevant, for Section 25 of the Act declares that it cannot be
+used as evidence against the person making it.
+The Indian Evidence Act lays down, in Sections 5-55, what facts are relevant; but the mere
+fact of logical relevancy does not ensure the admissibility of a fact. Thus, all evidence that is
+
+admissible is relevant, but all that is relevant is not necessarily admissible. Thus, oral
+statements which are hearsay may be relevant, but if not direct evidences, are not admissible.
+Legal relevancy is, for the most part, based upon logical relevancy, but it is not right to say
+that all that is logically relevant is necessarily legally relevant and vice versa. Certain classes
+of facts which, in ordinary life, are relied upon as logically relevant are rejected by law as
+legally irrelevant. Cases of exclusion of logically relevant facts by positive rules of law are:
+(i) Exclusion of oral by documentary evidence: Sections 91-99.
+(ii) Exclusion of evidence of facts by estoppel: Sections. 115-117.
+(iii) Exclusion of privileged communications, such as confidential communications with a
+legal adviser, communication during marriage, official communications, etc.: Sections 121130.
+Admissibility & Reliability
+Admissibility means that facts which are relevant are only admissible by the Court.
+According to section 136 of the Indian Evidence Act, 1872, however, the final discretion on
+the admissibility of evidence lies with the judge. Section 136 states that:
+―When either party proposes to give evidence of any fact, the Judge may ask the party
+proposing to give the evidence in what manner the alleged fact, if proved, would be relevant;
+and the Judge shall admit the evidence if he thinks that the fact, if proved, would be relevant,
+and not otherwise. If the fact proposed to be proved is one of which evidence is admissible
+only upon proof of some other fact, such last- mentioned fact must be proved before evidence
+is given of the fact first- mentioned, unless the party undertakes to give proof of such fact,
+and the Court is satisfied with such undertaking. If the relevancy of one alleged fact depends
+upon another alleged fact being first proved, the Judge may, in his discretion, either permit
+evidence of the first fact to be given before the second fact is proved, or require evidence to
+be given of the second fact before evidence is given of the first fact.‖
+The essential ingredients of the above section are:
+ It is the judge who decides the questions of relevancy and admissibility.
+
+
+ When a party proposes to adduce evidence of any fact, the judge may ask the party to
+clarify ‗in what manner‘ the fact would be relevant.
+The judge would ‗admit‘ the particular fact only if he is satisfied with the answer of the party
+that it is, indeed, relevant under one or the other provisions of S. 6 to 55. Thus the
+consideration of relevancy comes first and of admissibility later and the judge will admit the
+fact only if it is relevant.‖
+In the case of Ram Bihari Yadav v. State of Bihar1, the Supreme Court observed that ―More
+often the expressions ‗relevancy and admissibility‘ are used as synonyms but their legal
+implications are distinct and different as facts which are relevant are not admissible; so also
+facts which are admissible may not be relevant, for example questions permitted to put in
+cross examination to test the credibility of the witnesses, though not relevant are admissible.
+The probative value of the evidence is the weight to be given to it which has to be judged
+having regards to the fact and circumstances of each case.‖
+Section 9 of the Law of Evidence Act, 1872, lists down some facts which can be treated as
+relevant.
+In the case of LakshmandasChaganlal Bhatia v. State2, the court laid down the following to
+be relevant facts:
+Facts necessary to explain or introduce a fact in issue or relevant fact;
+Facts which support or rebut an inference suggested by a fact in issue or a relevant fact;
+Facts which establish the identity of anything or person whose identity is relevant;
+Facts which fix the time and place at which any fact in issue or relevant fact happened;
+Facts which show the relation of parties by whom any fact in issue or relevant fact was
+transacted.
+Another section of the Evidence Act which deals with admissibility is Section 11. Section 11
+deals with those facts which are not otherwise relevant but become relevant if they are
+consistent with any relevant fact or they make the existence or non-existence of any relevant
+fact highly probable or improbable.
+1
+2
+
+AIR 1998 SC 1850.
+AIR 1968 Bom.
+
+In Sheikh Ketab-Uddin v. NagarchandPattak3, it was held, that where the executants of an
+archive holding presentations of boundaries of land are alive and don‘t give their evidence,
+such archives are not acceptable under this segment.
+However, there are limitations to Section 11. According to R. v. Prabhudas, ―the court must
+exercise a sound discretion and see that the connection between the fact to be proved and the
+fact sought to be given under S.11 to prove it, must be so immediate as to render the coexistence of the two highly probable. The section makes admissible only those facts which
+are of great weight in bringing the court to a conclusion one way or the other as regards the
+existence or the non-existence of the fact in question. The admissibility under this section
+must, in each case, depend on how near is the connection of the facts sought to be proved
+with facts in issue and to what degree do they render facts in issue probable or improbable
+when taken with the other facts in case. There must always be room for the exercise of
+discretion when the relevancy of the testimony rests upon its effect towards making the
+affirmative or negative of a proposition ‗highly probable‘, and, with any reasonable use of the
+directions, the court ought not to interfere.‖
+(i) Exclusion of oral by documentary evidence: Ss. 91-99.
+(ii) Exclusion of evidence of facts by estoppel: Ss. 115-117.
+(iii) Exclusion of privileged communications, such as confidential communications with a
+legal adviser, communication during marriage, official communications, etc.: Ss. 121-130‖
+(ii) Facts not otherwise relevant – Plea of alibi
+According to Section 11 of the Act—
+Facts not otherwise relevant are relevant—
+(i) if they are inconsistent with any fact in issue or relevant fact;
+(ii) if by themselves or in connection with other facts they make the existence or nonexistence of any fact in issue or relevant fact highly probable or improbable.
+Explanation
+(i) If they are inconsistent with any fact in issue or relevant fact
+3
+
+(1927) AIR 230 (Cal).
+
+If one fact is inconsistent with the other, they cannot co-exist. Under this clause facts are
+relevant only because they cannot co-exist with fact in issue or relevant fact.
+Alibi
+Alibi is a Latin word, which means ―elsewhere‖. It is used when the accused takes the plea
+that when the certain incident took place he was elsewhere. In such a situation the
+prosecution has to discharge the burden satisfactorily. Once the prosecution is successful in
+discharging the burden it is incumbent on the accused who takes the place of alibi to prove it
+with absolute certainly. An alibi is a rule of evidence recognized by Section 11 of the
+Evidence Act that facts inconsistent with fact in issue are relevant. However, it cannot be the
+sole link or sole circumstance to bare conviction. When one fact is necessary to the
+hypothesis of the guilt of the accused, but strikingly absent in the chain of circumstantial
+evidence, the prosecution case certainly will fail.
+Example:
+X is accused of Y's murder on a particular day at Pune. On that day X was at Bombay,
+is relevant to prove alibi . He (X) has to prove that it would be impossible for him to
+commit murder at Pune as he was in Bombay on the occurrence of the offence.
+The Supreme Court in Dudh Nath Pandey v. State of U.P.4, , it was stated that the plea of
+alibi postulates the physical impossibility of the presence of the accused at the scene of
+offence by reason of his presence at another place. The plea can therefore succeed only if it is
+shown that the accused was so far away at the relevant time that he could not be present at the
+place where the crime was omitted.
+(d) Doctrine of Res Gestae
+Section 6 of the Indian Evidence Act states: ―Facts which, though not in issue, are so
+connected with a fact in issue as to form part of the same transaction, are relevant, whether
+they occurred at the same time and place of at different times and places‖. The principle of
+law stated in Section 6 is usually known as the Doctrine of Res Gestae.
+Res gestae, was originally used by the Romans to mean ―acts done‖ or ―actus‖. The English
+and American writers described it as facts that form the same transaction. Res gestae are
+4
+
+(1986) 2 SCC 166.
+
+those facts which automatically or naturally form a part of the same transaction.They are the
+acts which speak for themselves. These facts become relevant due to their association with
+main transaction which itself is a relevant fact in the nature of fact in issue. Circumstantial
+facts are admitted as forming a part of res gestae i.e. it being a part of original proof of what
+has taken place. Statements may also accompany physical happenings like gestures. Things
+said or acts done in course of transaction amounts to res gestae.
+Example
+Suppose A is tried for the murder of B by beating him with a club. Here the transaction
+is the crime of murder. That A beat B with a club, that A caused B';s death, that A had
+an intention of causing B';s death are all in issue and form parts of the same
+transaction, and evidence can always be given of such facts in issue under Section 5. But
+the words uttered by A at or about the time of beating, or words uttered by B or by
+persons standing by, at or about the time of beating, are not in issue. But they also form
+parts of the same transaction. No one beats another silently, nor would the person
+beaten be silent while he was being beaten, nor would persons standing by watch
+silently. The transaction includes all these utterances and, though not in issue, form part
+of the transaction of murder, which is the subject of enquiry, and therefore are relevant
+under this section.
+The section provides that if a part of the transaction is a fact in issue, then evidence can
+be given of every other part of the transaction either because such other part is also in
+issue and therefore evidence of it is permissible under S.5, or because such other part is
+relevant under S.6, and therefore, under S.5 evidence can be given of it. The question
+that arises is how to find out whether a fact forms part of the same transaction as the
+fact in issue.
+According to Section 6, the facts forming a part of the same transaction may or may not occur
+at the same place or same time. For example in the case of Ratten v. Queen5, the victim
+(wife) had called the police for help but before operator could connect her to the police, her
+call was disconnected. Later the police found her dead body from her house from where the
+call was made and the time of death and the time of phone call was almost the same. The call
+
+5
+
+(1972) A.C. 378.
+
+made to the police came under the purview of section 6 and thereby defeated the accused
+husband‘s defence that he accidentally fired his wife.
+(e ) Test Identification Parade
+Section 9 of the Indian Evidence Act states –
+Facts necessary to explain or introduce a fact in issue or relevant fact, or which support or
+rebut an inference suggested by a fact in issue or relevant fact, or which establish the identity
+of anything or person whose identity is relevant, or fix the time or place at which any fact in
+issue or relevant fact happened, or which show the relation of parties by whom any such fact
+was transacted, are relevant in so far as they are necessary for that purpose.
+Identification is an important process in the administration of justice. Where the Court has to
+know the identity of anything or any person, any fact, which establishes such identity, is
+relevant. The identity of person can be established by the evidence of persons, who know
+him. Identification parades are held for the purpose of identifying the persons concerned in an
+offense or the properties, which are subject matter of an offense.
+During the course of investigations, test identification parades are arranged by the police
+either in jail or at some other place. Certain individuals are brought to such a place and the
+accused person mixed with them. Section 9 Provides for the Identification "parade of
+persons" The purpose of Identification test is to test the memory and accuracy of a witness,
+who claims to identify an accused person, who is said or belived to have participated in a
+crime.
+(f) Conspiracy
+Section 10 of Evidence Act states that –
+Things said or done by conspirator in reference to common design:Where there is reasonable ground to believe that two or more person have conspired together
+to commit an offence or an actionable wrong, anything said, done, or written by any one of
+such person in reference to their common intention, after the time when such intention was
+first entertained by any one of them, is a relevant fact as against each of the person believed
+to be so conspiring, as well for the purpose of proving the existence of the conspiracy as for
+the purpose of showing that any such person was a party to it.
+
+Section 10 deals with the admissibility of evidence in a conspiracy case. It is based on the
+―theory of implied agency.‖ It says that anything said or done or written by any member of
+conspiracy is evidence and admissible against the other if it relates to the conspiracy. This
+section has to be read with Section 120A of the Indian Penal Code. When any conspirator has
+assumed to do any act of conspiracy in furtherance of common design, it is a part of res
+gestae. All conspirators must have ―common intention‖ at the time when the thing was said,
+done or written. Confessions by accused made after the object of the conspiracy is carried out
+are not relevant as the common intention was not then existing.
+Essential elements:
+1) There must be an agreement between two or more persons who are alleged to conspire,
+and
+2) The agreement should be to do or cause to be done:
+(i) An illegal act, or
+(ii) An act which is not illegal but by illegal means.
+II: Statement – Admissions/Confessions and Dying declarations
+c. Admissions – Section 17 to Section 23
+Admission plays a very important role in judicial proceedings. If one party to a suit or any
+other proceeding proves that the other party has admitted his case, the work of the court
+becomes easier and simpler. An Admission may be proved by or on behalf of the person
+making it under certain exceptional circumstances. The Evidence Act, Sections 17 to 23
+deals with the Admissions.
+Section 17 of the Indian Evidence Act 1872 states that: ―An admission is a statement, oral or
+documentary or [contained in electronic form (Amendment w.e.f. 17/10/2000)] which
+suggests any inference as to any fact in issue or relevant fact, and which is made by any of
+the persons and under the circumstances hereinafter mentioned."
+There are three parts of the definition:
+1) It defines term "admission"
+
+2) It says that an admission will be relevant only if it is made by any of the person
+specified in the Act.
+3) "Admission" is Relevant only in the circumstances mentioned in the Act.
+Characteristics of Admission:
+To qualify as an admission, the following characteristics are to be present as per definition
+stated above.
+1) It may be oral or documentary
+2) It is a statement to suggest any inference to any fact in issue or relevant fact.
+3) It must be made by any person prescribed under the Act; and
+4) It must be made under the circumstance prescribed under the Act.
+The admission must be clear and unambiguous. Such an admission is admissible because of
+the following reasons:
+a) Admission as a waiver of proof;
+b) Admission as a statement against interest;
+c) Admission as evidence of contradictory statement;
+d) Admission as evidence of truth.
+Admission is the best substantive evidence that an opposite party can rely upon.
+Who can make admissions? – Sections 18 to Section 20
+Section 18. Admission- by party to proceeding or his agent
+―Statements made by party to the proceeding, or by an agent to any such party, whom the
+Court regards, under the circumstances of the case, as expressly or impliedly authorized by
+him to make them, are admissions.‖
+An Admission is relevant if it is made by:
+1) A party to the judicial proceeding;
+2) An agent authorized by such party.
+
+3) A party suing or being sued in a representative character making admission while holding
+such character.
+4) A person who has a proprietary or pecuniary interest in the subject matter of the suit
+during the continuance of such interest.
+Section 19 - Admissions by persons whose position must be proved as against party to
+suit
+―Statements made by persons whose position or liability it is necessary to prove as against
+any party to the suit are admissions, if such statements would be relevant as against such
+persons in relation to such position or liability in a suit brought by or against them, and if
+they are made whilst the person making them occupies such position or is subject to such
+liability.‖
+An admission is also relevant if a person whose position or liability, it is necessary to prove
+against any party in a suit; if such statements would be relevant in a suit brought by or against
+himself owing to his position or liability during the suit.
+Section 20. Admissions by persons expressly referred to by party to suit
+―Statements made by persons to whom party to the suit has expressly referred for
+information in reference to a matter in dispute are admissions.‖
+Admission is relevant from a person to whom a party to the suit has expressly referred for
+information in reference to a matter in Dispute.
+In the case of ChekhamKoteshwara Rao v. C. Subbarao, AIR 1981, SC held that
+
+Before the right of a party can be taken to be defeated on the basis of an alleged
+admission by him, the implication of the statement must be clear and conclusive.
+
+
+
+There should not be any doubt or ambiguity.
+
+
+
+Further, it held that it is necessary read all of his statements together and hence, stray
+elements elicited in cross examination cannot be taken as admission.
+
+Uses of Admission
+Section 21. Proof of admissions against persons making them, and by or on their behalf
+
+―Admissions are relevant and may be proved as against the person who makes them, or his
+representative in interest; but they cannot be proved by or on behalf of the person who makes
+them or by his representative in interest, except in the following cases:
+(1) An admission may be proved by or on behalf of the person making it, when it is of such a
+nature that, if the person making it were dead, it would be relevant as between third persons
+under section 32.
+(2) An admission may be proved by or on behalf of the person making it, when it consists of a
+statement of the existence of any state of mind of body, relevant or in issue, made at or about
+the time when such state of mind or body existed, and is accompanied by conduct rendering
+its falsehood improbable.
+(3) An admission may be proved by or on behalf of the person making it, if it is relevant
+otherwise than as an admission.
+Admissions are relevant and may be proved as against the person Who makes them or
+ His representative in interest and
+ Not by or on behalf of the person
+ Who makes them or by his representative in interest
+Except in following cases:
+
+
+It is of a nature that the person making it, if were dead, it would be as relevant as
+between third persons u/s 32 of the code
+
+
+
+It consists of a statement of existence of any state of mind or body,
+
+
+
+It is relevant otherwise than as an admission
+
+Section 22. When oral admissions as to contents of documents are relevant.
+―Oral admissions as to thecontents of a document are not relevant, unless and until the party
+proposing to prove them shows that heis entitled to give secondary evidence of the contents of
+such document under the rules hereinaftercontained, or unless the genuineness of a document
+produced is in question.‖
+Section 22A. When oral admission as to contents of electronic records are relevant.
+
+―Oral admissions as to the contents of electronic records are not relevant, unless the
+genuineness of the electronic record produced is in question.‖
+Section 23. Admissions in civil cases when relevant.
+―In civil cases no admission is relevant, if it is made either upon an express condition that
+evidence of it is not to be given, or under circumstances from which the Court can infer that
+the parties agreed together that evidence of it should not be given.‖
+Explanation. –Nothing in this section shall be taken to exempt any barrister, pleader, attorney
+orvakil from giving evidence of any matter of which he may be compelled to give evidence
+undersection 126.
+b. Confessions – Sections 24 to Section 30
+The law relating to confession is to be found generally in sections 24 to 30 of the Indian
+Evidence Act and section 162 and 164 of code of Criminal Procedure. Since ―Confession‖ is
+a type of Admission‖, it is dealt with in sections 24 to 30. These sections directs towards the
+circumstances when a confession is made by a person, which can be used against him or
+against some other person or just cannot be used at all. The dictionary meaning of the word
+―Confession‖ is ―an acknowledgement ofoffence.‖
+Confession means a statement made by an accused admitting his guilt or crime. It is an
+admission as to the commission of an offence. If a person accused of an offence makes a
+statement against himself, it is called confession or confessional statement. Confessions are
+the special form of admissions. Thus it is popularly said that "All Confessions are
+admissions, but all Admissions are not confessions.
+Section 24- Confession caused by inducement, threat or promise, when irrelevant in
+criminalproceeding.
+―A confession made by an accused person is irrelevant in a criminal proceeding, if
+themaking of the confession appears to the Court to have been caused by any inducement,
+threat or promisehaving reference to the charge against the accused person, proceeding from
+a person in authority andsufficient, in the opinion of the Court, to give the accused person
+grounds which would appear to himreasonable for supposing that by making it he would gain
+
+any advantage or avoid any evil of a temporal nature in reference to the proceedings against
+him.‖
+In State of Haryana v. Rajinder Singh6, it was held that a confession must be true and
+voluntary. Where the statement though recorded by a magistrate merely stated about the
+assault on the deceased that it was a mistake and did not admit his guilt, it was not a
+confession that could be used against its maker.
+A confessional statement must be looked as a whole and it would not be right to take isolated
+portions of it, and to consider whether any of them amounts to an admission of guilt or not. It
+is true that the confessional statement is found to be voluntary and free from pressure, it can
+be accepted. But it all depends on the facts and circumstances of each case and no hard and
+fast rule can be laid down in this connection whether a particular alleged confessional
+statement should be accepted.
+In Palvinder Kaur v. State of Punjab & Haryana7, the Supreme Court has also held that
+confession and admission must either be admitted as a whole or rejected as a whole and the
+Court is not competent to accept only the inculpatory part while rejecting the exculpatory part
+as inherently incredible.
+Inculpatory Evidence: Any evidence favourable to the prosecution is inculpatory. It is the
+evidence that establishes the guilt of an accused. It indicates that a defendant committed a
+crime. Inculpatory evidence shows, or tends to show, a defendant's involvement in an act. For
+example, if a man is stabbed to death by a knife and if such knife is found in possession of
+such wife then that knife will be considered as inculpatory evidence against the wife.
+Exculpatory Evidence: Any evidence that is favourable to the defendant in a criminal trial is
+considered exculpatory. If, during the police investigation preceding trial, a witness was
+interviewed who claimed that another person, not the defendant, committed the crime, that
+witness interview is exculpatory evidence. Another example of exculpatory evidence would
+be DNA evidence on a knife in a murder case that links another individual to a crime.
+Essential conditions for Confessions:
+
+6
+7
+
+396 1996 SCALE (2)488.
+1953 SCR 94.
+
+From the above discussions a statement of an accused will amount to a confession if it fulfils
+the following conditions:
+(1) The accused must admit that he had committed the crime.
+(2) From the statements of the accused some positive inferences must be drawn about his
+implication in the offence where the accused in so many words admits to have committed the
+offence.
+(3) If the exculpatory part of the statement given by the accused is inherently improbable it
+may be rejected and inculpatory part may be admitted.
+(4) The confession must be voluntary, true and trustworthy.
+(5) The confession must not be prompted by inducement, threat or promise. A statement
+could not be said to be result of any threat, coercion or inducement by police or any other
+person.
+Section 25 Confession to police-officer not to be proved.
+No confession made to a police-officer, shall be proved as against a person accused of any
+offence.
+Section 26. Confession by accused while in custody of police not to be proved against
+him.
+No confession made by any person whilst he is in the custody of a police-officer, unless it be
+made in the immediate presence of a Magistrate, shall be proved as against such person.
+Explanation.
+In this section ―Magistrate‖ does not include the head of a village dischargingmagisterial
+functions in the Presidency of Fort St. George 5*** or elsewhere, unless such headman is
+aMagistrate exercising the powers of a Magistrate under the Code of Criminal
+Procedure,18826 (10 of 1882).]
+Section 27. How much of information received from accused may be proved.
+Provided that, when anyfact is deposed to as discovered inconsequence of information
+received from a person accused of anyoffence, in the custody of a police-officer, so much of
+
+such information, whether it amounts to aconfession or not, as relates distinctly to the fact
+thereby discovered, may be proved.
+Section 28. Confession made after removal of impression caused by inducement, threat
+or promise,relevant.
+If such a confession as is referred to in section 24 is made after the impression caused by
+anysuch inducement, threat or promise has, in the opinion of the Court, been fully removed, it
+is relevant.
+Section 29. Confession otherwise relevant not to become irrelevant because of promise
+of secrecy,etc.
+If such a confession is otherwise relevant, it does not become irrelevant merely because it
+wasmade under a promise of secrecy, or in consequence of a deception practiced on the
+accused person forthe purpose of obtaining it, or when he was drunk, or because it was made
+in answer to questions whichhe need not have answered, whatever may have been the form of
+those questions, or because he was notwarned that he was not bound to make such
+confession, and that evidence of it might be given againsthim.
+Section 30 - Consideration of proved confession affecting person making it and others
+jointly under trial for same offence.
+When more persons than one are being tried jointly for the same offence, and a confession
+made by one of such persons affecting himself and some other of such persons is proved, the
+Court may take into consideration such confession as against such other person as well as
+against the person who makes such confession.
+Explanation. –―Offence‖ as used in this section, includes the abetment of, or attempt to
+commit,the offence.
+Kinds of Confession
+There are four kinds of Confession, are as follows:
+1) Judicial confession
+2) Extra-Judicial Confession
+3) Retracted Confession
+
+4) Confession by co-accused
+1) Judicial confession: A Judicial Confession is that which is made before Magistrate or in a
+court in the due course of judicial proceeding. Judicial Confession is relevant and is used as
+an evidence against the maker provided it is recorded in accordance with provisions of
+Section 164 of Cr.P.C.The magistrate who records a confession under Section 164, Criminal
+Procedure Code, must, therefore, warn the accused who is about to confess that he may or
+may not be taken as an approval. After warning the accused he must give time to think over
+the matter and then only record the confession. Such a confession is called judicial
+confession.
+2) Extra-Judicial Confession: Extra-Judicial Confession is made not before a Magistrate or
+any Court in due course of judicial proceeding, but is made either to police during the
+investigation or into police custody or made otherwise than to the police. Extra-Judicial
+confession is not relevant.
+3) Retracted Confession: The Accused person who confessed earlier and later denied it, such
+confession does not destroy the evidentiary value of the confession as originally recorded.
+The Supreme Court has stated that a Retracted confession may form the basis of a conviction
+if it receives some general corroboration from other independent evidence. But if the court
+finds that the confession originally recorded was voluntary, it should be acted upon.
+4) Confession by co-accused:Consideration of proved confession affecting person making it
+and others jointly under trial for the same offense (Section 30). When more than one persons
+are being tried jointly for the same offense, and a confession made by one of such persons
+affecting himself and some other of such persons is proved, the Court may take into
+consideration such confession as against such other person as well as against the person who
+makes such confession.
+c. Dying Declarations - Section 32
+A Dying Declaration means the statement of a person who has died explaining the
+circumstances of his death. It can be said to be a statement made by a mortally injured
+person, indicating who has injured them and/or the circumstances surrounding their injury.
+The injured is aware that he/she is about to die and while the declaration is hearsay, it is
+admissible since it is believed that the dying person does not have any reason to lie.
+
+Such a statement can be proved when it is made by a person as to the cause of his death, or as
+to any of the circumstances of the transaction which resulted in his death. The statement will
+be relevant in every case or proceeding in which the cause of that person‘s death comes into
+question.
+Clause (1) of Section 32. Cases in which statement of relevant fact by person who is
+dead or cannot be found, etc., is relevant.
+Statements, written or verbal, of relevant facts made by a person who is dead, or who cannot
+be found, or who has become incapable of giving evidence, or whose attendance cannot be
+procured without an amount of delay or expense which, under the circumstances of the case,
+appears to the Court unreasonable, are themselves relevant facts in the following cases:
+1) When it relates to cause of death- When the statement is made by a person as to the cause
+of his death, or as to any of the circumstances of the transaction which resulted in his death,
+in cases in which the cause of that person’s death comes into question.
+(2) Or is made in course of business:
+When the statement was made by such person in the ordinary course of business, and in
+particular when it consists of any entry or memorandum made by him in books kept in the
+ordinary course of business, or in the discharge of professional duty; or of an
+acknowledgment written or signed by him of the receipt of money, goods, securities or
+property of any kind; or of a document used in commerce written or signed by him; or of the
+date of a letter or other document usually dated, written or signed by him.
+(3) Or against interest of maker:
+When the statement is against the pecuniary or proprietary interest of the person making it,
+or when, if true, it would expose him or would have exposed him to a criminal prosecution or
+to a suit for damages.
+(4) Or gives opinion as to public right or custom, or matters of general interest:
+When the statement gives the opinion of any such person, as to the existence of any public
+right or custom or matter of public or general interest, of the existence of which, if it existed
+he would have been likely to be aware, and when such statement was made before any
+controversy as to such right, custom or matter had arisen.
+
+(5) Or relates to existence of relationship:
+When the statement relates to the existence of any relationship [by blood, marriage or
+adoption] between persons as to whose relationship [by blood, marriage or adoption] the
+person making the statement had special means of knowledge, and when the statement was
+made before the question in dispute was raised.
+(6) Or is made in will or deed relating to family affairs:
+When the statement relates to the existence of any relationship [by blood, marriage or
+adoption] between persons deceased, and is made in any will or deed relating to the affairs
+of the family to which any such deceased person belonged, or in any family pedigree, or upon
+any tombstone, family portrait, or other thing on which such statements are usually made,
+and when such statement was made before the question in dispute was raised.
+(7) Or in document relating to transaction mentioned in section 13, clause (a):
+When the statement is contained in any deed, will or other document which relates to any
+such transaction as is mentioned in section 13, clause (a).
+(8) Or is made by several persons, and expresses feelings relevant to matter in question:
+When the statement was made by a number of persons, and expressed feelings or impressions
+on their part relevant to the matter in question.
+Sharad Birdi ChandSarda v. State of Maharashtra8– Under Indian law it is not necessary that
+the declarant should be under any expectation of death i.e. apprehension of death is not
+necessary nor it is important that statement shall be made to a magistrate. If the declarant has
+infact died and the statements explains the circumstances surrounding the cause of his death
+the statement will be relevant even if no cause of death had arisen at the time of making of
+the statement.
+In the case of Kans Raj v. State of Punjab9, the Apex Court stated that Section 32 (a) of the
+Indian Evidence Act, 1872 does not require that the statement sought to be admitted in
+evidence should have been made in immediate expectation of death.
+
+8
+9
+
+AIR 1984 SC 1622.
+2000 5 SCC 207.
+
+In the case of Machhi Singh v. State of Punjab10, statement made to Police when
+injured was making good recovery was treated as dying declaration when he died.
+Some other important cases pertaining to Dying declarations:
+Corroboration of a dying declaration
+There is neither a rule of law nor of prudence that dying declaration cannot be acted upon
+without corroboration. If the Court is satisfied that the dying declaration is true and voluntary,
+it can base conviction on it, without corroboration. However, where dying declaration is
+suspicious it should not be acted upon without corroborative evidence.
+In the case of Ram Manorath v. State of U.P.11, the Supreme Court observed that a dying
+declaration that suffers from infirmity cannot form the basis of conviction.
+Can a brief dying declaration be considered evidence?
+The Court has to scrutinize the dying declaration carefully and must ensure that the
+declaration is not the result of tottering prompting of imagination and the deceased had
+opportunity to observe and identify the assailants and was in a fit state to make the
+declaration.
+In the case of SurajdeoOza v. State of Bihar12, SC answered this question in the negative and
+held that merely because dying declaration is a brief statement it is not to be discarded. On
+the contrary, the shortness of the statement itself guarantees the truth.
+Eye witness prevails over and above medical opinion
+In the case of Nanuhau Ram v. State of Madhya Pradesh13, the Supreme Court was of the
+opinion that normally the Court in order to satisfy whether deceased was in a fit mental
+condition to make the dying declaration looks up to the medical opinion. But where the
+eyewitness has said that the deceased was in a fit and conscious state to make this dying
+declaration, the medical opinion cannot prevail.
+Time factor between statement of dying declaration and death
+There has be a proximate relationship between the statement and the circumstance of death
+
+10
+
+1983 3 SCC 470.
+1981 SCC (Cri) 581.
+12
+1980 Supp SCC 769.
+13
+AIR 1988 SC 912.
+11
+
+In the case of Sharad Birdi ChandSarda v. State of Maharashtra14 the declarant i.e. a married
+woman had been speaking to her parents and other relatives and also writing to them
+expressing the danger to her life. She lost her life three or four months after that. The Court
+held that the statement and time of death were not too remote in time from the point of death.
+In this case, the Court also held that Section 32 (a) of the Indian Evidence Act, 1872 is
+applicable to cases of suicide also.
+Dying declaration would not lose its value on the ground that the deceased survived long
+after making dying declaration
+Dying declaration as a substantive evidence
+In the case of Ram Bihari Yadav v. State of Bihar15, recognized dying declaration as a
+substantial piece of evidence while opining that though dying declaration is an indirect
+evidence being a specie of hearsay evidence, yet it is an exception to the rule against
+admissibility of hearsay evidence. The Court stated that it is a substantive evidence and like
+any other substantive evidence requires no corroboration for forming basis of conviction of
+an accused.
+III: Method of Proof of Facts
+a. Presumptions as to Documents – Section 79 to Section 90A
+Meaning of Presumptions.
+"Presumption is an inference of fact drawn from other known or proved facts. It is a rule
+which treats an unknown fact as proved on proof or admission of certain other facts. It means
+a rule of law that courts shall draw a particular inference from a particular fact or from
+particular evidence, unless and until the truth of such inference is disapproved.
+There are two kinds of presumptions:
+1. May Presume - Presumptions of fact are permissive in the sense that the court
+hasdiscretion to draw or not to draw them. They are also rebuttable as their evidentiary
+valuemay be negated by contrary proof. Thus these presumptions afford a provisional
+proof.That a person found in possession of stolen property soon after the theft is either the
+
+14
+15
+
+AIR 1984 SC 1622.
+(1998) SCC (Cri) 1085.
+
+thief or has received the goods knowing them to be stolen is a presumption is a presumption
+of this type.
+2. Shall presume -They are always obligatory; and a judge cannot refuse to draw such
+presumption. Such presumptions are either (i) rebuttable, or (ii) irrebuttable. Rebuttable
+presumptions of law are indicated by the expression ―shall presume‖. They hold goodunless
+and until there is contrary evidence, e.g., the court shall presume the genuinenessof every
+Government publication. (section 84).
+Section 79 - Presumption as to genuineness of certified copies
+The Court shall presume to be genuine every document purporting to be a certificate,
+certified copy, or other document, which is by law declared to be admissible as evidence of
+any particular fact, and which purports to be duly certified by any officer of the Central
+Government or of a State Government, or by any officer in the State of Jammu and Kashmir
+who is duly authorized there to by the Central Government:
+Provided that such document is substantially in the form and purports to be executed in the
+manner directed by law in that behalf. The Court shall also presume that any officer by whom
+any such document purports to be signed or certified, held, when he signed, the official
+character which he claims in such paper.
+When a certifiedcopy of a document is produced before the court as evidence of the original
+in circumstances inwhich secondary evidence is admissible the law presumes that the copy is
+a genuine reproduction of the original. This presumption is raised by section 80. The effect of
+the presumption is that if anybody alleges that the certified copy is not genuine, the burden of
+proving that fact lies on him,for the court presumes genuineness. For this presumption to
+arise, it is necessary that the copyshould haven certified by an officer of the Central or State
+Govt. or by an officer in the State of J&K, who is duly authorized by the Central
+Government. Secondly, the document should besubsequently in the form, if any, prescribed
+by law and should also purport to be executed in thatmanner.
+Section 80 - Presumption as to documents produced as records of evidence
+Whenever any document is produced before any Court, purporting to be a record or
+memorandum of the evidence, or of any part of the evidence, given by a witness in a judicial
+
+proceeding or before any officer authorised by law to take such evidence or to be statement
+or confession by any prisoner or accused person taken in accordance with law, and
+purporting to be signed by any Judge or Magistrate, or by any such officer as aforesaid, the
+Court shall presume that the document is genuine; that any statements as to the
+circumstances under which it was taken, purporting to be made by the person signing it, are
+true, and that such evidence, statement or confession was duly taken.
+It is necessary for this presumption to arise that a person shouldhave recorded his evidence
+before a court of law before any officer authorized by law to ta1esuch evidence, or that a
+person accused of any officer authori7ed by law to ta1e such evidence, or that a person
+accused of any crime has recorded his confession in accordance with the law, and acopy of
+the statement has been signs by the judge, magistrate or other officer before whom
+thestatement was recorded.
+Section 81 - Presumption as to Gazettes, newspapers, private Acts of Parliament and
+other documents.
+The Court shall presume the genuineness of every document purporting to be the London
+Gazette, or any official Gazette or the Government Gazette of any colony, dependency or
+possession of the British Crown, or to be a newspaper or journal, or to be a copy of private
+Act of Parliament of the United Kingdom printed by the Queen’s Printer and of every
+document purporting to be a document directed by any law to be kept by any person, if such
+document is kept substantially in the form required by law and is produced from proper
+custody.
+Every document which purports to be a newspaper or journal. In spite of this presumption, it
+has been held by the Supreme Court that newspaper reportsdo not constitute admissible
+evidence of their truth. The presumption, of genuinenessattached under Section 81 to a
+newspaper report cannot be treated as a proof of the facts reportedtherein. A newspaper
+report cannot be the basis of filing a writ petition. The statement of afact contained in
+newspaper is merely a hearsay and therefore inadmissible in evidence
+There is the new amendment added in this Section in the form of Section 81(A), which
+reads:
+
+The Court shall presume the genuineness of every electronic record purporting to be the
+Official Gazette or purporting to be electronic record directed by any law to be kept by any
+person, if such electronic record is kept substantially in the form required by law and is
+produced from proper custody.
+This section mainly says that the court has to presume the genuineness of any
+electronicrecord purporting to be the official Gazette or purporting to be the electronic record
+directed bylaw to be kept in accordance with the form required by the law and is produced
+from proper custody.
+Section 82. Presumption as to document admissible in England without proof of seal or
+signature.
+When any document is produced before any Court, purporting to be a document which, by
+the law in force for the time being in England or Ireland, would be admissible in proof of any
+particular in any Court of Justice in England or Ireland, without proof of the seal or stamp
+or signature authenticating it, or of the judicial or official character claimed by the person by
+whom it purports to be signed, the Court shall presume that such seal, stamp or signature is
+genuine and that the person signing it held at the time when he signed it, the judicial or
+official character which he claims; and the document shall be admissible for the same
+purpose for which it would be admissible in England or Ireland.
+Section 83. Presumption as to Maps or Plans made by authority of Governmentsums up
+as the following:
+Maps or plans purportingto be made with the authority of the central or any State
+Government are presumed to beaccurate. Maps or plans made for the purpose of any cause
+must, of course, be proved to beaccurate. 3here the site plan and inventory prepared on behalf
+of a former ruler was not produced in its original state, the Supreme Court did not allow any
+objections to be raised aboutthe matter in the Supreme Court.
+Section 84. Presumption as to collections of laws and reports of decisionsdeduces that
+The court presumes the genuineness of every boo1 purportedto be printed or published under
+the authority of the government of any country, and whichcontains any of the laws of that
+
+country. The same presumption is raised in reference to boo1s published by the State which
+contains report of decided cases.
+Section 85. Presumption as to powers of attorney.
+The Court shall presume that every document purporting to be a power-of-attorney, and to
+have been executed before, and authenticated by, a Notary Public, or any Court, Judge,
+Magistrate, Indian Consul or Vice-Consul, or representative of the Central Government, was
+so executed and authenticated.
+Section 85A. Presumption as to electronic agreements.
+The Court shall presume that every electronic record purporting to be an agreement
+containing the electronic signatures of the parties was so concluded by affixing the electronic
+signature of the parties.
+Section 85B. Presumption as to electronic records and digital signatures.
+(1)In any proceedings involving a secure electronic record, the Court shall presume unless
+contrary is proved, that the secure electronic record has not been altered since the specific
+point of time to which the secure status relates.
+(2) In any proceedings, involving secure electronic signature, the Court shall presume unless
+the contrary is proved that(a) the secure electronic signature is affixed by subscriber with the intention of signing or
+approving the electronic record;
+(b) except in the case of a secure electronic record or a secure electronic signature, nothing
+in this section shall create any presumption, relating to authenticity and integrity of the
+electronic record or any electronic signature.
+
+Section 85C. Presumption as to Digital Signature Certificates.
+The Court shall presume, unless contrary is proved, that the information listed ina Electronic
+Signature Certificate is correct, except for information specified as subscriber information
+which has not been verified, if the certificate was accepted by the subscriber.
+
+Section 86. Presumption as to certified copies of foreign judicial records.
+The Court may presume that any document purporting to be a certified copy of any judicial
+record of any country not forming part of India or of Her Majesty’s dominions is genuine and
+accurate, if the document purports to be certified in any manner which is certified by any
+representative of the Central Government in or for such country to be the manner commonly
+in use in that country for the certification of copies of judicial records.
+Section 87. Presumption as to Books, Maps and Charts.
+The Court may presume that any book to which it may refer for information on matters of
+public or general interest, and that any published map or chart, the statements of which are
+relevant facts, and which is produced for its inspection, was written and published by the
+person, and at the time and place, by whom or at which it purports to have been written or
+published.
+Section 88. Presumption as to Telegraphic Messages.
+The Court may presume that a message, forwarded from a telegraph office to the person to
+whom such message purports to be addressed, corresponds with a message delivered for
+transmission at the office from which the message purports to be sent; but the Court shall not
+make any presumption as to the person by whom such message was delivered for
+transmission.
+Section 88A. Presumption as to electronic messages.
+The Court may presume that an electronic message, forwarded by the originator through an
+electronic mail server to the addressee to whom the message purports to be addressed
+corresponds with the message as fed into his computer for transmission; but the Court shall
+not make any presumption as to the person by whom such message was sent.
+ExplanationFor the purposes of this section, the expressions ―addressee‖ and ―originator‖ shall have the
+same meanings respectively assigned to them in clauses (b) and (za) of sub-section (1) of
+section 2 of the Information Technology Act, 2000.
+Section 89. Presumption as to due execution etc., of documents not produced
+
+The Court shall presume that every document, called for and not produced after notice to
+produce, was attested, stamped and executed in the manner required by law.
+Section 90. Presumption as to documents thirty years old.
+Where any document, purporting or proved to be thirty years old, is produced from any
+custody which the Court in the particular case considers proper, the Court may presume that
+the signature and every other part of such document, which purports to be in the handwriting
+of any particular person, is in that person’s handwriting, and, in the case of a document
+executed or attested, that it was duly executed and attested by the persons by whom it
+purports to be executed and attested.
+
+ExplanationDocuments are said to be in proper custody if they are in the place in which, and under the
+care of the person with whom, they would naturally be; but no custody is improper if it is
+proved to have had a legitimate origin, or if the circumstances of the particular case are such
+as to render such an origin probable.
+This Explanation applies also to section 81.
+Section 90A - Presumption as to electronic records five years old.
+Where any electronic record, purporting or proved to be five years old, is produced from any
+custody which the Court in the particular case considers proper, the Court may presume that
+the digital signature which purports to be the digital signature of any particular person was
+so affixed by him or any person authorised by him in this behalf.
+ExplanationElectronic records are said to be in proper custody if they are in the place in which, and under
+the care of the person with whom, they naturally be; but no custody is improper if it is proved
+to have had a legitimate origin, or the circumstances of the particular case are such as to
+render such an origin probable.
+b. Expert Opinion – Sections 45 to Section 51
+OPINIONS OF THIRD PERSON WHEN RELEVANT
+
+Section 45 - Opinions of experts.
+When the Court has to form an opinion upon a point of foreign law, or of science, or art, or
+as to identity of hand writing or finger-impressions, the opinions upon that point of persons
+specially skilled in such foreign law, science or art, or in questions as to identity of
+handwriting or finger impressions, are relevant facts.
+Such person called experts.16
+Section 45A–Opinion of Examiner of electronic evidence
+When in a proceeding, the court has to form an opinion on any matter relating to any
+information transmitted or stored in any computer resource or any other electronic or digital
+form, the opinion of the examiner of electronic evidence referred to in section 79A of the
+Information Technology Act, 2000 is relevant fact.
+Section 46 - Facts bearing upon opinions of experts
+Facts, not otherwise relevant, are relevant if they support or are inconsistent with the opinion
+of experts when such opinions are relevant.
+Section 47- Opinions as to handwriting when relevant.
+When the Court has to form an opinion as to the person by whom document was written or
+signed, the opinion of any person acquainted with the handwriting of the person by whom it
+is supposed to be written or signed that it was or was not written or signed by that person, is
+a relevant fact.
+Section 47A - Opinion as to electronic signature when relevant.
+When the Court has to form an opinion as to the electronic signature of any person, the
+opinion of the Certifying Authority which has issued the electronic Signature Certificate is a
+relevant fact.
+Section 48. Opinion as to existence of right or custom when relevant.
+When the Court has to form an opinion as to existence of any general custom or right, the
+opinions as to the existence of such custom or rights, of persons who would be likely to know
+of its existence if it existed, are relevant.
+
+16
+
+Jarnail Singh v. State of Punjab., A I R 1996 SC 755
+
+Section 49 - Opinion as to usages, tenants etc when relevant.
+When the Court has to form an opinion as to –
+the usage’s and tenants of any body of men or family, the constitution and government of any
+religious or charitable foundation, or the meaning of words or terms used in particular
+districts or by particular classes of people, the opinions of persons having special means of
+knowledge thereon, are relevant facts.
+Section 50 - Opinion on relationship when relevant.
+When the Court has to form an opinion as to the relationship of one person to another, the
+opinion, expressed by conduct, as to the existence of such relationship, or any person who, as
+a member of the family or otherwise, has special means of knowledge on the subject, is a
+relevant fact.17
+Section 51 - Grounds of opinion when relevant.
+Whenever the opinion of any living person is relevant, the grounds on which such opinion is
+based are also relevant.
+c. Oral and Documentary Evidence – Sections 59 to Section 100
+OF ORAL EVIDENCE
+Section 59 - Proof of facts by oral evidence.
+All facts, except the contents of documents or electronic records may be proved by oral
+evidence.
+Section 60 - Oral evidence must be direct.
+Oral evidence must, in all cases, whatever, be direct; that is to say –
+-if it refers to a fact which could be seen, it must be the evidence of a witness who says he saw
+it;
+-if it refers to a fact which could be heard, it must be the evidence of a witness who says he
+heard it;
+
+17
+
+Gourhari Das v. Smt. Santilata Singh reported in 1999 Orissa 61.
+
+-if it refers to a fact which could be perceived by any other sense or in any other manner, it
+must be the evidence of a witness who says he perceived it by that sense or in that manner; if
+it refers to an opinion or to the grounds on which that opinion is held, it must be the
+evidence of the person who holds that opinion on those grounds.
+Provided that the opinions of experts expressed in any treatise commonly offered for sale,
+and thegrounds on which such opinions are held, may be proved by the production of such
+treatises if theauthor is dead or cannot be found; or has become incapable of giving
+evidence, or cannot be called asa witness without an amount of delay or expense which the
+Court regards as unreasonable:
+
+Provided also that, if oral evidence refers to the existence or condition of any material thing
+otherthan a document, the Court may, if it thinks fit, require the production of such material
+thing or itsinspection.
+Explanation
+this section enacts the general 5nglish rule that hearsay is no evidence. Itembodies the second
+important rule about oral evidence, vi7., that it must in all cases be directand not hearsay. The
+section sets out the scope of the expression and direct evidence. It is true thathearsay
+evidence is excluded by this section. However, this is subject to well- recognizedexceptions
+(e.g., sections 17 to 39)
+HEARSAY EVIDENCE AND ITS EXCLUSION
+The term hearsay is ambiguous and misleading as it is used in more than one scene. In its
+more generally accepted since the term hearsay is used to indicate that evidence which does
+not derive its value from the credit given to the witness himself, but which rests also on the
+veracity and competence of some other person. It is thus used in contradiction to ―direct
+evidence‖. It is derivative evidence.
+OF DOCUMENTARY EVIDENCE
+Section 61 –Proof of contents of documents
+
+The contents of documents may be proved either by primary or by secondary evidence.18
+Law of evidence requires the best evidence must be givenin proof of the facts in issue or the
+other relevant facts. Primary evidence is the best evidence.The best evidence rule is to
+produce the original and secondary evidence is not admissible unlessthe original is proved to
+be lost, etc, as required under Section 65.
+Section 62 – Primary Evidence
+Primary evidence means the document itself produced for the inspection of the Court.
+Explanation 1Where a document is executed in several parts, each part is primary evidence of the
+document.
+Where a document is executed in counterparts, each counterpart being executed by one or
+some of the parties only, each counterpart is primary evidence as against the parties executing
+it.
+Explanation 2Where a number of documents are all made by one uniform process, as in the case of
+printing, lithography or photography, each is primary evidence of the contents of the rest; but,
+where they are all copies of a common original, they are not primary evidence of the contents
+of the original.
+PRINCIPLE
+this section defines primary evidence as the document itself produced for theinspection of the
+court. Primary evidence is evidence which the law requires to be given first.The general rule
+requiring primary evidence to be given of the litigated documents is based onthe best
+evidence rule. (n original document is the first permanent record of a transaction. It isfirsthand evidence and presumptively the most reliable. 6esides, documents are often interlinedor
+altered. Therefore, it is desirable to have the original to see if alterations are part of
+thedocument or are made subsequently.
+Section 63 –Secondary Evidence
+18
+
+Afzauddin Ansari v. State of West Bengal, 1997 (2) Crimes 53 Cal.
+
+Secondary evidence means and includes1. Certified copies given under the provisions hereinafter contained.
+2. Copies made from the original by mechanical processes which in themselves insure the
+accuracy of the copy and copies compared with such copies.
+3. Copies made from or compared with the original.
+4. Counterparts of documents as against the parties who did not execute them.
+5. Oral accounts of the contents of a document given by some person who has himself seen it.
+The most remarkable among the types of secondary evidence by the section is the oralor
+parolevidence of the contents of a document. Thus, it follows that the oral evidence of
+thecontents of a document can be given. There are two conditions of a relevancy of such
+evidence. Firstly, party offering oral evidence must be entitled to give secondary evidence of
+suchdocument. The circumstances in which secondary evidence can be given and listed in
+section 65 should exist so as to enable the party to give secondary evidence of a document in
+question. Thesecond condition is that the oral account of the contents of a document must be
+that of a personwho has himself seen it. Once these conditions are satisfied, the party can give
+oral evidence of the contents of the document even if he has attested copy in his possession.
+Section 64 - Proof of documents by primary evidence.
+Documents must be proved by primary evidence except in the cases hereinafter mentioned.
+This section embodies one of theunderlying principles which states that a document must be
+proved by its primary evidence. Themeaning of the expression ―primary evidence‖ has been
+explained in sec 62. But lest technicalconsiderations should defeat substantial justice, the
+following section, namely, sec 65, embodiessituations which would sanctify secondary
+evidence
+Section 65 - Cases in which secondary evidence relating to documents may be given.
+Secondary evidence may be given of the existence, condition or contents of a document in the
+following cases(a) When the original is shown or appears to be in the possession or power–
+of the person against whom the document is sought to be proved, or of any person out of
+reach of, or not subject to, the process of the Court, or
+
+of any person legally bound to produce it, and when, after the notice mentioned in Section 66,
+such person does not produce it;
+(b) When the existence, condition or contents of the original have been proved to be admitted
+in writing by the person against whom it is proved or by his representative in interest;
+(c) When the original has been destroyed or lost, or when the party offering evidence of its
+contents cannot, for any other reason not arising from his own default or neglect, produce it
+in reasonable time;
+(d) When the original is of such a nature as not to be easily movable;
+(e) When the original is a public document within the meaning of Section 74;
+(f) When the original is a document of which a certified copy is permitted by this Act, or by
+any other law in force in India to be given in evidence;
+(g) When the originals consist of numerous accounts or other documents which cannot
+conveniently be examined in Court, and the fact to be proved is the general result of the
+whole collections.
+In cases (a), (c) and (d), any secondary evidence of the contents of the documents is
+admissible.
+In case (b), the written admission is admissible.
+In case (e) or (f), a certified copy of the document, but no other kind of secondary evidence, is
+admissible.
+In case (g), evidence may be given as to the general result of the documents by any person
+who has examined them, and who is skilled in the examination of such documents.
+Certified copy of Will
+Certified copy of will is not admissible per se in evidence. It cannot be presumed to be
+primary document which could be adduced in evidence and same could be proved only by
+leading secondary evidence.19
+When attesting witness not necessary
+19
+
+Sampat Singh v. Bhagwanti, (2010) 5 RCR (Civil) 74 Law Herald 1186 (P&H).
+
+Is case the document is registered then except in the case of a will it is not necessary to call
+an attesting witness, unless the execution has been specifically denied by the person by whom
+it purports to have been executed.
+Section 65A - Special provisions as to evidence relating to electronic record.
+The contents of electronic records may be proved in accordance with the provisions of
+section 65B.
+Section 65B – Admissibility of electronic records
+(1) Notwithstanding anything contained in this Act, any information contained in an
+electronic record which is printed on a paper, stored, recorded or copied in optical or
+magnetic media produced by a computer (hereinafter referred to as the computer output)
+shall be deemed to be also a document, if the conditions mentioned in this section are
+satisfied in relation to the information and computer in question and shall be admissible in
+any proceedings, without further proof or production of the original, as evidence of any
+contents of the original or of any fact stated therein of which direct evidence would be
+admissible.
+(2) The conditions referred to in sub-section (1) in respect of a computer output shall be the
+following, namely(a) the computer output containing the information was produced by the computer during the
+period over which the computer was used regularly to store or process information for the
+purposes of any activities regularly carried on over that period by the person having lawful
+control over the use of the computer;
+(b) during the said period, information of the kind contained in the electronic record or of the
+kind from which the information so contained is derived was regularly fed into the computer
+in the ordinary course of the said activities;
+(c) throughout the material part of the said period, the computer was operating properly or,
+if not, then in respect of any period in which it was not operating properly or was out of
+operation during that part of the period, was not such as to affect the electronic record or the
+accuracy of its contents;
+
+(d) the information contained in the electronic record reproduces or is derived from such
+information fed into the computer in the ordinary course of the said activities.
+(3) Where over any period, the function of storing or processing information for the purposes
+of any activities regularly carried on over that period as mentioned in clause (a) of subsection (2) was regularly performed by computers, whether(a) by a combination of computers operating over that period; or
+(b) by different computers operating in succession over that period; or
+(c) by different combinations of computers operating in succession over that period; or
+(d) in any other manner involving the successive operation over that period, in whatever
+order, of one or more computers and one or more combinations of computers, all the
+computers used for that purpose during that period shall be treated for the purposes of this
+section as constituting a single computer; and references in this section to a computer shall
+be construed accordingly.
+(4) In any proceedings where it is desired to give a statement in evidence by virtue of this
+section, a certificate doing any of the following things, that is to say,
+(a) identifying the electronic record containing the statement and describing the manner in
+which it was produced;
+(b) giving such particulars of any device involved in the production of that electronic record
+as may be appropriate for the purpose of showing that the electronic record was produced by
+a computer;
+(c) dealing with any of the matters to which the conditions mentioned in sub- section (2)
+relate, and purporting to be signed by a person occupying a responsible official position in
+relation to the operation of the relevant device or the management of the relevant activities
+(whichever is appropriate) shall be evidence of any matter stated in the certificate; and for
+the purposes of this sub- section it shall be sufficient for a matter to be stated to the best of
+the knowledge and belief of the person stating it.
+(5) For the purposes of this section,
+
+(a) information shall be taken to be supplied to a computer if it is supplied thereto in any
+appropriate form and whether it is so supplied directly or (with or without human
+intervention) by means of any appropriate equipment;
+(b) whether in the course of activities carried on by any official information is supplied with a
+view to its being stored or processed for the purposes of those activities by a computer
+operated otherwise than in the course of those activities, that information, if duly supplied to
+that computer, shall be taken to be supplied to it in the course of those activities;
+(c) a computer output shall be taken to have been produced by a computer whether it was
+produced by it directly or (with or without human intervention) by means of any appropriate
+equipment.
+Section 66 - Rules as to notice to produce
+Secondary evidence of the contents of the documents referred to in Section 65, Clause (a),
+shall not be given unless the party proposing to give such secondary evidence has previously
+given to the party in whose possession or power the document is, or to his attorney or pleader
+such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then
+such notice as the Court considers reasonable under the circumstances of the case;
+Provided that such notice shall not be required in order to render secondary evidence
+admissible in any of the following cases, or in any other case in which the Court thinks fit to
+dispense with it1. When the document to be proved is itself a notice;
+2. When from the nature of the case, the adverse party must know that he will be required to
+produce it;
+3. When it appears or is proved that the adverse party has obtained possession of the original
+by fraud or force;
+4. When the adverse party or his agent has the original in Court;
+5. When the adverse party or his agent has admitted the loss of the document;
+6. When the person in possession of the document is out of reach, or not subject to, thee
+process of the Court.
+
+Section 67 - Proof of signature and handwriting of person alleged to have signed or
+written document produced.
+If a document is alleged to be signed or to have been written wholly or in part by any person,
+the signature or the handwriting of so much of the document as is alleged to be in that
+person’s handwriting must be proved to be in his handwriting.
+*Admissibility- Non-examination of executants of receipt admissibility of receipts not
+proper.20
+Section 67A - Proof as to electronic signature.
+Except in the case of a secure electronic signature, if the electronic signature of any
+subscriber is alleged to have been affixed to an electronic record the fact that such electronic
+signature is the electronic signature of the subscriber must be proved.
+The party, who produces a document which he alleges is executed, signed or written by
+acertain person, has to prove that fact. This section merely requires proof of signature
+andhandwriting of the person alleged to have signed or written the document produced.
+Section 68 - Proof of execution of document required by law to be attested.
+If a document is required by law to be attested it shall not be sued as evidence until one
+attesting witness at least has been called for the purpose of proving its execution if there be
+an attesting witness alive, and subject to he process of the Court and capable of giving
+evidence:
+Provided that it shall not be necessary to call an attesting witness in proof of the execution of
+any document, not being a will, which has been registered in accordance with the provisions
+of the Indian Registration Act,1908 (16 of 1908), unless its execution by the person by whom
+it purports to have been executed is specially denied.
+
+Section 69 - Proof where no attesting witness found.
+
+20
+
+Ramkrishna Girishchandra Dode v. Anand Govind Kelkar, 1991 (1) Bombay C.R. 63.
+
+If no such attesting witness can be found, or if the document purports to have been executed
+in the United Kingdom, it must be proved that the attestation of one attesting witness at least
+is in his handwriting, and that the signature of the person executing the document is in the
+hand writing of that person.
+Section 70 - Admission of execution by party to attested document.
+The admission of a party to an attested document of its execution by himself shall be
+sufficient proof of its execution as against him, though it be a document required by law to be
+attested.
+If the attesting witness denies or does not remember the execution of the document, its
+execution should be proved by other evidence. Where theattester was an illiterate person and
+he attested by putting his thumb impression, and though it was
+
+a conveyance by his
+
+predecessor-in-interest, he was not bound by the document unless it could be shown that the
+document was read out to him and he understood it. The Calcutta and the Allahabad High
+Courts have held that the word ―admission‖ relates only to the admission of a partyin the
+course of the trial of a suit, and not to the attestation of a document by the admission of the
+party executing it. In other words, it has no relation to any admission of execution made
+before an attesting witness without reference to any suit or proceeding.
+Section 71 - Proof when attesting witness denies the execution.
+If the attesting witness denies or does not recollect the execution of the document its
+execution may be proved by other evidence.
+Object
+
+
+Section 71 is in the nature of a safeguard to the mandatory provisions of section 68, to
+meet a situation where it is not possible to prove the execution of the will by calling
+attesting witnesses though alive. Aid of section 71 can be taken only when the
+attesting witnesses who have been called, deny or fail to re-collect the execution of
+the document to prove it by other evidence.
+
+
+
+Section 71 is meant to lend assistance and come to the rescue of a party who had done
+his best but driven to a state of helplessness and impossibility cannot be left down
+without any other means of proving due execution by other evidence as well.
+
+If a document not required by the law to be attested has in fact been attested, its execution
+may be proved as if it were not an attested document. In a case beforeMadras High Court, the
+question related to the validity of a will alleged to have been madeand signed by a lady
+before her death. Of the attesting witnesses only one was alive and hedenied having attested
+any such will. There were two other witnesses only one was alive and hedenied having
+attested any such will. There were two witnesses only. One of them was theregistrar who did
+remember the woman executrix. The other witness was able to identify thesignature of her
+head father who was one of the attesting witnesses. In these circumstances thecourt held that
+the execution the execution of the will could not be said to have been duly proved. A
+combined reading of sec 68 of the Evidence Act and Section 63 of the succession Actwould,
+therefore, suggest that at least one attesting witness should be examined and he shouldspeak
+not only of the testator‘s signature but also that the other witnesses signed thewill in his
+presence. Where this is not done, the will cannot be said to have been proved.
+A will which have not been proved in accordance with the requirements of Section 68 cannot
+be used even for somerelationship or for the existence or absence of some other rights in the
+property.
+Where the attesting witness of a will was not produced for the fear that he might go against
+the claimant‘s interest, the Allahabad High Court held that it could not be said that the
+witness had denied knowledge so as to attract provisions of section 71. The section is
+attracted when the attesting witness, who is available, denies attestation. Other evidence then
+becomes permissible. The scribe testified as to the scribing of the ―will‖ by him and
+attestation by two witnesses. This statement was held to be coming under Section 71. A
+subsequent will executed by the testator made specific mention of theexecution of the will in
+question. The execution of the will by the other evidence was taken to be proved.
+Section 72 - Proof of document not required by law to be attested.
+An attested document not required by law to be attested may be proved as if it was unattested.
+Section 73 - Comparison of signature, writing or seal with others admitted or proved.
+In order to ascertain whether a signature, writing or seal is that of the person by whom it
+purports to have been written or made, any signature, writing or seal admitted or proved to
+the satisfaction of the Court to have been written or made by that person may be compared
+
+with the one which s to be proved, although that signature, writing, or seal has not been
+produced or proved for any other purpose. The Court may direct any person present in Court
+to write any words or figures for the purpose of enabling the Court to compare the words or
+figures so written with any words or figures alleged to have been written by such person.
+This section applies also with any necessary modifications, to finger-impressions.
+Power of Court
+(i) The court is entitled to make a comparison of disputed and admitted signature for just
+conclusion as a rule of prudence expert opinion can be obtained. Reasons necessary to reach
+conclusion.
+(ii) It is within jurisdiction of court to instruct a party to submit his writing or signature
+enabling court to compare and decide the case, if the instructions are not followed court is
+free to presume what is most closer to justice.
+(iii) It is not open for court to compare handwriting and or a signature of its own. Services of
+experts are liable to be taken for this purpose.
+(iv) Under the law the court has power to compare signatures or handwriting strengthening its
+findings based on other cogent material and evidence on record.
+When the court has to satisfy itself whether thesignature or whether the signature or seal on a
+document is genuinely that of a person whosesignature or seal it purports to be, the court may
+compare the same with another signature or sealwhich is admitted or proved to be that of the
+person concerned. This principle is laid down in Section 73. In so doing the court does not act
+as an expert. Modes of proving handwriting havealready been considered before. Comparison
+by the court of the handwriting with a proved or admitted handwriting is one of those
+methods which are recognized by this section. It isnecessary that the writing to be used as a
+standard should be properly proved to the satisfactionof the judge to be the handwriting of the
+person concerned. An application for appointment of an expert for verification of signature
+should be rejected where the application is disputing his signature. An application for this
+purpose can be made at any stage of the trial.This section enables thecourt to require the
+person concerned to write any words or figures to enable the court tocompare them with
+
+words or figures in question. The principle of the section also applies tofinger
+impressions.Ordinarily the court should in such cases ta1e the help of an expert.
+Section 73A - Proof as to verification of digital signature.
+In order to ascertain whether a digital signature is that of the person by whom it purports to
+have been affixed, the Court may direct(a) that person or the Controller or the Certifying Authority to produce the Digital Signature
+Certificate;
+(b) any other person to apply the public key listed in the Digital Signature Certificate and
+verify the digital signature purported to have been affixed by that person.
+Section 74 - Public documents.
+The following documents are public documents(1) Documents forming the acts, or records of the acts(i) of the sovereign authority,
+(ii) of official bodies and tribunals, and
+(iii) of public officers, legislative, judicial and executive, [of any part of India or of the
+Commonwealth], or of a foreign country;
+(2) Public records kept in any State of private documents.
+Sections 75 - Private documents.
+All other documents are private.
+A private document, such as, for example, an application for a licence, which is filed in
+government office and is produced there from does not become a public document so as to
+dispense with the necessity of proof by primary evidence. A post-mortem report is not public
+document so as to amount to proof of identity of the deed without producing the doctor in
+evidence.
+A private sale deed which is recorded in the office of the sub-registrar is a public document.
+This should be compared with a decisionof the GauhatiHigh Court where it was held that a
+
+private sale deed registered under the Indian Registration Act is not a public document and,
+therefore, a certified copy is not admissible inevidence under Section 77 of the Evidence Act.
+Explaining the meaning of public records, the courtsaid - ―Public records are those records
+which a government unit is required by law to keep, or which it is necessary to keep in
+discharge of duties imposed by law. The court overruled itsown earlier decision and followed
+the Privy Council decision in Gopal Das v. Thakurji,21 where their Lordships held that the
+original receipt executed by any individual andregistered under the Indian Registration Act is
+not ―a public record of public document, withinthe meaning of Section 74(2), as the original
+has to be returned to the party under Section 61(2) of the Registration Act.
+Section 76 - Certified copies of Public Documents.
+Every public officer having the custody of a public document, which any person has a right to
+inspect, shall give that person on demand a copy of it on payment of the legal fees therefor
+together with a certificate written at the foot of such copy that it is a true copy of such
+document or part thereof, as the case may be, and such certificate shall be dated and
+subscribed by such officers with his name and his official title, and shall be sealed whenever
+such officer is authorised by law to make use of a seal, and such copies so certified shall be
+called certified copies.
+Section 77 - Proof of documents by production of certified copies.
+Such certified copies may be produced in proof of the contents of the public documents or
+parts of the public documents of which they purport to be copies.
+Section 78 - Proof of other official documents.
+The following public documents may be proved as follows(1) Acts, orders or notifications of the General Government in any of its departments, or of
+the Crown Representative or of any State Government or any department of any State
+GovernmentBy the records of the departments, certified by the heads of those departments respectively, or
+
+21
+
+AIR 1943 PC 83 @ 87.
+
+By any document purporting to be printed by order of any such Government or as the case
+may be, of the Crown Representative.
+(2) The proceedings of the LegislaturesBy the journals of those bodies respectively, or by published Acts or abstracts, or by copies
+purporting The Orient Tavern be printed by order of the Government concerned.
+(3) Proclamations, orders or regulations issued by Her Majesty or by the privy Council, or
+by any department of Her Majesty’s GovernmentBy copies or extracts contained in the London Gazette, or purporting to be printed by the
+Queen’s Printer.
+(4) The Acts of the Executive or the proceedings of the Legislature of a foreign countryBy journals published by their authority, or commonly received in that country as such, or by
+a copy certified under the seal of the country or sovereign, or by a recognition thereof in
+some Central Act.
+(5) The proceedings of a municipal body in a StateBy a copy of such proceedings certified by the legal keeper thereof of by a printed book
+purporting to be published by the authority of such body.
+(6) Public documents of any other class in a foreign countryBy the original, or by a copy certified by the legal keeper thereof with a certificate under the
+seal of a notary public, or of an Indian consul or diplomatic agent, that the copy is duly
+certified by the officer having the legal custody of the original and upon proof of the
+character of the document according to the law of the foreign country.
+Section 91 deals with the Evidence of terms of Contracts, grants, and other dispositions
+of property reduced to form of document, which reads:
+When the terms of a contract, or of a grant, or of any other disposition of property have been
+reduced to the form of a document, and in all cases in which any matter is required by law to
+be reduced to the form of a document, no evidence shall be given in proof of the terms of such
+contract, grant or other disposition of property, or of such matter, except the document itself,
+
+or secondary evidence of its contents in cases in which secondary evidence is admissible
+under the provisions herein before contained.
+Exception 1When a public officer is required by law to be appointed in writing, and when it is shown that
+any particular person had acted as such officer, the writing by which he is appointed need
+not be proved.
+Exception 2Wills admitted to probate in India may be proved by the probate.
+Explanation 1This section applies equally to cases in which the contracts, grants or dispositions of
+property referred to are contained in one document, and to cases in which they are contained
+in more documents than one.
+Explanation 2Where there are more originals than one, one original only need be proved.
+Explanation 3The statement, in any document whatever of a fact other than the facts referred to in this
+section shall not preclude the admission of oral evidence as to the same fact.
+Where the fact to be proved is embodied in a document, the document is the best evidence of
+the fact. Such fact should, therefore, be proved by the document itself, that is, by the primary
+or secondary evidence of the document. According to the High Court of Delhi, itdid not
+permit oral evidence of the contents of a partition deed which was inadmissible being not
+registered.Once it is shown that the original document is not admissible in evidence because
+of insufficiency of stamps, secondary evidence by way of oral statement or Xerox copycannot
+be allowed. Allowing the party to confront the witnesses with Xerox copy of suchevidence
+was held to be not permissible.The section forbids the proof of the contents of awriting
+otherwise than by the writing itself. The section embodies the best evidence rule,
+thusdeclaring a doctrine of substantive law. Even a third party, who is see1ing to prove a
+written contract, can prove it only by producing in writing. In this respect Sections 91 and 92
+
+complement each other. They are both based on the ―best evidence rule‖, though they differ
+in some material particulars also.
+The Supreme Court held in Jahuri Sah & Ors v. Dwarka Prasad Jhunjhunwala & Ors22, that
+a deed of the adoption of child is not a contract within the meaning of section 91 and,
+therefore, the fact of adoption can be proved by any evidence apart from the deed. So is true
+of a will. Further, the principle of exclusion of all other evidence applies only to the terms
+happens to be mentionedin a contract, the same can be proved by any other evidence than by
+producing the document. Where both oral as well as documentary evidence are admissible on
+their own merits andhave been admitted, the court may go by the evidence which seems to be
+more reliable. There isnothing in the act requiring that the documentary evidence should
+prevail over the oral evidence.
+Section 92 – Exclusion of evidence of oral agreement
+The principle laid down in Section 92 suggests that when the terms of any such document
+have been proved by the primary or secondary evidence of the document, no evidence of any
+oral agreement or statement shall be admitted, as between the parties to the document or their
+representatives, for the purposes of contradicting, varying, adding to, or subtracting from the
+terms of the document. In other words, no oral evidence can be given to qualify the terms of
+the document and their representatives-in-interest from giving oral evidence concerning the
+contents of the document. Other parties left free to give such evidence. The amount which
+appeared due on a promissory note was not allowed to be contradicted by showing that the
+promise had only agreed it need not be paid.
+The court followed Bai Hira Devi v. Official Assignee of Bombay,23 where it was held that
+―in the case of a conveyance, it would not be open to either of the parties to the document to
+provethat, if the consideration was mentioned as Rs.10,000, in fact the consideration was less
+or more.
+Patent Defects (Sections 93 and 94)
+Patent ambiguity is dealt with in Sections 93 and 94. A patent ambiguity means adefect
+which is apparent on the face of the document. The document is apparently defective. Any
+22
+23
+
+1967 AIR 109.
+AIR 1958 SC 448.
+
+person reading the document with ordinary intelligence would at once observe the defect. In
+suchcases the principle is that oral evidence is not allowed to remove the defect. The reason
+for therule is that the document being clearly or apparently defective, this fact must be or
+could have been 1nown to the parties and if they did not care to remove it then it is too late to
+remove itwhen a dispute has arisen.
+Section 93 summarizes it as - if the documenthad mentioned no price at all, oral evidence of
+the price would have been allowed under Section 92 asto a matter of the fact on which the
+document is silent but not when the document mentions priceof ambiguous nature. So
+extrinsic evidence can be given to remove patent defect. Where alease deed left blanks at the
+place where the date of commencement should have beenmentioned, but in another part it
+said that the first instalment of rent would be paid on a certaindate, the Allahabad High Court
+held that the date of the payment of the first instalment couldreasonably be fixed as the date
+of commencement. A contract for the sale of a part of theland of 5 acres, described the part to
+be sold as ―one acre of a front land‖. It was held that whatconstituted the ―front land‖ for this
+purpose was ascertainable. There was no confusion about thelanguage used and, therefore,
+Section 93 was not attracted.
+Section 94 deals with the Exclusion of evidence against application of document of existing
+fact and explains as below:
+When the execution of the document has been admitted and no vitiating fact has been proved
+against it. Where the document in question was a record of the proceeding of the board and
+contained an admission under signature of the parties, it was held that an admission could be
+explained by the maker of it and, therefore, oral evidence of explanatory nature was
+admissible.
+Latent Defects – Section 95 to Section 97
+Meaning of Latent Defects:
+Latent defect means a defect which is not apparent on the face of the record. The document
+makes a plain reading. There is nothing apparently wrong with its language. But when an
+attempt is made to apply it to the facts stated in it, it comes out that it does not accurately
+apply to those facts. Thus the defect is not in language used in the document, but in the
+
+application of the language to the facts stated in it, such a hidden defect is known as a latent
+defect.
+Section 95 deals with the Evidence as to document unmeaning in reference to existing
+fact and reads asWhen language used in a document is plain in itself, but is unmeaning in reference to existing
+facts, evidence may be given to show that it was used in a peculiar sense.
+When the language of a document is plain but in its application to the existing facts it is
+meaningless, evidence can be given to show how it was intended to apply to those facts.
+Where for example, a house isagreed to sell by a written deed. The house is described to be
+located at a particular place or in particular city. It turns out that the seller has no house at that
+place or in that city, but has a house in a nearby place and that has also been in the occupation
+of the buyer. Evidence can be given toshow that such a house was meant to be sold.
+Section 96 deals with the Evidence as to application of languages which can apply to one
+only of several persons, and states:
+When the facts are such that the language used might have been meant to apply to any one,
+and could not have been meant to apply to more than one of several persons or things
+evidence may be given of facts which show of those persons or things it was intended to apply
+to.
+Where a promissory note mentioned a date according to the local calendar and also according
+to the international calendar, but the two dates turned out to be different, it was held that
+evidence could be offered to show which date was meant.
+Section 97deals with the Evidence as to application of languages to one of two sets of facts
+to neither of which the whole correctly applies to, and states:
+When the language used applies partly to one set of existing facts and, partly to another set of
+existing facts, but the whole of it does not apply correctly to either, evidence may be given to
+show to which of the two it was meant to apply.
+The principle of the section is that where the language of a document applies toone set of
+facts and partly to another, but does not apply accurately to either, evidence can begiven to
+show to which facts the document was meant to apply.
+
+Section 98 deals with the Evidence as to meaning of illegible character, etc. and states:
+Evidence may be given to show the meaning of illegible or not commonly intelligible
+characters, of foreign, obsolete, technical, local or provincial expressions, of abbreviations
+and of words used in a peculiar sense.
+This section permits evidence to be given of the meaning of words or marks of illegible
+character or words which are not commonly of intelligible character, foreign words, obsolete
+words, technical, local and provincial expressions, abbreviations words used in a peculiar
+sense. For instance, an artist agrees to sell ―all his models‖. Evidence can be given to show
+whether he, meant to sell all his models or modelling tools. Oral evidence is admissible for
+the purpose of explaining artistic words and symbols used in a document(7).
+Section 99 states Who may give evidence of agreement varying term of document.
+Person who are not parties to document, or their representatives in interest may give
+evidence of any fact tending to show a contemporaneous agreement varying the terms of the
+document.
+The parties to a document or their representative-in-interest cannot give evidence of a
+contemporary agreement varying the terms of the document. This disability is quite clearly
+contained in Section 92. But this provision is modified by Section 99 in this extent that
+evidence of such anoral agreement can be given by a third party if he is affected by it.
+Section 100 - Saving of provisions of India Succession Act relating to wills.
+Nothing in this Chapter contained shall be taken to affect any of the provisions of the
+Succession Act (X of 1865) as to the construction to wills.
+d. Burden of Proof - Sections 101 to Section 114A
+In simple terms, Burden of Proof is the responsibility to prove the fact in a case. Each party
+must provide a fact that will either stand for or against the case.
+The term Burden of Proof is used to explain two major facts or burdens. The first is the
+Burden ofproduction of the burden of ―going forward with the evidence‖ and the burden of
+plea orpersuasion.The burden of plea or persuasion is the responsibility that rests on the
+single party through the period of the court sittings. The party carrying the burden can only
+succeed in its claims once it has absolutely satisfied the ―tier of fact‖.
+
+For one to be presumed innocent in the court of law over a criminal case, the prosecution is
+faced with the burden to prove elements of the offense and disprove all defences excluding
+defences with affirmation which constitutionally are not required in the prosecution of the
+case. The evidential burden should not be confused with the burden of persuasion. Evidential
+Burden can change hands between parties during the court proceedings. The evidential
+burden is only raised to provide enough evidence against a case in the court.
+Section 101 states,
+Whoever wants the court to proffer judgment to a legal case or right based on the availability
+of facts, must prove those facts beyond any reasonable doubt.
+When a person is bound to prove the existence of any fact, it is said that the burden of proof
+lies on that person.
+Supreme Court in a case between Jarnail Singh v. State of Punjab.24stated that in allcriminal
+case, the responsibility of proving if the accused had committed the crime beyond
+allreasonable doubt rests on the prosecution and if it fails to establish concrete evidence to
+shed off the burden, it cannot depend on the evidence brought by the accused on defence in
+the case. The prosecution does not rely on the evidence of the accused to convict the
+defendant.
+Section 102 says,
+In a case brought before the court, the burden of proof lies who has the tendency to fail if no
+evidence is supplied before the court from either of the parties.
+In a case between Triro v.Dev Raj25, because of the delay in constructing the suit, the
+defendant had prayed the court over a limitation of the period. The position of the plaintiff
+was to know the cause of the delay and the burden of proving if the case was within the given
+period was on the plaintiff.
+Section 103 – Burden as to a fact
+
+24
+25
+
+A I R 1996 SC 755
+A I R 1993 J&K 14
+
+The burden of proof to a fact rests on that person who desires the court to believe in the
+existence of such fact unless a law authorizes the proof of the fact to be established by any
+particular individual.
+The principle of this section states that once a party desires the court to accept and act based
+on the existence of a fact, he must prove that fact. This principle is called ―rule of
+convenience of the burden of proof‖‘ and is contained in sections, 104, 113, 113a and 114a.
+Section 104 – Burden of proving the fact to be proved to make evidence admissible.
+This is a burden of proving a fact that is necessary to be proved to allow any person to
+establish evidence of any fact and is on the person who intends to establish such an evidence.
+Section 105 – Burden of proving that case of accused comes within exceptions
+When a person is accused of an offense, the fact required to establish the circumstances
+surrounding the case excluding General Exceptions in the Indian Penal Code 45 of 1860, or
+in any regulations defining it, is upon him while the court will presume the absence of such a
+circumstance.
+Section 106 – Burden of proving fact specially within the knowledge
+When any fact confined to the knowledge of a person, the burden of proving that fact is on the
+person.
+Section 106 of the Indian Evidence Act , which defines the burden of proving a fact, played a
+key role in the conviction of controversial preacher Rampal and his followers in two murder
+cases. According to this section, the burden was on the accused to prove how and in what
+circumstances five innocent women and one child died inside Satlok Ashram in Barwala in
+Hisar District. Though the defence tried to put the blame on police officials and the
+administration, the judge observed that the statements of defence witnesses couldn‘t be relied
+upon for various reasons.
+Section 107 – Burden of proving the death of a person known to have beenalive within
+thirty years.
+
+In a situation of a controversy whether a person is dead or alive, and it is established that he
+had been alive for the last thirty years, the burden of proving that he is not alive is on the
+person who states it.
+Section 108- Burden of proving that person is alive who has not been heard of for seven
+years. [Provided that when] the question is whether a man is alive or dead, and it is proved
+that he has not been heard of for seven years by those who would naturally have heard of him
+if he had been alive, the burden of proving that he is alive is 2[shifted to] the person who
+affirms it.
+Section 109- Burden of proof as to relationship in the cases of partners, landlord and
+tenant, principal and agent.
+When the question is whether persons are partners, landlord and tenant, or principal and
+agent, and it has been shown that they have been acting as such, the burden of proving that
+they do not stand, or have ceased to stand, to each other in those relationships respectively,
+is on the person who affirms it.
+Section 110 -Burden of proof as to ownership.
+When the question is whether any person is owner of anything of which he is shown to be in
+possession, the burden of proving that he is not the owner is on the person who affirms that
+he is not the owner.
+Section 111 - Proof of good faith in transactions where one party is in relation of active
+confidence. Where there is a question as to the good faith of a transaction between parties,
+one of whom stands to the other in a position of active confidence, the burden of proving the
+good faith of the transaction is on the party who is in a position of active confidence.
+Section 112 - Birth during marriage, conclusive proof of legitimacy.
+The fact that any person was born during the continuance of a valid marriage between his
+mother and any man, or within two hundred and eighty days after its dissolution, the mother
+remaining unmarried, shall be conclusive proof that he is the legitimate son of that man,
+unless it can be shown that the parties to the marriage had no access to each other at any
+time when he could have been begotten.
+Section 113 - Proof of cession of territory.
+
+A notification in the Official Gazette that any portion of British territory has 1[before the
+commencement of Part III of the Government of India Act, 1935 (26 Geo. 5, c. 2)] been ceded
+to any Native State, Prince or Ruler, shall be conclusive proof that a valid cession of such
+territory took place at the date mentioned in such notification.
+Section 113A. Presumption as to abetment of suicide by a married woman.
+When the question is whether the commission of suicide by a woman had been abetted by her
+husband or any relative of her husband and it is shown that she had committed suicide within
+a period of seven years from the date of her marriage and that her husband or such relative
+of her husband had subjected her to cruelty, the court may presume, having regard to all the
+other circumstances of the case, that such suicide had been abetted by her husband or by
+such relative of her husband.
+Explanation.
+For the purposes of this section, cruelty shall have the same meaning as in section 498A of
+the Indian Penal Code (45 of 1860).
+Section 113B. Presumption as to dowry death.
+When the question is whether a person has committed the dowry death of a woman and it is
+shown that soon before her death such woman had been subjected by such person to cruelty
+or harassment for, or in connection with, any demand for dowry, the court shall presume that
+such person had caused the dowry death.
+Section 114 - Court may presume existence of certain facts.
+The Court may presume the existence of any fact which it thinks likely to have happened,
+regard being had to the common course of natural events, human conduct and public and
+private business, in their relation to the facts of the particular case.
+2013 AMENDMENT OF THE BURDEN OF PROOFACT
+Section 114A. Presumption as to the absence of consent in certain prosecutions of rape
+In a prosecution for rape subject to section 376 of the Indian Penal Code, where sexual
+intercourse is proved against the accused, if the woman asserts that it was non-consensual
+sex,then the court will honor the claims of the woman.
+
+In a case between Nawabkhan and Ors. v. The State26, the court held that the person with
+which the sexual intercourse is committed tells the court it was a non-consensual sex, then the
+court will assume there was no consent. If the accused claims that there was a consent, then
+the burden of proof lies with the accused.
+The rule governing the burden of proof is that whoever lays a claim must present evidence or
+proof. This rule is subject to the principles that the burden of proof rests on the party that
+either asserts a claim or denies it. This implies that whoever brings a case against another to
+the court must prove the fact he claims. In criminal cases, the burden of proof on defendants
+is based on the evidence that is established before the court which states the fact that he
+committed the crime as adduced. An accused can only be presumed guilty based on the fact
+established by the plaintiff to the court in accordance with the Burden of Proof that rules the
+case.
+e. Estoppel – Section 115 to Sections 117S
+Estoppel is based on the maxim, Alleganscontraria non estaudiendus (a person alleging
+contradictory facts should not be heard) and is that kind of proesumptio juris et de jure,
+where the fact presumed is taken to be true, not as against all the world, but as against a
+particular party, and that only by reason of some act done, it is in truth a kind of argumentum
+ad hominern.
+The law for estoppel is the rule of exclusion of certain evidence under certain circumstances,
+like between tenant and landlord, licensee or person in possession and licensor (Section 116),
+or as between acceptor and drawer of a bill of exchange, as between Bailee and bailor and
+licensor and license (Section 117). Estoppel is a procedure of ascertaining liability.
+In respect of estoppels, the case of ‗Shammim Beg v. Najmunnissa Begum (AIR 2007 N.O.C.
+2085 Mumbai) is quotable. In this case, a document was executed between the husband and
+wife an intention that the wife has begotten before the marriage with the husband. The
+husband had accepted the fact of knowing the child. The wife gave birth to a child on the day
+of marriage. The husband could not challenge the legitimacy of this child. He is bounded by
+his previous statements.
+
+26
+
+1990 CriLJ 1179.
+
+The principle of estoppel is recognized in India as a rule of evidence incorporated under the
+purview of Section 115 of The Indian Evidence Act, 1872. The section reads as follows:
+―When one person has, by his declaration, act or omission, intentionally caused or permitted
+another person to believe such a thing to be true and to act upon such belief, neither he nor
+his representative shall be allowed, in any suit or proceeding between himself and such
+person or his representative, to deny the truth of that thing.‖
+In the landmark judgment of Ganges Manufacturing. Co. v. Sourujmull27, the appellants, in
+this case, contended that sections from 115 to 117 as given in Chapter VIII of the Indian
+Evidence Act, 1872 lay down the only rules of estoppel which are now implemented under
+the force of law in the then existing India under the British rule. They further contended that
+by virtue of Section of the aforementioned Act, all rules, and doctrines of the Evidence Law
+shall be repealed except those that are in the Act itself. They held that the argument becomes
+an erroneous assumption that all rules of estoppel are also rules of evidence. But still, the
+Court recognized the principle of estoppel being a part of the Law of Evidence, by holding
+that ―Where a man has made a representation to another of a particular fact or state of
+circumstances and has thereby wilfully induced that other to act upon that representation and
+to alter his own previous position, he is estopped as against that person from proving that the
+fact or state of circumstances was not true. In such a case the rule of estoppel becomes so far
+a rule of evidence, that evidence is not admissible to disprove the fact or state of
+circumstances which was represented to exist.‖
+CONDITIONS FOR ESTOPPEL
+1. Estoppels must be reciprocal or mutual. It must bind both parties to the litigation.
+2. Estoppels cannot circumvent the Law. Hence the contractual incapacity of a minor cannot
+be evaded by any estoppel against asserting his Infancy, even though he has obtained a loan
+by a false representation that he was an adult. And a tenant, who fails to raise a defence that
+his rent is in excess of the standard rent permitted by statute, is not estopped from making a
+subsequent application to determine the lawful rent.
+3. The statement that an estoppel must be clear, precise or unambiguous primarily refers to
+the representation on which an estoppel by conduct may be founded.
+27
+
+ILR 1880 5 Cal 669,678 (ILR at p. 678).
+
+4. Conflicting Estoppels cancel each other out.
+5. The doctrine of promissory estoppel is an equitable doctrine and the petitioners cannot ask
+the Court to apply the same to compel something which is inequitable, one who seeks equity
+must do equity. In our society, the larger public must get precedence over individual interest
+or interest of a comparatively smaller section of society
+KINDS OF ESTOPPEL
+Estoppel by record: Under this kind of estoppel, a person is not permitted to dispute the facts
+upon which a judgment against him is based.
+Estoppel by deed: Under this kind of estoppel, where a party has entered into a solemn
+engagement by deed as to certain facts, neither he nor anyone claiming through or under him,
+is permitted to deny such facts.
+Estoppel by conduct:Sometimes called estoppel in pais, may arise from agreement,
+misrepresentation, or negligence.
+Equitable Estoppel:The Evidence Act is not exhaustive of the rules of estoppel. Thus,
+although S. 116 only deals with the estoppel that arises against a tenant or licensee, a similar
+estoppel has been held to arise against a mortgagee, an executor, a legatee, a trustee, or an
+assignee of property, precluding him from denying the title of the mortgagor, the testator, the
+author of the trust, or the assignor, as the case may be.
+
+Estoppel by Negligence:This type of estoppel enables a party, as against some other party, to
+claim a right of property which in fact he does not possess. Such estoppel is described as
+estoppel by negligence or by conduct or representation or by a holding out of ostensible
+authority. Such estoppel is based on the existence of a duty which the person stopped is
+owing to the person led into the wrong belief or to the general public of whom the person is
+one.
+Estoppel on benami transactions:If the owner of property clothes a third person with the
+apparent ownership and a right of disposition thereof, not merely by transferring it to him, but
+also by acknowledging that the transferee has paid him the consideration for it, he is estopped
+
+from asserting his title as against a person to whom such third party has disposed of the
+property and who has taken it in good faith and for value.
+Estoppel on a point of law:Estoppel refers to a belief in a fact, and not in a proposition of law.
+A person cannot be stopped for a misrepresentation on a point of law. An admission on a
+point of law is not an admission of a ―thing‖ so as to make the admission matter of estoppel.
+Where persons merely represent their conclusions of law as to the validity of an assumed or
+admitted adoption, there is no representation of a fact to constitute an estoppel.
+The Supreme Court has observed that the doctrine of estoppel does not operate where the
+mandatory conditions laid down by law on grounds of public policy are ignored. Thus,
+estoppel would not apply against a sanction obtained by fraud or by collusion between the
+parties.28
+f. Privileged Communication – Section 120, 122, 126 and moreThe privilege of a witness means the right of a witness to withhold evidence to disclose
+certain matters. There are certain circumstances in which certain persons are not compelled to
+testify (to give evidence). The right is based on the convenience and public policy. Section
+122 to Section 132 of Indian Evidence Act 1872 provide for privileged Communications.
+Privileged communication, in law, is the communication between persons who have a special
+duty of fidelity and secrecy toward each other. Communications between attorney and client
+are privileged and do not have to be disclosed to the court. Similarly, The right of privileged
+communication exists between husbands and wives in that they are not required to testify
+against each other.
+A privileged communication is a private statement that must be kept in confidence by the
+recipient for the benefit of the communicator. Even if it is relevant to a case, a privileged
+communication cannot be used as evidence in court. Privileged communications are
+controversial because they exclude relevant facts from the truth-seeking process.
+Generally, the laws that guide civil and criminal trials are designed to allow the admission of
+relevant evidence. Parties generally have access to all information that will help yield a just
+result in the case. Privileged communications are an exception to this rule.
+
+28
+
+S.B. Noronah v. Prem Kumari Khanna, (1980) 1 SCC 52.
+
+Privileged communications exist because society values the privacy or purpose of certain
+relationships. The established privileged communications are those between wife and
+husband, clergy and communicant, psychotherapist and patient, physician and patient, and
+attorney and client.
+The Bombay High Court has held that a salaried employee who advises his employer on legal
+matters is entitled to the same protection as other advisers like a barrister, attorney or pleader,
+under Sections 126 and 129 of the Act. Therefore, any communication made in confidence to
+him by his employer seeking his legal advice would be protected under Ss. 126 and 129,
+provided that such communication is not made in furtherance of any illegal purpose.
+(Municipal Corporation of Greater Bombay v. Vijay Metal Works, A.I.R. 1982 Bom
+Section 120-Parties to civil suit, and their wives or husbands. Husband or wife of person
+undercriminal trial.
+In all civil proceedings the parties to the suit, and the husband or wife of any party tothe suit,
+shall be competent witnesses. In criminal proceedings against any person, the husband
+orwife ofsuch person, respectively, shall be a competent witness.
+Section 122 - Communications during marriage.
+No person who is or has been married, shall be compelled to disclose any communication
+made to him during marriage by any person to whom he is or has been married; nor shall he
+be permitted to disclose any such communication, unless the person who made it, or his
+representative in interest, consents, except in suits between married persons, or proceedings
+in which one married person is prosecuted for any crime committed against the other.
+Section 126. - Professional communications.
+No barrister, attorney, pleader or vakil shall at any time bepermitted, unless with his client’
+sex press consent, to disclose any communication made to him in thecourse and for the
+purpose of his employment as such barrister, pleader, attorney or vakil, by or on behalfof his
+client, or to state the contents or condition of any document with which he has become
+acquainted in the course and for the purpose of his professional employment or to disclose
+any advice given by him to his client in the course and for the purpose of such employment:
+Provided that nothing in this section shall protect from disclosure ––
+
+(1) any such communication made in furtherance of any 2[illegal] purpose,
+(2) any fact observed by any barrister, pleader, attorney or vakil, in the course of his
+employment
+as such, showing that any crime or fraud has been committed since the commencement of
+hisemployment.It is immaterial whether the attention of such barrister, 3[pleader], attorney
+or vakil was or was notdirected to such fact by or on behalf of his client.
+IV – EMERGING AREAS IN THE LAW OF EVIDENCE
+a. Evidence by Accomplice – Section 133
+An accomplice means a person who has taken part in the commission of a crime. When an
+offence is committed by more than one person in concert, every one participating in its
+commission is an accomplice. Conspirators lay their plot in secret; they execute it ruthlessly
+and do not leave much evidence behind. Often, therefore, the police have to select one of
+them for the purpose of being converted into a witness. He is pardoned subject to the
+condition that he will give evidence against his former partners in the crime. He is then
+known as an accomplice, turned witness or an approver. He appears as a witness for the
+prosecution against the accused person with whom he acted together in the commission of the
+crime. The question is to what extent his evidence or testimony can be relied upon to convict
+his former associates. What is the value of evidence of a former criminal turned witness?
+Two provisions in the Act touch this problem. Section 133 categorically declares that an
+accomplice is a competent witness and the Court may convict on the basis of such evidence
+and the conviction will not be illegal simply because it proceeds upon the uncorroborated
+testimony of an accomplice. The other dealing with the matter is in the illustration (b) to
+section 114, which says that the court may presume that an accomplice is unworthy of credit
+unless corroborated in material particulars. These provisions should first be reproduced.
+Section 133 Accomplice
+An accomplice shall be a competent witness against an accused person; and a conviction is
+not illegal merely because it proceeds upon the uncorroborated testimony of an accomplice.
+Categories of Accomplices—
+
+In order to be an accomplice, a person must participate in the commission of the same crime.
+This participation may be done in various ways. The modes of taking part with a crime are
+treated under the head of :(1) Principals in the first and second degree — A principal of the first degree is one who
+actually commits the crime. A principal of the second degree is a person who is present and
+assists in the perpetration of the crime. These persons are undoubtedly under all the
+circumstances accomplice.
+(2) Accessories before the facts — An accessory before the fact is one who counsels, incites,
+connives at, encourages or procures the commission of the crime. Of these persons, those
+who counsel, incite, encourage or procure the commission of the crime are certainly
+accomplices.
+(3) Accessories after the fact — Every person is an accessory after the fact to a felony, who
+knowing that a felony has been committed by another person receives, comforts or assists
+him in order to escape from punishment; or rescues him from arrest, or having him in custody
+for the felony, intentionally and voluntarily allows him to escape, or opposes his arrest. Three
+conditions must unite to render one an accessory after the fact:
+(1) the felony must be complete;
+(2) the accessory must have the knowledge that the felony has been committed;
+(3) the accessory must harbour or assist the principal felon.
+b. Definition of Witness, Witness Protection Scheme
+All persons are competent to testify, unless the Court considers that, by reason of tender age,
+extreme old age, disease, or infirmity, they are incapable of understanding the questions put
+to them and of giving rational answers. Even a lunatic is competent to testify, provided he is
+not prevented by his lunacy from understanding the questions put to him and giving rational
+answers to them.
+Husbands and wives are, in all civil and criminal cases, competent witnesses against each
+other, subject to the qualification that communications between the spouses made during
+marriage are protected from disclosure.
+
+In all civil proceedings, the parties to the suit are competent witnesses. Therefore,
+a party to a suit can call as his witness any of the defendants to the suit. And although an
+accused person is incompetent to testify in proceedings in which he is an accused, an
+accomplice is a competent witness against an accused person.
+All persons are competent to testify, unless prevented from.
+(a) Understanding the questions, or
+(b) Giving rational answers
+By reason of(i) Tender years,
+(ii) Extreme old age,
+(iii) Disease of body or mind, or
+WITNESS PROTECTION
+It is imperative that we come up with a better justice system, one that provides adequate
+safeguards to the witness. There is no law for the protection of witness in India barring few
+sections of Indian Evidence Act, 1872. Section 151 and Section 152 protects the witnesses
+from being asked indecent, scandalous, offensive questions, and questions which intend to
+annoy or insult them. Apart from these sections, there is no provision for the protection of
+witnesses in India. This fact was acknowledged by Supreme Court in the case of NHRC v.
+State of Gujarat where it said that no law has yet been enacted, not even a scheme has been
+framed by the Union of India or by the State Government for giving protection to the
+witnesses. It is high time that India introduced a witness protection programme. In fact the
+Law Commission recognised the need for the same and came up with a consultation paper on
+witness protection on 13, August, 2004 .
+There are two broad aspects to the need of witness protection in India.
+a) To ensure that the evidence of witnesses is protected from the danger of them turning
+hostile.
+b) To relieve the physical and mental vulnerability of the witnesses.
+Therefore, any law for witness protection must take into account both the points.
+
+c. Examination of Witness, Cross Examination, Leading Questions and
+Hostile Witness – Sections 135 to Section 166
+This chapter deals with the examination of evidence. Further the chapter also deals with how
+the evidence is presented and witnesses lay their testimony in the court as well as the powers
+of the judges in such matters.
+Section 135 talks about Order of production and examination of witnesses. It reads that the
+order in which witness are produced and examined shall be regulated by the law and practice
+for the time being relating to civil and criminal procedure respectively, and, in the absence of
+any such law, by the discretion of the Court.
+The order in which the witnesses are to be presented for examination is to be decided by the
+party leading the evidence and the court is very slow in interfering with the order. However,
+the court has the discretion to do so as long as it is fairly exercised.
+Section 136 says that it is up to the Judge to decide as to admissibility of evidence.
+Section 137 says that examination in-chief is the examination of a witness by the party who
+calls him and the examination of a witness by the adverse party shall be called his crossexamination. The examination of a witness, subsequent to the cross-examination by the party
+who called him, shall be called his re-examination.
+Examination in Chief is the first examination after the witness has been sworn or affirmed. It
+is the prerogative of the party by who the witness has been called to examine him in chief so
+as to get all the material facts within his knowledge to prove such a party‘s case.
+Cross- Examination is a powerful tool to test the veracity of a witness and the accuracy or
+completeness of what he has stated. Cross- examination can at times take form of intensive
+questioning with the expected answers hinted to in such questions itself.
+Further Section 140 says that witnesses to character may be cross-examined and re-examined.
+This is an important basic concept of the law of evidence. We have to know about Leading
+questions. Section 141 says that any question suggesting the answer which the person putting
+it wishes or expects to receive is called a leading question.
+Sections 144 to 146 talk about cross-examination of witnesses, and admissible questions in
+cross-examinations.
+
+The chapter also talks about when questions should be asked and which questions are not to
+be asked without reasonable ground in Sections 148-153.
+d. Refreshing Memory
+Section 159 – Refreshing Memory
+Section 159 lays down that when a witness is examined in the witness- box, he may be given
+opportunity to refresh his memory by referring to any writing or document. To permit a
+witness to refresh his memory is another way of rolling him to corroborate his testimony. For
+refreshing memory it is always advisable that he looks into records before answering the
+question.
+The following things can be used to refresh memory:
+1. Any writing made by himself at the time of transaction concerning which he is questioned
+or soon afterwards that the court considers it likely that transaction was fresh in his memory;
+2. Any such writing made by any other person and read by witness within the time aforesaid;
+3. Professional treatise, if the witness is an expert.
+According to section there are two kinds of recollection of memory, viz.,
+(a) Present recollection, and (b) past recollection. Section 159 deals with present recollection
+whereas Section 160 refers to past recollection.
+In order to avail the opportunity of the section for purpose of refreshing memory it has to be
+proved that:
+(i) The writing must have been made by the witness himself at the time of transaction or soon
+afterwards that the facts were fresh in his memory. A witness can refresh memory regarding
+the facts stated by him if the writing was made either at the time of the transaction or shortly
+after the transaction.
+(ii) If the writing was made by someone else, it must have been read by the witness, he will
+be permitted to refer any such writing within proper time enabling him to know it to be
+correct. ―A document not produced in court within proper time and in consequence, rejected,
+may be referred to, to refresh memory if it comes within the preview of this section.‖
+
+(iii) The expert witnesses are permitted to refresh memory by consulting professional books.
+An investigating officer was allowed to refresh his memory by looking at the
+contemporaneous records made by him. An objection to check records or entries by him is
+not legal and liable to be rejected.
+e. Impact of forensic science: Evidentiary value in DNA Test, Narco-Analysis
+Forensic science is when science is used in the application or service of law. Sciences used in
+forensics include any discipline concerns the collection, preservation and analysis of evidence
+such as chemistry (for the identification of explosives), engineering (for examination of
+structural design) or biology (for DNA identification or matching).
+Analysis of forensic evidence is used in the investigation and prosecution of civil and
+criminal proceedings. In many cases it can help in establishing the guilt or innocence of
+possible suspects. Forensic evidence is also used to link crimes that are thought to be related
+to one another. For example, DNA evidence can link one offender to several different crimes
+or crime scenes. This helps law enforcement authorities to narrow the number of possible
+suspects and to establish patterns of crimes, which are useful in identifying and prosecuting
+suspects.
+DNA Test
+Deoxyribo Nucleic Acid (DNA) is an organic substance which is found in every living cell
+and gives an individual a personal genetic blue print. It can be extracted from a whole variety
+of different materials like,. Blood, saliva, semen, hair, urine, body fluids, bones, body organs
+etc. DNA is unique to every person (except for twins), and hence an analysis of DNA helps in
+establishing the accused‘s involvement or non-involvement in a crime or criminal
+proceeding.DNA tests can also be used to establish parentage of a child, and identify
+mutilated dead corpses. They are of immense help in criminal justice administration and in
+some civil disputes like succession, inheritance etc.
+In the case of Vasu v.Santha and Others,29 and Gautam Kundu v.State of West Bengal30, the
+court has laid down certain guidelines regarding DNA tests and their admissibility to prove
+parentage.
+
+29
+30
+
+1975 KLT 533.
+AIR 1993 SC 2295.
+
+(1) That courts in India cannot order blood test as a matter of course;
+(2) Wherever applications are made for such prayers in order to have roving inquiry, the
+prayer for blood test cannot be entertained.
+(3) There must be a strong prima facie case in that the husband must establish non-access in
+order to dispel the presumption arising under Section 112 of the Evidence Act.
+(4) The court must carefully examine as to what would be the consequence of ordering the
+blood test; whether it will have the effect of branding a child as a bastard and the mother as
+an unchaste woman.
+(5) No one can be compelled to give sample of blood for analysis.
+Further the court said Blood-grouping test is a useful test to determine the question of
+disputed paternity. It can be relied upon by courts as a circumstantial evidence, which
+ultimately excludes a certain individual as a father of the child. However, it requires to be
+carefully noted no person can be compelled to give sample of blood for analysis against
+his/her will and no adverse inference can be drawn against him/her for this refusal.
+Narco-Analysis
+Narco-Analysis is a used to describe a diagnostic and psychotherapeutic technique that uses
+psychotropic drugs, particularly barbiturates, to induce a stupor in which mental elements
+with strong associated affects come to the surface, where they can be exploited by the
+therapist. The drugs administered during the procedure lowers the subject‘s inhibitions by
+interfering with his nervous system at a molecular level. The procedure counts on the fact that
+may be the subject will divulge more information and lie less under the influence of these
+drugs.
+It was first used in 2002, in the Godhra carnage probe. Later, during the Telgi scam, the use
+of narcoanalysis came under the scanner, and then it was used in the Arushi murder
+investigation. The scientific validity of the test has been questioned by medical professionals,
+and the legal validity has also been debated in several international and national cases.
+
+-
+
+Surbhi Aggarwal
+(Founder & CEO, School of Legal Education)
+
+Thankyou
+
+
