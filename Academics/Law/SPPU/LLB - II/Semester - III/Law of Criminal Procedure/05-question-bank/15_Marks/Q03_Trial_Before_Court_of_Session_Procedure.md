@@ -43,6 +43,9 @@ The Court of Session is the highest subordinate criminal court in a district, co
 - The Judge delivers the **Judgment** of acquittal or conviction (Sec. 258).
 - **Sentence Hearing**: If convicted, the Judge must hear the accused on the question of sentence (unless they release them on probation under Sec. 401) before passing the final sentence.
 
+### Visual Guide: Sessions Trial & Comparison of Trial Procedures
+![Comparison of Criminal Trial Types Infographic](../../03-visual-aids/images/trial_types.jpg)
+
 ---
 
 ### 4. Case Laws

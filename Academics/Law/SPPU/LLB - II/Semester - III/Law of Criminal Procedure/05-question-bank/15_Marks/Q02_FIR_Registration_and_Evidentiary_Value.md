@@ -14,6 +14,9 @@ The First Information Report (FIR) is the point of entry for the criminal justic
 2. **Cognizable Offence**: It must relate to a cognizable offence (where police can arrest without warrant).
 3. **Signed and Recorded**: If oral, it must be reduced to writing and signed by the informant. A copy must be given to the informant free of cost.
 
+![Cognizable vs. Non-Cognizable Offences Infographic](../../03-visual-aids/images/cognizable_vs_noncognizable.jpg)
+
+
 #### II. New Digital Provisions: E-FIR (Section 173(1))
 The BNSS, 2023 introduces specific provisions for electronic registration of FIRs:
 - **E-FIR**: A person can send information about a cognizable offence via electronic communication (SMS, email, portal).

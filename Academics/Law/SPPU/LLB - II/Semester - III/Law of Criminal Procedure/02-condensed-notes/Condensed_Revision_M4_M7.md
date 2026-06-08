@@ -13,10 +13,16 @@ Optimized for rapid revision in the final 24 hours before the exam. Focuses on s
 - **Landmark Case**: *Gurbaksh Singh Sibbia v. State of Punjab* (1980) — AB is a device to protect personal liberty (Art. 21); conditions cannot be overly restrictive.
 - **Landmark Case**: *Sushila Aggarwal v. State of Delhi* (2020) — Anticipatory bail duration is not limited to a specific time.
 
+*   **Visual Guide (Bail Decision Tree)**:
+    ![Bail Admissibility Decision Tree Infographic](../03-visual-aids/images/bail_decision_tree.jpg)
+
 ### B. Maintenance (Secs. 144-147)
 - **Claimants (Sec. 144)**: Wife (unable to maintain herself), minor children (legitimate/illegitimate), parents (father/mother).
 - **Alteration and Enforcement (Sec. 146 & 147)**: On proof of change in circumstances, Magistrate can alter monthly allowance. Failure to comply can result in a warrant for levying the amount and imprisonment up to **1 month** per breach.
 - **Landmark Case**: *Shah Bano Begum* (1985) — Sec. 125 CrPC (now Sec. 144 BNSS) is a secular provision overriding personal laws.
+
+*   **Visual Guide (Maintenance Checklist)**:
+    ![Summary Maintenance Procedure Infographic](../03-visual-aids/images/maintenance.jpg)
 
 ### C. Public Order & Tranquility (Secs. 148-167)
 - **Unlawful Assembly (Sec. 148-151)**: Magistrate or Officer-in-charge of police station can command assembly to disperse. Civil force or military force may be used if dispersal refused.
@@ -51,6 +57,9 @@ Optimized for rapid revision in the final 24 hours before the exam. Focuses on s
    - No formal charge framed (substance of accusation stated). If accused pleads guilty, convicted (Sec. 275). If not, Magistrate hears prosecution & defence, then passes order.
 4. **Summary Trials (Secs. 283-288)**:
    - Conducted by CJM, JMFC. For minor offences (theft up to ₹20,000, trespass, etc.). Maximum sentence is **3 months** imprisonment.
+
+*   **Visual Guide (Comparison of Criminal Trial Types)**:
+    ![Comparison of Criminal Trial Types Infographic](../03-visual-aids/images/trial_types.jpg)
 
 ### D. Plea Bargaining (Secs. 289-300)
 - **Scope**: Applicable to offences punishable with imprisonment **up to 7 years**. Excludes offences affecting socio-economic conditions of the country, or offences against women/children under 14.

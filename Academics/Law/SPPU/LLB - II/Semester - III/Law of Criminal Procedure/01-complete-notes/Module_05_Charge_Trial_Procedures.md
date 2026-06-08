@@ -517,6 +517,9 @@ Plea bargaining applies to offences:
 | **Max sentence** | As per law | As per Magistrate's powers | As per Magistrate's powers | 3 months (New) |
 | **Evidence recording** | Full | Full | Brief | Brief record |
 
+### Visual Guide: Comparison of Criminal Trial Types (BNSS 2023)
+![Comparison of Criminal Trial Types Infographic](../03-visual-aids/images/trial_types.jpg)
+
 ---
 
 ## Quick Revision Points

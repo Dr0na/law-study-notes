@@ -51,6 +51,9 @@ The First Information Report (FIR) is the starting point of investigation in cog
 
 **Landmark Case**: *Lalita Kumari v. Govt. of UP* (2014) — Registration of FIR is **mandatory** when information discloses a cognizable offence. The police officer cannot conduct a preliminary inquiry before registering the FIR (except in certain categories as outlined by the Supreme Court).
 
+### Visual Guide: Legal Procedure Comparison (Cognizable vs Non-Cognizable)
+![Cognizable vs. Non-Cognizable Offences Infographic](../03-visual-aids/images/cognizable_vs_noncognizable.jpg)
+
 ---
 
 ### Sec. 174 — Information in Non-Cognizable Cases
@@ -227,6 +230,9 @@ The Supreme Court laid down 11 mandatory guidelines for arrest:
 11. Entry in case diary
 
 > Many of these guidelines are now codified in BNSS (Secs. 37, 47, 48, 50).
+
+### Visual Guide: Rights of the Accused & Police Mandates (BSS 2023)
+![Rights of the Accused Infographic](../03-visual-aids/images/rights_accused.jpg)
 
 ---
 

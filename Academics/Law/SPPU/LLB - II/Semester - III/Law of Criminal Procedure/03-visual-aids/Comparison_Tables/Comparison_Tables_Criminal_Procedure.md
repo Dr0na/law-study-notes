@@ -30,6 +30,9 @@ These tables are designed to maximize marks in "Distinguish Between" questions (
 | **Authority to Release**| Both the Police Officer in charge and the Court can grant bail (Sec. 478). | Only the Court has the discretion to grant bail (Sec. 480). |
 | **Refusal Criteria** | Cannot be refused unless the accused fails to comply with bail conditions. | Denied if there are reasonable grounds of guilt in life/death offences, unless minor/woman. |
 
+### Visual Guide: Bail Admissibility Decision Tree (BNSS 2023)
+![Bail Admissibility Decision Tree Infographic](../images/bail_decision_tree.jpg)
+
 💡 **Exam Tip**: Combine this table with a discussion on Section 12 of the JJ Act when writing about juvenile bail.
 
 ---
@@ -45,6 +48,9 @@ These tables are designed to maximize marks in "Distinguish Between" questions (
 | **Trial Procedure** | Simplified trial (Secs. 274-282). No formal charge needs to be framed. | Elaborate trial (Secs. 261-273). Formal charge must be framed. |
 | **Withdrawal** | Complainant can withdraw the complaint at any time with Magistrate's permission (Sec. 280). | Cannot be withdrawn easily; requires public prosecutor's withdrawal (Sec. 360). |
 | **Conversion** | A summons case can be converted into a warrant case by the Magistrate in interest of justice. | A warrant case cannot be converted into a summons case. |
+
+### Visual Guide: Comparison of Criminal Trial Types (BNSS 2023)
+![Comparison of Criminal Trial Types Infographic](../images/trial_types.jpg)
 
 💡 **Exam Tip**: Highlight this distinction in Module 05 questions concerning trial procedures.
 
@@ -95,3 +101,20 @@ These tables are designed to maximize marks in "Distinguish Between" questions (
 | **Outcome Goal** | Rehabilitation, behavioral correction, and social reintegration. | Care, protection, maintenance, education, and permanent adoption. |
 
 💡 **Exam Tip**: Mandatory table for any question on Module 07.
+
+---
+
+## 7. Cognizable vs Non-Cognizable Offences (BNSS 2023)
+(Refer to Section 2(1)(g) and 2(1)(o) of the BNSS, 2023)
+
+### Visual Guide: Legal Procedure Comparison
+![Cognizable vs. Non-Cognizable Offences Infographic](../images/cognizable_vs_noncognizable.jpg)
+
+---
+
+## 8. Criminal Court Hierarchy and Sentencing Powers
+(Refer to Sections 9-12 and 22-25 of the BNSS, 2023)
+
+### Visual Guide: The Judicial Ladder
+![The Judicial Ladder Infographic](../images/court_hierarchy.jpg)
+

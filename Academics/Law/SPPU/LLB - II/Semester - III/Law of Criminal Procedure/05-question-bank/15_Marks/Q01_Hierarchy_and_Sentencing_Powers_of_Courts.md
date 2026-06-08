@@ -39,6 +39,9 @@ Judicial Magistrate First Class (Up to 3 years / ₹50,000 fine / Community Serv
 Judicial Magistrate Second Class (Up to 1 year / ₹10,000 fine / Community Service)
 ```
 
+![The Judicial Ladder Infographic](../../03-visual-aids/images/court_hierarchy.jpg)
+
+
 #### IV. The Concept of 'Community Service' (Sections 23 & 472)
 - **Definition**: Under the BNSS, community service is introduced as a new form of punishment for minor/petty offences to reduce prison overcrowding and promote reformation.
 - **Form**: It is defined as work ordered by the court which benefits the community, for which the offender is not entitled to any remuneration.

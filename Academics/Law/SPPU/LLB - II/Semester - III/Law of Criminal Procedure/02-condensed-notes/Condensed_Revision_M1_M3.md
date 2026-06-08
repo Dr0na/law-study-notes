@@ -17,6 +17,9 @@ Optimized for rapid revision in the final 24 hours before the exam. Focuses on s
 - **Judicial Magistrate First Class (Sec. 23(2))**: Up to **3 years** / Fine up to **₹50,000** (or both, or Community Service).
 - **Judicial Magistrate Second Class (Sec. 23(3))**: Up to **1 year** / Fine up to **₹10,000** (or both, or Community Service).
 
+*   **Visual Guide (Court Hierarchy & Sentencing)**:
+    ![The Judicial Ladder Infographic](../03-visual-aids/images/court_hierarchy.jpg)
+
 > 🧠 **Mnemonic — HSC-First-Second**: *"High Sessions Chief First Second"*
 > - **H** = **H**igh Court (unlimited)
 > - **S** = **S**essions Court (unlimited, death needs confirmation)
@@ -70,6 +73,9 @@ Optimized for rapid revision in the final 24 hours before the exam. Focuses on s
 - **Evidentiary Value**: FIR is not substantive evidence. Used for corroboration (Sec. 145 Evidence Act/BSA) or contradiction (Sec. 157 BSA).
 - **Landmark Case**: *Lalita Kumari v. Govt. of UP* (2014) — Registration of FIR is mandatory if info discloses a cognizable offence.
 
+*   **Visual Guide (Cognizable vs Non-Cognizable)**:
+    ![Cognizable vs. Non-Cognizable Offences Infographic](../03-visual-aids/images/cognizable_vs_noncognizable.jpg)
+
 ### B. Investigation & Interrogation (Secs. 179-193)
 - **Witness Attendance (Sec. 179)**: Police can require attendance of witnesses (except males < 15 or > 60, women, or disabled, who must be examined at their residence).
 - **Recording Statements (Sec. 180)**: Statements to police need not be signed. Cannot be used for any purpose except contradicting prosecution witnesses.
@@ -87,6 +93,9 @@ Optimized for rapid revision in the final 24 hours before the exam. Focuses on s
   - Right to medical examination (Sec. 51).
   - Right to be produced before magistrate within **24 hours** (Sec. 58 / Art. 22(2)).
 - **Landmark Case**: *D.K. Basu v. State of West Bengal* (1997) — Vetted guidelines to prevent custodial violence.
+
+*   **Visual Guide (Rights of the Accused)**:
+    ![Rights of the Accused Infographic](../03-visual-aids/images/rights_accused.jpg)
 
 ### D. Search and Seizure (Secs. 96-110, 185-186)
 - **Search Warrant (Sec. 96)**: Issued by court when person unlikely to produce documents, or for general search.

@@ -10,3 +10,5 @@
 | **Withdrawal** | Complainant can withdraw the complaint at any time with Magistrate's permission (Sec. 280). | Cannot be withdrawn easily; requires public prosecutor's withdrawal (Sec. 360). |
 | **Conversion** | A summons case can be converted into a warrant case by the Magistrate in interest of justice. | A warrant case cannot be converted into a summons case. |
 | **Standard Process** | Process is initiated by issuing a Summons. | Process is initiated by issuing a Warrant or a Summons. |
+
+![Trial Types Comparison Infographic](../../03-visual-aids/images/trial_types.jpg)

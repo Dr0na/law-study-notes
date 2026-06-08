@@ -9,3 +9,5 @@
 | **Gravity of Offence** | Minor or less serious crimes (e.g., simple hurt, trespass, defamation). | Grave and serious crimes (e.g., murder, rape, dacoity, kidnapping). |
 | **Authority to Release**| Both the Police Officer in charge of the station and the Court can grant bail (Sec. 478). | Only the Court (Magistrate, Sessions, or High Court) has the discretion to grant bail. |
 | **Refusal Criteria** | Cannot be refused unless the accused fails to comply with bail conditions. | Denied if there are reasonable grounds of guilt in life/death offences, unless minor/woman. |
+
+![Bail Admissibility Decision Tree Infographic](../../03-visual-aids/images/bail_decision_tree.jpg)

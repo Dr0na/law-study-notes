@@ -106,6 +106,9 @@ In non-bailable offences, bail is **not a matter of right** but of **judicial di
 
 **Sec. 480(7)** — After conclusion of trial and before judgment, if court believes there are reasonable grounds that the accused is **not guilty** → shall release the accused on bond.
 
+### Visual Guide: Bail Admissibility Decision Tree (BNSS 2023)
+![Bail Admissibility Decision Tree Infographic](../03-visual-aids/images/bail_decision_tree.jpg)
+
 ---
 
 ### D. Bail to Appear Before Appellate Court (Sec. 481)
@@ -438,6 +441,9 @@ Magistrate may depute a subordinate Magistrate for **local inquiry**; may direct
 - They are living separately by **mutual consent**
 
 **Explanation** — Husband's marriage with another woman or keeping a mistress is **just ground** for wife's refusal to live with him.
+
+### Visual Guide: Section 144 Maintenance Admissibility Checklist
+![Summary Maintenance Procedure Infographic](../03-visual-aids/images/maintenance.jpg)
 
 ### Sec. 145 — Procedure
 

@@ -12,6 +12,9 @@
 - **General Rule (Sec. 23(1))**: A confession made to a police officer is inadmissible and cannot be proved against the accused. This rule protects individuals from forced confessions and custodial torture.
 - **Exception (Sec. 23(1) Proviso)**: A confession in police custody is admissible if made in the immediate presence of a Magistrate.
 
+### Visual Guide: Rights of the Accused & Police Mandates
+![Rights of the Accused Infographic](../../03-visual-aids/images/rights_accused.jpg)
+
 ## 3. The Discovery of Fact Exception (Section 23(2) BSS)
 When an accused in police custody gives information that leads to the discovery of a distinct physical fact (e.g., weapon, body), that portion of the information which distinctly relates to the discovery is admissible.
 - Case: *Pulukuri Kottaya v. Emperor*: Reaffirmed that only the information showing the accused's knowledge of the hiding place of the object is admissible, not the confession of guilt.

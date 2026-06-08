@@ -14,4 +14,6 @@
 - The CJM has administrative control over all other Judicial Magistrates in the district (Sec. 13).
 - The CJM distributes business and makes rules consistent with the BNSS for the subordination of magistrates (Sec. 13(2)).
 
+![The Judicial Ladder Infographic](../../03-visual-aids/images/court_hierarchy.jpg)
+
 **🎯 Conclusion**: The CJM holds the highest sentencing power among Judicial Magistrates, limited to a maximum of 7 years, and acts as the administrative head of the district's magistracy.

@@ -28,6 +28,9 @@ A wife is not entitled to receive maintenance if:
 - The Magistrate may sentence such person to imprisonment for up to **1 month** or until payment is made, for every breach of the order.
 - Application for execution must be made within **1 year** from the date it became due.
 
+### Visual Guide: Section 144 Maintenance Admissibility Checklist
+![Summary Maintenance Procedure Infographic](../../03-visual-aids/images/maintenance.jpg)
+
 ---
 
 ### 3. Secular Nature of the Provision

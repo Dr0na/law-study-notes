@@ -16,4 +16,6 @@
 - Mandatory medical examination by a registered medical practitioner right after arrest (Sec. 51).
 - Must be produced before the nearest Magistrate within **24 hours** of arrest, excluding travel time (Sec. 58 / Art. 22(2)).
 
+![Rights of the Accused Infographic](../../03-visual-aids/images/rights_accused.jpg)
+
 **🎯 Conclusion**: These statutory safeguards ensure that arrests are made transparently and protect the fundamental right to life and liberty under Article 21.

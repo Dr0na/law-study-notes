@@ -303,6 +303,9 @@ High Court
 | **Judicial Magistrate First Class** (Sec. 23(2)) | Up to 3 years or fine up to ₹50,000 or both, or community service |
 | **Judicial Magistrate Second Class** (Sec. 23(3)) | Up to 1 year or fine up to ₹10,000 or both, or community service |
 
+### Visual Guide: Court Hierarchy & Sentencing Powers
+![The Judicial Ladder Infographic](../03-visual-aids/images/court_hierarchy.jpg)
+
 > **New in BNSS**: "Community service" is introduced as a form of punishment — defined as work ordered by the Court benefiting the community, without remuneration.
 
 ---
@@ -462,6 +465,9 @@ Besides the High Courts, every State shall have: (i) Courts of Session, (ii) Jud
 | CJM | 7 years |
 | JMFC | 3 years or ₹50,000 fine |
 | JMSC | 1 year or ₹10,000 fine |
+
+### Visual Guide: Criminal Court Hierarchy & Sentencing under BNSS
+![The Judicial Ladder Infographic](../03-visual-aids/images/court_hierarchy.jpg)
 
 **Subordination (Sec. 13)**: CJM is subordinate to Sessions Judge; all other JMs are subordinate to CJM. Among Executive Magistrates, all are subordinate to the DM (Sec. 17).
 

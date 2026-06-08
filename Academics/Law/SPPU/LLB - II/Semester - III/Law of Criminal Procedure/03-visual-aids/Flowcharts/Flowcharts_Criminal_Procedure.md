@@ -27,6 +27,9 @@ graph TD
     DM --> SDM["Sub-Divisional Magistrate"]
 ```
 
+### Visual Guide: The Judicial Ladder (Court Hierarchy & Sentencing)
+![The Judicial Ladder Infographic](../images/court_hierarchy.jpg)
+
 💡 **Exam Tip**: Draw this flowchart when writing about "Hierarchy and Powers of Criminal Courts" in Module 01.
 
 ---
@@ -48,6 +51,9 @@ graph TD
     H --> J["Collection of Forensics (Mandatory Sec. 176)"]
     J --> K["<b>Final Report / Charge Sheet</b><br/>(Sec. 193)"]
 ```
+
+### Visual Guide: Legal Procedure Comparison (Cognizable vs Non-Cognizable)
+![Cognizable vs. Non-Cognizable Offences Infographic](../images/cognizable_vs_noncognizable.jpg)
 
 💡 **Exam Tip**: Draw this process map when explaining "FIR and Investigation Proceedings" under Module 03.
 
@@ -77,6 +83,9 @@ graph TD
     Arguments --> Judgment["<b>Judgment: Acquittal or Conviction</b><br/>(Sec. 258)"]
 ```
 
+### Visual Guide: Comparison of Criminal Trial Types (BNSS 2023)
+![Comparison of Criminal Trial Types Infographic](../images/trial_types.jpg)
+
 💡 **Exam Tip**: Essential flowchart for long answers on "Trial before Court of Session" in Module 05.
 
 ---
@@ -98,6 +107,9 @@ graph TD
     
     D -->|No| H["Court's Discretion to grant bail<br/>(Sec. 480)"]
 ```
+
+### Visual Guide: Bail Admissibility Decision Tree (BNSS 2023)
+![Bail Admissibility Decision Tree Infographic](../images/bail_decision_tree.jpg)
 
 💡 **Exam Tip**: Draw this decision tree when answering questions on "Bail and Anticipatory Bail" in Module 04.
 
