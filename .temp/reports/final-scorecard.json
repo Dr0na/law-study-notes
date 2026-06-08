@@ -1,9 +1,0 @@
-{
-  "status": "PASS",
-  "overallScore": 95,
-  "coverage": 100,
-  "subject": "Law of Evidence",
-  "subjectCode": "LCC 0702",
-  "verifiedAt": "2026-06-08T11:45:00+05:30",
-  "defects": []
-}
