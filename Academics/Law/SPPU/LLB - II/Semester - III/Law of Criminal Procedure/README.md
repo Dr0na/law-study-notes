@@ -2,6 +2,9 @@
 
 Welcome to the comprehensive, exam-oriented study ecosystem for **Law of Criminal Procedure (LCC 0701)**. This pack is designed for SPPU LLB students to master the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) and the Juvenile Justice Act, 2015 through a multi-layered learning approach.
 
+> [!TIP]
+> 🎥 **Watch the Companion Explainer Video**: [Law of Criminal Procedure - BNSS 2023 Explainer](https://youtu.be/MwDAx3FBVm0) — A student-friendly conceptual overview explaining the procedural workflow, key BNS/BNSS differences, and important examination topics.
+
 ---
 
 ## 📂 Pack Structure

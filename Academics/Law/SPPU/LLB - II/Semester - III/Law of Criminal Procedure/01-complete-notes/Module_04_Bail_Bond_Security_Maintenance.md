@@ -8,6 +8,12 @@ This module covers some of the most important provisions of the Bhartiya Nagarik
 
 ## 1. Bail Provisions (Secs. 478-496)
 
+> ### 🎥 Video Lecture
+> **Episode 06: The Right to Liberty: Bail, Bonds, and Anticipatory Protection**
+> [![Watch Episode 06](https://img.youtube.com/vi/4lWIaQFVM1o/0.jpg)](https://www.youtube.com/watch?v=4lWIaQFVM1o)
+> *Click above to watch the detailed explanation of this topic.*
+
+
 ### Conceptual Framework
 
 **Bail** is the release of an accused from custody upon execution of a bond (with or without sureties) guaranteeing the person's appearance at trial. It reflects the balance between the presumption of innocence and the need to ensure the accused's presence at trial.

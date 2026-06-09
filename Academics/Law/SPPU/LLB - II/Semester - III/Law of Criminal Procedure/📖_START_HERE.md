@@ -2,6 +2,9 @@
 
 Criminal Procedure governs how the state enforces substantive criminal law. In the SPPU examinations, mastering the procedural steps, court sentencing powers, and statutory section numbers under the **Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)** is the key to scoring high marks. Follow this guided path to navigate the resources:
 
+> [!TIP]
+> 🎥 **Watch the video explanation on YouTube**: [Law of Criminal Procedure - BNSS 2023 Explainer](https://youtu.be/MwDAx3FBVm0) (an easy-to-understand walkthrough of the entire procedural flow tailored for SPPU law students).
+
 ---
 
 ## 🏁 Phase 1: Groundwork & Learning (Weeks 1-4)

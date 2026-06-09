@@ -12,6 +12,12 @@ Criminal procedure is the mechanism through which substantive criminal law (Bhar
 
 ## 1. Criminal Justice System: Inquisitorial and Adversarial/Accusatorial
 
+> ### 🎥 Video Lecture
+> **Episode 01: The Pillars of Procedural Justice: Adversarial System & Constitutional Safeguards**
+> [![Watch Episode 01](https://img.youtube.com/vi/7MXbeI6qiyw/0.jpg)](https://www.youtube.com/watch?v=7MXbeI6qiyw)
+> *Click above to watch the detailed explanation of this topic.*
+
+
 ### A. Inquisitorial System
 
 The Inquisitorial System is followed in countries such as France, Germany, and other civil law jurisdictions.
@@ -263,6 +269,12 @@ Section 2(1) provides key definitions:
 ---
 
 ## 6. Hierarchy and Powers of Criminal Courts (Secs. 6-17, 21-29)
+
+> ### 🎥 Video Lecture
+> **Episode 02: The Judicial Ladder: Hierarchy of Criminal Courts & Public Prosecutors**
+> [![Watch Episode 02](https://img.youtube.com/vi/FW6kagkaHs0/0.jpg)](https://www.youtube.com/watch?v=FW6kagkaHs0)
+> *Click above to watch the detailed explanation of this topic.*
+
 
 ### A. Classes of Criminal Courts (Sec. 6)
 

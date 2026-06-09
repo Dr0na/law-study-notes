@@ -8,6 +8,12 @@ This module covers the culmination of the criminal trial process — the judgmen
 
 ## 1. The Judgment (Secs. 392-406)
 
+> ### 🎥 Video Lecture
+> **Episode 08: The Final Verdict: Judgment, Appeals, Reference & Revision**
+> [![Watch Episode 08](https://img.youtube.com/vi/5J1zln9hrLg/0.jpg)](https://www.youtube.com/watch?v=5J1zln9hrLg)
+> *Click above to watch the detailed explanation of this topic.*
+
+
 ### A. Pronouncement of Judgment (Sec. 392)
 
 **Sec. 392(1)** — Judgment in every trial in any Criminal Court of original jurisdiction shall be **pronounced in open court** by the presiding officer:

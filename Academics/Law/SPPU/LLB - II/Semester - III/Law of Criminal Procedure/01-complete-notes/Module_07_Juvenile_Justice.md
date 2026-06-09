@@ -10,6 +10,12 @@ In India, the legal framework has evolved from the historical Juvenile Justice A
 
 ## 1. Concept and Historical Perspective of Juvenile Justice
 
+> ### 🎥 Video Lecture
+> **Episode 09: Rehabilitation Over Punishment: The Juvenile Justice Framework**
+> [![Watch Episode 09](https://img.youtube.com/vi/iIXKhz8o_2Y/0.jpg)](https://www.youtube.com/watch?v=iIXKhz8o_2Y)
+> *Click above to watch the detailed explanation of this topic.*
+
+
 ### A. Conceptual Foundations of Juvenile Justice
 The concept of juvenile justice is based on the legal maxim ***Doli Incapax*** (incapable of doing wrong). It recognizes that children lack the cognitive maturity and mental capacity (*mens rea*) to fully comprehend the consequences of their actions.
 

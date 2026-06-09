@@ -40,3 +40,6 @@ QUICK_START_GUIDE.md @Dr0na
 # Documentation and configuration
 *.md @Dr0na
 .github/ @Dr0na
+.gemini/ @Dr0na
+.cursor/ @Dr0na
+

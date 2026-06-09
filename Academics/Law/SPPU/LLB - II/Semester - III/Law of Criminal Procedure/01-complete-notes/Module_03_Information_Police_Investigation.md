@@ -8,6 +8,12 @@ Investigation is the backbone of the criminal justice system. It is the process 
 
 ## 1. Initiation of Investigation Proceedings (Secs. 173-178)
 
+> ### 🎥 Video Lecture
+> **Episode 04: Triggering the Machinery: FIR, E-FIR, and Arrest Rules**
+> [![Watch Episode 04](https://img.youtube.com/vi/XfuU4XzbYRg/0.jpg)](https://www.youtube.com/watch?v=XfuU4XzbYRg)
+> *Click above to watch the detailed explanation of this topic.*
+
+
 ### Sec. 173 — Information in Cognizable Cases (FIR)
 
 The First Information Report (FIR) is the starting point of investigation in cognizable offences.
@@ -253,6 +259,12 @@ A police officer may seize property that is suspected to be stolen or found unde
 ---
 
 ## 8. Search and Seizure (Secs. 49, 96-110, 185-186)
+
+> ### 🎥 Video Lecture
+> **Episode 05: The Quest for Proof: Investigation, Forensics & Audio-Video Searches**
+> [![Watch Episode 05](https://img.youtube.com/vi/ihVKAxcWG-w/0.jpg)](https://www.youtube.com/watch?v=ihVKAxcWG-w)
+> *Click above to watch the detailed explanation of this topic.*
+
 
 ### A. Search of Arrested Person (Sec. 49)
 - Officer may search the arrested person

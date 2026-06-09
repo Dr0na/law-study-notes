@@ -1,5 +1,8 @@
 # 🗺️ Navigation Index - Law of Criminal Procedure (LCC 0701)
 
+> [!TIP]
+> 🎥 **Quick Video Explainer**: [Law of Criminal Procedure - BNSS 2023 Explainer on YouTube](https://youtu.be/MwDAx3FBVm0)
+
 ## 📘 Layer 1: Complete Notes
 - [Module 01: Introduction to BNSS, 2023](./01-complete-notes/Module_01_Introduction_to_BNSS.md)
 - [Module 02: Jurisdiction of Criminal Courts](./01-complete-notes/Module_02_Jurisdiction_Criminal_Courts.md)

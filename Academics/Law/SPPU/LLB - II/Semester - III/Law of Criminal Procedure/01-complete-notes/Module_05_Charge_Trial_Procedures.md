@@ -101,6 +101,12 @@ A Magistrate may take cognizance of any offence:
 
 ## 4. Charge: Content and Form (Secs. 234-240, 247)
 
+> ### 🎥 Video Lecture
+> **Episode 07: Framing the Accusation: Charge & Types of Trials**
+> [![Watch Episode 07](https://img.youtube.com/vi/7v8G-sqlXgA/0.jpg)](https://www.youtube.com/watch?v=7v8G-sqlXgA)
+> *Click above to watch the detailed explanation of this topic.*
+
+
 ### A. Form of Charges (Secs. 234-240)
 
 #### Sec. 234 — Contents of Charge
