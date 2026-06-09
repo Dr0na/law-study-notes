@@ -11,6 +11,7 @@ This module covers some of the most important provisions of the Bhartiya Nagarik
 > ### 🎥 Video Lecture
 > **Episode 06: The Right to Liberty: Bail, Bonds, and Anticipatory Protection**
 > [![Watch Episode 06](https://img.youtube.com/vi/4lWIaQFVM1o/0.jpg)](https://www.youtube.com/watch?v=4lWIaQFVM1o)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 

@@ -11,6 +11,7 @@ Investigation is the backbone of the criminal justice system. It is the process 
 > ### 🎥 Video Lecture
 > **Episode 04: Triggering the Machinery: FIR, E-FIR, and Arrest Rules**
 > [![Watch Episode 04](https://img.youtube.com/vi/XfuU4XzbYRg/0.jpg)](https://www.youtube.com/watch?v=XfuU4XzbYRg)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 
@@ -263,6 +264,7 @@ A police officer may seize property that is suspected to be stolen or found unde
 > ### 🎥 Video Lecture
 > **Episode 05: The Quest for Proof: Investigation, Forensics & Audio-Video Searches**
 > [![Watch Episode 05](https://img.youtube.com/vi/ihVKAxcWG-w/0.jpg)](https://www.youtube.com/watch?v=ihVKAxcWG-w)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 

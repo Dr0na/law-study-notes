@@ -13,6 +13,7 @@ Jurisdiction is the authority of a court to hear and decide a case. In criminal 
 > ### 🎥 Video Lecture
 > **Episode 03: Where Crime is Tried: Territorial Jurisdiction & Cognizance**
 > [![Watch Episode 03](https://img.youtube.com/vi/XvQZP55I1jg/0.jpg)](https://www.youtube.com/watch?v=XvQZP55I1jg)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 

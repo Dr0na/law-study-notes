@@ -11,6 +11,7 @@ This module covers the culmination of the criminal trial process — the judgmen
 > ### 🎥 Video Lecture
 > **Episode 08: The Final Verdict: Judgment, Appeals, Reference & Revision**
 > [![Watch Episode 08](https://img.youtube.com/vi/5J1zln9hrLg/0.jpg)](https://www.youtube.com/watch?v=5J1zln9hrLg)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 

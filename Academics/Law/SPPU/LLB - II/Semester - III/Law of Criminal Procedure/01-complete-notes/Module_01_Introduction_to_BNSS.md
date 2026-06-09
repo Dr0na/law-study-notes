@@ -15,6 +15,7 @@ Criminal procedure is the mechanism through which substantive criminal law (Bhar
 > ### 🎥 Video Lecture
 > **Episode 01: The Pillars of Procedural Justice: Adversarial System & Constitutional Safeguards**
 > [![Watch Episode 01](https://img.youtube.com/vi/7MXbeI6qiyw/0.jpg)](https://www.youtube.com/watch?v=7MXbeI6qiyw)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 
@@ -273,6 +274,7 @@ Section 2(1) provides key definitions:
 > ### 🎥 Video Lecture
 > **Episode 02: The Judicial Ladder: Hierarchy of Criminal Courts & Public Prosecutors**
 > [![Watch Episode 02](https://img.youtube.com/vi/FW6kagkaHs0/0.jpg)](https://www.youtube.com/watch?v=FW6kagkaHs0)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 

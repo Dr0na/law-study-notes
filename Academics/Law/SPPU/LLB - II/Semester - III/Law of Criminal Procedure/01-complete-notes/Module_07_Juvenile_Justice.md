@@ -13,6 +13,7 @@ In India, the legal framework has evolved from the historical Juvenile Justice A
 > ### 🎥 Video Lecture
 > **Episode 09: Rehabilitation Over Punishment: The Juvenile Justice Framework**
 > [![Watch Episode 09](https://img.youtube.com/vi/iIXKhz8o_2Y/0.jpg)](https://www.youtube.com/watch?v=iIXKhz8o_2Y)
+>
 > *Click above to watch the detailed explanation of this topic.*
 
 
