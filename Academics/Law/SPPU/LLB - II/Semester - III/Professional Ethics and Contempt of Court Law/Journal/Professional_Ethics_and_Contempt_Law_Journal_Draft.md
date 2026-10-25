@@ -332,36 +332,69 @@ The Act authorises simple imprisonment up to six months, fine up to two thousand
 
 ## Report
 
-**Title of session:** [Insert exact title]  
-**Date and time:** [Insert date and time]  
-**Venue / platform:** [Insert venue or online platform]  
-**Organised by:** [College / department / committee]  
-**Resource person(s):** [Name, designation, organisation]  
-**Chairperson / moderator:** [Name and designation]  
+**Title of session:** “From Rules to Realities: Professional Ethics and Contempt of Court”  
+**Date and time:** 11 September 2026, 11:00 a.m.  
+**Venue:** Abhinav College, [insert hall / venue]  
+**Organised by:** [Insert department / organising body, if required]  
+**Resource person:** Adv. Sushama Kalpana Balshiram Kadam  
+**Welcome address and vote of thanks:** Arti Banerji  
+**Introduction of resource person:** Nilima Wadkar  
+**Felicitation:** Principal Vinod Kewate  
 **Student reporter:** [Name and roll number]
 
 ### Introduction
 
-On **[date]**, **[organising body]** conducted an interaction session on **[subject]** at **[venue/platform]**. The session was attended by **[classes / participants]**. The resource person, **[name and designation]**, discussed **[main subject]**. The purpose of the session was to connect classroom learning with professional practice and to enable students to ask questions.
+An interactive session titled **“From Rules to Realities: Professional Ethics and Contempt of Court”** was held at Abhinav College on 11 September 2026. The programme was scheduled to begin at 11:00 a.m., and students were informed that attendance and punctuality were compulsory. Advocate Sushama Kalpana Balshiram Kadam was the resource person. The session aimed to connect the statutory and ethical rules governing advocates with their practical responsibilities in the administration of justice.
 
 ### Proceedings
 
-The session began with **[welcome / introduction / opening remarks]** by **[name]**. The speaker addressed **[topic one]**, **[topic two]**, and **[topic three]**, using **[examples / case references / practical demonstrations actually presented]**. The interaction covered questions from students on **[briefly state actual questions or themes]**. The resource person responded by **[briefly and accurately summarise responses]**. The session concluded with **[vote of thanks / closing remarks]** by **[name]**.
+Arti Banerji delivered the welcome address and explained the objectives of the programme. Nilima Wadkar then introduced the resource person. Principal Vinod Kewate felicitated Adv. Sushama Kalpana Balshiram Kadam, who conducted the interactive session. A question-and-answer session followed, giving students an opportunity to engage with the subject. Arti Banerji proposed the vote of thanks. The programme concluded with photographs of students and faculty members.
 
-### Key learning points (3–5)
+The presentation, **“From Rules to Realities: Professional Ethics and Contempt of Court,”** connected professional rules with examples of conduct in practice. Its central themes and learning points are set out below.
 
-1. [Write a specific point learned from the speaker.] 
-2. [Write a second point and relate it to professional ethics or contempt law.] 
-3. [Write a third point.] 
-4. [Optional.] 
+#### Advocates Act and ethical foundation
+
+The presentation described the Advocates Act, 1961 as the framework that consolidated regulation of the legal profession and established State Bar Councils and the Bar Council of India. It presented ethics as more than formal compliance: an advocate is an officer of the court and a participant in the administration of justice. The advocate’s duties include honesty to the court, fair dealing with clients and opposing counsel, courtroom dignity, and avoiding deception or suppression of material facts. It also stressed that a lawyer should not allow a client’s interests or pressure to justify misleading the court.
+
+#### Civil and criminal contempt
+
+The session materials distinguished the two forms of contempt under the Contempt of Courts Act, 1971. Civil contempt involves wilful disobedience of a court order or wilful breach of an undertaking. The presentation emphasized that deliberate refusal is different from genuine inability to comply. Examples included breach of an injunction, failure to follow a court direction, breach of an undertaking, and refusal to produce documents when ordered.
+
+Criminal contempt was explained through conduct that scandalises or tends to scandalise a court, prejudices judicial proceedings, or obstructs the administration of justice. Examples in the presentation included threatening witnesses, tampering with records, or publishing baseless material intended to undermine confidence in the judiciary. It drew a distinction between fair, reasoned criticism of a concluded judgment and an attack that obstructs justice or makes unsupported allegations against the institution.
+
+#### Case illustrations and fair criticism
+
+The resource material discussed *Re: Arundhati Roy* (2002) 3 SCC 343 as an example of the limits of criticism and the consequences imposed in that case. It also referred to *P.N. Duda v. P. Shiv Shanker* (1988) 3 SCC 167 to illustrate that criticism of judicial decisions, even when strongly expressed, must be assessed in context; disagreement alone does not automatically amount to contempt. Section 5 of the Contempt of Courts Act was highlighted as protecting fair comment on the merits of a case that has been finally decided.
+
+#### Consequences and professional responsibility
+
+The presentation discussed the difference between contempt jurisdiction exercised by courts and professional discipline imposed by Bar Councils under the Advocates Act. They serve distinct purposes and can operate independently. It highlighted the possible professional consequences for advocates who use insulting language, mislead the court, suppress material facts, or disrupt proceedings. It also discussed the importance of a genuine apology and remorse when an advocate seeks to purge contempt, and the need to avoid sudden withdrawal from a case in a way that leaves a client unrepresented at a critical stage.
+
+#### Digital conduct and contemporary practice
+
+The session materials applied professional standards to online conduct, including improper advertising, disclosure of client confidences, and derogatory public comments on social media. They also referred to disciplinary proceedings under section 35 of the Advocates Act and the one-year period in section 36B for disciplinary committees to conclude proceedings. The broader lesson was that digital platforms do not reduce an advocate’s duties of confidentiality, restraint, and integrity.
+
+#### Question-and-answer session
+
+A question-and-answer session followed the presentation as part of the programme agenda. The available programme details do not record the individual questions or answers; therefore, this report records the session without attributing particular statements to the resource person.
+
+### Key learning points (7)
+
+1. The Advocates Act, 1961 and the Bar Council framework regulate entry into and conduct within the profession; professional ethics give practical meaning to those rules.
+2. An advocate’s duties to the court include candour, proper courtroom conduct, and refusal to mislead the judge, even when a client’s interests create pressure.
+3. Civil contempt requires wilful disobedience or wilful breach of an undertaking. Genuine inability to comply must be distinguished from deliberate refusal.
+4. Criminal contempt includes conduct that interferes with proceedings or obstructs the administration of justice; fair criticism of a concluded decision is treated differently from baseless institutional attacks.
+5. Bar Council disciplinary proceedings and a court’s contempt jurisdiction are separate processes with different objectives.
+6. Advocates must maintain confidentiality and professional restraint in digital communications and online activity.
+7. Proper notice and informed consent matter when withdrawing from representation so that a client is not left without counsel at a critical stage.
 
 ### Reflection
 
-The interaction helped me understand **[specific insight]**. I found **[particular example or discussion]** useful because **[reason]**. The session connected with this course by demonstrating **[link to professional ethics / court process / legal technology / contempt jurisdiction]**. One question that I would like to explore further is **[question]**.
+The interaction helped me understand how professional ethics operate in practical situations and why an advocate’s responsibility extends beyond presenting a client’s case. The examples in the presentation made the distinction between civil and criminal contempt clearer: the former focuses on wilful non-compliance with an order or undertaking, while the latter concerns interference with proceedings or the administration of justice. The discussion of fair criticism also showed why context and the nature of the conduct matter. The section on digital practice was especially relevant because online advertising, social-media statements, and handling of client information can raise ethical concerns just as conduct in court can.
 
 ### Conclusion
 
-The session was useful in developing a practical understanding of **[topic]**. It reinforced the importance of **[professional value or legal principle]** and encouraged me to apply classroom learning carefully in future legal study and practice.
+The session was informative and relevant to the study of Professional Ethics and Contempt of Court Law. It emphasized that integrity, diligence, restraint, and respect for the court are essential to public confidence in the legal profession and the administration of justice.
 
 **Student signature:** ____________________  
 **Date:** ____________________
