@@ -36,13 +36,13 @@ flowchart TD
 
 ```mermaid
 flowchart TD
- A[Identify enactment/amendment] --> B[Check commencement clause/notification]
- B --> C[Fix operative date]
- C --> D[Locate relevant conduct or transaction in time]
- D --> E{New rule changes substantive rights, liability or penalty?}
- E -->|Yes| F[Presumption against retrospectivity; inspect clear language/savings]
- E -->|No| G[Assess procedural/declaratory character and statutory intent]
- F --> H[Check GCA ss.5-6, s.24, express savings, Art.20(1)]
+ A["Identify enactment or amendment"] --> B["Check commencement clause or notification"]
+ B --> C["Fix operative date"]
+ C --> D["Locate relevant conduct or transaction in time"]
+ D --> E{"Does the new rule change substantive rights, liability or penalty?"}
+ E -->|Yes| F["Check presumption against retrospectivity and any clear language or savings"]
+ E -->|No| G["Assess procedural or declaratory character and statutory intent"]
+ F --> H["Check GCA sections 5 and 6, section 24, express savings and Article 20(1)"]
  G --> H
- H --> I[State effect on accrued rights and pending proceedings]
+ H --> I["State effect on accrued rights and pending proceedings"]
 ```
