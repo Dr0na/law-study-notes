@@ -47,3 +47,4 @@ Before the exam, review:
 
 ### Step 6: Test Yourself
 Solve the **[Self Assessment Test](./09-practice-worksheets/Self_Assessment_Test.md)** under simulated 3-hour exam conditions.
+**November 2026 practice:** [predicted questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)

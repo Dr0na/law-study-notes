@@ -18,3 +18,4 @@
 - [ ] Module 5: Constitutional interpretation and precedent
 - [ ] Module 6: Penal, taxing and remedial statutes; mens rea and vicarious liability
 - [ ] Module 7: Commencement, operation, expiry and repeal
+**November 2026 practice:** [predicted questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)

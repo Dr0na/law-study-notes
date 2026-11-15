@@ -19,3 +19,4 @@
 - [ ] Module 6: State aid, funds, accounts, audit and inspection
 
 Use the supplied Act and Rules PDF for the precise text. Some reference study guides contain outdated or oversimplified statements; the notes identify places where the Act's wording is more specific.
+**November 2026 practice:** [predicted questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)

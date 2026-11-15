@@ -13,6 +13,7 @@ This directory contains the complete study material pack for **Law of Evidence (
 - [**`03-visual-aids/`**](./03-visual-aids/): Mermaid flowcharts and comparison tables.
 - [**`04-case-laws/`**](./04-case-laws/): Landmark judgments digest with facts, issues, and rulings.
 - [**`05-question-bank/`**](./05-question-bank/): 20 model answers (5, 10, 15 marks, and Distinguish Between questions).
+- [November 2026 predicted questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)
 - [**`06-previous-papers/`**](./06-previous-papers/): Information regarding historical trends and BSS transition.
 - [**`07-quick-revision/`**](./07-quick-revision/): Mnemonics cheat sheet and list of key doctrines.
 - [**`08-exam-strategy/`**](./08-exam-strategy/): Formatting tips and structured answer-writing templates.

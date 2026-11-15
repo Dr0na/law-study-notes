@@ -12,6 +12,7 @@ This pack follows the SPPU CBCS 2023 syllabus for Second Year LL.B., Semester II
 - [Visual aids](./03-visual-aids/)
 - [Case digest](./04-case-laws/Landmark_Cases_Summary.md)
 - [Question bank](./05-question-bank/)
+- [November 2026 predicted questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)
 - [Exam strategy](./08-exam-strategy/Answer_Writing_Template.md)
 - [Self-assessment paper](./09-practice-worksheets/Self_Assessment_Test.md)
 

@@ -15,6 +15,7 @@ Welcome to the comprehensive, exam-oriented study ecosystem for **Law of Crimina
 - [**`03-visual-aids/`**](./03-visual-aids/): Comparison tables and Mermaid flowcharts for process visualization.
 - [**`04-case-laws/`**](./04-case-laws/): Landmark judgments and module-wise case digests.
 - [**`05-question-bank/`**](./05-question-bank/): Model answers for 5, 10, and 15-mark questions, plus Distinguish Between.
+- [November 2026 predicted questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)
 - [**`06-previous-papers/`**](./06-previous-papers/): Past exam trends and BNSS shift analysis.
 - [**`07-quick-revision/`**](./07-quick-revision/): Mnemonics cheat sheet and Doctrines & Maxims revision notes.
 - [**`08-exam-strategy/`**](./08-exam-strategy/): Standardized templates and strategies for writing high-scoring answers.

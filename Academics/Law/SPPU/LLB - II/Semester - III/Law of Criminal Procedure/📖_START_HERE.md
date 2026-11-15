@@ -50,3 +50,4 @@ Criminal Procedure governs how the state enforces substantive criminal law. In t
   - Scan the **Doctrines and Maxims** list under `07-quick-revision/`.
   - Memorize the consolidated mnemonics on the **All Mnemonics Cheat Sheet** under `07-quick-revision/`.
   - Take the **Self Assessment Test** under `09-practice-worksheets/` as a final mock.
+**November 2026 practice:** [predicted questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)

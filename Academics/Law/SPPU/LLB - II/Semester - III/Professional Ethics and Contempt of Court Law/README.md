@@ -9,8 +9,11 @@ This study pack follows the SPPU CBCS 2023 syllabus for LL.B. Semester III. It c
 - [Condensed revision](./02-condensed-notes/)
 - [Flowcharts and comparison tables](./03-visual-aids/)
 - [Prescribed case digest](./04-case-laws/Prescribed_Case_Law_Digest.md)
+- [November 2026 high-probability questions and model answers](./05-question-bank/November_2026_High_Probability_QA.md)
 
 The complete notes cover Modules 1–8. A combined revision sheet, question bank and answer-writing template are also included.
+
+The November 2026 predicted questions guide uses the current 2023-pattern paper structure and recent available papers. It is a revision aid, not a forecast of guaranteed questions.
 
 ## Accuracy and citation note
 
