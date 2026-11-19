@@ -10,6 +10,9 @@
 - [Module 07: Oral Evidence](./01-complete-notes/Module_07_Oral_Evidence.md)
 - [Module 08: Estoppel](./01-complete-notes/Module_08_Estoppel.md)
 
+## 📗 Plain-language notes
+- [Simplified Complete Notes — all 8 modules](./01-complete-notes-simplified/README.md)
+
 ## 📄 Layer 2: Condensed Notes
 - [Condensed Revision - Modules 1-4](./02-condensed-notes/Condensed_Revision_M1_M4.md)
 - [Condensed Revision - Modules 5-8](./02-condensed-notes/Condensed_Revision_M5_M8.md)

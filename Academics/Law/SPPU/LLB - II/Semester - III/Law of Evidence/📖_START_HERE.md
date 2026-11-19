@@ -1,6 +1,6 @@
 # 📖 Study Path Guide - Law of Evidence (LCC 0702)
 
-Welcome to the **Law of Evidence** study guide. This pack is designed to prepare you for SPPU examinations under the **Bharatiya Sakshya Sanhita, 2023** (BSS) framework, which replaces the Indian Evidence Act, 1872.
+Welcome to the **Law of Evidence** study guide. This pack is designed to prepare you for SPPU examinations under the **Bharatiya Sakshya Adhiniyam, 2023** (BSA) framework, which replaces the Indian Evidence Act, 1872 for proceedings governed by the BSA.
 
 ---
 
@@ -22,7 +22,9 @@ graph TD
 ## 🛠️ Step-by-Step Study Guide
 
 ### Step 1: In-depth Understanding
-Read through the **[Complete Notes](./01-complete-notes/)** module by module. BSS 2023 has restructured section numbers; ensure you memorize both BSS 2023 and the corresponding Indian Evidence Act, 1872 sections.
+Read through the **[Complete Notes](./01-complete-notes/)** module by module. BSA 2023 has restructured some section numbers. Use BSA sections for current proceedings; the older Evidence Act numbers are useful only for understanding earlier cases.
+
+For a simpler explanation with examples while retaining legal terms and definitions, use the **[Simplified Complete Notes](./01-complete-notes-simplified/)**.
 
 ### Step 2: Visual Concept Mapping
 Review the **[Mermaid Flowcharts](./03-visual-aids/Flowcharts/Flowcharts_Evidence.md)** and **[Comparison Tables](./03-visual-aids/Comparison_Tables/Comparison_Tables_Evidence.md)** to consolidate structural relationships and processes (like examination sequence or electronic evidence admissibility).
