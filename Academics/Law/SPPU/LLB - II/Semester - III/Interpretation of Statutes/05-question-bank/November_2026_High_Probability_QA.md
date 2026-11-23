@@ -1,5 +1,7 @@
 # November 2026 SPPU Predicted Q&A — Interpretation of Statutes (LCC 0703)
 
+For a shorter recap of the same questions, see the [quick revision Q&A](November_2026_High_Probability_Quick_Revision_QA.md).
+
 These are high-probability revision questions based on the SPPU syllabus, supplied notes and the April/October 2025 papers. They are predictions, not an official paper. Prepare every module. The model answers are written for the marks shown, not as short revision definitions.
 
 ## SPPU answer format and depth by marks
