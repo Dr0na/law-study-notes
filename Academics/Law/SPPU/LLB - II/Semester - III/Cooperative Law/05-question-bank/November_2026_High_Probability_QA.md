@@ -70,13 +70,13 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   #### 1. Statutory framework and admission
 
-  Joining a registered cooperative gives a member rights and duties. These come from the MCS Act, the Rules and the society’s registered bye-laws. The Act identifies eligible persons and entities. Whether someone qualifies can also depend on the type and purpose of the society. A society must admit a qualified applicant unless it has a good reason under the law to refuse. The applicant should make the prescribed application with supporting documents and any required share or entrance payment. The body authorised to decide the application checks whether the person qualifies and records its decision. If the society refuses admission or refuses to accept an application, identify the statutory remedy for refusal and the applicable procedural requirements. The Act recognises nominal and associate membership, subject to statutory limits. For a housing society, check the special membership rules that apply to that type of society.
+  Joining a registered cooperative gives a member rights and duties. These come from the MCS Act, the Rules and the society’s registered bye-laws. The Act identifies eligible persons and entities. Whether someone qualifies can also depend on the type and purpose of the society. A society must admit a qualified applicant unless it has a good reason under the law to refuse. The applicant should make the prescribed application with supporting documents and any required share or entrance payment. The body authorised to decide the application checks whether the person qualifies and records its decision. A person denied admission can appeal to the Registrar. If the society refuses to accept the application or admission payment, the applicant can submit them to the Registrar for forwarding to the society. Under the general open-membership procedure, the Registrar must forward them within 30 days. If the society fails to communicate a decision within 60 days of receipt, the applicant is treated as a member. The Act recognises nominal and associate membership, subject to statutory limits. Housing societies have their own statutory membership rules, including rules on joint, associate and provisional members.
 
   #### 2. Continuation, rights and liabilities
 
-  Ordinary members may participate in general meetings and exercise voting rights subject to the Act’s voting rules. The Act entitles members to inspect specified documents, including registered bye-laws and certain accounts and records, subject to the applicable process. Rights in the society’s property or services depend on the kind of society and the type of membership they hold. For an associate or nominal member, check which rights and duties the Act gives that type of member.
+  Ordinary members may participate in general meetings and exercise voting rights subject to the Act’s voting rules. The Act entitles members to inspect specified documents, including registered bye-laws and certain accounts and records, subject to the applicable process. Rights in the society’s property or services depend on the kind of society and the type of membership they hold. Under the general membership rules, nominal and associate members have limited membership rights. They cannot claim the full property and participation rights of ordinary members simply because they have been admitted in a different capacity.
 
-  Members must pay amounts they legally owe, follow the bye-laws and use the society’s services for their intended purpose. Liability for share capital or amounts owed must be distinguished from personal responsibility for independent misconduct. When someone leaves, check whether the Act keeps them responsible for debts or other obligations that arose while they were a member. *Daman Singh v State of Punjab*, (1985) 2 SCC 670, illustrates that cooperative membership is subject to the governing statutory framework.
+  Members must pay amounts they legally owe, follow the bye-laws and use the society’s services for their intended purpose. Liability for share capital or amounts owed must be distinguished from personal responsibility for independent misconduct. A former member’s existing liability for the society’s debts continues for two years after membership ends. The same rule applies to a deceased member’s estate from the date of death. If a winding-up order is made within those two years, that liability continues until liquidation is complete. In either case, it covers only the society’s debts as they stood on the date the person left or died. *Daman Singh v State of Punjab*, (1985) 2 SCC 670, illustrates that cooperative membership is subject to the governing statutory framework.
 
   #### 3. Cessation and expulsion
 
@@ -86,7 +86,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   #### 4. Application and conclusion
 
-  If an applicant satisfies the eligibility criteria but the committee rejects the application on a ground absent from the governing framework, ask whether the law allows that reason and how the applicant can challenge the refusal. If the applicant is already a member and the committee seeks to remove them for misconduct, identify the applicable expulsion procedure and check notice, hearing, resolution and approval. Membership disputes turn on both the statutory ground and compliance with the procedure attached to it.
+  A qualified applicant refused admission without sufficient cause can appeal to the Registrar. An existing member accused of misconduct must receive an opportunity to answer the allegations before the general body votes. A committee decision alone cannot expel the member under the general expulsion procedure. Membership disputes turn on both the statutory ground and compliance with the procedure attached to it.
 
 ---
 
@@ -100,19 +100,19 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   #### 2. Constitution and elections
 
-  Identify the society’s class and then apply the relevant statutory provisions on committee constitution, reserved seats, women’s representation, disqualification and election administration. The usual steps are to prepare a list of voters, give notice, invite nominations and check them. Hold a vote or declare the result as the election rules require. Check the procedure for filling vacancies and electing office-bearers under the applicable rules and bye-laws. For a housing society, read the general election rules together with the special rules that apply to its class.
+  The Act and the election rules for the society’s class govern committee constitution, reserved seats, women’s representation, disqualification and election administration. The usual steps are to prepare a list of voters, give notice, invite nominations and check them. The election authority conducts a poll where required and declares the result. The election rules and registered bye-laws govern how vacancies are filled and office-bearers are chosen. For a housing society, read the general election rules together with the special rules that apply to its class.
 
-  In *Union of India v Rajendra N. Shah*, (2021) 9 SCC 1, the Supreme Court held that Part IXB of the Constitution could not operate for cooperative societies within the States in the manner sought without the required state ratification. Its operation for multi-State cooperative societies was preserved. For a Maharashtra State society, identify the specific management rule in state legislation instead of relying on an unqualified assertion about Part IXB.
+  In *Union of India v Rajendra N. Shah*, (2021) 9 SCC 1, the Supreme Court held that Part IXB of the Constitution could not operate for cooperative societies within the States in the manner sought without the required state ratification. Its operation for multi-State cooperative societies was preserved. The MCS Act and its Rules govern management of Maharashtra State societies.
 
   #### 3. Powers, functions and controls
 
-  The committee manages funds and property, authorises transactions within delegated limits, implements resolutions, maintains accounts and registers, convenes meetings and prepares annual reports and budgets. It arranges the audit and follows up on defects. It may administer membership and engage staff within its statutory and bye-law powers. Before entering a major contract, it should check whether the transaction serves the objects, whether expenditure is authorised and whether approval of the general body or another authority is required. Minutes and supporting records document the decision and allow review of any conflicts of interest.
+  The committee manages funds and property, authorises transactions within delegated limits, implements resolutions, maintains accounts and registers, convenes meetings and prepares annual reports and budgets. It arranges the audit and follows up on defects. It may administer membership and engage staff within its statutory and bye-law powers. A major contract must serve the society’s registered purposes. The committee must have authority to spend the money and must obtain general body or other approval whenever the governing rules require it. Minutes and supporting records document the decision and allow review of any conflicts of interest.
 
   #### 4. Liability and remedies
 
   A loss requires investigation of the conduct and statutory basis for recovery. Under the statutory surcharge provisions, the competent authority can frame charges against a responsible person and order repayment, restoration or contribution after a reasonable opportunity of defence. Possible grounds include misusing or wrongfully keeping society money or property, acting improperly in office (misfeasance), and breaching a duty of trust. An audit observation can supply evidence for further action. It does not itself decide personal liability. Statutory offences, disqualification and disputes within the Co-operative Court’s jurisdiction raise distinct questions and use their own procedures.
 
-  For example, if an officer diverts society money to a related supplier without lawful authority, identify the payment, the loss, the officer’s participation and the statutory surcharge procedure. If a member challenges an election, examine the election-dispute route and limitation instead. The committee can exercise only the powers the law gives it. Personal liability depends on what the evidence shows the person did and what remedy the law allows.
+  An officer who diverts society money to a related supplier can be ordered to repay the amount through surcharge proceedings if the authority proves the misuse and gives the officer a chance to respond. A challenge to a declared committee election is a separate dispute subject to the election-dispute filing deadline. The committee can exercise only the powers the law gives it. Personal liability depends on what the evidence shows the person did and what remedy the law allows.
 
 ---
 
@@ -122,7 +122,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   #### 1. Purpose and framework
 
-  Cooperative funds support the registered objects and protect continuity of service. They may include share capital, deposits or borrowings where authorised, accumulated surpluses and earmarked reserves. The financial chapter of the MCS Act regulates how these sums are treated. In an exam problem identify the source and character of the money first. Rules for distributing an annual surplus differ from rules for investing idle funds or applying a statutory reserve.
+  Cooperative funds support the registered objects and protect continuity of service. They may include share capital, deposits or borrowings where authorised, accumulated surpluses and earmarked reserves. The financial chapter of the MCS Act regulates how these sums are treated. Share capital, borrowed money and audited profit are subject to different rules because they serve different purposes and may carry obligations to different people. Rules for distributing an annual surplus differ from rules for investing idle funds or applying a statutory reserve.
 
   #### 2. Net profits and appropriation
 
@@ -134,7 +134,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   #### 4. Dividend and investment
 
-  The Act restricts dividends. The general ceiling is 15 per cent unless the Registrar sanctions a higher dividend in advance. Primary agricultural credit cooperative societies are subject to the separate guideline proviso. The maximum permitted rate does not create an entitlement to that dividend. There must be an available surplus after the society sets aside the required amounts and obtains the necessary approval. The Act also specifies how society funds may be invested or deposited. For a proposed deposit or investment, identify the institution or instrument and test it against the statutory categories and applicable conditions. Consider the expected return, how safe the investment is and how quickly the society can withdraw the money. It also needs legal authority to invest and enough cash to pay its debts when they fall due.
+  The Act restricts dividends. The general ceiling is 15 per cent unless the Registrar sanctions a higher dividend in advance. Primary agricultural credit cooperative societies are subject to the separate guideline proviso. The maximum permitted rate does not create an entitlement to that dividend. There must be an available surplus after the society sets aside the required amounts and obtains the necessary approval. The Act also specifies how society funds may be invested or deposited. A society can deposit or invest its funds only through a method permitted by the Act, such as an eligible cooperative bank deposit or another authorised investment. Consider the expected return, how safe the investment is and how quickly the society can withdraw the money. It also needs legal authority to invest and enough cash to pay its debts when they fall due.
 
   #### 5. Application and conclusion
 
@@ -148,7 +148,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   #### 1. Statutory framework and grounds
 
-  Winding up is the process of ending a cooperative’s affairs by collecting its assets, determining claims, paying liabilities and dealing with the remaining property. The winding-up provisions of the MCS Act set out the grounds and procedure for the Registrar’s order. Relevant triggers can include an audit, inquiry or inspection, a qualifying application by the society or circumstances in which the Registrar can start the process without an application. Identify the particular trigger and explain the statutory interim and final stages and the opportunity to respond where the Act requires it. Check the statutory appeal provisions and their restrictions.
+  Winding up is the process of ending a cooperative’s affairs by collecting its assets, determining claims, paying liabilities and dealing with the remaining property. The winding-up provisions of the MCS Act set out the grounds and procedure for the Registrar’s order. Relevant triggers can include an audit, inquiry or inspection, a qualifying application by the society or circumstances in which the Registrar can start the process without an application. The Registrar can make an interim winding-up order. Before making it final, the Registrar must give the society an opportunity to explain why winding up should not proceed. The Act provides a right of appeal against specified final winding-up orders.
 
   #### 2. Appointment and custody
 
@@ -188,13 +188,13 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
   For example, a small grower gains access to buyers and facilities that would be expensive to obtain individually.
 
   #### 4. Consumer and housing societies.
-  Consumer societies procure and distribute goods to meet members’ needs. Housing societies organise housing and may manage common facilities, collect maintenance charges and administer membership or transfers within their applicable legal framework. A housing society’s special statutory provisions should be checked before applying a general rule.
+  Consumer societies procure and distribute goods to meet members’ needs. Housing societies organise housing and may manage common facilities, collect maintenance charges and administer membership or transfers within their applicable legal framework. The Act gives housing societies a separate set of rules for membership, management and related matters.
 
   #### 5. Federal and apex societies.
   Cooperatives may combine through federations for shared technical, financial or marketing services. A federation can help local societies access larger markets, standardise quality and obtain training while each member society continues to manage its own affairs. For example, a dairy federation can arrange transport and processing for several village societies.
 
   #### 6. Conclusion.
-  Link the classification to concrete functions. Credit deals with finance, marketing with the sale of output, consumer societies with procurement for users, and housing societies with housing and shared services. The society’s registered objects and applicable legislation determine what it may actually do.
+  Credit deals with finance, marketing with the sale of output, consumer societies with procurement for users, and housing societies with housing and shared services. The society’s registered objects and applicable legislation determine what it may actually do.
 
 ---
 
@@ -217,7 +217,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
   An inquiry under section 83 and an inspection under section 84 can start for different reasons and serve different purposes. A periodic audit can supply grounds for further examination. If the material reveals misapplication, retention, misfeasance or breach of trust, section 88 may permit proceedings against a responsible person. A finding of personal liability requires the applicable procedure and opportunity to defend.
 
   #### 5. Conclusion.
-  In a problem answer, trace the sequence from appointment and examination to audit findings, rectification and any further statutory action. For a defective voucher, identify the factual gap and how to remedy it. For a suspected diversion, identify what must be proved before seeking repayment from an individual.
+  The audit starts with appointment and examination of records. It leads to a report and a duty to correct defects. If a voucher lacks an invoice, the society should obtain proof of the payment and its purpose. If the evidence shows deliberate diversion, repayment from the responsible person requires a separate surcharge proceeding and a chance to respond.
 
 ---
 
@@ -226,7 +226,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 - **Model answer — 10 marks**
 
   #### 1. Model and registered text.
-  Model bye-laws are standard clauses designed for a class of societies, such as housing or credit societies. They help the people forming a society draft its rules. Once a society is registered, identify its own registered bye-laws and amendments before stating which internal rule applies. The Maharashtra Act and Rules govern if a clause conflicts with an applicable statutory provision.
+  Model bye-laws are standard clauses designed for a class of societies, such as housing or credit societies. They help the people forming a society draft its rules. Once registered, the society follows its own registered bye-laws, including amendments that have been validly registered. The Maharashtra Act and Rules govern if a clause conflicts with an applicable statutory provision.
 
   #### 2. Objects, membership and finances.
   The clauses typically identify the name, area of operation, objects, admission process, classes of members, fees, shares, rights and duties. They also address use of funds, budgeting, charges and accounts. For housing, typical topics include access to common services, maintenance contributions and dealings with a member’s interest. The precise provisions depend on the model for the class and the society’s registered text.
@@ -237,10 +237,10 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
   For example, a meeting rule can identify which body is empowered to approve a project and what notice members should receive before the decision. It may also explain who keeps the minutes and how members can examine them. The society should still verify that the underlying decision is lawful under the governing legislation.
 
   #### 4. Amendment.
-  Section 13 requires registration of a bye-law amendment for validity. Follow the applicable notice and resolution procedure, submit the proposed amendment with the prescribed material, and establish that it has been registered. Section 14 separately concerns the Registrar’s power to direct amendment in the circumstances set out in that section. Publishing a new model clause does not change the society’s registered bye-laws.
+  Section 13 requires registration of a bye-law amendment for validity. The society must give notice, pass the required resolution and file the proposal and supporting documents with the Registrar. The amendment takes effect only when registered. Section 14 separately concerns the Registrar’s power to direct amendment in the circumstances set out in that section. Publishing a new model clause does not change the society’s registered bye-laws.
 
   #### 5. Application and conclusion.
-  If a committee relies on a clause in a recently released model to impose a charge, find the legal basis for the charge in the Act, Rules and registered bye-laws. Check whether the society validly adopted and registered the clause where necessary. Model bye-laws guide drafting and administration. The applicable registered text supplies the society-specific rule.
+  A committee cannot levy a charge solely because it appears in a new model. It needs authority under the Act, Rules or its own registered bye-laws. If that authority depends on a new bye-law, the society must first adopt and register the amendment. Model bye-laws guide drafting and administration. The applicable registered text supplies the society-specific rule.
 
 ---
 
@@ -255,15 +255,15 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
   In *Deccan Merchants Co-operative Bank Ltd. v Dalichand Jugraj Jain*, AIR 1969 SC 1320, the Supreme Court examined the society’s authorised business and rejected an unlimited reading of the term. For instance, a dispute over repayment of an authorised member loan can directly concern the business of a credit society. An unrelated property dispute requires examination of the society’s objects, the actual transaction and the capacity of the parties.
 
   #### 3. Reference and hearing.
-  State what order you are asking for, explain why the Court can hear the case, and check the filing deadline under section 92. The limitation test varies with the dispute, and election disputes require particular care. Section 94 supplies procedural powers, including powers concerning witnesses and documents. Each party should have an opportunity to present evidence and answer the opposing case. Section 95 permits conditional attachment of property or another temporary order to protect the parties’ interests where its statutory conditions are met.
+  The application must state the order sought and the facts that give the Court jurisdiction. Under section 92, an election dispute must generally be filed within two months of the declaration of the result. The Court can accept a late filing if the applicant shows sufficient cause. Other disputes follow the time limits set out or incorporated in that section. Section 94 supplies procedural powers, including powers concerning witnesses and documents. Each party should have an opportunity to present evidence and answer the opposing case. Section 95 permits conditional attachment of property or another temporary order to protect the parties’ interests where its statutory conditions are met.
 
   Section 94 also requires the Court’s permission for representation by a legal practitioner.
 
   #### 4. Decision, appeal and enforcement.
-  Section 96 deals with the decision. Identify the relief actually granted and the persons bound by it. Section 97 provides a two-month appeal period from the date of the specified decision or order. Section 98 concerns enforcement of the relevant orders or decisions. Section 163 restricts civil-court jurisdiction over matters assigned to the statutory authorities, subject to the terms of the Act. A recovery certificate under section 101 is a separate statutory route applicable in defined cases.
+  Section 96 empowers the Court to decide the dispute after giving the parties an opportunity to be heard. Its decision states the relief granted and binds the parties as provided by the Act. Section 97 provides a two-month appeal period from the date of the specified decision or order. Section 98 concerns enforcement of the relevant orders or decisions. Section 163 restricts civil-court jurisdiction over matters assigned to the statutory authorities, subject to the terms of the Act. A recovery certificate under section 101 is a separate statutory route applicable in defined cases.
 
   #### 5. Conclusion.
-  First explain why the Court has power to hear the case. Then discuss who should win and why. Then distinguish limitation, procedure, decision, appeal and enforcement. If a member disputes a committee resolution, explain precisely how it touches a statutory subject and why the member and society constitute qualifying parties.
+  A member’s challenge to a committee resolution concerning the management of the society meets the two basic requirements when the dispute is between the member and the society and no statutory exclusion applies. The Court then hears the evidence and decides whether the resolution is valid. Appeals and enforcement follow their own statutory procedures.
 
 ---
 
@@ -272,7 +272,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 - **Model answer — 10 marks**
 
   #### 1. Authority and timing.
-  Section 72 places final authority in the general body subject to the Act and Rules. Section 75 governs the annual general meeting. The committee must arrange the meeting within the applicable statutory period and prepare the necessary annual materials. Section 76 provides a distinct route for calling a special general meeting. Where the legal requirements are met, members can request a special meeting to deal with an issue before the next AGM.
+  Section 72 places final authority in the general body subject to the Act and Rules. Section 75 governs the annual general meeting. The society must generally hold its annual general meeting within six months after the end of its financial year. The committee prepares the annual report, audited accounts and other papers for the meeting. Section 76 provides a distinct route for calling a special general meeting. Where the legal requirements are met, members can request a special meeting to deal with an issue before the next AGM.
 
   #### 2. Notice and preparation.
   The convening body should give the required notice to entitled members, identify the time and place or lawful mode of attendance, and circulate an agenda and relevant papers as prescribed. Notice allows members to study accounts, seek clarification and decide how to vote. For an item requiring special notice or approval, follow the additional procedure instead of placing it informally under general business.
@@ -281,10 +281,10 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
   The AGM considers material required under section 75, including the annual report, audited accounts and audit rectification material, and deals with matters such as how to use profits or approve the budget, where required. Members may ask why a defect identified by the auditor remains unresolved. The committee should be able to show what steps it took, what remains outstanding and how the society will monitor completion.
 
   #### 4. Conduct at the meeting.
-  Check who should chair the meeting and whether enough members are present to conduct business (the quorum), take items in proper order, allow members to participate as provided, and apply the relevant voting and majority rules. An adjournment must follow the applicable provisions. Minutes should record attendance, material business and the resolutions actually passed. A valid vote cannot authorise an act beyond the powers of the society.
+  The meeting must have the chair and quorum required by the governing rules. The chair takes items in agenda order, allows members to participate and applies the required voting and majority rules. An adjournment must follow the applicable provisions. Minutes should record attendance, material business and the resolutions actually passed. A valid vote cannot authorise an act beyond the powers of the society.
 
   #### 5. Application and conclusion.
-  If a substantial expenditure is approved at a poorly attended meeting, examine notice, agenda, quorum, voting and substantive authority separately. The significance of a defect depends on the governing rule and facts. The AGM links annual financial reporting and committee accountability with members’ power to decide matters reserved for them.
+  A poorly attended meeting can approve expenditure if enough members attend to form a quorum, proper notice and agenda requirements are met, the vote reaches the required majority, and the general body has authority to approve the spending. Without a quorum, the meeting cannot pass the resolution. The AGM links annual financial reporting and committee accountability with members’ power to decide matters reserved for them.
 
 ---
 
@@ -294,9 +294,9 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
 - **Model answer — 5 marks**
 
-  Section 21 of the MCS Act addresses cancellation of registration after specified events, such as a merger covered by the Act or the end of winding-up proceedings. The Registrar’s cancellation brings the society’s corporate existence to an end as provided by the section. Section 21A separately deals with deregistration on statutory grounds, including registration based on misrepresentation by applicants and specified failures to start work or carry out the society’s stated purposes. Apply the hearing requirement and examine the statutory arrangements for property and liabilities.
+  Section 21 of the MCS Act addresses cancellation of registration after specified events, such as a merger covered by the Act or the end of winding-up proceedings. The Registrar’s cancellation brings the society’s corporate existence to an end as provided by the section. Section 21A separately deals with deregistration on statutory grounds, including registration based on misrepresentation by applicants and specified failures to start work or carry out the society’s stated purposes. Before deregistration, the Registrar must give the persons specified in the Act an opportunity to be heard. The Act provides for an Official Assignee to handle the deregistered society’s property and liabilities.
 
-  For example, where liquidation has been completed, identify the winding-up process and the consequent section 21 order. If the complaint concerns false information used to obtain registration, examine section 21A rather than assuming that financial liquidation is the governing route. The basis and procedure of the Registrar’s action determine which section applies.
+  After liquidation ends, the Registrar cancels registration under section 21. If the applicants obtained registration by misrepresentation, the Registrar can use the separate deregistration procedure under section 21A. It addresses defects in registration and other grounds specified in that provision.
 
 ---
 
@@ -304,7 +304,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
 - **Model answer — 5 marks**
 
-  Model bye-laws are standard clauses prepared for societies of a particular class. They cover matters such as objects, admission, voting, committee responsibilities, charges, records and meetings. For a specific society, examine the bye-laws actually registered and any validly registered amendments. A model clause is useful for drafting and comparison. Its publication alone does not change the society’s registered rules.
+  Model bye-laws are standard clauses prepared for societies of a particular class. They cover matters such as objects, admission, voting, committee responsibilities, charges, records and meetings. The society’s registered bye-laws and registered amendments govern its internal affairs. A model clause is useful for drafting and comparison. Its publication alone does not change the society’s registered rules.
 
   Section 13 of the MCS Act requires registration of an amendment for validity. The society should follow applicable notice and resolution requirements before submitting the amendment for registration. The Act and Rules prevail over any inconsistent clause. For example, a housing committee relying on a new model provision to levy a charge must identify an applicable statutory or registered basis for it. The model helps the society draft its rules. The society follows its own registered bye-laws as long as they comply with the Act and Rules.
 
@@ -326,7 +326,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   Section 66 of the MCS Act requires a society that derives or can derive profit from its transactions to maintain a reserve fund. The general annual transfer is at least one-fourth of net profits. The Registrar may authorise a lower rate based on financial position, subject to a minimum of one-tenth. The fund provides a financial buffer and supports the society’s continuing ability to serve members. Its use and investment must follow the applicable statutory rules and permissions.
 
-  For example, where an audited surplus is available, the general body must determine the required reserve allocation before approving a dividend. Some of the cash in the bank may already be set aside to pay debts. Check the accounts before treating the balance as profit available for distribution. Deal with the reserve under section 66, the dividend restriction under section 67, and any relevant investment question under section 70.
+  For example, where an audited surplus is available, the general body must determine the required reserve allocation before approving a dividend. Some of the cash in the bank may already be set aside to pay debts. Only the profit available after required allocations can be considered for distribution. Deal with the reserve under section 66, the dividend restriction under section 67, and any relevant investment question under section 70.
 
 ---
 
@@ -336,7 +336,7 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
   Section 101 of the MCS Act provides a certificate procedure for recovery of specified arrears owed to eligible societies or bodies. The applicant must establish that the debt, debtor and recovering body fall within the section. The Registrar considers the accounts and supporting documents and follows the applicable inquiry procedure before certifying the amount. A valid certificate enables recovery as arrears of land revenue, through the officials legally authorised to recover the money.
 
-  For example, an eligible credit society seeking recovery of an overdue member loan should produce the loan documents, show how much is overdue and explain why section 101 applies. A disputed claim must be dealt with through the procedure required by the Act. If the debtor challenges the certificate, identify the applicable statutory remedy and conditions. The certificate process differs from obtaining a Co-operative Court decision on a section 91 dispute.
+  For example, an eligible credit society seeking recovery of an overdue member loan should produce the loan documents, show how much is overdue and explain why section 101 applies. A disputed claim must be dealt with through the procedure required by the Act. A debtor can challenge the certificate by revision under section 154. The Act requires a deposit with the society of 50 per cent of the recoverable amount before the revision application can be entertained. The certificate process differs from obtaining a Co-operative Court decision on a section 91 dispute.
 
 ---
 
@@ -344,9 +344,9 @@ Statutory references use the Maharashtra Co-operative Societies Act, 1960 and th
 
 - **Model answer — 5 marks**
 
-  Section 149 of the MCS Act provides for the Maharashtra State Co-operative Appellate Court. It consists of a President and other qualified members as provided by section 149. Members may sit singly or in benches as determined by the President. Section 97 provides for appeals from specified decisions under section 96 and orders under section 95. Start by identifying the decision being challenged, whether the Act allows an appeal, the deadline and the required filing steps. The Appellate Court reviews the record and considers the reasons the parties give for changing or upholding the decision.
+  Section 149 of the MCS Act provides for the Maharashtra State Co-operative Appellate Court. It consists of a President and other qualified members as provided by section 149. Members may sit singly or in benches as determined by the President. Section 97 provides for appeals from specified decisions under section 96 and orders under section 95. An appeal under section 97 must be filed within two months from the date of the decision or order. The Appellate Court reviews the record and considers the reasons the parties give for changing or upholding the decision.
 
-  For example, a member seeking to challenge a final Co-operative Court decision should examine the section 97 appeal route and request any necessary interim relief through the authorised procedure. An order made by a different statutory authority may have a different remedy. The source of the order and the provision governing the challenge determine the correct forum.
+  For example, a member aggrieved by a final Co-operative Court decision under section 96 can appeal to the Appellate Court under section 97. The Appellate Court can also make a temporary order under section 149 to protect the position of the parties while the appeal is pending.
 
 ## References
 
